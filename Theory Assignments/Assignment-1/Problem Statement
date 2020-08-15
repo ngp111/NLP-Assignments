@@ -1,0 +1,33 @@
+Assignment 1: NLTK assignment
+
+Download any text corpus and do the following
+
+1) Study to identify Categories
+
+2) Perform tokenization on word level
+
+3) Perform Stopword Removal
+
+Submit the preprocessed data for sample of 50 files.
+
+Remember every token should be on separate line. No blank line between two tokens.
+
+The submission file should have name as : MIS-N0-Assignment-1.txt 
+
+The file should be of the form:
+
+Categories : <numeric value>
+
+Names of Categories : {category-1, category-2, ...., category-m}
+
+<one blank line>
+
+token-1
+
+token-2
+
+...
+
+...
+
+token-n 

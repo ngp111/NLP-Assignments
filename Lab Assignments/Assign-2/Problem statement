@@ -1,0 +1,19 @@
+ Implement the dynamic programming algorithm for finding minimum edit distance for converting  source string to target string. Consider the cost of insertion and deletion edit operations as 1 and the cost of substitution edit operation as 2.
+
+Submit the following:
+
+1) Writeup for the program:
+
+Aim:
+
+Input :
+
+Output Expected:
+
+Algorithm:
+
+Results:
+
+Conclusion:
+
+2) Code file (preferably in python) 

@@ -1,0 +1,1000 @@
+<s>अचानक_JJ लोग_N_NN जग_V_VM गये_V_VAUX</s>
+<s>आकाश_N_NN में_PSP भीषण_JJ विस्फोट_N_NN जैसी_N_NN ध्वनि_N_NN के_PSP साथ_PSP हजार_N_NN सूर्यों_N_NN का_PSP उजाला_N_NN फैलता_V_VM देख_V_VM कर_V_VAUX सब_QT_QTF चौंक_N_NN गए_V_VM</s>
+<s>घबड़ा_V_VM कर_V_VAUX वे_DM_DMD अपने_PR_PRF घरों_N_NN से_PSP बाहर_N_NST भागे_V_VM तो_RP_RPD देखा_V_VM एक_QT_QTC विचित्र_JJ चमकीला_JJ पदार्थ_N_NN आसमान_N_NN से_PSP घड़घड़ाते_V_VM हुए_V_VAUX धरती_N_NN की_PSP ओर_N_NN चला_N_NN आ_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>उन्हें_PR_PRP लगा_V_VM कि_CC_CCS कोई_DM_DMI दानव_N_NN या_CC_CCD दैत्य_N_NN आसमान_N_NN से_PSP धरती_N_NN पर_PSP उतर_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>मारे_N_NN डर_N_NN के_PSP वे_DM_DMD सब_QT_QTF त्राहि_N_NN माम_N_NN त्राहि_N_NN माम_N_NN चिल्लाते_V_VM हुए_V_VAUX शिव_N_NNP के_PSP पास_N_NST दौड़े_V_VM गए_V_VAUX</s>
+<s>शिव_N_NNP स्वयं_PR_PRF यह_DM_DMD नजारा_N_NN देख_V_VM कर_V_VAUX पहले_N_NST से_PSP ही_RP_RPD अपने_PR_PRF धाम_N_NN (शिव_N_NN के_PSP आवास_N_NN का_PSP नाम)_N_NN के_PSP द्वार_N_NN पर_PSP आ_V_VM खड़े_V_VAUX हुए_V_VAUX थे_V_VAUX</s>
+<s>आग_N_NN के_PSP गोले_N_NN को_PSP आसमान_N_NN से_PSP लुढ़कते_V_VM हुए_V_VAUX और_CC_CCD फिर_RB उसे_PR_PRP धड़ाम_N_NN से_PSP गंगा_N_NNP की_PSP रेती_N_NN में_PSP गिरते_V_VM हुए_V_VAUX देख_V_VM कर_V_VAUX शिव_N_NNP समझ_V_VM गए_V_VAUX कि_CC_CCS कोई_DM_DMI बड़ा_JJ उल्कापिंड_N_NN आकाश_N_NN से_PSP टूट_V_VM कर_V_VAUX गिरा_V_VAUX है_V_VAUX</s>
+<s>शिव_N_NNP ने_PSP बड़ी_JJ राहत_N_NN महसूस_N_NN की_PSP कि_CC_CCS वह_PR_PRP उल्कापिंड_N_NNP काशी_N_NNP की_PSP मुख्य_JJ बस्ती_N_NN से_PSP थोड़ी_QT_QTF दूर_N_NST गंगा_N_NNP की_PSP रेती_N_NN में_PSP गिरा_V_VM है_V_VAUX अन्यथा_CC_CCD अनर्थ_N_NN हो_V_VM जाता_V_VAUX</s>
+<s>उसकी_PR_PRP चपेट_N_NN में_PSP आकर_V_VM न_RP_NEG जाने_V_VM कितनी_QT_QTF जन_N_NN धन_N_NN की_PSP क्षति_N_NN हो_V_VM जाती_V_VAUX</s>
+<s>शिव_N_NNP ने_PSP लोगों_N_NN को_PSP आश्वस्त_N_NN किया_V_VM कि_CC_CCS डरने_V_VM की_PSP कोई_DM_DMI बात_N_NN नहीं_RP_NEG है_V_VM</s>
+<s>खतरा_N_NN टल_V_VM गया_V_VAUX है_V_VAUX</s>
+<s>सब_QT_QTF अपने_PR_PRF घर_N_NN जा_V_VM कर_V_VAUX शान्ति_N_NN से_PSP सो_V_VM जाएँ_V_VAUX</s>
+<s>सुबह_N_NN देखा_V_VM जायेगा_V_VAUX कि_CC_CCS मामला_N_NN क्या_PR_PRQ है_V_VM</s>
+<s>अगली_N_NN सुबह_N_NN लोग_N_NN जब_P शिव_N_NNP की_PSP अगुआई_N_NNP में_PSP गंगा_N_NNP तट_N_NN पर_PSP पहुंचे_V_VM तो_RP_RPD यह_DM_DMD देख_V_VM कर_V_VAUX आश्चर्य_JJ में_PSP पड़_V_VM गए_V_VAUX कि_CC_CCS अरे_RP_INJ यह_DM_DMD तो_RP_RPD काले_JJ रंग_N_NN का_PSP पत्थर_N_NN है_V_VAUX जो_P गिरने_V_VM की_PSP वजह_N_NN से_PSP बने_V_VM एक_QT_QTC गहरे_JJ गड्ढे_N_NN में_PSP जा_V_VM अटका_V_VAUX है_V_VAUX</s>
+<s>यह_DM_DMD अनुमान_N_NN लगाते_V_VM हुए_V_VAUX कि_CC_CCS उल्कापिंड_N_NN अभी_N_NST भी_RP_RPD बहुत_RP_INTF गरम_JJ होगा_V_VM शिव_N_NNP ने_PSP लोगों_N_NN से_PSP आग्रह_N_NN किया_V_VM कि_CC_CCS गंगा_N_NNP से_PSP पानी_N_NN ले_V_VM आकर_V_VM वे_PR_PRP उस_PR_PRP पर_PSP डालें_V_VM ताकि_CC_CCS वह_PR_PRP ठंढा_JJ हो_V_VM सके_V_VAUX</s>
+<s>उल्कापिंड_N_NN की_PSP ऊष्मा_N_NN से_PSP उस_PR_PRP पर_PSP पानी_N_NN की_PSP धार_N_NN पड़ते_V_VM ही_RP_RPD वह_PR_PRP वाष्प_N_NN बन_V_VM कर_V_VAUX उड़_V_VM जाता_V_VAUX</s>
+<s>जब_P यह_DM_DMD प्रक्रिया_N_NN काफी_QT_QTF देर_N_NN तक_PSP चली_V_VM तो_RP_RPD अंततः_CC_CCS उल्कापिंड_N_NN ठंढा_N_NN पड़_V_VM गया_V_VAUX</s>
+<s>फिर_CC_CCS शिव_N_NN स्वयं_PR_PRF उस_PR_PRP उल्कापिंड_N_NN का_PSP निरीक्षण_N_NN करने_V_VM गड्ढे_N_NN में_PSP उतरे_V_VM</s>
+<s>शिव_N_NNP ने_PSP देखा_V_VM कि_CC_CCS वह_PR_PRP उल्कापिंड_N_NN वेग_N_NN से_PSP गिरने_V_VM की_PSP वजह_N_NN से_PSP जगह_N_NN जगह_N_NN से_PSP दरक_V_VM गया_V_VAUX है_V_VAUX</s>
+<s>उसमे_PR_PRP से_PSP एक_QT_QTC टुकड़ा_N_NN उठा_V_VM कर_V_VAUX उन्होंने_PR_PRP देखा_V_VM और_CC_CCD ख़ुशी_N_NN से_PSP चिल्ला_N_NNP उठे_V_VM</s>
+<s>अरे_RP_INJ यह_DM_DMD दिव्य_N_NN है_V_VM</s>
+<s>आकाश_N_NN का_PSP यह_DM_DMD धरती_N_NN के_PSP लिए_PSP उपहार_N_NN है_V_VM</s>
+<s>वहीं_DM_DMD उसी_DM_DMD समय_N_NN शिव_N_NNP ने_PSP गिना_N_NN तो_RP_RPD पाया_V_VM कि_CC_CCS उस_PR_PRP उल्कापिंड_N_NN के_PSP कुल_N_NN बारह_QT_QTC टुकड़े_N_NN हो_V_VM गये_V_VAUX थे_V_VAUX</s>
+<s>उन_PR_PRP बारहों_N_NN टुकड़ों_N_NN में_PSP से_PSP एक_QT_QTC को_PSP शिव_N_NNP ने_PSP अपने_PR_PRF धाम_N_NN के_PSP सामने_N_NST रखवा_V_VM दिया_V_VAUX</s>
+<s>बाकी_N_NN के_PSP ग्यारह_QT_QTC टुकड़े_N_NN शिव_N_NNP के_PSP आदेश_N_NN से_PSP विद्यापीठ_N_NNP के_PSP अनुशीलन_N_NN केंद्र_N_NN के_PSP प्रांगण_N_NN में_PSP सुरक्षित_JJ रख_V_VM दिया_V_VAUX गया_V_VAUX</s>
+<s>बाद_N_NST में_PSP शिव_N_NNP के_PSP धाम_N_NN के_PSP सामने_N_NST वाला_PSP उल्काखंड_N_NN एक_QT_QTC विशेष_JJ आकर_N_NN के_PSP बनाए_V_VM गये_V_VAUX आधार_N_NN पर_PSP समारोहपूर्वक_N_NN स्थापित_N_NN कर_V_VM दिया_V_VAUX गया_V_VAUX</s>
+<s>लोगों_N_NN के_PSP मन_N_NN में_PSP इस_DM_DMD प्रस्तर_N_NN खंड_N_NN के_PSP प्रति_N_NN अपार_JJ श्रद्धा_N_NN उत्पन्न_N_NN होने_V_VM लगी_V_VAUX</s>
+<s>वे_DM_DMD इसे_DM_DMD आकाश_N_NN की_PSP ओर_N_NN से_PSP धरती_N_NN को_PSP मिला_V_VM दिव्य_N_NN उपहार_N_NN समझ_V_VM कर_V_VAUX बड़ा_JJ आदर_N_NN करते_V_VM थे_V_VAUX</s>
+<s>वे_DM_DMD बहुत_QT_QTF प्रभावित_N_NN थे_V_VAUX कि_CC_CCS स्वयं_PR_PRF शिव_N_NN इस_DM_DMD प्रस्तर_N_NN खंड_N_NN को_PSP दिव्य_N_NN मान_V_VM कर_V_VAUX सम्मान_N_NN देते_V_VM थे_V_VAUX</s>
+<s>जलधार_N_NN से_PSP इसे_DM_DMD शीतल_N_NN करने_V_VM के_PSP लिए_PSP शिव_N_NNP ने_PSP पहले_QT_QTO दिन_N_NN जो_P क्रिया_N_NN करवाई_V_VM थी_V_VAUX उसकी_P स्मृति_N_NN को_PSP सहेज_N_NN कर_V_VM रखने_V_VAUX के_PSP लिए_PSP लोग_N_NN इस_DM_DMD प्रस्तर_N_NN खण्ड_N_NN पर_PSP श्रद्धा_N_NN से_PSP जल_N_NN चढ़ाने_V_VM लगे_V_VAUX</s>
+<s>कोई_DM_DMI कोई_DM_DMI तो_RP_RPD इस_DM_DMD पर_PSP दूध_N_NN की_PSP धार_N_NN भी_RP_RPD गिराता_V_VM था_V_VAUX और_CC_CCD कोई_DM_DMI अति_JJ उत्साही_JJ इसे_DM_DMD मधु_N_NN का_PSP भोग_N_NN भी_RP_RPD लगाने_V_VM लगा_V_VAUX</s>
+<s>जो_P कोई_DM_DMI भी_RP_RPD शिव_N_NNP के_PSP धाम_N_NN के_PSP सामने_N_NST से_PSP गुजरता_V_VM श्रद्धा_N_NN से_PSP उस_PR_PRP प्रस्तर_N_NN खण्ड_N_NN के_PSP समक्ष_N_NN झुक_V_VM जाता_V_VAUX</s>
+<s>शीघ्र_JJ ही_RP_RPD लोगों_N_NN ने_PSP इस_DM_DMD पर_PSP छाया_N_NN करने_V_VM के_PSP लिए_PSP इसके_DM_DMR चारों_QT_QTC ओर_N_NN खम्भे_N_NN खड़े_V_VM करके_V_VAUX छत_N_NN डाल_V_VM दिया_V_VAUX और_CC_CCD उसका_PR_PRP नाम_N_NN मंदिर_N_NN रखा_V_VM</s>
+<s>लोग_N_NN उस_PR_PRP प्रस्तर_N_NN खण्ड_N_NN के_PSP बारे_N_NN में_PSP तरह_N_NN तरह_N_NN की_PSP बातें_N_NN करते_V_VM तर्क_N_NN वितर्क_N_NN करते_V_VM विमर्श_N_NN करते_V_VM</s>
+<s>कई_QT_QTF ऐसे_DM_DMD थे_V_VAUX जो_P इन_DM_DMD विमर्शों_N_NN से_PSP विरत_N_NN रहते_V_VM</s>
+<s>वे_PR_PRP उस_PR_PRP प्रस्तर_N_NN खण्ड_N_NN के_PSP प्रति_N_NN गहरी_JJ श्रद्धा_N_NN और_CC_CCD भक्ति_N_NN रख_V_VM कर_V_VAUX ही_RP_RPD खुश_N_NN होते_V_VM</s>
+<s>यही_DM_DMD वे_PR_PRP लोग_N_NN थे_V_VAUX जो_P जल_N_NN दूध_N_NN या_CC_CCD मधु_N_NN से_PSP अक्सर_N_NN इसका_DM_DMD अभिषेक_N_NN करते_V_VM और_CC_CCD मानते_V_VM थे_V_VAUX कि_CC_CCS इसको_P शीतल_N_NN करते_V_VM रहने_V_VAUX से_PSP उनके_PR_PRP अपने_PR_PRF जीवन_N_NN में_PSP सुख_N_NN शान्ति_N_NN आएगी_V_VM</s>
+<s>कुछ_QT_QTF दूसरी_QT_QTO तरह_N_NN के_PSP लोग_N_NN इसकी_DM_DMD पूजा_N_NN अर्चना_N_NN यह_DM_DMD मान_N_NN कर_V_VM करने_V_VAUX लगे_V_VAUX कि_CC_CCS इससे_DM_DMD वीर्यवृद्धि_N_NN और_CC_CCD प्रजनन_N_NN क्षमता_N_NN बढ़ेगी_V_VM</s>
+<s>इनमें_P से_PSP कुछ_QT_QTF लोग_N_NN थे_V_VAUX जो_P मजाक_N_NN में_PSP कहते_V_VM थे_V_VAUX कि_CC_CCS यह_DM_DMD आकाश_N_NN का_PSP उत्तेजित_JJ लिंग_N_NN है_V_VM जो_P धरती_N_NN की_PSP उर्वर_N_NN योनि_N_NN में_PSP आ_V_VM घुसा_V_VAUX</s>
+<s>कुछ_QT_QTF ऐसे_DM_DMD भी_RP_RPD लोग_N_NN थे_V_VAUX जो_P इसका_DM_DMD नाता_N_NN शिव_N_NNP पार्वती_N_NNP से_PSP जोड़ने_V_VM लगे_V_VAUX</s>
+<s>वे_DM_DMD अपनी_PR_PRF कल्पना_N_NN शक्ति_N_NN को_PSP खूब_JJ हवा_N_NN देकर_V_VM मजाक_N_NN मजाक_N_NN में_PSP पत्थर_N_NN के_PSP उस_PR_PRP टुकड़े_N_NN को_PSP शिव_N_NNP के_PSP उत्तेजित_JJ लिंग_N_NN का_PSP प्रतीक_N_NN मान_V_VM कर_V_VAUX उसे_PR_PRP शिवलिंग_N_NNP कहने_V_VM लगे_V_VAUX</s>
+<s>यही_DM_DMD वे_PR_PRP लोग_N_NN थे_V_VAUX जो_P इस_DM_DMD मामले_N_NN में_PSP रस_N_NN ले_V_VM ले_V_VAUX कर_V_VAUX चर्चा_N_NN करते_V_VM थे_V_VAUX और_CC_CCD अपार_JJ लैंगिक_N_NN सुख_N_NN पाते_V_VM थे_V_VAUX</s>
+<s>कई_QT_QTF तो_RP_RPD आधार_N_NN के_PSP ढांचे_N_NN की_PSP विशिष्ट_JJ बनावट_N_NN देखकर_V_VM उसे_PR_PRP योनि_N_NN की_PSP संज्ञा_N_NN देने_V_VM लगे_V_VAUX और_CC_CCD यह_DM_DMD मानने_V_VM लगे_V_VAUX कि_CC_CCS वह_PR_PRP शिव_N_NNP की_PSP संगिनी_N_NN पार्वती_N_NN की_PSP योनि_N_NN है_V_VM</s>
+<s>इन_P कामुकतापूर्ण_JJ बातों_N_NN के_PSP परिमार्जन_N_NN के_PSP लिए_PSP कुछ_QT_QTF समझदार_JJ लोग_N_NN आगे_N_NST आये_V_VM जिन्होंने_P उन_PR_PRP लोगों_N_NN को_PSP समझाया_V_VM कि_CC_CCS आकाश_N_NN से_PSP गिरा_V_VM प्रस्तर_N_NN खण्ड_N_NN पुरुष_N_NN के_PSP पौरुष_N_NN का_PSP प्रतीक_N_NN है_V_VM जबकि_CC_CCS धरती_N_NN पर_PSP उसे_PR_PRP आधार_N_NN देने_V_VM वाला_PSP ढांचा_N_NN स्त्री_N_NN की_PSP शक्ति_N_NN और_CC_CCD उर्वरता_N_NN का_PSP प्रतीक_N_NN है_V_VM</s>
+<s>ये_DM_DMD सब_QT_QTF बातें_N_NN जब_P शिव_N_NNP की_PSP जानकारी_N_NN में_PSP आतीं_V_VM तो_RP_RPD वे_PR_PRP कुछ_QT_QTF न_RP_NEG कहते_V_VM बस_N_NN मंद_N_NN मंद_N_NN मन_N_NN ही_RP_RPD मन_N_NN मुस्काते_V_VM</s>
+<s>वे_DM_DMD सबके_QT_QTF तर्कों_N_NN सबके_QT_QTF विमर्शों_N_NN सबकी_QT_QTF व्याख्याओं_N_NN का_PSP मौन_N_NN समर्थन_N_NN करते_V_VM</s>
+<s>वे_PR_PRP यह_DM_DMD मानते_V_VM थे_V_VAUX कि_CC_CCS किसी_DM_DMI वस्तु_N_NN को_PSP देखने_V_VM समझने_N_NN की_PSP हर_QT_QTF व्यक्ति_N_NN की_PSP अपनी_PR_PRF दृष्टि_N_NN होती_V_VM है_V_VAUX और_CC_CCD अपनी_PR_PRF दृष्टि_N_NN को_PSP बनाये_V_VM रखने_V_VAUX का_PSP हर_QT_QTF व्यक्ति_N_NN को_PSP अधिकार_N_NN है_V_VM</s>
+<s>शिव_N_NNP खूब_QT_QTF हँसते_V_VM थे_V_VAUX जब_P कोई_DM_DMI उनका_N_NN नजदीकी_N_NN उनकी_PR_PRP निगाह_N_NN में_PSP यह_DM_DMD बात_N_NN लाता_V_VM था_V_VAUX कि_CC_CCS किस_PR_PRQ प्रकार_N_NN कुछ_QT_QTF लोग_N_NN पूरे_QT_QTF मामले_N_NN को_PSP अश्लील_JJ रंग_N_NN दे_V_VM रहे_V_VAUX थे_V_VAUX और_CC_CCD दूसरे_QT_QTO कुछ_QT_QTF लोग_N_NN इस_DM_DMD अश्लीलता_N_NN को_PSP शिव_N_NNP पार्वती_N_NNP से_PSP जोड़_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>उनके_PR_PRP नजदीकी_N_NN मित्रों_N_NN में_PSP से_PSP जब_P एक_QT_QTC ने_PSP यह_DM_DMD सुझाव_N_NN दिया_V_VM कि_CC_CCS उनके_PR_PRP बारे_N_NN में_PSP इस_DM_DMD तरह_N_NN की_PSP अश्लील_N_NN को_PSP बातों_N_NN को_PSP बंद_N_NN कराया_V_VM जाना_V_VAUX चाहिए_V_VAUX तो_RP_RPD शिव_N_NNP ने_PSP इस_DM_DMD प्रस्ताव_N_NN को_PSP सिरे_N_NN से_PSP ख़ारिज_N_NN करते_V_VM हुए_V_VAUX कहा_V_VM कि_CC_CCS सबको_QT_QTF निर्भय_N_NN और_CC_CCD निष्कलुष_N_NN हो_V_VM कर_V_VAUX अपनी_PR_PRF बात_N_NN कहने_V_VM का_PSP अधिकार_N_NN है_V_VM</s>
+<s>शिव_N_NNP ने_PSP समझाया_V_VM कि_CC_CCS इस_DM_DMD तरह_N_NN की_PSP बातों_N_NN पर_PSP रोक_N_NN लगाने_V_VM से_PSP विकृतियाँ_N_NN उत्पन्न_N_NN होंगी_V_VM और_CC_CCD यही_DM_DMD विकृतियाँ_N_NN बढ़_V_VM कर_V_VAUX आगे_N_NST अपराध_N_NN का_PSP रूप_N_NN ले_V_VM लेती_V_VAUX हैं_V_VAUX</s>
+<s>शिव_N_NNP के_PSP एक_QT_QTC मित्र_N_NN ने_PSP उनका_PR_PRP ध्यान_N_NN इस_DM_DMD बात_N_NN की_PSP ओर_N_NN आकर्षित_N_NN किया_V_VM गया_V_VAUX कि_CC_CCS इस_DM_DMD तरह_N_NN की_PSP मुक्त_N_NN अभिव्यक्ति_N_NN सामाजिक_JJ संघर्ष_N_NN को_PSP जन्म_N_NN देगी_N_NN परस्पर_JJ विरोधी_N_NN विचारों_N_NN वाले_PSP आपस_N_NN में_PSP लड़_V_VM पड़ेंगे_N_NN यदि_CC_CCS हस्तक्षेप_N_NN न_RP_NEG किया_V_VM गया_V_VAUX</s>
+<s>मित्र_N_NN की_PSP आशंका_N_NN को_PSP दरकिनार_N_NN करते_V_VM हुए_V_VAUX शिव_N_NNP ने_PSP समझाया_V_VM कि_CC_CCS लोग_N_NN बड़े_JJ समझदार_JJ हैं_V_VM और_CC_CCD समझदारी_N_NN पर_PSP किसी_DM_DMI एक_QT_QTC का_PSP सर्वाधिकार_N_NN नहीं_RP_NEG है_V_VM</s>
+<s>सब_QT_QTF अपने_PR_PRF आप_PR_PRP में_PSP चालाक_N_NN हैं_V_VM</s>
+<s>कुछ_QT_QTF लोगों_N_NN का_PSP आक्षेप_N_NN था_V_VAUX कि_CC_CCS इस_DM_DMD तरह_N_NN की_PSP अश्लील_N_NN चर्चाएँ_N_NN भविष्य_N_NN में_PSP समाज_N_NN के_PSP स्वस्थ_JJ विकास_N_NN के_PSP लिए_PSP घातक_JJ होंगी_V_VM</s>
+<s>इस_DM_DMD पर_PSP शिव_N_NNP का_PSP कहना_V_VM था_V_VAUX कि_CC_CCS आने_V_VM वाला_PSP समाज_N_NN ज्यादा_QT_QTF समझदार_JJ होगा_V_VM और_CC_CCD अपनी_PR_PRF चिंता_N_NN करने_V_VM में_PSP स्वयं_PR_PRF सक्षम_N_NN होगा_V_VM</s>
+<s>एक_QT_QTC दिन_N_NN कुछ_QT_QTF मित्रों_N_NN ने_PSP शिव_N_NNP को_PSP सूचित_N_NN किया_V_VM कि_CC_CCS कुछ_QT_QTF लोग_N_NN शिवलिंग_N_NNP की_PSP पूजा_N_NN इस_DM_DMD विश्वास_N_NN के_PSP साथ_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX कि_CC_CCS वह_PR_PRP उनके_PR_PRP कष्ट_N_NN दूर_N_NN करेगा_V_VM</s>
+<s>मित्रों_N_NN ने_PSP चिंता_N_NN व्यक्त_N_NN करते_V_VM हुए_V_VAUX शिव_N_NNP से_PSP शिकायत_N_NN की_PSP कि_CC_CCS इससे_DM_DMD तो_RP_RPD लोग_N_NN अंधविश्वासी_JJ हो_V_VM जायेंगे_V_VAUX और_CC_CCD स्वाध्याय_N_NN (स्वयं_N_NN श्रम_N_NN करना)_N_NN से_PSP विमुख_N_NN हो_V_VM जायेंगे_V_VAUX</s>
+<s>उनके_PR_PRP तर्कों_N_NN को_PSP तार_N_NN तार_N_NN करते_V_VM हुए_V_VAUX शिव_N_NNP ने_PSP उन्हें_PR_PRP समझाया_V_VM कि_CC_CCS यह_DM_DMD सही_N_NN है_V_VM कि_CC_CCS आगे_N_NST बढ़ने_V_VM के_PSP लिए_PSP खुद_PR_PRF मेहनत_N_NN करने_V_VM की_PSP जरुरत_N_NN पड़ती_V_VM है_V_VAUX लेकिन_CC_CCD यह_DM_DMD भी_RP_RPD सही_JJ है_V_VAUX कि_CC_CCS सिर्फ_QT_QTF इतना_QT_QTF ही_RP_RPD काफी_QT_QTF नहीं_RP_NEG है_V_VM</s>
+<s>इसके_P लिए_PSP मानसिक_JJ मजबूती_N_NN की_PSP भी_RP_RPD जरूरत_N_NN होती_V_VM है_V_VAUX जो_P श्रद्धा_N_NN से_PSP ही_RP_RPD संभव_N_NN होती_V_VM है_V_VAUX</s>
+<s>मन_N_NN जिस_P किसी_DM_DMI वस्तु_N_NN में_PSP स्वाभाविक_JJ रूप_N_NN से_PSP रमे_N_NN ऊसमें_N_NN श्रद्धा_N_NN रखने_V_VM से_PSP मन_N_NN को_PSP शान्ति_N_NN मिलती_V_VM है_V_VAUX और_CC_CCD वहीँ_N_NN से_PSP मनुष्य_N_NN का_PSP आध्यात्मिक_N_NN अभ्युदय_N_NN शुरू_N_NN होता_V_VM है_V_VAUX</s>
+<s>वह_PR_PRP वस्तु_N_NN चाहे_V_VM शिवलिंग_N_NNP नामक_N_NN प्रस्तर_N_NN खंड_N_NN ही_RP_RPD क्यों_DM_DMQ न_RP_NEG हो_V_VM</s>
+<s>अपने_PR_PRF मित्रों_N_NN को_PSP समझाते_V_VM हुए_V_VAUX शिव_N_NNP ने_PSP कहा_V_VM कि_CC_CCS श्रद्धालु_N_NN लोगों_N_NN ने_PSP अपना_PR_PRF स्वयं_PR_PRF का_PSP मार्ग_N_NN खोजा_V_VM है_V_VAUX</s>
+<s>यह_DM_DMD मार्ग_N_NN उन्हें_PR_PRP सहज_JJ और_CC_CCD निष्कपट_JJ रूप_N_NN से_PSP मिला_V_VM है_V_VAUX</s>
+<s>यह_DM_DMD मार्ग_N_NN उनकी_PR_PRP श्रद्धा_N_NN को_PSP मजबूत_JJ करेगा_V_VM और_CC_CCD उनके_PR_PRP लिए_PSP शान्ति_N_NN का_PSP स्रोत_N_NN होगा_V_VM</s>
+<s>यह_DM_DMD शिवलिंग_N_NN उन्हें_PR_PRP प्रकृति_N_NN (पत्थर)_N_NN में_PSP उपस्थित_N_NN दिव्यता_JJ का_PSP बोध_N_NN कराएगा_V_VM और_CC_CCD उन्हें_PR_PRP याद_N_NN दिलाता_V_VM रहेगा_V_VAUX कि_CC_CCS यह_DM_DMD आकाश_N_NN की_PSP ओर_N_NN से_PSP धरती_N_NN को_PSP मिला_V_VM उपहार_N_NN है_V_VAUX</s>
+<s>शिव_N_NNP ने_PSP अपने_PR_PRF मित्रों_N_NN का_PSP आह्वान_N_NN किया_V_VM कि_CC_CCS निरीक्षण_N_NN परीक्षण_N_NN की_PSP वैज्ञानिक_JJ विधि_N_NN से_PSP ज्ञानी_N_NN जन_N_NN उस_PR_PRP उल्काखंड_N_NN का_PSP तात्विक_JJ शोध_N_NN और_CC_CCD अध्ययन_N_NN करें_V_VM जबकि_CC_CCS सामान्यजन_N_NN को_PSP श्रद्धापूर्वक_JJ उसकी_N_NN पूजा_N_NN करने_V_VM दी_V_VAUX जाय_V_VAUX</s>
+<s>किसी_DM_DMI की_PSP स्वतन्त्रता_N_NN में_PSP कोई_DM_DMI रोक_N_NN न_RP_NEG हो_V_VM न_RP_NEG ज्ञान_N_NN मार्ग_N_NN में_PSP न_RP_NEG श्रद्धा_N_NN की_PSP राह_N_NN पर_PSP</s>
+<s>अपने_PR_PRF गणों_N_NN को_PSP शिव_N_NNP ने_PSP आदेश_N_NN दिया_V_VM कि_CC_CCS विद्यापीठ_N_NNP के_PSP अनुशीलन_N_NN केंद्र_N_NN के_PSP प्रांगण_N_NN में_PSP सुरक्षित_N_NN रखे_V_VM हुए_V_VAUX बाकी_N_NN ग्यारह_QT_QTC उल्काखण्डों_N_NN को_PSP देश_N_NN के_PSP विभिन्न_JJ महत्वपूर्ण_JJ स्थानों_N_NN में_PSP स्थापित_V_VM कराया_V_VAUX जाय_V_VAUX ताकि_CC_CCS वहां_N_NN के_PSP स्थानीय_JJ लोग_N_NN आकाश_N_NN के_PSP इस_DM_DMD दिव्य_JJ उपहार_N_NN का_PSP दर्शन_N_NN कर_V_VM सकें_V_VAUX और_CC_CCD ज्ञान_N_NN जन_N_NN उसकी_PR_PRP वैज्ञानिक_N_NN व्याख्या_N_NN और_CC_CCD अनुशीलन_N_NN कर_V_VM सकें_V_VAUX</s>
+<s>आज_N_NST मलयालम_N_NNP की_PSP प्रसिद्ध_JJ लेखिका_N_NN कमला_N_NNP दास_N_NNP की_PSP पुण्यतिथि_N_NN है_V_VM</s>
+<s>31_QT_QTC तारीख़_N_NN का_PSP उनके_PR_PRP जीवन_N_NN में_PSP अजब_JJ संयोग_N_NN था_V_VM</s>
+<s>31_QT_QTC मार्च_N_NNP 1934_QT_QTC को_PSP उनका_PR_PRP जन्म_N_NN हुआ_V_VM और_CC_CCD 31_QT_QTC मई_N_NNP 2009_QT_QTC को_PSP अपने_PR_PRF पीछे_N_NST विपुल_JJ साहित्य_N_NN और_CC_CCD असंख्य_JJ विवादों_N_NN को_PSP छोड़कर_N_NN दुनिया_N_NN से_PSP कूच_V_VM कर_V_VAUX गई_V_VAUX</s>
+<s>उनकी_PR_PRP इस_DM_DMD मार्मिक_N_NN कहानी_N_NN का_PSP अनुवाद_N_NN किया_V_VM है_V_VAUX</s>
+<s>रत्नअम्मा_N_NNP गहरी_JJ नींद_N_NN से_PSP चौंक_N_NN कर_V_VM उठी_V_VM</s>
+<s>उसने_PR_PRP सपने_N_NN में_PSP देखा_V_VM कि_CC_CCS उसका_PR_PRP बच्चा_N_NN उसके_PR_PRP दूध_N_NN के_PSP लिए_PSP रो_N_NN रहा_V_VM है_V_VAUX</s>
+<s>मगर_CC_CCS बच्चा_N_NN उसके_PR_PRP बगल_N_NN में_PSP नहीं_RP_NEG था_V_VM</s>
+<s>जेल_N_NN की_PSP चौंधियाती_JJ रोशनी_N_NN ने_PSP रात_N_NN को_PSP भी_RP_RPD दिन_N_NN बना_V_VM दिया_V_VAUX था_V_VAUX</s>
+<s>वह_PR_PRP फ़र्श_N_NN पर_PSP और_CC_CCD दो_QT_QTC औरतों_N_NN के_PSP साथ_PSP लेटी_V_VM हुई_V_VAUX थी_V_VAUX</s>
+<s>दोनों_QT_QTC वेश्याएं_N_NN थीं_N_NN साधारण_JJ सी_N_NN वेश्याएं_N_NN</s>
+<s>उसने_PR_PRP कल_N_NN एक_QT_QTC पुलिसवाले_N_NN को_PSP कहते_V_VM सुना_V_VM था_V_VAUX कि_CC_CCS उन_PR_PRP वेश्याओं_N_NN को_PSP एक_QT_QTC हफ्ते_N_NN के_PSP भीतर_N_NST छोड़_V_VM दिया_V_VAUX जाएगा_V_VAUX</s>
+<s>लेकिन_CC_CCS रंडी_N_NN तुम_PR_PRP बाहर_N_NST नहीं_RP_NEG जा_V_VM पाओगी_V_VAUX</s>
+<s>रत्नअम्मा_N_NNP के_PSP बालों_N_NN को_PSP बेरहमी_N_NN से_PSP दबोचते_V_VM हुए_V_VAUX वह_PR_PRP पुलिस_N_NN वाला_PSP गरजा_N_NN</s>
+<s>नेता_N_NN हो_V_VM न_RP_NEG एक_QT_QTC महीना_N_NN यहाँ_DM_DMD गुजारो_V_VM तब_CC_CCS जान_N_NN जाओगी_V_VM तुम्हारी_JJ राजनीति_N_NN कितनी_QT_QTF गन्दी_N_NN है_V_VM रत्नअम्मा_N_NN को_PSP आधी_N_NN रात_N_NN में_PSP गिरफ्तार_N_NN किया_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>भला_N_NN हो_V_VM उस_PR_PRP भगवान_N_NN का_PSP रात_N_NN में_PSP गिरफ्तार_N_NN हुई_V_VM नहीं_RP_NEG तो_RP_RPD पुलिस_N_NN की_PSP गाड़ी_N_NN में_PSP जाते_V_VM देखकर_N_NN पड़ोसी_JJ अपमानजनक_JJ बातें_N_NN करते_V_VM</s>
+<s>हमने_PR_PRP तो_RP_RPD शुरू_N_NN में_PSP ही_RP_RPD कह_V_VM दिया_V_VAUX था_V_VAUX जिस_P रास्ते_N_NN पर_PSP तुम_PR_PRP आगे_N_NST जा_V_VM रही_V_VAUX हो_V_VAUX वह_PR_PRP तुम्हें_PR_PRP जल्द_N_NN ही_RP_RPD बर्बाद_N_NN कर_V_VM देगा_V_VAUX</s>
+<s>इसके_DM_DMD अलावा_CC_CCD अगर_CC_CCS दिन_N_NN में_PSP गिरफ्तारी_N_NN हुई_V_VM होती_V_VAUX तो_RP_RPD उसका_PR_PRP नन्हा_JJ बच्चा_N_NN जाग_V_VM रहा_V_VAUX होता_V_VAUX और_CC_CCD उसे_PR_PRP जाते_V_VM हुए_V_VAUX देखकर_N_NN जोर_N_NN जोर_RB से_PSP रोने_V_VM लगता_V_VAUX</s>
+<s>उसे_PR_PRP जागते_V_VM ही_RP_RPD मेरे_PR_PRP दूध_N_NN की_PSP जरूरत_N_NN होती_V_VM है_V_VAUX</s>
+<s>उसके_PR_PRP दोस्त_N_NN अक्सर_N_NN उससे_PR_PRP पूछा_V_VM कि_CC_CCS नौ_QT_QTC महीनों_N_NN के_PSP बाद_N_NST ही_RP_RPD उसने_PR_PRP बच्चे_N_NN को_PSP अपना_PR_PRF दूध_N_NN पिलाना_V_VM बंद_N_NN क्यों_PR_PRQ नहीं_RP_NEG किया_V_VM उन_PR_PRP दिनों_N_NN उसने_PR_PRP अपने_PR_PRF बुरे_JJ सपने_N_NN में_PSP भी_RP_RPD नहीं_RP_NEG सोचा_V_VM था_V_VAUX कि_CC_CCS एक_QT_QTC दिन_N_NN उसे_PR_PRP जेल_N_NN की_PSP हवा_N_NN खानी_V_VM पड़ेगी_V_VAUX</s>
+<s>यह_DM_DMD बात_N_NN सही_JJ है_V_VM कि_CC_CCS उसने_PR_PRP कई_QT_QTF जगहों_N_NN पर_PSP जनता_N_NN से_PSP जुड़े_JJ मुद्दों_N_NN को_PSP लेकर_V_VM आमसभाओं_N_NN में_PSP भाषण_N_NN दिये_V_VM थे_V_VAUX</s>
+<s>लेकिन_CC_CCS वह_PR_PRP हिंसा_N_NN और_CC_CCD क्रांति_N_NN में_PSP विश्वास_N_NN नहीं_RP_NEG रखती_V_VM</s>
+<s>फिर_CC_CCS भी_RP_RPD हिरासत_N_NN में_PSP उसे_PR_PRP निर्वस्त्र_JJ कर_V_VM प्रताड़ित_N_NN किया_V_VM गया_V_VAUX</s>
+<s>अपमानित_N_NN किया_V_VM गया_V_VAUX</s>
+<s>उसने_PR_PRP सुना_V_VM है_V_VAUX कि_CC_CCS ये_DM_DMD प्रताड़ना_N_NN तब_N_NST खत्म_V_VM होगी_V_VAUX जब_P वह_PR_PRP कोई_DM_DMI राज़_N_NN खोल_V_VM देगी_V_VAUX</s>
+<s>लेकिन_CC_CCS उसके_PR_PRP पास_N_NST क्या_PR_PRQ खुफिया_N_NN जानकारी_N_NN है_V_VM कुछ_QT_QTF भी_RP_RPD तो_RP_RPD नहीं_RP_NEG</s>
+<s>अगर_CC_CCS बेरहमी_N_NN से_PSP डंडे_N_NN मार_N_NN मार_V_VM कर_V_VAUX उसके_PR_PRP घुटने_N_NN तोड़_V_VM दिया_V_VAUX जाए_V_VAUX तो_RP_RPD भी_RP_RPD वह_PR_PRP क्या_PR_PRQ बता_V_VM पाएगी_V_VM उसके_PR_PRP सिर_N_NN पर_PSP बार_N_NN बार_N_NN लाठियाँ_N_NN बरसायी_V_VM जाती_V_VAUX</s>
+<s>बार_N_NN बार_N_NN और_CC_CCD कई_QT_QTF बार_N_NN वह_PR_PRP बेहोश_N_NN तक_PSP हो_V_VM जाती_V_VAUX</s>
+<s>काली_N_NNP बर्बर_N_NNP रातें_N_NN कभी_N_NN खत्म_N_NN होने_V_VM का_PSP नाम_N_NN ही_RP_RPD नहीं_RP_NEG ले_V_VM रही_V_VAUX थीं_V_VAUX</s>
+<s>दूसरी_QT_QTO तरफ_N_NN जेल_N_NN की_PSP रौशनी_N_NN जो_P दिन_N_NN रात_N_NN एक_QT_QTC ही_RP_RPD तीव्रता_N_NN से_PSP जलकर_V_VM उसे_PR_PRP जलाए_V_VM जा_V_VAUX रही_V_VAUX थी_V_VAUX</s>
+<s>तुम_PR_PRP सोयी_N_NN नहीं_RP_NEG बगल_N_NN में_PSP लेटी_V_VM दोनों_QT_QTC महिलाओं_N_NN में_PSP से_PSP एक_QT_QTC ने_PSP पूछा_V_VM</s>
+<s>वह_PR_PRP अपने_PR_PRF सिर_N_NN को_PSP जोर_RB जोर_RB से_PSP खुज़ला_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>ये_DM_DMD साली_N_NN जूँए_N_NN भी_RP_RPD न_RP_NEG वह_PR_PRP बोली_N_NN</s>
+<s>मैंने_PR_PRP सुना_V_VM है_V_VAUX कि_CC_CCS तुलसी_N_NN से_PSP निचोड़े_V_VM गए_V_VAUX रस_N_NN को_PSP बालों_N_NN में_PSP लगाने_V_VM से_PSP जुएँ_N_NN गायब_N_NN हो_V_VM जाती_V_VAUX हैं_V_VAUX रत्नअम्मा_N_NN बोली_N_NN</s>
+<s>वह_PR_PRP महिला_N_NN उठकर_V_VM बैठ_V_VM गयी_V_VAUX</s>
+<s>उसने_PR_PRP गोल_N_NN छापे_N_NN वाली_PSP साड़ी_N_NNP पहन_V_VM रखी_V_VAUX थी_V_VAUX</s>
+<s>पान_N_NN सुपारी_N_NN के_PSP खाने_V_VM से_PSP उसके_PR_PRP दांत_N_NN काले_N_NN पड़_V_VM चुके_V_VAUX थे_V_VAUX</s>
+<s>तुम_PR_PRP जरूर_N_NN पढ़ी_N_NN लिखी_V_VM हो_V_VAUX</s>
+<s>तुम_PR_PRP पढ़ी_N_NN लिखी_V_VM और_CC_CCD अच्छे_JJ घर_N_NN की_PSP लगती_V_VM हो_V_VAUX</s>
+<s>रत्नअम्मा_N_NNP ने_PSP मुस्कुराने_V_VM की_PSP कोशिश_N_NN की_PSP</s>
+<s>उसके_PR_PRP होंठ_N_NN घायल_N_NN और_CC_CCD सूजे_V_VM हुए_V_VAUX थे_V_VAUX</s>
+<s>सुना_V_VM है_V_VAUX तुम्हें_PR_PRP भाषण_N_NN देने_V_VM के_PSP कारण_N_NN यहाँ_DM_DMD लाया_V_VM गया_V_VAUX है_V_VAUX महिला_N_NN ने_PSP कहा_V_VM</s>
+<s>अगर_CC_CCS तुम_PR_PRP भाषण_N_NN देती_V_VM हो_V_VAUX गलत_N_NN है_V_VAUX अगर_CC_CCS तुम_PR_PRP भूख_N_NN से_PSP तड़प_N_NN उठती_V_VM हो_V_VAUX और_CC_CCD किसी_DM_DMI पुरूष_N_NN के_PSP बुलाने_V_VM पर_PSP उसके_PR_PRP पास_N_NST जाती_V_VM हो_V_VAUX</s>
+<s>सब_QT_QTF ग़लत_N_NN है_V_VM औरतें_N_NN जो_P भी_RP_RPD करती_V_VM है_V_VAUX सब_QT_QTF ग़लत_N_NN है_V_VM</s>
+<s>मर्दों_N_NN को_PSP भी_RP_RPD गिरफ्तार_N_NN किया_V_VM है_V_VAUX</s>
+<s>पिछली_N_NST रात_N_NN मैंने_PR_PRP एक_QT_QTC आदमी_N_NN को_PSP लम्बे_JJ समय_N_NN तक_PSP रोते_V_VM हुए_V_VAUX सुना_V_VM था_V_VAUX</s>
+<s>उसे_PR_PRP जरूर_N_NN प्रताड़ित_N_NN किया_V_VM जा_V_VAUX रहा_V_VAUX होगा_V_VAUX</s>
+<s>इन्हें_P मर्दों_N_NN को_PSP तंग_N_NN करने_V_VM में_PSP मजा_N_NN नहीं_RP_NEG आता_V_VM है_V_VAUX</s>
+<s>इनको_P हमें_PR_PRP नंगा_V_VM करने_V_VAUX और_CC_CCD प्रताड़ित_N_NN करने_V_VM में_PSP आनंद_N_NN आता_V_VM है_V_VAUX</s>
+<s>मैंने_PR_PRP सुना_V_VM है_V_VAUX कि_CC_CCS तुम_PR_PRP दोनों_QT_QTC को_PSP ये_DM_DMD अगले_N_NN हफ्ते_N_NN छोड़_V_VM देंगे_V_VAUX</s>
+<s>तुम_PR_PRP बच_V_VM गयी_V_VAUX रत्नअम्मा_N_NNP बोली_N_NN</s>
+<s>बच_V_VM गये_V_VAUX वेश्या_N_NN बड़बड़ाई_N_NN</s>
+<s>हम_PR_PRP यहाँ_DM_DMD साल_N_NN में_PSP पाँच_QT_QTC या_CC_CCD छः_QT_QTC बार_N_NN तंग_N_NN करने_V_VM के_PSP लिए_PSP लायी_V_VM जाती_V_VAUX हैं_V_VAUX</s>
+<s>फिर_CC_CCS छोड़_V_VM दी_V_VAUX जाती_V_VAUX हैं_V_VAUX</s>
+<s>मैं_PR_PRP यहाँ_DM_DMD कई_QT_QTF बार_N_NN आ_V_VM चुकी_V_VAUX हूँ_V_VAUX</s>
+<s>क्या_PR_PRQ किया_V_VM जाय_V_VAUX तीन_QT_QTC बच्चे_N_NN घर_N_NN पर_PSP हैं_V_VAUX क्या_PR_PRQ उन्हें_PR_PRP दिन_N_NN भर_RP_RPD में_PSP एक_QT_QTC बार_N_NN भी_RP_RPD भोजन_N_NN नहीं_RP_NEG मिलना_V_VM चाहिए_V_VAUX इसलिए_CC_CCS रात_N_NN में_PSP जब_P कोई_DM_DMI बुलाता_V_VM है_V_VAUX तो_RP_RPD मैं_PR_PRP निकल_V_VM जाती_V_VAUX हूँ_V_VAUX</s>
+<s>यह_DM_DMD मैं_PR_PRP अपनी_PR_PRF खुशी_N_NN के_PSP लिए_PSP नहीं_RP_NEG करती_V_VM</s>
+<s>रत्नअम्मा_N_NNP कराह_N_NN रही_V_VM थी_V_VAUX</s>
+<s>उसके_PR_PRP सिर_N_NN पर_PSP गहरे_JJ जख्म_N_NN थे_V_VM</s>
+<s>तेज_JJ रौशनी_N_NN की_PSP तरह_N_NN उसने_PR_PRP एक_QT_QTC गहरी_JJ पीड़ा_N_NN महसूस_N_NN की_PSP</s>
+<s>क्या_PR_PRQ मैं_PR_PRP तुम्हारा_N_NNP सिर_N_NN थपथपा_V_VM दूं_V_VAUX महिला_N_NN ने_PSP पूछा_V_VM</s>
+<s>रत्नअम्मा_N_NNP ने_PSP न_RP_NEG में_PSP सिर_N_NN हिलाया_V_VM</s>
+<s>फिर_CC_CCS भी_RP_RPD उस_PR_PRP अधेड़_N_NN उम्र_N_NN की_PSP वेश्या_N_NN ने_PSP उसका_PR_PRP सिर_N_NN अपने_PR_PRF गोद_N_NN में_PSP रखा_V_VM और_CC_CCD प्यार_N_NN से_PSP उसके_PR_PRP सिर_N_NN पर_PSP हाथ_N_NN फेरने_V_VM लगी_V_VAUX</s>
+<s>रत्नअम्मा_N_NNP की_PSP आँखें_N_NN भर_N_NN आयी_V_VM</s>
+<s>मत_N_NN रोओ_N_NN मेरी_N_NN बच्ची_N_NN</s>
+<s>अगर_CC_CCS औरत_N_NN के_PSP रूप_N_NN में_PSP जन्म_N_NN लिया_V_VM है_V_VAUX तो_RP_RPD तुम्हें_PR_PRP सब_QT_QTF कुछ_QT_QTF बर्दाश्त_N_NN करना_V_VM होगा_V_VAUX</s>
+<s>दर्द_N_NN होता_V_VM है_V_VAUX लेकिन_CC_CCS हम_PR_PRP क्या_PR_PRQ कर_V_VM सकते_V_VAUX हैं_V_VAUX बस_N_NN उन्हें_PR_PRP कह_N_NN दो_QT_QTC कि_CC_CCS तुम_PR_PRP फिर_RB कभी_DM_DMI भाषण_N_NN नहीं_RP_NEG दोगी_V_VM</s>
+<s>रत्नअम्मा_N_NNP के_PSP ब्लाउज_N_NN का_PSP अगला_N_NST हिस्सा_N_NN स्तन_N_NN के_PSP बहते_N_NN दूध_N_NN से_PSP भींग_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>इसे_DM_DMD देखकर_V_VM वेश्या_N_NN बहुत_QT_QTF मर्माहत_N_NN हुई_V_VM</s>
+<s>आह_N_NNP तुम्हारा_N_NNP अभागा_N_NNP बच्चा_N_NN भूख_N_NN से_PSP रो_V_VM रहा_V_VAUX होगा_V_VAUX</s>
+<s>ये_DM_DMD राक्षस_N_NN हैं_V_VM भगवान_N_NN करे_V_VM इन_P शैतानों_N_NN को_PSP चेचक_N_NN हो_V_VM जाए_V_VAUX</s>
+<s>मेरे_PR_PRP माथे_N_NN और_CC_CCD घुटने_N_NN में_PSP दर्द_N_NN है_V_VM</s>
+<s>मगर_CC_CCS यह_DM_DMD दर्द_N_NN मैं_PR_PRP बर्दाश्त_N_NN कर_V_VM सकती_V_VAUX हूँ_N_NN पर_PSP इस_DM_DMD पीड़ा_N_NN को_PSP नहीं_RP_NEG बिल्कुल_N_NN नहीं_RP_NEG</s>
+<s>अपने_PR_PRF दोनों_QT_QTO स्तनों_N_NN को_PSP हाथ_N_NN से_PSP दबाते_V_VM हुए_V_VAUX वह_PR_PRP दर्द_N_NN से_PSP कराह_N_NN उठी_V_VM</s>
+<s>तुम्हारे_PR_PRP बच्चे_N_NN का_PSP क्या_PR_PRQ नाम_N_NN है_V_VM</s>
+<s>मोहनन_N_NNP मैं_PR_PRP उसे_PR_PRP उण्णि_N_NN बुलाती_V_VM हूँ_V_VAUX रत्नअम्मा_N_NNP बोली_N_NN</s>
+<s>मेरे_PR_PRP भी_RP_RPD छोटे_JJ बेटे_N_NN का_PSP नाम_N_NN उण्णि_V_VM है_V_VAUX मुस्कुराते_V_VM हुए_V_VAUX वेश्या_N_NNP ने_PSP कहा_V_VM</s>
+<s>प्रियंका_N_NNP ओम_N_NNP युवा_N_NN लेखिकाओं_N_NN में_PSP जाना_N_NN पहचाना_V_VM नाम_N_NN है_V_VM</s>
+<s>इस_DM_DMR बार_N_NN उन्होंने_PR_PRP एक_QT_QTC बाल_N_NN कहानी_N_NN लिखी_V_VM है_V_VAUX</s>
+<s>एकल_N_NN परिवार_N_NN के_PSP बच्चे_N_NN के_PSP अकेलेपन_N_NN को_PSP लेकर_V_VM</s>
+<s>लंच_N_NN ब्रेक_N_NN में_PSP जब_P वो_N_NN दोनो_N_NN क्लास_N_NN रूम_N_NN में_PSP अकेले_N_NN थे_V_VM तब_CC_CCS लड़की_N_NN ने_PSP नाम_N_NN पूछ_V_VM कर_V_VAUX बात_N_NN शुरू_N_NN की_PSP</s>
+<s>तुम्हारा_N_NNP नाम_N_NN क्या_PR_PRQ है_V_VM</s>
+<s>एक_QT_QTC तो_RP_RPD क्लास_N_NN रूम_N_NN में_PSP लंच_N_NN करने_V_VM के_PSP दंड_N_NN से_PSP अगत्य_N_NN पहले_N_NST ही_RP_RPD दुखी_N_NN था_V_VM ऊपर_N_NST से_PSP लड़की_N_NN को_PSP उसका_PR_PRP नाम_N_NN समझने_N_NNP में_PSP जो_P प्रॉब्लम_N_NN हो_V_VM रही_V_VAUX थी_V_VAUX उससे_PR_PRP वह_PR_PRP और_CC_CCD चिढ़_V_VM गया_V_VAUX था_V_VAUX इसलिए_CC_CCS चीख़_N_NN कर_V_VM बोला_N_NN अगत्य_N_NN</s>
+<s>तुम_PR_PRP चिल्ला_V_VM रहे_V_VAUX हो_V_VAUX तुम_PR_PRP गंदे_JJ लड़के_N_NN हो_V_VM और_CC_CCD इसलिये_RB तुम्हें_PR_PRP क्लास_N_NN रूम_N_NN में_PSP लंच_N_NN खाने_V_VM का_PSP दंड_N_NN मिला_V_VM है_V_VAUX</s>
+<s>लड़की_N_NN बुरा_N_NN मान_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>तुम_PR_PRP तो_RP_RPD मुझसे_PR_PRP भी_RP_RPD ज़्यादा_JJ गन्दी_N_NN हो_V_VM इसलिए_CC_CCS तुम्हें_PR_PRP रोज़_N_NN क्लास_N_NN रूम_N_NN में_PSP टिफिन_N_NN खाने_V_VM की_PSP सजा_N_NN मिलती_V_VM है_V_VAUX</s>
+<s>अगत्य_N_NNP ने_PSP ग़ुस्से_N_NN से_PSP कहा_V_VM</s>
+<s>नहीं_RP_NEG मैं_PR_PRP सुन्दर_JJ लड़की_N_NN हूँ_N_NN मेरी_N_NN मम्मी_N_NN ने_PSP धूप_N_NN में_PSP जाने_V_VM से_PSP मना_V_VM किया_V_VAUX है_V_VAUX मेरा_PR_PRP चेहरा_N_NN काला_JJ पड़_V_VM जायेगा_V_VAUX</s>
+<s>लड़के_N_NN को_PSP उसके_PR_PRP काले_N_NN गोरे_N_NN होने_V_VM से_PSP कोई_DM_DMI फर्क_N_NN नहीं_RP_NEG पड़ता_V_VM</s>
+<s>वह_PR_PRP अपनी_PR_PRF सफाई_N_NN में_PSP कहता_V_VM है_V_VAUX मेरी_PR_PRP मम्मा_N_NNP ने_PSP भी_RP_RPD टीचर_N_NN से_PSP कम्प्लेन_N_NN किया_V_VM है_V_VAUX</s>
+<s>मैं_PR_PRP टिफिन_N_NN खाने_V_VM के_PSP समय_N_NN खेलता_V_VM हूँ_V_VAUX</s>
+<s>खाना_N_NN पूरा_N_NN नहीं_RP_NEG खाता_V_VM</s>
+<s>अब_N_NST दोनों_QT_QTC के_PSP बीच_N_NST एक_QT_QTC ख़ामोशी_N_NN पसर_N_NN गई_V_VM थी_V_VAUX स्याह_N_NN रात_N_NN के_PSP घने_JJ अंधेरे_N_NN जैसी_N_NN ख़ामोशी_N_NN</s>
+<s>लड़की_N_NN चुपचाप_N_NN पास्ता_N_NN खा_V_VM रही_V_VAUX है_V_VAUX और_CC_CCD अगत्य_JJ ब्रेड_N_NN नतेल्ला_N_NN</s>
+<s>उस_PR_PRP शान्त_JJ झील_N_NN जैसी_JJ ख़ामोशी_N_NN में_PSP उनके_PR_PRP मुँह_N_NN चलाने_V_VM की_PSP आवाज़_N_NN मछलियों_N_NN के_PSP आपसी_JJ संवाद_N_NN लग_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>कोमल_JJ और_CC_CCD दिलकश_N_NN जिसे_P समझने_V_VM के_PSP लिये_PSP मत्स्य_N_NN भाषाविद_N_NN होना_V_VM नितांत_JJ आवश्यक_N_NN है_V_VM</s>
+<s>अभी_N_NST कुछ_QT_QTF ही_RP_RPD दिन_N_NN हुए_V_VM है_V_VAUX अगत्य_N_NN के_PSP मम्मी_N_NN पापा_N_NN भारत_N_NNP से_PSP अफ़्रीका_N_NN के_PSP दार_N_NN सिटी_N_NN तंज़ानिया_N_NNP शिफ़्ट_N_NN हुए_V_VM है_V_VAUX</s>
+<s>अगत्य_N_NN का_PSP आज_N_NST स्कूल_N_NN में_PSP दूसरा_QT_QTO हफ़्ता_N_NN है_V_VM</s>
+<s>यह_DM_DMD स्कूल_N_NN घर_N_NN के_PSP बहुत_RP_INTF पास_N_NST है_V_VM मॉम_N_NN को_PSP दूर_N_NN के_PSP स्कूल_N_NN पसंद_N_NN नहीं_RP_NEG है_V_VM</s>
+<s>वो_DM_DMD कहती_V_VM है_V_VAUX बच्चा_N_NN स्कूल_N_NN में_PSP कम_QT_QTF स्कूल_N_NN बस_N_NN में_PSP ज़्यादा_JJ होता_V_VM है_V_VAUX</s>
+<s>अगत्य_N_NN को_PSP भी_RP_RPD यह_DM_DMD स्कूल_N_NN बहुत_RP_INTF पसंद_N_NN आया_V_VM है_V_VAUX</s>
+<s>सभी_QT_QTF टीचर्ज़_N_NN और_CC_CCD क्लास_N_NN मेड्ज़_N_NN बहुत_RP_INTF अच्छी_JJ है_V_VM</s>
+<s>स्कूल_N_NN में_PSP खिलौने_N_NN भी_RP_RPD बहुत_QT_QTF है_V_VM</s>
+<s>उसकी_PR_PRP क्लास_N_NN में_PSP पढ़ने_V_VM वाले_PSP ज़्यादातर_QT_QTF बच्चों_N_NN के_PSP छोटे_JJ छोटे_JJ काले_N_NN घुंघराले_N_NN सख्त_JJ बाल_N_NN है_V_VM</s>
+<s>जिनके_P लम्बे_JJ है_V_VAUX उनके_PR_PRP सुनहरे_N_NN है_V_VAUX बस_N_NN यह_DM_DMD एक_QT_QTC लड़की_N_NN है_V_VAUX जिसके_P बाल_N_NN काले_N_NN भी_RP_RPD हैं_V_VM और_CC_CCD लम्बे_N_NN भी_RP_RPD</s>
+<s>यह_DM_DMD लड़की_N_NN भी_RP_RPD अगत्य_N_NN की_PSP तरह_N_NN भारतीय_JJ है_V_VM यह_DM_DMD उसने_PR_PRP शुरू_N_NN में_PSP ही_RP_RPD नोटिस_N_NN कर_V_VM लिया_V_VAUX था_V_VAUX</s>
+<s>अगत्य_JJ बालों_N_NN और_CC_CCD त्वचा_N_NN के_PSP रंग_N_NN के_PSP इस_DM_DMD फ़र्क़_N_NN को_PSP नहीं_RP_NEG समझता_V_VM</s>
+<s>उसे_PR_PRP तो_RP_RPD बस_N_NN खेलने_V_VM की_PSP धुन_N_NN रहती_V_VM है_V_VAUX</s>
+<s>जो_P उसके_PR_PRP साथ_N_NN खेलता_V_VM है_V_VAUX वह_PR_PRP उसका_PR_PRP दोस्त_N_NN है_V_VAUX और_CC_CCD इतने_N_NN कम_QT_QTF समय_N_NN में_PSP ही_RP_RPD उसके_PR_PRP बहुत_QT_QTF से_PSP दोस्त_N_NN बन_V_VM गये_V_VAUX हैं_V_VAUX बस_N_NN इस_DM_DMD लड़की_N_NN से_PSP कोई_DM_DMI बात_N_NN नही_RP_NEG हुई_V_VM है_V_VAUX</s>
+<s>यह_DM_DMD लड़की_N_NN सिर्फ़_RB भीतरी_N_NST हिस्से_N_NN में_PSP खेले_V_VM जाने_V_VAUX वाला_PSP खेल_N_NN खेलती_V_VM है_V_VAUX लेकिन_CC_CCD अगत्य_N_NN को_PSP तो_RP_RPD फिजिकल_N_NN एक्टिविटी_N_NN वाले_PSP खेल_N_NN पसंद_N_NN है_V_VM</s>
+<s>वह_PR_PRP सबके_QT_QTF साथ_N_NN सॉकर_V_VM खेलता_V_VM है_V_VAUX हलाकि_CC_CCS उसे_PR_PRP क्रिकेट_N_NN खेलना_V_VM बहुत_RP_INTF भाता_N_NN है_V_VM और_CC_CCD वह_PR_PRP धोनी_N_NNP की_PSP तरह_N_NN क्रिकेटर_N_NN बनना_V_VM चाहता_V_VAUX है_V_VAUX लेकिन_CC_CCD यहाँ_DM_DMD कोई_DM_DMI भी_RP_RPD क्रिकेट_N_NN नही_RP_NEG खेलता_V_VM</s>
+<s>पापा_N_NN ने_PSP बताया_V_VM जैसे_CC_CCS भारत_N_NNP में_PSP सभी_QT_QTF क्रिकेट_N_NN खेलते_V_VM हैं_V_VAUX वैसे_CC_CCS यहाँ_DM_DMD सभी_QT_QTF सॉकर_N_NN खेलते_V_VM है_V_VAUX</s>
+<s>यहाँ_DM_DMD रहते_V_VM हुए_V_VAUX उसे_PR_PRP क्रिकेट_N_NN भूल_V_VM जाना_V_VAUX चाहिए_V_VAUX</s>
+<s>इस_DM_DMD भारतीय_JJ लड़की_N_NN की_PSP दिलचस्पी_N_NN ना_RP_NEG तो_RP_RPD क्रिकेट_N_NN में_PSP है_V_VM न_RP_NEG सॉकर_V_VM से_PSP कोई_DM_DMI लगाव_N_NN है_V_VM</s>
+<s>बस_N_NN कभी_N_NST कभी_N_NST ही_RP_RPD बाहर_N_NST निकल_V_VM कर_V_VAUX खेलती_V_VM है_V_VAUX</s>
+<s>खेलती_V_VM क्या_PR_PRQ है_V_VAUX बस_N_NN झूला_N_NN झूलती_V_VM रहती_V_VAUX है_V_VAUX जैसे_CC_CCS मम्मी_N_NN की_PSP कहानियों_N_NN वाली_PSP कोई_DM_DMI परी_N_NN हो_V_VM</s>
+<s>बाक़ी_N_NN के_PSP दिन_N_NN सिर्फ़_RB लेगो_N_NN या_CC_CCD कोई_DM_DMI बोर्ड_N_NN गेम_N_NN खेलती_V_VM है_V_VAUX</s>
+<s>अगत्य_N_NN बहुत_RP_INTF मिलनसार_JJ है_V_VM बहुत_QT_QTF जल्दी_RB सबसे_RP_INTF घुल_V_VM मिल_V_VM गया_V_VAUX है_V_VAUX और_CC_CCD यहाँ_DM_DMD के_PSP हिसाब_N_NN से_PSP ख़ुद_N_NN को_PSP ढाल_V_VM लिया_V_VAUX है_V_VAUX</s>
+<s>इस_DM_DMD बात_N_NN के_PSP लिये_PSP मम्मी_N_NN पापा_N_NN को_PSP उस_PR_PRP पर_PSP बहुत_QT_QTF गर्व_N_NN होता_V_VM है_V_VAUX</s>
+<s>उनकी_PR_PRP हर_QT_QTF बात_N_NN मानता_V_VM है_V_VAUX कभी_N_NST बेकार_N_NN की_PSP ज़िद_N_NN नही_RP_NEG करता_V_VM है_V_VAUX लेकिन_CC_CCD वो_DM_DMD लोग_N_NN जबसे_N_NN यहाँ_DM_DMD आये_V_VM हैं_V_VAUX अगत्य_N_NN बदलने_V_VM लगा_V_VAUX है_V_VAUX</s>
+<s>हर_QT_QTF बात_N_NN पर_PSP ग़ुस्सा_N_NN करता_V_VM है_V_VAUX बात_N_NN बात_N_NN पर_PSP रोने_V_VM लगता_V_VAUX है_V_VAUX</s>
+<s>लंच_N_NN तो_RP_RPD कभी_N_NST भी_RP_RPD ख़तम_N_NN नहीं_RP_NEG करता_V_VM है_V_VAUX</s>
+<s>देखने_V_VM में_PSP कमज़ोर_JJ लगने_V_VM लगा_V_VAUX है_V_VAUX</s>
+<s>चिड़_N_NN चिड़ा_N_NN हो_V_VM गया_V_VAUX है_V_VAUX</s>
+<s>मम्मी_N_NN बहुत_RP_INTF दुखी_N_NN रहती_V_VM है_V_VAUX इसलिये_CC_CCS स्कूल_N_NN में_PSP शिकायत_N_NN कर_V_VM दिया_V_VAUX</s>
+<s>ऐसा_DM_DMD नहीं_RP_NEG है_V_VAUX कि_CC_CCS उसे_PR_PRP भूख_N_NN नहीं_RP_NEG लगती_V_VM लेकिन_CC_CCS वह_PR_PRP बहुत_RP_INTF धीरे_RB खाता_V_VM है_V_VAUX</s>
+<s>दादी_N_NN कहती_V_VM थी_V_VAUX खाना_N_NN धीरे_RB धीरे_RB चबा_V_VM कर_V_VAUX खाना_V_VM चाहिये_V_VAUX और_CC_CCD इतने_N_NN में_PSP लंच_N_NN टाइम_N_NN निकल_V_VM जाता_V_VAUX है_V_VAUX</s>
+<s>स्पोर्ट्स_N_NN ब्रेक_N_NN इतना_QT_QTF छोटा_JJ होता_V_VM है_V_VAUX कि_CC_CCS उतना_PR_PRP खेलने_V_VM से_PSP उसका_PR_PRP मन_N_NN नही_RP_NEG भरता_V_VM इसलिए_CC_CCS वह_PR_PRP लंच_N_NN टाइम_N_NN में_PSP भी_RP_RPD खेलता_V_VM है_V_VAUX</s>
+<s>रोज़_N_NN स्कूल_N_NN जाते_V_VM वक़्त_N_NN मम्मी_N_NN का_PSP यह_DM_DMD रटा_N_NN रटाया_N_NN जुमला_N_NN खाओगे_V_VM नहीं_RP_NEG तो_RP_RPD कमज़ोर_JJ हो_V_VM जाओगे_V_VAUX कमज़ोर_JJ हो_V_VM जाओगे_V_VAUX तो_RP_RPD खेलोगे_V_VM कैसे_DM_DMQ</s>
+<s>अब_N_NST अगत्य_N_NN को_PSP भी_RP_RPD सुग्गे_N_NN की_PSP तरह_N_NN याद_N_NN हो_V_VM आया_V_VAUX है_V_VAUX</s>
+<s>पापा_N_NN इस_DM_DMD बात_N_NN पर_PSP कहते_V_VM हैं_V_VAUX कितना_N_NN भी_RP_RPD रटवा_N_NN लो_N_NN आज_N_NN भी_RP_RPD नहीं_RP_NEG खायेगा_V_VM पता_N_NN नही_RP_NEG यहाँ_DM_DMD आकर_V_VM इसे_DM_DMR क्या_PR_PRQ हो_V_VM गया_V_VAUX है_V_VAUX</s>
+<s>अगत्य_JJ मम्मी_N_NN को_PSP निराश_N_NN नहीं_RP_NEG करना_V_VM चाहता_V_VAUX और_CC_CCD पापा_N_NN को_PSP ग़लत_N_NN भी_RP_RPD साबित_N_NN नहीं_RP_NEG कर_V_VM पाता_V_VAUX है_V_VAUX</s>
+<s>आख़िर_N_NN वह_PR_PRP करे_N_NN भी_RP_RPD तो_RP_RPD क्या_PR_PRQ करे_V_VM</s>
+<s>उसे_PR_PRP खेलना_V_VM बहुत_RP_INTF अच्छा_JJ लगता_V_VM है_V_VAUX</s>
+<s>घर_N_NN पर_PSP उसके_PR_PRP साथ_N_NN खेलने_V_VM वाला_PSP कोई_DM_DMI नही_RP_NEG है_V_VM</s>
+<s>या_CC_CCD तो_RP_RPD सारा_QT_QTF दिन_N_NN टी_N_NN वी_N_NN पर_PSP कार्टून_N_NN देखता_V_VM है_V_VAUX या_CC_CCD पापा_N_NN की_PSP पुरानी_JJ मोबाइल_N_NN पर_PSP गेम_N_NN खेलता_V_VM है_V_VAUX</s>
+<s>मम्मी_N_NN इसके_P लिये_PSP भी_RP_RPD डाँटती_V_VM है_V_VAUX</s>
+<s>सारा_QT_QTF दिन_N_NN टी_N_NN वी_N_NN देखते_V_VM रहते_V_VAUX हो_V_VAUX</s>
+<s>तुम_PR_PRP भी_RP_RPD नोविता_N_NN के_PSP जैसे_JJ बुद्धू_N_NN बन_V_VM जाना_V_VAUX</s>
+<s>मम्मी_N_NN उसकी_PR_PRP पसंद_N_NN के_PSP बहुत_QT_QTF सारे_QT_QTF खिलौने_N_NN खरीद_N_NN लाती_V_VM है_V_VAUX एक_QT_QTC दो_QT_QTC दिन_N_NN तो_RP_RPD वह_PR_PRP उन_PR_PRP खिलौनों_N_NN से_PSP खूब_QT_QTF खेलता_V_VM है_V_VAUX लेकिन_CC_CCD फिर_CC_CCS अकेले_N_NN खेलते_V_VM खेलते_V_VM ऊब_V_VM जाता_V_VAUX है_V_VAUX</s>
+<s>पिछली_N_NST बार_N_NN पापा_N_NN जर्मनी_N_NNP से_PSP उसके_PR_PRP लिए_PSP एक_QT_QTC ऐसी_DM_DMD खिलौना_N_NN कार_N_NN लेकर_V_VM आये_V_VM थे_V_VAUX जो_P चलते_V_VM चलते_N_NN रोबोट_N_NN में_PSP तब्दील_N_NN हो_V_VM जाती_V_VAUX थी_V_VAUX</s>
+<s>कार_N_NN को_PSP रोबोट_N_NN में_PSP बदलते_V_VM हुए_V_VAUX देखना_V_VM उसे_PR_PRP बहुत_RP_INTF अच्छा_JJ लगता_V_VM था_V_VAUX</s>
+<s>वह_PR_PRP बहुत_QT_QTF खुश_N_NN होता_V_VM था_V_VAUX और_CC_CCD अपनी_PR_PRF ख़ुशी_N_NN साझा_N_NN करना_V_VM चाहता_V_VAUX था_V_VAUX</s>
+<s>एक_QT_QTC दो_QT_QTC बार_N_NN तो_RP_RPD मम्मी_N_NN ने_PSP खूब_QT_QTF साथ_N_NN दिया_V_VM लेकिन_CC_CCS बाद_N_NST में_PSP कहने_V_VM लगी_V_VAUX एक_QT_QTC ही_RP_RPD चीज़_N_NN देख_V_VM देख_V_VM कर_V_VAUX बोर_N_NN हो_V_VM गई_V_VAUX हूँ_V_VAUX</s>
+<s>कभी_N_NST कभी_N_NST वो_PR_PRP साथ_N_NN में_PSP क्रिकेट_N_NN या_CC_CCD फुटबॉल_N_NN खेलती_V_VM है_V_VAUX लेकिन_CC_CCD थोड़ी_JJ देर_N_NN में_PSP ही_RP_RPD थक_V_VM जाती_V_VAUX है_V_VAUX</s>
+<s>कहती_V_VM है_V_VAUX मुझमें_PR_PRP तुम्हारे_PR_PRP जितनी_N_NN एनर्जी_N_NN नही_RP_NEG है_V_VAUX जाओ_V_VM छोटा_JJ भीम_N_NNP ही_RP_RPD देख_V_VM लो_V_VAUX इसलिए_CC_CCS वह_PR_PRP सारा_QT_QTF दिन_N_NN कार्टून_N_NN देखता_V_VM है_V_VAUX</s>
+<s>उसकी_PR_PRP क्लास_N_NN में_PSP पढने_V_VM वाला_PSP आश्ले_N_NN सुबह_N_NN से_PSP शाम_N_NN तक_PSP स्कूल_N_NN में_PSP रहता_V_VM है_V_VAUX</s>
+<s>उसकी_P मम्मी_N_NN भी_RP_RPD नौकरी_N_NN पर_PSP जाती_V_VM है_V_VAUX</s>
+<s>वह_PR_PRP सोचता_V_VM है_V_VAUX काश_N_NN मेरी_PR_PRP मम्मी_N_NN भी_RP_RPD काम_N_NN करती_V_VM जैसे_CC_CCS भारत_N_NNP में_PSP करती_V_VM थी_V_VAUX</s>
+<s>तब_CC_CCS वह_PR_PRP भी_RP_RPD डे_N_NN केयर_N_NN में_PSP रह_V_VM सकता_V_VAUX था_V_VAUX</s>
+<s>यहाँ_DM_DMD घर_N_NN में_PSP उसकी_PR_PRP देख_V_VM भाल_N_NN करने_V_VM के_PSP लिये_PSP दादी_N_NN और_CC_CCD दादू_N_NN तो_RP_RPD हैं_V_VM नही_RP_NEG</s>
+<s>डे_N_NN केयर_N_NN में_PSP कितना_QT_QTF मज़ा_N_NN है_V_VM</s>
+<s>सारा_QT_QTF दिन_N_NN आश्ले_N_NN और_CC_CCD अन्य_JJ दोस्तों_N_NN के_PSP साथ_N_NN खेलना_V_VM फिर_CC_CCS शाम_N_NN ढले_V_VM घर_N_NN जाना_V_VM</s>
+<s>ऐसा_DM_DMD नहीं_RP_NEG है_V_VM की_PSP उसे_P घर_N_NN जाना_V_VM अच्छा_JJ नहीं_RP_NEG लगता_V_VM</s>
+<s>रोज़_N_NN स्कूल_N_NN के_PSP गेट_N_NN पर_PSP मॉम_N_NN को_PSP देख_V_VM कर_V_VAUX ऐसा_DM_DMD लगता_V_VM है_V_VAUX जैसे_CC_CCS आज_N_NST बहुत_QT_QTF दिन_N_NN बाद_N_NST देखा_V_VM हो_V_VAUX</s>
+<s>मॉम_N_NN कहता_V_VM हुआ_V_VAUX वह_PR_PRP दौड़_N_NN कर_V_VM उनसे_PR_PRP लिपट_V_VM जाता_V_VAUX है_V_VAUX</s>
+<s>मम्मी_N_NN भी_RP_RPD उसे_PR_PRP ऐसे_DM_DMD गले_N_NN लगाती_V_VM है_V_VAUX जैसे_CC_CCS कई_QT_QTF सालों_N_NN से_PSP नहीं_RP_NEG देखा_V_VM हो_V_VAUX लेकिन_CC_CCS घर_N_NN पहुँचते_V_VM ही_RP_RPD फिर_RB से_PSP वही_DM_DMD सब_QT_QTF शुरू_N_NN हो_V_VM जाता_V_VAUX है_V_VAUX</s>
+<s>टीवी_N_NN कार्टून_N_NN और_CC_CCD मॉम_N_NN की_PSP डाँट_N_NN</s>
+<s>वह_PR_PRP इस_DM_DMD सबसे_RP_INTF तंग_JJ आ_V_VM चुका_V_VAUX है_V_VAUX</s>
+<s>वह_PR_PRP हॉस्टल_N_NN जाना_V_VM चाहता_V_VAUX है_V_VAUX</s>
+<s>उसने_PR_PRP तारे_N_NN ज़मीन_N_NN पे_PSP सिनेमा_N_NN में_PSP हॉस्टल_N_NN देखा_V_VM है_V_VAUX</s>
+<s>फिल्म_N_NN में_PSP ईशान_N_NNP हमेशा_N_NN रोता_V_VM रहता_V_VAUX है_V_VAUX वह_PR_PRP होता_V_VM तो_RP_RPD कभी_N_NST नहीं_RP_NEG रोता_V_VM बल्कि_CC_CCD बहुत_RP_INTF खुश_JJ रहता_V_VM लेकिन_CC_CCD मम्मी_N_NN पापा_N_NN हॉस्टल_N_NN का_PSP नाम_N_NN भी_RP_RPD नहीं_RP_NEG सुनना_V_VM चाहते_V_VAUX हैं_V_VAUX</s>
+<s>फिल्म_N_NN देखते_V_VM हुए_V_VAUX उसने_PR_PRP कहा_V_VM हॉस्टल_N_NN कितना_QT_QTF अच्छा_JJ है_V_VM</s>
+<s>वहां_N_NN कितने_N_NN फ्रेंड्स_N_NN है_V_VAUX तो_RP_RPD मम्मी_N_NN पापा_N_NN ने_PSP उसे_PR_PRP डांट_N_NN दिया_V_VM</s>
+<s>सोसाययटी_N_NNP में_PSP रहने_V_VM वाले_PSP दूसरे_QT_QTC सभी_QT_QTF बच्चे_N_NN शाम_N_NN से_PSP पहले_N_NST खेल_N_NN परिसर_N_NN में_PSP नही_RP_NEG आते_V_VM</s>
+<s>उसकी_PR_PRP तरह_N_NN अकेला_N_NN कोई_DM_DMI नहीं_RP_NEG है_V_VAUX सबके_QT_QTF भाई_N_NN बहन_N_NN हैं_V_VM</s>
+<s>सके_N_NN साथ_N_NN खेलने_V_VM वाला_PSP कोई_DM_DMI नही_RP_NEG सोचता_V_VM हुआ_V_VAUX अगत्य_N_NN उदास_N_NN हो_V_VM जाता_V_VAUX है_V_VAUX</s>
+<s>उदासी_N_NN में_PSP कुछ_QT_QTF भी_RP_RPD अच्छा_JJ नही_RP_NEG लगता_V_VM है_V_VAUX</s>
+<s>ऊपर_N_NST से_PSP टिफ़िन_N_NN में_PSP मूँग_N_NN दाल_N_NN का_PSP चीला_N_NNP</s>
+<s>उसने_PR_PRP बुरा_JJ सा_N_NN मुँह_N_NN बनाया_V_VM</s>
+<s>वैक_N_NN दूसरे_QT_QTO टेबल_N_NN पर_PSP बैठी_V_VM लड़की_N_NN पर_PSP नज़र_N_NN पड़ते_V_VM ही_RP_RPD उठकर_V_VM उसकी_PR_PRP टेबल_N_NN पर_PSP चला_V_VM गया_V_VAUX</s>
+<s>अगत्य_N_NN को_PSP दो_QT_QTC चीज़ें_N_NN बहुत_RP_INTF पसंद_N_NN है_V_VM पहला_QT_QTO तो_RP_RPD खेलना_V_VM दूसरा_QT_QTO बोलना_V_VM</s>
+<s>पापा_N_NN कई_QT_QTF बार_N_NN कहते_V_VM है_V_VAUX पहला_QT_QTO स्वभाव_N_NN पापा_N_NN से_PSP मिलता_V_VM है_V_VAUX दूसरा_QT_QTO मम्मा_N_NNP से_PSP</s>
+<s>वैसे_CC_CCS भी_RP_RPD लड़के_N_NN कहाँ_PR_PRQ बातों_N_NN की_PSP गाँठ_N_NN बाँधते_V_VM है_V_VAUX</s>
+<s>सो_N_NN जेनेटिक_N_NN और_CC_CCD जेंडरटिक_JJ प्रभाव_N_NN के_PSP अतिरेक_N_NN में_PSP आकर_V_VM उसने_PR_PRP लड़की_N_NN से_PSP पूछ_V_VM लिया_V_VAUX</s>
+<s>लड़की_N_NN तो_RP_RPD जैसे_N_NN उसके_PR_PRP पूछने_V_VM का_PSP इंतज़ार_N_NN कर_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>फलक_N_NN फलक_N_NN ज़ुल्फ़ीकार_N_NN उसने_PR_PRP जल्दी_N_NN में_PSP कहा_V_VM</s>
+<s>फलक_N_NN अगत्य_N_NN ने_PSP सुनिश्चित_N_NN किया_V_VM</s>
+<s>फलक_N_NN ने_PSP बात_N_NN को_PSP आगे_N_NST बढ़ाते_V_VM हुए_V_VAUX पूछा_V_VM तुमने_V_VAUX अपना_PR_PRF लंच_N_NN देखकर_V_VM वैक_N_NN क्यूँ_V_VM किया_V_VAUX</s>
+<s>दोनों_QT_QTC में_PSP दोस्ती_N_NN हो_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>क्यूँकि_N_NNP मूँग_N_NNP दाल_N_NN का_PSP चीला_N_NNP मुझे_PR_PRP बिलकुल_JJ पसंद_N_NN नहीं_RP_NEG लेकिन_CC_CCD मॉम_N_NN तो_RP_RPD मुझे_PR_PRP यही_DM_DMD खिलाना_V_VM चाहती_V_VAUX है_V_VAUX</s>
+<s>क्यूँ_N_NNP फलक_N_NN को_PSP बहुत_RP_INTF आश्चर्य_JJ हो_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>मॉम_N_NN कहती_V_VM है_V_VAUX मूँग_N_NN दाल_N_NN में_PSP बहुत_QT_QTF प्रोटीन_N_NN होता_V_VM है_V_VAUX अगर_CC_CCS मैं_PR_PRP चीला_N_NNP खाऊँगा_N_NN तो_RP_RPD लड़ाई_N_NN में_PSP हरा_V_VM दूँगा_V_VAUX</s>
+<s>फलक_N_NN की_PSP बड़ी_JJ बड़ी_JJ आँखें_N_NN आश्चर्य_JJ से_PSP और_CC_CCD बड़ी_JJ हो_V_VM गई_V_VAUX</s>
+<s>लेकिन_CC_CCS मुझे_PR_PRP तो_RP_RPD पास्ता_N_NN बेहद_RP_INTF पसंद_N_NN है_V_VM कहते_V_VM हुए_V_VAUX उसने_PR_PRP फ़ॉर्क_N_NN चुभे_V_VM हुए_V_VAUX पास्ता_N_NN को_PSP अपने_PR_PRF दाँतों_N_NN से_PSP खींच_V_VM लिया_V_VAUX</s>
+<s>लेकिन_CC_CCS मेरी_PR_PRP मॉम_N_NN कहती_V_VM है_V_VAUX पास्ता_N_NN जंक_N_NN फ़ूड_N_NN है_V_VM</s>
+<s>अगत्य_N_NNP ने_PSP मम्मा_N_NNP से_PSP प्राप्त_N_NN अपना_PR_PRF सामान्य_JJ ज्ञान_N_NN दर्शाया_V_VM</s>
+<s>मेरी_PR_PRP मम्मा_N_NN तो_RP_RPD बेस्ट_N_NN है_V_VM</s>
+<s>मेरी_PR_PRP मॉम_N_NN तो_RP_RPD सुपर_N_NN बेस्ट_N_NN है_V_VAUX अगत्य_N_NNP ने_PSP बड़े_JJ घमंड_N_NN से_PSP कहा_V_VM</s>
+<s>और_CC_CCD मेरी_PR_PRP मॉम_N_NN सुपर_N_NN सुपर_N_NN सुपर_N_NN बेस्ट_N_NN</s>
+<s>और_CC_CCD मेरी_PR_PRP मॉम_N_NN वर्ल्ड_N_NN की_PSP बेस्ट_N_NN सुपर_N_NN मॉम_N_NN</s>
+<s>फलक_N_NN ने_PSP ऊँ_N_NNP कहते_V_VM हुए_V_VAUX जीभ_N_NN दिखा_V_VM दिया_V_VAUX</s>
+<s>शायद_N_NN उसने_PR_PRP हार_N_NN मान_V_VM ली_V_VAUX थी_V_VAUX</s>
+<s>लड़कियाँ_N_NN चिढ़ती_N_NN बहुत_QT_QTF हैं_V_VM और_CC_CCD लड़कों_N_NN को_PSP उन्हें_PR_PRP चिढ़ाने_N_NN में_PSP मज़ा_N_NN आता_V_VM है_V_VAUX</s>
+<s>सजा_N_NN वाले_PSP दिन_N_NN अगत्य_JJ लंच_N_NN तो_RP_RPD पूरा_JJ ख़तम_N_NN करता_V_VM है_V_VAUX लेकिन_CC_CCD मम्मा_N_NNP को_PSP हग_N_NNP नही_RP_NEG करता_V_VM है_V_VAUX लेकिन_CC_CCD आज_N_NST वो_N_NN बहुत_RP_INTF ख़ुश_V_VM था_V_VAUX उसने_PR_PRP मम्मा_N_NNP को_PSP हग_N_NNP करते_V_VM हुए_V_VAUX फ़लक_N_NN के_PSP चिढ़ने_N_NN के_PSP बारे_N_NN में_PSP बताया_V_VM</s>
+<s>अगत्य_N_NN का_PSP मन_N_NN लगने_V_VM लगा_V_VAUX है_V_VAUX लंच_N_NN भी_RP_RPD फ़िनिश_N_NN होने_V_VM लगा_V_VAUX है_V_VAUX</s>
+<s>अब_N_NST सब_QT_QTF ठीक_N_NN हो_V_VM जायेगा_V_VAUX मम्मा_N_NN भी_RP_RPD मन_N_NN ही_RP_RPD मन_N_NN ख़ुश_V_VM हुई_V_VAUX उस_PR_PRP दिन_N_NN फ़्राइडे_V_VM था_V_VAUX</s>
+<s>ग़र्मी_N_NNP का_PSP मौसम_N_NN अपने_PR_PRF अंतिम_JJ दिनों_N_NN में_PSP था_V_VM</s>
+<s>रोज़_N_NN की_PSP तुलना_N_NN में_PSP मौसम_N_NN बहुत_RP_INTF अच्छा_JJ था_V_VM</s>
+<s>फ़लक_N_NN और_CC_CCD अगत्य_JJ साथ_N_NN में_PSP झूला_N_NN झूल_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>अगत्य_N_NNP ने_PSP अचानक_N_NN ही_RP_RPD कहा_V_VM मुझे_PR_PRP छुट्टियाँ_N_NN ज़रा_QT_QTF भी_RP_RPD पसंद_N_NN नहीं_RP_NEG</s>
+<s>फलक_N_NN ने_PSP बिना_RP_NEG समय_N_NN गँवाये_V_VM ही_RP_RPD कहा_V_VM लेकिन_CC_CCD मुझे_PR_PRP तो_RP_RPD बहुत_RP_INTF पसंद_N_NN है_V_VM</s>
+<s>हाँ_N_NN तुम्हें_PR_PRP तो_RP_RPD ना_RP_NEG खेलने_V_VM में_PSP मन_N_NN लगता_V_VM है_V_VAUX ना_RP_NEG पढ़ने_V_VM में_PSP</s>
+<s>अगत्य_N_NN ने_PSP उसे_PR_PRP ताना_N_NN मारा_V_VM था_V_VAUX</s>
+<s>छुट्टियों_N_NN पर_PSP मैं_PR_PRP अपने_PR_PRF भाई_N_NN के_PSP साथ_PSP खेलती_V_VM हूँ_V_VAUX</s>
+<s>भाई_N_NN अगत्य_N_NN को_PSP आश्चर्य_JJ हुआ_V_VM था_V_VAUX</s>
+<s>हाँ_N_NN मेरा_PR_PRP छोटा_JJ भाई_N_NN</s>
+<s>कज़िन_N_NNP अगत्य_JJ यकीन_N_NN नहीं_RP_NEG कर_V_VM पा_V_VAUX रहा_V_VAUX था_V_VAUX</s>
+<s>नहीं_RP_NEG वह_PR_PRP मेरा_PR_PRP सगा_JJ भाई_N_NN है_V_VM</s>
+<s>सगा_N_NNP भाई_N_NN क्या_PR_PRQ होता_V_VM है_V_VAUX अगत्य_JJ समझा_N_NN नहीं_RP_NEG</s>
+<s>वो_DM_DMD मेरी_PR_PRP मॉम_N_NN के_PSP पेट_N_NN से_PSP आया_V_VM है_V_VAUX और_CC_CCD हमारे_PR_PRP साथ_N_NN हमारे_PR_PRP घर_N_NN में_PSP ही_RP_RPD रहता_V_VM है_V_VAUX</s>
+<s>अच्छा_JJ कहकर_N_NN अगत्य_N_NN चुप_N_NN हो_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>छुट्टी_N_NN पर_PSP मैं_PR_PRP घर_N_NN में_PSP अपने_PR_PRF भाई_N_NN के_PSP साथ_PSP बहुत_RP_INTF खेलती_V_VM हूँ_V_VAUX</s>
+<s>वह_PR_PRP सप्ताहांत_N_NN का_PSP इंतज़ार_N_NN करता_V_VM है_V_VAUX</s>
+<s>फ़लक_N_NN ने_PSP बात_N_NN आगे_N_NST बढ़ाई_V_VM</s>
+<s>क्या_PR_PRQ खेलती_V_VM हो_V_VAUX तुम_PR_PRP उसके_PR_PRP साथ_N_NN</s>
+<s>अगत्य_N_NN बहुत_QT_QTF उत्सुक_N_NN था_V_VM</s>
+<s>बॉल_N_NN बॉल_N_NN खेलती_V_VM हूँ_V_VAUX उसको_PR_PRP कवितायें_N_NN गा_V_VM कर_V_VAUX सुनाती_V_VM हूँ_V_VAUX और_CC_CCD कभी_N_NST कभी_N_NST उसके_PR_PRP डाइपर_N_NN भी_RP_RPD बदलती_V_VM हूँ_V_VAUX</s>
+<s>ये_DM_DMD सब_QT_QTF करने_V_VM में_PSP तुम्हें_PR_PRP मज़ा_N_NN आता_V_VM है_V_VAUX अगत्य_N_NN ने_PSP अत्यधिक_RP_INTF उत्सुकता_N_NN से_PSP पूछा_V_VM</s>
+<s>बहुत_RP_INTF फ़लक_N_NN ने_PSP आत्ममुग्धता_N_NN में_PSP कहा_V_VM</s>
+<s>फिर_CC_CCS थोडा_QT_QTF रुक_V_VM कर_V_VAUX कहा_N_NN अब_N_NST जल्दी_RB ही_RP_RPD वह_PR_PRP भी_RP_RPD स्कूल_N_NN आना_V_VM शुरू_N_NN करेगा_V_VM</s>
+<s>आज_N_NST स्कूल_N_NN से_PSP आकर_V_VM अगत्य_JJ चुप_N_NN चुप_V_VM था_V_VAUX</s>
+<s>कुछ_QT_QTF बोल_N_NN नही_RP_NEG रहा_V_VM था_V_VAUX</s>
+<s>खोया_V_VM खोया_V_VM सा_PSP था_V_VM वह_PR_PRP</s>
+<s>उसके_PR_PRP जहन_N_NN में_PSP फलक_N_NN की_PSP बातें_N_NN उधम_N_NNP मचा_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>क्या_PR_PRQ हुआ_V_VM बेटा_N_NN मम्मी_N_NN घबरा_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>मम्मा_N_NNP मेरा_PR_PRP कोई_DM_DMI अपना_PR_PRF भाई_N_NN क्यूँ_V_VM नही_RP_NEG है_V_VM कुछ_QT_QTF सोचते_V_VM हुए_V_VAUX उसने_PR_PRP पूछा_V_VM था_V_VAUX</s>
+<s>मम्मा_N_NNP बोलना_V_VM शुरू_N_NN करते_V_VM ही_RP_RPD रुक_V_VM गई_V_VAUX थी_V_VAUX तुम_PR_PRP नही_RP_NEG समझोगे_V_VM अभी_N_NST बहुत_RP_INTF छोटे_JJ हो_V_VM</s>
+<s>नही_RP_NEG मुझे_PR_PRP बताइये_JJ कल_N_NN तो_RP_RPD आप_PR_PRP कह_V_VM रही_V_VAUX थी_V_VAUX मैं_PR_PRP बड़ा_JJ हो_V_VM गया_V_VAUX हूँ_V_VAUX अगत्य_JJ ज़िद्द_N_NN पर_PSP अड़ा_V_VM था_V_VAUX</s>
+<s>क्यूँकि_N_NNP महंगाई_N_NNP बहुत_RP_INTF बढ़_V_VM गई_V_VAUX है_V_VAUX और_CC_CCD तुम_PR_PRP बहुत_QT_QTF फ़रमाइश_N_NN करते_V_VM हो_V_VAUX</s>
+<s>अब_N_NST फ़रमाइश_N_NN नही_RP_NEG करूँगा_V_VM अब_N_NST ले_V_VM आइये_V_VAUX मेरे_PR_PRP लिए_PSP भाई_N_NN मुझे_PR_PRP उसके_PR_PRP साथ_N_NN खेलना_V_VM है_V_VAUX जैसे_CC_CCS फ़लक_N_NN खेलती_V_VM है_V_VAUX अपने_PR_PRF अपने_PR_PRF भाई_N_NN के_PSP साथ_N_NN</s>
+<s>जाओ_V_VM डोरेमोन_N_NN देखो_V_VM कहते_V_VM हुए_V_VAUX मम्मी_N_NN की_PSP आवाज़_N_NN भर्रा_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>नहीं_RP_NEG मुझे_PR_PRP तो_RP_RPD भाई_N_NN चाहिए_V_VM भाई_N_NN बाज़ार_N_NN में_PSP नहीं_RP_NEG मिलते_V_VM</s>
+<s>मम्मी_N_NN की_PSP आवाज़_N_NN चिढ़ी_V_VM हुई_V_VAUX थी_V_VAUX</s>
+<s>मैं_PR_PRP जानता_V_VM हूँ_V_VAUX मॉम_N_NN कि_CC_CCS टम्मी_N_NN से_PSP आते_V_VM हैं_V_VAUX</s>
+<s>यह_DM_DMD सुनते_N_NN ही_RP_RPD मम्मी_N_NN ने_PSP उसे_PR_PRP चटाक_N_NN से_PSP एक_QT_QTC थप्पड़_N_NN लगाया_V_VM</s>
+<s>बहुत_QT_QTF बोलने_N_NN लगे_V_VM हो_V_VAUX वह_PR_PRP रोने_V_VM लगा_V_VAUX</s>
+<s>फिर_CC_CCS रोते_V_VM रोते_V_VM कब_PR_PRQ सो_V_VM गया_V_VAUX था_V_VAUX उसे_PR_PRP ध्यान_N_NN नहीं_RP_NEG लेकिन_CC_CCS नींद_N_NN खुली_JJ तो_RP_RPD किसी_DM_DMI के_PSP बोलने_N_NN की_PSP आवाज़_N_NN आ_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>कम_QT_QTF का_PSP अर्थ_N_NN एक_QT_QTC नहीं_RP_NEG होता_V_VM</s>
+<s>कम_QT_QTF से_PSP कम_QT_QTF दो_QT_QTC तो_RP_RPD होने_V_VM ही_RP_RPD चाहिए_V_VM</s>
+<s>बच्चों_N_NN के_PSP व्यक्तित्व_N_NN के_PSP विकास_N_NN के_PSP लिए_PSP यह_DM_DMD बेहद_RP_INTF जरुरी_N_NN है_V_VAUX</s>
+<s>मेरे_PR_PRP दोनों_QT_QTF बच्चे_N_NN कब_PR_PRQ चले_V_VM गए_V_VAUX मुझे_PR_PRP पता_N_NN भी_RP_RPD नहीं_RP_NEG चला_V_VM</s>
+<s>और_CC_CCD दोनों_QT_QTF एक_QT_QTC दुसरे_QT_QTO के_PSP सबसे_RP_INTF अच्छे_JJ दोस्त_N_NN</s>
+<s>यह_DM_DMD नाइन्थ_N_NN फ्लोर_N_NN वाली_PSP इंडियन_N_NNP आंटी_N_NNP की_PSP आवाज़_N_NN थी_V_VM</s>
+<s>वह_PR_PRP कभी_N_NST कभी_N_NST मम्मी_N_NN से_PSP मिलने_V_VM आती_V_VAUX है_V_VAUX शायद_N_NN वह_PR_PRP भी_RP_RPD अगत्य_N_NN की_PSP तरह_N_NN अकेली_N_NN हैं_V_VM</s>
+<s>वह_PR_PRP सोकर_V_VM उठता_V_VAUX है_V_VAUX तो_RP_RPD सीधा_JJ मम्मी_N_NN के_PSP पास_N_NST जाता_V_VM है_V_VAUX लेकिन_CC_CCD आज_N_NST वह_PR_PRP गुस्सा_V_VM है_V_VAUX</s>
+<s>मम्मी_N_NN ने_PSP उसे_PR_PRP थप्पड़_N_NN मारा_V_VM है_V_VAUX</s>
+<s>वह_PR_PRP मम्मी_N_NN के_PSP पास_N_NST नहीं_RP_NEG जायेगा_V_VM</s>
+<s>डॉक्टर_N_NN ने_PSP दूसरे_QT_QTO बच्चे_N_NN के_PSP लिये_PSP मना_V_VM किया_V_VAUX है_V_VAUX</s>
+<s>मेरी_PR_PRP जान_V_VM जा_V_VAUX सकती_V_VAUX है_V_VAUX</s>
+<s>अगत्य_N_NN के_PSP समय_N_NN भी_RP_RPD बहुत_QT_QTF कॉम्प्लिकेशंज़_N_NN थे_V_VM</s>
+<s>डॉक्टर_N_NN ने_PSP कहा_V_VM था_V_VAUX किसी_DM_DMI एक_QT_QTC को_PSP बचाया_V_VM जा_V_VAUX सकता_V_VAUX है_V_VAUX</s>
+<s>दोनो_N_NN को_PSP बड़ी_JJ ही_RP_RPD मुश्किलों_N_NN से_PSP बचाया_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>डॉक्टर_N_NN ने_PSP साफ़_N_NN साफ़_N_NN कहा_V_VM था_V_VAUX दूसरी_QT_QTO बार_N_NN वो_DM_DMD कुछ_QT_QTF नही_RP_NEG कर_V_VM पायेंगे_V_VAUX</s>
+<s>यह_DM_DMD मम्मी_N_NN की_PSP आवाज़_N_NN थी_V_VM</s>
+<s>अगत्य_JJ अक्सर_N_NN बीमार_N_NN होता_V_VM रहता_V_VAUX है_V_VAUX</s>
+<s>उसकी_PR_PRP इम्युनिटी_N_NN बहुत_RP_INTF कमज़ोर_JJ है_V_VM</s>
+<s>डॉक्टर_N_NN के_PSP पास_N_NST आता_V_VM जाता_V_VAUX रहता_V_VAUX है_V_VAUX</s>
+<s>वह_PR_PRP मम्मी_N_NN की_PSP पूरी_JJ बात_N_NN तो_RP_RPD नहीं_RP_NEG लेकिन_CC_CCD इतना_QT_QTF ज़रूर_RB समझ_V_VM गया_V_VAUX कि_CC_CCS भाई_N_NN को_PSP लाने_V_VM में_PSP मम्मी_N_NN की_PSP जान_V_VM जा_V_VAUX सकती_V_VAUX है_V_VAUX</s>
+<s>वह_PR_PRP डर_N_NN के_PSP मारे_N_NN काँप_V_VM गया_V_VAUX</s>
+<s>दौड़कर_V_VM मम्मी_N_NN से_PSP जा_N_NN लिपट_V_VM गया_V_VAUX</s>
+<s>मम्मी_N_NN उसके_PR_PRP सर_N_NN पर_PSP हाथ_N_NN फेर_V_VM कर_V_VAUX उसे_PR_PRP चूमते_V_VM हुए_V_VAUX अपनी_PR_PRF ही_RP_RPD रौ_N_NN में_PSP बोले_V_VM जा_V_VAUX रही_V_VAUX थी_V_VAUX कितना_N_NN तो_RP_RPD अरमान_N_NN था_V_VAUX दो_QT_QTC बच्चों_N_NN का_PSP</s>
+<s>एक_QT_QTC बेटी_N_NN और_CC_CCD एक_QT_QTC बेटा_N_NN</s>
+<s>तब_CC_CCS जाकर_V_VM परिवार_N_NN पूरा_QT_QTF होता_V_VM है_V_VAUX</s>
+<s>जो_P बड़ा_JJ होता_V_VM है_V_VAUX वह_PR_PRP छोटे_JJ का_PSP धयान_N_NN रखता_V_VM है_V_VAUX लेकिन_CC_CCD क़िस्मत_N_NN की_PSP लकीरें_N_NN इतनी_QT_QTF उलझी_N_NN हुई_V_VM होती_V_VAUX है_V_VAUX कि_CC_CCS हम_PR_PRP चाह_N_NN कर_V_VM भी_RP_RPD रास्ता_N_NN नही_RP_NEG निकाल_V_VM पाते_V_VAUX हैं_V_VAUX</s>
+<s>अगत्य_JJ मम्मी_N_NN से_PSP चिपका_V_VM हुआ_V_VAUX ध्यान_N_NN से_PSP सुन_V_VM रहा_V_VAUX था_V_VAUX मैं_PR_PRP अगत्य_N_NN का_PSP अकेलापन_JJ बख़ूबी_N_NN समझती_V_VM हूँ_V_VAUX</s>
+<s>ख़ुद_N_NNP भी_RP_RPD बड़े_JJ परिवार_N_NN से_PSP हूँ_V_VM और_CC_CCD हम_PR_PRP बहुत_QT_QTF से_PSP भाई_N_NN बहन_N_NN हैं_V_VM</s>
+<s>उम्र_N_NN में_PSP कम_QT_QTF अंतर_N_NN होने_V_VM के_PSP कारण_N_NN हम_PR_PRP सभी_QT_QTF भाई_N_NN बहन_N_NN आपस_PR_PRC में_PSP दोस्त_N_NN थे_V_VM</s>
+<s>साथ_N_NN स्कूल_N_NN जाते_V_VM साथ_N_NN आते_V_VM</s>
+<s>साथ_N_NN साथ_PSP लड़ते_V_VM झगड़ते_N_NN खेलते_V_VM बड़े_JJ हुए_V_VM थे_V_VAUX</s>
+<s>किसी_DM_DMI फ़िल्म_N_NN की_PSP चर्चा_N_NN हो_V_VM या_CC_CCD किसी_DM_DMI किताब_N_NN पर_PSP सारे_QT_QTF भाई_N_NN बहन_N_NN अपनी_PR_PRF अपनी_PR_PRF राय_N_NN देते_V_VM थे_V_VAUX और_CC_CCD उसपर_N_NN घंटों_N_NN डिस्कशन_N_NN करते_V_VM थे_V_VAUX</s>
+<s>हमें_PR_PRP कभी_DM_DMI बाहरी_JJ दोस्त_N_NN की_PSP ज़रूरत_N_NN महसूस_N_NN नही_RP_NEG हुई_V_VM</s>
+<s>मैं_PR_PRP समझती_V_VM हूँ_V_VAUX बच्चों_N_NN के_PSP व्यक्तित्व_N_NN के_PSP विकास_N_NN के_PSP लिये_PSP भाई_N_NN या_CC_CCD बहन_N_NN का_PSP होना_V_VM कितना_QT_QTF ज़रूरी_N_NN है_V_VM</s>
+<s>बच्चों_N_NN में_PSP रिश्ते_N_NN को_PSP समझने_V_VM के_PSP लिये_PSP और_CC_CCD रिश्तों_N_NN का_PSP अस्तित्व_N_NN बचाये_V_VM रखने_V_VAUX के_PSP लिये_PSP कम_QT_QTF से_PSP कम_QT_QTF दो_QT_QTC बच्चा_N_NN बेहद_RP_INTF ज़रूरी_N_NN है_V_VM</s>
+<s>नही_RP_NEG तो_RP_RPD आने_V_VM वाले_PSP समय_N_NN में_PSP चाचा_N_NN या_CC_CCD बुआ_N_NN जैसे_N_NN रिश्ते_N_NN लुप्त_N_NN हो_V_VM जायेंगे_V_VAUX</s>
+<s>लेकिन_CC_CCD मैं_PR_PRP चाह_N_NN कर_V_VM भी_RP_RPD अगत्य_N_NN को_PSP भाई_N_NN या_CC_CCD बहन_N_NN नही_RP_NEG दे_V_VM सकती_V_VAUX</s>
+<s>एक_QT_QTC बार_N_NN तो_RP_RPD एक_QT_QTC बच्चा_N_NN अडॉप्ट_N_NN करने_V_VM की_PSP सोचा_N_NN</s>
+<s>दुनिया_N_NN में_PSP ऐसे_DM_DMD बहुत_QT_QTF से_PSP बच्चे_N_NN हैं_V_VAUX जिन्हें_P माँ_N_NN बाप_N_NN के_PSP प्यार_N_NN की_PSP ज़रूरत_N_NN है_V_VM</s>
+<s>लेकिन_CC_CCS परिवार_N_NN के_PSP सभी_QT_QTF सदस्य_N_NN इस_DM_DMD बात_N_NN से_PSP सहमत_N_NN नही_RP_NEG हुए_V_VM</s>
+<s>उनका_PR_PRP मानना_V_VM है_V_VAUX अपना_PR_PRF ख़ून_N_NN अपना_PR_PRF ही_RP_RPD होता_V_VM है_V_VAUX और_CC_CCD बात_N_NN आइ_N_NN गई_V_VM हो_V_VAUX गई_V_VAUX</s>
+<s>लेकिन_CC_CCD आज_N_NST मुश्किल_N_NN हो_V_VM रहा_V_VAUX है_V_VAUX अगत्य_N_NN के_PSP सवालों_N_NN का_PSP जवाब_N_NN देना_V_VM और_CC_CCD उससे_PR_PRP भी_RP_RPD ज़्यादा_JJ मुश्किल_N_NN हो_V_VM रहा_V_VAUX है_V_VAUX उसका_PR_PRP अकेलापन_N_NN दूर_N_NN करना_V_VM</s>
+<s>अब_N_NST तो_RP_RPD ईस्टर_N_NN की_PSP लम्बी_JJ छुट्टियाँ_N_NN होने_V_VM वाली_PSP होगी_V_VM हैं_V_VAUX न_RP_NEG अगत्य_N_NN</s>
+<s>आंटी_N_NNP ने_PSP उससे_PR_PRP पूछा_V_VM</s>
+<s>हाँ_N_NN डायरी_N_NN में_PSP शायद_N_NN यही_DM_DMD लिखा_V_VM है_V_VAUX आज_N_NN</s>
+<s>स्कूल_N_NN में_PSP पढ़ाई_N_NN कम_QT_QTF और_CC_CCD छुट्टियाँ_N_NN ज़्यादा_JJ होती_V_VM है_V_VAUX</s>
+<s>तीन_QT_QTC महीने_N_NN में_PSP तीस_QT_QTC दिन_N_NN स्कूल_N_NN बंद_N_NN ही_RP_RPD रहा_V_VM है_V_VAUX</s>
+<s>आज_N_NN ये_DM_DMD तो_RP_RPD कल_N_NN वो_N_NN अब_N_NST ईस्टर_N_NNP की_PSP छुट्टी_N_NN में_PSP घर_N_NN में_PSP सारा_QT_QTF दिन_N_NN डोरेमोन_N_NN और_CC_CCD नोविता_N_NN</s>
+<s>अगत्य_N_NNP से_PSP ज़्यादा_JJ उसकी_N_NN मम्मा_N_NN उदास_N_NN थी_V_VM</s>
+<s>अगत्य_N_NNP ने_PSP लंच_N_NN को_PSP छुआ_N_NN भी_RP_RPD नहीं_RP_NEG</s>
+<s>नई_N_NNP इलेक्ट्रॉनिक_N_NNP बाइक_N_NN आई_V_VM है_V_VAUX स्कूल_N_NN में_PSP</s>
+<s>जब_P बाक़ी_N_NN के_PSP बच्चे_N_NN लंच_N_NN कर_V_VM रहे_V_VAUX थे_V_VAUX उस_PR_PRP वक़्त_N_NN अगत्य_N_NN बाईक_N_NN के_PSP साथ_PSP खेल_N_NN रहा_V_VM था_V_VAUX</s>
+<s>फ़लक_N_NN ने_PSP याद_N_NN दिलाया_V_VM अगत्य_JJ लंच_N_NN फ़िनिश_N_NN कर_V_VM लो_N_NN नही_RP_NEG तो_RP_RPD कल_N_NN फिर_RB पनिश्मेंट_N_NN मिलेगा_V_VM</s>
+<s>कल_N_NN से_PSP तो_RP_RPD ईस्टर_N_NN हॉलिडे_N_NN शुरू_V_VM है_V_VAUX बुद्धू_N_NN आज_N_NN खेल_N_NN लेने_V_VM दो_QT_QTC कल_N_NN से_PSP तो_RP_RPD फिर_RB टेन_N_NN डेज़_N_NN के_PSP लिये_PSP बोर_N_NN होता_V_VM रहूँगा_V_VAUX</s>
+<s>दस_QT_QTC दिन_N_NN की_PSP छुट्टी_N_NN के_PSP अनाउन्स्मेंट_N_NN पर_PSP सारे_QT_QTF बच्चे_N_NN ख़ुशी_N_NN के_PSP मारे_N_NN ये_DM_DMD ये_DM_DMD करने_V_VM लगे_V_VAUX</s>
+<s>बस_N_NN अगत्य_N_NN दुखी_N_NN हो_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>तुम_PR_PRP सैड_N_NN क्यूँ_N_NN हो_V_VM गये_V_VAUX फलक_N_NN ने_PSP पूछा_V_VM</s>
+<s>मुझे_PR_PRP हॉलिडे_N_NN बिलकुल_N_NN पसंद_N_NN नही_RP_NEG है_V_VAUX</s>
+<s>मुझे_PR_PRP तो_RP_RPD हॉलिडे_N_NN बहुत_RP_INTF अच्छा_JJ लगता_V_VM है_V_VAUX</s>
+<s>तुम्हारी_N_NNP तरह_N_NN मेरा_PR_PRP कोई_DM_DMI ओन_N_NNP ब्रदर_N_NN नही_RP_NEG है_V_VM</s>
+<s>अगत्य_JJ अब_N_NN और_CC_CCD अधिक_QT_QTF उदास_N_NN हो_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>आज_N_NST तो_RP_RPD भारत_N_NNP से_PSP मेरे_PR_PRP दादा_N_NNP जी_N_NNP और_CC_CCD दादा_N_NNP आ_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>फलक_N_NN ने_PSP ख़ुशी_N_NN ज़ाहिर_N_NN करते_V_VM हुए_V_VAUX कहा_V_VM</s>
+<s>वाह_RP_INJ क्या_PR_PRQ किस्मत_N_NN है_V_VAUX तुम्हारी_N_NNP अगत्य_N_NNP ने_PSP गहरी_JJ उदासी_N_NN से_PSP कहा_V_VM</s>
+<s>तुम्हारे_PR_PRP दादा_N_NN दादी_N_NN नही_RP_NEG हैं_V_VM</s>
+<s>हैं_V_VM लेकिन_CC_CCS वे_DM_DMD भारत_N_NNP में_PSP हैं_V_VM</s>
+<s>अगत्य_N_NN को_PSP याद_N_NN हो_V_VM आया_V_VAUX इंडिया_N_NN में_PSP कैसे_DM_DMQ दादू_N_NN उसके_PR_PRP लिये_PSP कभी_N_NST घोड़ा_N_NN बनते_V_VM थे_V_VAUX और_CC_CCD दादी_N_NN कहानियाँ_N_NN सुनाती_V_VM थी_V_VAUX</s>
+<s>दादू_N_NNP दादी_N_NN तो_RP_RPD उसके_PR_PRP साथ_PSP लूडो_N_NN भी_RP_RPD खेलते_V_VM थे_V_VAUX और_CC_CCD कैरम_N_NN तो_RP_RPD जानबूझकर_V_VM कर_V_VAUX हार_N_NN जाते_V_VM थे_V_VAUX</s>
+<s>अगत्य_JJ गेम_N_NN में_PSP उनके_PR_PRP साथ_PSP चीटिंग_N_NN भी_RP_RPD करता_V_VM था_V_VAUX दादी_N_NN को_PSP तंग_N_NN भी_RP_RPD बहुत_RP_INTF करता_V_VM था_V_VAUX</s>
+<s>फिर_CC_CCS भी_RP_RPD दादी_N_NN उसके_PR_PRP स्कूल_N_NN से_PSP आने_V_VM के_PSP टाइम_N_NN पर_PSP दरवाज़े_N_NN के_PSP पास_N_NST ही_RP_RPD बैठी_V_VM रहती_V_VAUX थी_V_VAUX</s>
+<s>कितना_QT_QTF रोई_N_NN थी_V_VAUX दादी_N_NN जब_P वो_PR_PRP यहाँ_DM_DMD आ_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>अब_N_NST हफ़्ते_N_NN में_PSP एक_QT_QTC बार_N_NN स्काइप_N_NN पर_PSP बात_N_NN होती_V_VM है_V_VAUX दादी_N_NN कहती_V_VM है_V_VAUX अगत्य_N_NN के_PSP बिना_PSP उनका_PR_PRP मन_N_NN नही_RP_NEG लगता_V_VM</s>
+<s>मन_N_NN तो_RP_RPD अगत्य_N_NN का_PSP भी_RP_RPD नही_RP_NEG लगता_V_VM लेकिन_CC_CCD वो_DM_DMD मम्मी_N_NN पापा_N_NN के_PSP बिना_PSP नही_RP_NEG रह_V_VM सकता_V_VAUX</s>
+<s>मॉम_N_NN आज_N_NN फ़लक_N_NN के_PSP दादा_N_NN दादी_N_NN आ_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>मॉम_N_NN क्या_PR_PRQ मेरे_PR_PRP दादू_N_NN और_CC_CCD दादी_N_NN यहाँ_DM_DMD नही_RP_NEG आ_V_VM सकते_V_VAUX</s>
+<s>यह_DM_DMD सुनकर_V_VM मॉम_N_NN ने_PSP उसे_PR_PRP ऐसे_DM_DMD देखा_V_VM जैसे_CC_CCS उन्हें_PR_PRP सबसे_RP_INTF टफ़_N_NN पज़ल_N_NN का_PSP हल_N_NN मिल_V_VM गया_V_VAUX है_V_VAUX जो_P उनकी_PR_PRP आँखों_N_NN के_PSP सामने_N_NST तो_RP_RPD था_V_VAUX लेकिन_CC_CCD सूझ_N_NN नही_RP_NEG रहा_V_VM था_V_VAUX</s>
+<s>नवारुण_N_NNP भट्टाचार्य_N_NNP की_PSP इस_DM_DMD प्रसंगिक_N_NN कहानी_N_NN का_PSP अनुवाद_N_NN किया_V_VM है_V_VAUX</s>
+<s>उन्नीस_QT_QTC सौ_QT_QTC इक्यानवे_N_NN में_PSP जिस_P सोवियत_N_NN यूनियन_N_NN की_PSP विलुप्ति_N_NN की_PSP घोषणा_N_NN इस_DM_DMD दुनिया_N_NN के_PSP सबसे_RP_INTF नामी_N_NN {_RD_PUNC प्रसिद्ध_JJ }_RD_PUNC</s>
+<s>क्रिमि_N_NNP नोलॉजिस्ट_N_NNP भी_RP_RPD नहीं_RP_NEG कर_V_VM पाए_V_VAUX</s>
+<s>अगर_CC_CCS पृथ्वी_N_NN को_PSP सैकड़ों_QT_QTC बार_N_NN जलाकर_V_VM भस्म_N_NN कर_V_VM दिया_V_VAUX जाए_V_VAUX और_CC_CCD इस_DM_DMD तरह_N_NN की_PSP हजारों_N_NN न्यूक्लियर_N_NN मिसाईल_N_NNP उनके_PR_PRP साइलो_N_NN में_PSP सोई_V_VM हुई_V_VAUX भी_RP_RPD रहें_V_VM</s>
+<s>मार्किन_N_NNP युक्त_N_NN राष्ट्र_N_NN को_PSP नीचा_JJ दिखाने_N_NN के_PSP लिए_PSP विशाल_JJ सामरिक_N_NN वाहिनी_N_NN पुलिस_N_NN केबीजी_N_NN लाखों_N_NN की_PSP तादात_N_NN में_PSP पार्टी_N_NN सदस्य_N_NN सब_QT_QTF ठूंठ_JJ साबित_N_NN होंगे_V_VM</s>
+<s>इस_DM_DMD घटना_N_NN को_PSP हम_PR_PRP विश्व_N_NN का_PSP सबसे_RP_INTF बड़ा_JJ पैरालिसिस_N_NN की_PSP भी_RP_RPD संज्ञा_N_NN दे_V_VM सकते_V_VAUX हैं_V_VAUX</s>
+<s>वलकोगन_N_NNP के_PSP जैसे_N_NN इतिहासकार_N_NN ने_PSP भी_RP_RPD बाद_N_NST में_PSP ढेर_N_NN सारे_QT_QTF तथ्य_N_NN दिए_V_VM</s>
+<s>किन्तु_CC_CCD इस_DM_DMD महापतन_N_NN के_PSP बारे_N_NN में_PSP एक_QT_QTC मात्र_N_NN आभास_N_NN कर_V_VM पाते_V_VAUX हैं_V_VAUX हम_PR_PRP साहित्यकार_N_NN वुल्गाकाव_N_NN ग्रॉसमैन_N_NN लेव_N_NN अनातोल_N_NNP से_PSP सलझेनित्सिन_N_NN के_PSP अनेकों_QT_QTF लेखों_N_NN में_PSP शायद_N_NN उन्होंने_PR_PRP साफ़_N_NN तौर_N_NN पर_PSP नहीं_RP_NEG लिखा_V_VM</s>
+<s>पर_PSP उन_PR_PRP लेखों_N_NN में_PSP एक_QT_QTC संभावना_N_NN का_PSP आभास_N_NN जरूर_N_NN था_V_VM</s>
+<s>यह_DM_DMD सब_QT_QTF सिर्फ_QT_QTF साहित्य_N_NN में_PSP ही_RP_RPD संभव_N_NN है_V_VM</s>
+<s>2010_QT_QTC यह_DM_DMD संख्या_N_NN बदल_V_VM सकता_V_VAUX है_V_VAUX पर_PSP यह_DM_DMD कहानी_N_NN जरूर_N_NN घटित_V_VM होगा_V_VAUX</s>
+<s>क्यों_PR_PRQ जिन_P से_PSP हमें_PR_PRP और_CC_CCD भी_RP_RPD कई_QT_QTF तरह_N_NN की_PSP सटीक_JJ खबरे_N_NN आती_V_VM हैं_V_VAUX</s>
+<s>सी_N_NNP आई_N_NN ए_N_NNP एफ_N_NNP बी_N_NNP आई_N_NNP दोस्त_N_NNP ब्रिटेन_N_NNP के_PSP एम_N_NNP आई_N_NNP फाइव_N_NNP</s>
+<s>आजकल_N_NST पृथ्वी_N_NN स्वच्छ_JJ है_V_VAUX गोपनीय_JJ जैसा_N_NN कुछ_QT_QTF भी_RP_RPD नहीं_RP_NEG</s>
+<s>कम_QT_QTF से_PSP कम_QT_QTF व्हाइट_N_NN हाऊस_N_NN में_PSP</s>
+<s>पर_PSP संयुक्त_JJ राष्ट्र_N_NN के_PSP प्रेसिडेंट_N_NN की_PSP बातों_N_NN को_PSP नकार_V_VM कर_V_VAUX क्रेमलिन_N_NNP घोषणा_N_NN करेगा_V_VM कि_CC_CCS शोवरजेनेगर_N_NN की_PSP बातें_N_NN गलत_N_NN हैं_V_VM</s>
+<s>ऑस्ट्रेलियन_N_NNP वृद्ध_N_NN पृथ्वी_N_NN का_PSP आखरी_N_NN कम्युनिस्ट_N_NN नहीं_RP_NEG है_V_VM</s>
+<s>पर_PSP पृथ्वी_N_NN का_PSP आखरी_N_NN कम्युनिस्ट_N_NN भी_RP_RPD मरने_N_NN के_PSP कगार_N_NN में_PSP है_V_VM</s>
+<s>रस्तोभ_N_NNP अन_N_NNP दन_N_NNP शहर_N_NN के_PSP एक_QT_QTC अस्पताल_N_NN</s>
+<s>उसका_PR_PRP नाम_N_NN है_V_VAUX ब्लादमीर_N_NNP रुवाकभ_N_NNP जिसे_P द्वितीय_QT_QTO विश्व_N_NN युद्ध_N_NN में_PSP सोवियत_N_NN यूनियन_N_NN वीर_N_NN का_PSP ख़िताब_N_NN मिला_V_VM</s>
+<s>रिपोर्टर_N_NN लड़के_N_NN का_PSP नाम_N_NN था_V_VM रॉबर्ट_N_NNP डायल_N_NN</s>
+<s>फ्रीलांस_N_NN रिपोर्टिंग_N_NN करता_V_VM था_V_VAUX</s>
+<s>द_N_NNP डेली_N_NNP रिपोर्टर_N_NNP उसे_PR_PRP मॉस्को_N_NNP में_PSP ईमेल_N_NN से_PSP सूचित_N_NN करता_V_VM है_V_VAUX कि_CC_CCS वे_PR_PRP लोग_N_NN रुवाकभ_N_NN पर_PSP एक_QT_QTC स्टोरी_N_NNP करना_V_VM चाहते_V_VAUX हैं_V_VAUX</s>
+<s>यह_DM_DMD मेल_N_NN डायल_N_NN को_PSP रात_N_NN में_PSP ही_RP_RPD मिल_V_VM चुका_V_VAUX था_V_VAUX</s>
+<s>दूसरे_QT_QTO ही_RP_RPD दिन_N_NN सुबह_N_NN सुबह_N_NN डायल_N_NN एरोफ्लाटेर_N_NN डोमेस्टिक_N_NN फ्लाईट_N_NN पकड़कर_N_NN रस्तोभ_N_NN अन_N_NN दन_N_NN शहर_N_NN पहुँच_V_VM जाता_V_VAUX है_V_VAUX</s>
+<s>रशिया_N_NNP के_PSP आतंरिक_JJ फ्लाईट_N_NN के_PSP बारे_N_NN में_PSP किसी_DM_DMI भी_RP_RPD तरह_N_NN का_PSP उसे_PR_PRP अनुभव_N_NN नहीं_RP_NEG था_V_VAUX</s>
+<s>यहाँ_DM_DMD जिस_P तरह_N_NN की_PSP बेढंगी_JJ एयर_N_NN होस्टेस_N_NN मिलीं_V_VM उससे_PR_PRP भी_RP_RPD गंदी_JJ थी_V_VAUX फ्लाईट_N_NN का_PSP टॉयलेट_N_NN</s>
+<s>तीस_QT_QTC सालों_N_NN के_PSP कैपिटलिज़्म_N_NN भी_RP_RPD रशिया_N_NNP को_PSP सभ्य_JJ या_CC_CCD भव्य_JJ नहीं_RP_NEG बना_V_VM पाई_V_VAUX</s>
+<s>रशियन_N_NNP केपिटलिस्ट_N_NNP मैनचेस्टर_N_NNP यूनाइटेड_N_NNP को_PSP भी_RP_RPD खरीदना_V_VM चाहते_V_VAUX हैं_V_VAUX</s>
+<s>डायल_N_NN रुवाकभ_N_NN की_PSP खोज_N_NN में_PSP निकलते_V_VM ही_RP_RPD उसे_PR_PRP और_CC_CCD भी_RP_RPD कई_QT_QTF स्टोरी_N_NNP मिल_V_VM गईं_V_VAUX</s>
+<s>ऐसा_DM_DMD कई_QT_QTF बार_N_NN होता_V_VM है_V_VAUX एक_QT_QTC चक्कर_N_NN के_PSP भीतर_N_NST कई_QT_QTF चक्कर_N_NN</s>
+<s>सिर्फ_QT_QTF इसे_DM_DMD इंट्रेस्टिंग_N_NN बना_V_VM पाए_V_VAUX तो_RP_RPD मजा_N_NN आ_V_VM जाये_V_VAUX</s>
+<s>डायल_N_NN रस्तोभ_N_NN अन_N_NN दन_N_NN के_PSP मेट्रोपोल_N_NN होटल_N_NN में_PSP चेक_N_NN इन_N_NN कर_V_VM ही_RP_RPD निकल_V_VM पड़ा_V_VAUX</s>
+<s>उसके_PR_PRP संग_N_NN उसका_PR_PRP नित्य_N_NN का_PSP संगी_N_NN लेपटॉप_N_NN भी_RP_RPD था_V_VM</s>
+<s>रशिया_N_NNP ही_RP_RPD शायद_N_NN विश्व_N_NN का_PSP एकमात्र_N_NN देश_N_NN है_V_VAUX जहाँ_P अस्पतालों_N_NN में_PSP आयडोफॉर्म_N_NN या_CC_CCD उसी_DM_DMD के_PSP जैसा_N_NN कोई_DM_DMI प्राचीन_JJ गंध_N_NN मिलता_V_VM है_V_VAUX</s>
+<s>कुछ_QT_QTF ऐसी_DM_DMD ही_RP_RPD लाईन_N_NN मन_N_NN ही_RP_RPD मन_N_NN सोचता_V_VM डायल_N_NN बॉरिस_N_NN मेमोरियल_N_NN हॉस्पिटल_N_NN में_PSP प्रवेश_N_NN करता_V_VM है_V_VAUX</s>
+<s>रिसेप्सनिस्ट_N_NN लड़की_N_NN टूटी_V_VM फूटी_N_NN इंग्लिश_N_NNP में_PSP कहती_V_VM है_V_VAUX —_CC_CCD आप_PR_PRP मिस्टर_N_NN डायल_N_NN हैं_V_VM</s>
+<s>हाँ_N_NN प्रेस_N_NN का_PSP कार्ड_N_NN दिखलाऊँ_V_VM क्या_PR_PRQ</s>
+<s>नहीं_RP_NEG कोई_DM_DMI जरूरत_N_NN नहीं_RP_NEG मिस्टर_N_NN मैक्सिम_N_NNP ब्लादमीरोव्हिच_N_NNP रुवाकभ_N_NNP आधे_QT_QTC घंटे_N_NN से_PSP आपका_PR_PRP इंतजार_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>वे_PR_PRP ही_RP_RPD आपको_PR_PRP पेशेंट_N_NN के_PSP कमरे_N_NN तक_PSP ले_V_VM जायेंगे_V_VAUX</s>
+<s>डायल_N_NN के_PSP करीब_N_NST आ_V_VM गए_V_VAUX थे_V_VAUX मैक्सिम_N_NNP डायल_N_NN जनता_N_NN था_V_VAUX मैक्सिम_N_NNP इंग्लिश_N_NNP के_PSP प्रोफ़ेसर_N_NN हैं_V_VM</s>
+<s>हाथ_N_NN मिलाते_V_VM ही_RP_RPD मैक्सिम_N_NNP बोले_N_NN कैसे_DM_DMQ हैं_V_VM आपके_PR_PRP डैड_N_NN</s>
+<s>होश_N_NN में_PSP हैं_V_VM पर_PSP अनर्गल_JJ बातें_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX पर_PSP हमारी_PR_PRP बातों_N_NN का_PSP वे_PR_PRP कोई_DM_DMI जवाब_N_NN नहीं_RP_NEG दे_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>डॉक्टरों_N_NN का_PSP भी_RP_RPD कहना_V_VM है_V_VAUX इससे_P ज्यादा_QT_QTF और_CC_CCD कुछ_QT_QTF नहीं_RP_NEG किया_V_VM जा_V_VAUX सकता_V_VAUX</s>
+<s>और_CC_CCD फिर_CC_CCS युद्ध_N_NN में_PSP उनके_PR_PRP दोनों_QT_QTC कानों_N_NN में_PSP बहुत_RP_INTF ही_RP_RPD अधिक_QT_QTF चोटें_V_VM थीं_V_VAUX</s>
+<s>आप_PR_PRP क्या_PR_PRQ स्कॉटलैंड_N_NNP से_PSP हैं_V_VM गलत_N_NN कह_V_VM गया_V_VAUX</s>
+<s>नहीं_RP_NEG आपने_PR_PRP बिलकुल_N_NN ठीक_N_NN कहा_V_VM</s>
+<s>अभी_N_NST भी_RP_RPD पढ़_V_VM रहा_V_VAUX हूँ_V_VAUX</s>
+<s>हिऊ_N_NN मैकडायरमिड_N_NN मेरे_PR_PRP प्रिय_JJ कवि_N_NN हैं_V_VM अपने_PR_PRF उन्हें_PR_PRP पढ़ा_V_VM है_V_VAUX</s>
+<s>आदिम_N_NNP युग_N_NN के_PSP सामान_N_NN लिफ्ट_N_NN के_PSP निकट_N_NST आकर_V_VM दरवाजा_N_NN खोलते_V_VM हुए_V_VAUX मैक्सिम_N_NNP हँस_V_VM पड़ा_V_VAUX</s>
+<s>बेहद_RP_INTF इच्छा_N_NN थी_V_VAUX कि_CC_CCS मैं_PR_PRP हीऊ_N_NN मैकडायरमिड_N_NN के_PSP ऊपर_N_NST काम_N_NN करू_N_NN स्कॉट_N_NNP भाषा_N_NN भी_RP_RPD सीख_V_VM ली_V_VAUX थी_V_VAUX अगर_CC_CCS आपको_PR_PRP फस्ट_N_NN हिम_N_NN टू_N_NN लेनिन_N_NN पढ़नी_V_VM हो_V_VAUX तो_RP_RPD स्कॉट_N_NNP भाषा_N_NN आनी_V_VM ही_RP_RPD चाहिए_V_VM</s>
+<s>सच_N_NN सच_N_NN कहूं_N_NN तो_RP_RPD बानर्स_N_NNP भी_RP_RPD मुझे_PR_PRP उतना_N_NN नहीं_RP_NEG खींचते_V_VM</s>
+<s>बरामदे_N_NN में_PSP एक_QT_QTC मोटी_JJ सी_N_NN मेट्रन_N_NN रुसी_N_NN भाषा_N_NN में_PSP मैक्सिम_N_NNP से_PSP कुछ_QT_QTF कहा_V_VM और_CC_CCD मैक्सिम_N_NNP हँस_V_VM पड़ा_V_VAUX</s>
+<s>लगातार_RB बातें_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX वे_PR_PRP</s>
+<s>क्या_PR_PRQ आप_PR_PRP रुसी_N_NN समझते_V_VM है_V_VAUX</s>
+<s>खूब_QT_QTF अच्छे_JJ से_PSP नहीं_RP_NEG पर_PSP शायद_N_NN टूरिस्ट_N_NN बने_V_VM तो_RP_RPD असुविधा_N_NN नहीं_RP_NEG होगी_V_VM</s>
+<s>सोचिये_N_NN मत_N_NN मैं_PR_PRP कह_V_VM दूंगा_V_VAUX</s>
+<s>अच्छा_JJ सब_QT_QTF कह_V_VM रहे_V_VAUX हैं_V_VAUX कीआपके_N_NN पिता_N_NN ही_RP_RPD पृथ्वी_N_NN के_PSP आखरी_N_NN कम्युनिस्ट_N_NN हैं_V_VM</s>
+<s>क्या_PR_PRQ आपको_PR_PRP भी_RP_RPD इस_DM_DMD बात_N_NN पर_PSP विश्वास_N_NN हैं_V_VM</s>
+<s>पेपरों_N_NN में_PSP टी_N_NN वी_N_NN पर_PSP तो_RP_RPD यही_DM_DMD कहा_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX</s>
+<s>क्रेमलिन_N_NNP भी_RP_RPD यही_DM_DMD कह_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>अमिन_N_NNP आपकी_N_NN बात_N_NN कर_V_VM रहा_V_VAUX हूँ_V_VAUX आप_PR_PRP क्या_PR_PRQ कहते_V_VM हैं_V_VAUX इस_DM_DMD बारे_N_NN में_PSP</s>
+<s>वे_DM_DMD अब_N_NST एक_QT_QTC केबिन_N_NN के_PSP भीतर_N_NST प्रवेश_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>इसलिए_CC_CCS मैक्सिम_N_NNP का_PSP जवाब_N_NN देने_V_VM का_PSP कोई_DM_DMI प्रश्न_N_NN ही_RP_RPD नहीं_RP_NEG उठता_V_VM समय_N_NN ही_RP_RPD नहीं_RP_NEG मिला_V_VM</s>
+<s>उसी_DM_DMD वक़्त_N_NN एक_QT_QTC डॉक्टर_N_NN केबिन_N_NN से_PSP बाहर_N_NST निकल_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>मॉनिटरिंग_N_NNP मशीन_N_NN चल_V_VM रहा_V_VAUX था_V_VAUX उसके_PR_PRP परदे_N_NN पर_PSP आड़ी_N_NN तिरछी_JJ रेखायें_N_NN लहरा_V_VM रही_V_VAUX थीं_V_VAUX और_CC_CCD यह_DM_DMD भी_RP_RPD सूचना_N_NN दे_V_VM रही_V_VAUX थी_V_VAUX की_PSP जीवन_N_NN चल_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>एक_QT_QTC नर्स_N_NN भी_RP_RPD थी_V_VM वहां_V_VAUX</s>
+<s>बूढ़े_JJ रुवाकभ_N_NN को_PSP जरा_QT_QTF ऊँचा_JJ कर_V_VM सुलाया_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>बूढ़े_N_NN थे_V_VAUX वे_PR_PRP बेहद_RP_INTF ही_RP_RPD बूढ़े_N_NN पर_PSP कमजोर_JJ नहीं_RP_NEG</s>
+<s>चौड़ा_JJ माथा_N_NN सफ़ेद_JJ बाल_N_NN उलझे_N_NN से_PSP दोनों_QT_QTC ही_RP_RPD ऑंखें_N_NN बंद_N_NN पर_PSP अचानक_RB दोनों_QT_QTC ही_RP_RPD आँखे_N_NN खोलकर_V_VM स्पस्ट_N_NN बात_N_NN करने_V_VM लगे_V_VAUX</s>
+<s>स्तालिनग्राद_N_NNP के_PSP युद्ध_N_NN के_PSP बारे_N_NN में_PSP ही_RP_RPD कह_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>अचानक_JJ वृद्ध_N_NN ने_PSP किसीको_N_NN पुकारा_V_VM रुबिन_V_VAUX रुबिन_N_NN</s>
+<s>मैक्सिम_N_NNP कहे_V_VM जा_V_VAUX रहा_V_VAUX था_V_VAUX</s>
+<s>रुबिन_N_NN थे_V_VM मेरे_PR_PRP पिता_N_NN के_PSP गहरे_N_NN दोस्त_N_NN</s>
+<s>स्पेन_N_NNP के_PSP कम्युनिस्ट_N_NN नेत्री_N_NN डोलोरेस_N_NNP ईबारुरी_N_NNP का_PSP बेटा_N_NN</s>
+<s>वे_DM_DMD दोनों_QT_QTC स्पेन_N_NNP की_PSP लड़ाई_N_NN संग_N_NN लड़े_V_VM थे_V_VAUX</s>
+<s>रुबिन_N_NNP स्तालिनग्राद_N_NNP युद्ध_N_NN में_PSP ही_RP_RPD मारा_V_VM गया_V_VAUX था_V_VAUX तब_CC_CCS मेरे_PR_PRP पिता_N_NN पास_N_NST ही_RP_RPD खड़े_V_VM थे_V_VAUX</s>
+<s>वृद्ध_N_NN जोर_N_NN जोर_RB से_PSP कुछ_QT_QTF कहने_V_VM लगता_V_VAUX है_V_VAUX और_CC_CCD बातों_N_NN में_PSP बीच_N_NST रुबिन_N_NN का_PSP भी_RP_RPD नाम_N_NN ले_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>पर_PSP डायल_N_NN कुछ_QT_QTF समझ_N_NN नहीं_RP_NEG पा_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>पिताजी_N_NN रुबिन_N_NN से_PSP कह_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>रुबिन_N_NN इतनी_QT_QTF जल्दी_JJ मरने_N_NN से_PSP नहीं_RP_NEG चलेगा_V_VM</s>
+<s>जर्मन_N_NNP बम_N_NN वर्षक_N_NN स्तुका_N_NN अब_N_NST आकाश_N_NN में_PSP नहीं_RP_NEG हैं_V_VM</s>
+<s>अब_N_NST आकाश_N_NN ने_PSP छीन_V_VM ली_V_VAUX है_V_VAUX हमारे_PR_PRP स्तरमोभिक_JJ बम_N_NN वर्षक_N_NN</s>
+<s>जमीने_V_VM दखल_N_NN कर_V_VM ली_V_VAUX हैं_V_VAUX हमारे_PR_PRP टी_N_NN 34_QT_QTC टैंकों_N_NN ने_PSP</s>
+<s>आकाश_N_NN में_PSP जितना_QT_QTF भी_RP_RPD उजाला_N_NN है_V_VM सब_QT_QTF उजाला_N_NN कातियुषा_N_NN रॉकेट_N_NN का_PSP है_V_VM</s>
+<s>रुबिन_N_NN अभी_N_NST तुम्हारा_N_NN मरना_N_NN कतई_N_NN ठीक_N_NN नहीं_RP_NEG</s>
+<s>रुबिन_N_NN कॉमरेड_N_NN स्तालिन_N_NN हमे_PR_PRP कह_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>रुबिन_N_NN तुम्हारे_PR_PRP पैरों_N_NN के_PSP भायलेनकि_N_NN</s>
+<s>भायलेनकि_N_NNP यानि_N_NN स्नो_N_NN फॉल्ट_N_NN बूट_N_NN (जूते)_N_NN इसे_DM_DMD लाल_JJ फौज_N_NN पहनती_V_VM थी_V_VAUX उसके_PR_PRP नीचे_N_NST दो_QT_QTC जोड़ी_N_NN ऊनी_JJ मोजे_N_NN</s>
+<s>जर्मन_N_NNP लोग_N_NN के_PSP पास_N_NST भायलेनकि_N_NN नहीं_RP_NEG थे_V_VM</s>
+<s>इसलिए_CC_CCS वे_DM_DMD बर्फ_N_NN में_PSP जम_V_VM गए_V_VAUX थे_V_VAUX</s>
+<s>रुबिन_N_NNP की_PSP जिस_P दिन_N_NN मौत_N_NN हुई_V_VM उसदिन_N_NN तापमान_N_NN था_V_VAUX माईनस_N_NNP चवांलिस_N_NNP डिग्री_N_NN</s>
+<s>वे_DM_DMD उसे_PR_PRP याद_N_NN कर_V_VM रो_V_VM रहे_V_VAUX हैं_V_VAUX क्योंकि_CC_CCS रुबिन_N_NN की_PSP मृत्यु_N_NN हो_V_VM गई_V_VAUX है_V_VAUX</s>
+<s>कल_N_NN भी_RP_RPD वे_PR_PRP रुबिन_N_NN की_PSP ही_RP_RPD बातें_N_NN कर_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>सिसकना_N_NNP जरा_QT_QTF रुक_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>वे_DM_DMD शांत_JJ हो_V_VM रहे_V_VAUX थे_V_VAUX दीर्घ_JJ साँसें_N_NN ले_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>फिर_CC_CCS होंठ_N_NN हिलने_V_VM लगे_V_VAUX</s>
+<s>जर्मन_N_NNP भाषा_N_NN में_PSP बातें_N_NN करने_V_VM लगते_V_VAUX हैं_V_VAUX</s>
+<s>डायल_N_NN को_PSP जर्मन_N_NNP आती_V_VM है_V_VAUX वह_PR_PRP इतना_QT_QTF समझ_V_VM गया_V_VAUX की_PSP यह_DM_DMD जूकभ_N_NN आदमी_N_NN आखिर_N_NN है_V_VAUX कौन_PR_PRQ</s>
+<s>इतना_QT_QTF कहकर_N_NN वृद्ध_N_NN हँस_V_VM देते_V_VAUX हैं_V_VAUX</s>
+<s>आखिरकार_N_NN ऐसा_DM_DMD डायल_N_NN को_PSP महसूस_V_VM हुआ_V_VAUX</s>
+<s>मैक्सिम_N_NNP पूरा_JJ विवरण_N_NN व्याख्या_N_NN कर_V_VM उसे_PR_PRP बता_V_VM देता_V_VAUX है_V_VAUX</s>
+<s>लाल_JJ फौज_N_NN का_PSP एक_QT_QTC जोक_N_NN</s>
+<s>जर्मन_N_NNP जनरल_N_NNP वॉन_N_NNP रुनस्टेड_N_NNP फ़रवरी_N_NNP 1942_QT_QTC को_PSP बड़े_JJ बेहद_JJ अचरज_N_NN के_PSP साथ_PSP यह_DM_DMD बात_N_NN कही_V_VM थी_V_VAUX</s>
+<s>और_CC_CCD भी_RP_RPD ज्यादा_QT_QTF अवाक्_N_NN रह_V_VM गया_V_VAUX था_V_VAUX यह_DM_DMD जानकर_V_VM कि_CC_CCS मार्शल_N_NNP जूकव_N_NNP एक_QT_QTC गरीब_JJ किसान_N_NN परिवार_N_NN की_PSP संतान_N_NN थे_V_VM</s>
+<s>प्रशियन_N_NN जुंकर_V_VM विषमय_N_NN से_PSP भर_V_VM उठा_V_VAUX</s>
+<s>और_CC_CCD यही_DM_DMD बात_N_NN लाल_JJ फौज_N_NN के_PSP सैनिक_N_NN आपस_N_NN में_PSP कहा_V_VM करते_V_VAUX थे_V_VAUX</s>
+<s>युद्ध_N_NN के_PSP दौरान_N_NN ऐसे_DM_DMD ही_RP_RPD अनेक_QT_QTF तरह_N_NN के_PSP जोक्स_N_NN प्रचलित_V_VM थे_V_VAUX</s>
+<s>कितनी_QT_QTF ही_RP_RPD कहानियाँ_N_NN सुन_N_NN रखी_V_VM हैं_V_VAUX मैंने_PR_PRP पिता_N_NN से_PSP</s>
+<s>अचानक_JJ नर्स_N_NN ने_PSP उठकर_V_VM मॉनिटर_N_NN की_PSP और_CC_CCD ताका_N_NN</s>
+<s>फिर_CC_CCS फोन_N_NN मिलाने_V_VM लगी_V_VAUX</s>
+<s>वृद्ध_N_NN को_PSP सांस_N_NN लेने_V_VM में_PSP कष्ट_N_NN हो_V_VM रहा_V_VAUX था_V_VAUX जैसे_CC_CCS उसे_PR_PRP भारी_JJ बोझ_N_NN उठाना_N_NN पड़_V_VM रहा_V_VAUX हो_V_VAUX</s>
+<s>बायाँ_JJ हाथ_N_NN अपने_PR_PRF आप_PR_PRP ऊपर_N_NST उठ_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>डॉक्टर_N_NN आश्चर्य_JJ से_PSP भर_V_VM उठा_V_VAUX</s>
+<s>वृद्ध_N_NN की_PSP दोनों_QT_QTC आंखे_N_NN खुली_V_VM हुई_V_VAUX थीं_V_VAUX</s>
+<s>पता_N_NN नहीं_RP_NEG किसे_DM_DMQ ढूंढ_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>क्या_PR_PRQ किसी_DM_DMI कॉमरेड_N_NN का_PSP हाथ_N_NN</s>
+<s>किसी_DM_DMI कॉमरेड_N_NN का_PSP गोलियों_N_NN से_PSP छलनी_V_VM हुये_V_VAUX हाथ_N_NN गिरी_V_VM हुई_V_VAUX रायफल_N_NN</s>
+<s>डायल_N_NN अचानक_JJ खिड़की_N_NN से_PSP बाहर_N_NST की_PSP ओर_N_NN ताकता_N_NN है_V_VM</s>
+<s>उसे_P बाहर_N_NST बार्च_N_NN के_PSP पेड़_N_NN कांपते_V_VM हुए_V_VAUX नजर_N_NN आते_V_VM हैं_V_VAUX</s>
+<s>यह_DM_DMD कोई_DM_DMI आंधी_N_NN का_PSP समय_N_NN है_V_VM</s>
+<s>वृद्ध_N_NN के_PSP गले_N_NN से_PSP घर्र_N_NN घर्र_N_NN आवाज_N_NN स्पष्ट_N_NN सुनाई_N_NN दे_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>डॉक्टर_N_NN नर्स_N_NN से_PSP कुछ_QT_QTF कहा_N_NN और_CC_CCD नर्स_N_NN डॉक्टर_N_NN के_PSP कहे_N_NN अनुसार_N_NN एक_QT_QTC एम्पुल_N_NN लेकर_V_VM सिरिंज_N_NN में_PSP भरने_V_VM लगती_V_VAUX है_V_VAUX</s>
+<s>वृद्ध_N_NN कुछ_QT_QTF कह_N_NN उठते_V_VM हैं_V_VAUX इतनी_P साड़ी_N_NN बातें_N_NN मैक्सिम_N_NNP डायल_N_NN को_PSP अपने_PR_PRF पिता_N_NN के_PSP मृत्यु_N_NN के_PSP बाद_N_NST बताते_V_VM हैं_V_VAUX</s>
+<s>पिता_N_NN जिस_P बात_N_NN को_PSP अपने_PR_PRF आखरी_N_NN वक़्त_N_NN पर_PSP कह_V_VM रहे_V_VAUX थे_V_VAUX वह_PR_PRP यह_DM_DMD था_V_VAUX कि_CC_CCS वान_N_NNP पलासके_N_NNP को_PSP भेजा_V_VM गया_V_VAUX रस्कोसवायस्की_N_NN का_PSP आखरी_N_NN सावधान_N_NN करने_V_VM वाली_PSP बात_N_NN</s>
+<s>यह_DM_DMD थी_V_VAUX आपलोगों_N_NN की_PSP सैन्य_N_NN वाहिनी_N_NN मुश्किल_N_NN में_PSP हैं_V_VM उनकी_PR_PRP हालात_N_NN सोचनीय_V_VM है_V_VAUX</s>
+<s>वे_DM_DMD भूख_N_NN बीमारी_N_NN और_CC_CCD भयंकर_JJ ठण्ड_N_NN से_PSP जूझ_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>यह_DM_DMD निष्ठुर_N_NNP रूस_N_NNP की_PSP ठण्ड_N_NN मात्र_N_NN अभी_N_NST शुरू_N_NN ही_RP_RPD हुआ_V_VAUX है_V_VAUX इसके_DM_DMD बाद_N_NST हिमपात_N_NN वीभत्स_N_NN आंधी_N_NN और_CC_CCD हिमवर्षा_N_NNP के_PSP संग_N_NN तेज_JJ हवाओं_N_NN की_PSP आंधी_JJ तो_RP_RPD अब_N_NST तक_PSP शुरू_N_NN ही_RP_RPD नहीं_RP_NEG हुई_V_VM है_V_VAUX</s>
+<s>आप_PR_PRP लोगों_N_NN की_PSP सेना_N_NN के_PSP पास_N_NST उन_PR_PRP आँधियों_N_NN से_PSP लड़ने_V_VM के_PSP लिए_PSP ठण्ड_N_NN के_PSP पोशाक_N_NN ही_RP_RPD नहीं_RP_NEG हैं_V_VM</s>
+<s>स्टालिन_N_NNP ग्राद_N_NNP के_PSP युद्ध_N_NN में_PSP एक_QT_QTC लाख_N_NN साठ_QT_QTC हजार_N_NN नाजी_N_NN सैनिक_N_NN मारे_V_VM गए_V_VAUX और_CC_CCD बंदी_N_NN हुए_V_VM थे_V_VAUX नब्बे_QT_QTC हजार_N_NN</s>
+<s>उस_PR_PRP दिन_N_NN उसे_PR_PRP लगा_V_VM जरा_QT_QTF सी_RP_RPD आंधी_N_NN या_CC_CCD</s>
+<s>हिमवर्षा_N_NNP जरूर_N_NN रस्तोव_N_NNP ऑन_N_NNP दन_N_NNP पर_PSP से_PSP गुजरेगी_JJ रिपोर्ट_N_NN लन्दन_N_NN भेज_V_VM कर_V_VAUX</s>
+<s>कुछ_QT_QTF देर_N_NN रुसी_N_NN टी_N_NN वी_N_NN पर_PSP डायल_N_NN सर्कस_N_NN देखेगा_V_VM</s>
+<s>सार्बेरियन_N_NNP बाघ_N_NNP के_PSP सर्कस_N_NN के_PSP एरिना_N_NN में_PSP जलते_V_VM हुए_V_VAUX रिंग_N_NN के_PSP भीतर_N_NST से_PSP शेर_N_NN कूदकर_V_VM पार_N_NN हो_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>इसके_DM_DMD पश्चात_N_NST वह_PR_PRP टी_N_NNP वी_N_NNP ऑफ_N_NNP कर_N_NNP सो_V_VM जायेगा_V_VAUX</s>
+<s>और_CC_CCD उसी_PR_PRP रात_N_NN में_PSP कइयों_QT_QTF की_PSP नींद_N_NN उड़_V_VM जाएँगी_V_VAUX</s>
+<s>उसी_PR_PRP रात_N_NN को_PSP बाल्टिक_N_NNP नौ_QT_QTC बहर_N_NN के_PSP नाविक_N_NN विद्रोह_N_NN कर_V_VM उठेंगे_V_VAUX</s>
+<s>विद्रोध_N_NN फ़ैल_V_VM जायेगा_V_VAUX मॉस्को_N_NNP गैरिसन_N_NNP में_PSP और_CC_CCD हजारों_N_NN हजारों_N_NN सैनिक_N_NN रात_N_NN में_PSP ही_RP_RPD बर्फ_N_NN को_PSP पैरों_N_NN से_PSP रौंदकर_V_VM लाल_JJ पताका_N_NN लिए_PSP निकल_V_VM पड़ेंगे_V_VAUX</s>
+<s>क्रेमलिन_N_NNP की_PSP दीवार_N_NN पर_PSP धक्का_N_NN लगेगा_N_NN तूफ़ान_N_NN का_PSP स्लोगन_N_NN</s>
+<s>सेंट_N_NNP पीटर्सबर्ग_N_NNP वापस_N_NN कहलायेगा_V_VM लेनिनग्राद_V_VAUX</s>
+<s>उसी_DM_DMD रात_N_NN इंडोनेशिया_N_NNP में_PSP कम्युनिस्ट_N_NN लोग_N_NN अब_N_NST बन्दूक_N_NN बिना_PSP ही_RP_RPD अभ्युथान_N_NN करेंगे_V_VM</s>
+<s>ऑस्ट्रेलिया_N_NNP में_PSP एक_QT_QTC के_PSP बाद_N_NST एक_QT_QTC बंदरगाह_N_NN में_PSP होते_V_VM ही_RP_RPD रहेंगे_V_VM हड़तालें_V_VAUX</s>
+<s>श्रमिक_N_NN आंदोलन_N_NN अचल_JJ हो_V_VM जायेंगे_V_VAUX</s>
+<s>खबरें_N_NN आएँगी_V_VM अफ्रीका_N_NNP से_PSP अरब_N_NNP देशों_N_NN से_PSP</s>
+<s>पूरी_JJ दुनिया_N_NN में_PSP लौट_V_VM आएंगे_V_VAUX कम्युनिस्ट_N_NN</s>
+<s>पर_PSP उसके_PR_PRP लिए_PSP आगामी_N_NN सत्रह_N_NNP साल_N_NN या_CC_CCD उससे_PR_PRP भी_RP_RPD ज्यादा_QT_QTF का_PSP समय_N_NN प्रत्येक_QT_QTF घंटा_N_NN और_CC_CCD प्रत्येक_QT_QTF मिनिट_N_NN का_PSP उपयोग_N_NN करना_V_VM होगा_V_VAUX</s>
+<s>पूरी_JJ पृथ्वी_N_NN में_PSP कम्युनिस्ट_N_NN लौट_V_VM आएंगे_V_VAUX</s>
+<s>दस_QT_QTC हजार_QT_QTF दिन_N_NN तक_PSP दुनिया_N_NN कांपेगी_N_NN</s>
+<s>इसी_DM_DMD बात_N_NN को_PSP इस_DM_DMD कहानी_N_NN में_PSP कह_V_VM दी_V_VAUX</s>
+<s>नई_JJ नई_JJ आगता_N_NN के_PSP वे_DM_DMD हाथ_N_NN अपनी_PR_PRF कुशल_JJ गति_N_NN में_PSP कुछ_QT_QTF गढ़_N_NN रहे_V_VM थे_V_VAUX</s>
+<s>थोड़ी_QT_QTF देर_N_NN के_PSP लिए_PSP तो_RP_RPD एक_QT_QTC बेआवाज़_N_NN सा_RP_RPD सन्नाटा_N_NN चारों_QT_QTC ओर_N_NN पसरा_V_VM था_V_VAUX</s>
+<s>आज_N_NST छेनी_N_NN पर_PSP पड़ती_V_VM हथौड़ी_N_NN की_PSP चोट_N_NN से_PSP निकलती_V_VM चिंगारियों_N_NN में_PSP वही_DM_DMD आग_N_NN बार_N_NN बार_N_NN ज़िंदा_N_NN हो_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>उस_PR_PRP दिन_N_NN सुबह_N_NN सुबह_N_NN पीपल_N_NN के_PSP उस_PR_PRP पेड़_N_NN के_PSP नीचे_N_NST पुरुषों_N_NN से_PSP कहीं_N_NST अधिक_QT_QTF औरतें_N_NN इकठ्ठा_N_NN हो_V_VM रहीं_V_VAUX थीं_V_VAUX</s>
+<s>उनमें_PR_PRP कुछ_QT_QTF बहुत_RP_INTF उम्रदार_JJ कमज़ोर_JJ आँखों_N_NN वाली_PSP अनुभवी_JJ स्त्रियाँ_N_NN थीं_V_VM</s>
+<s>कमिलिनी_N_NNP जिसको_P जलकर_V_VM मरे_V_VM हुए_V_VAUX तो_RP_RPD चार_QT_QTC दशक_N_NN बीत_V_VM चुके_V_VAUX थे_V_VAUX</s>
+<s>फिर_CC_CCS भी_RP_RPD उसकी_PR_PRP मृत्यु_N_NN का_PSP वह_PR_PRP कालखंड_N_NN उस_PR_PRP पूरे_JJ गाँव_N_NN पर_PSP हावी_V_VM था_V_VAUX</s>
+<s>वहां_N_NNP एक_QT_QTC ऊर्जा_N_NN मिश्रित_N_NN सा_RP_RPD उत्तेजित_JJ भय_N_NN तारी_N_NN था_V_VM</s>
+<s>वहां_N_NNP खड़े_V_VM लोगों_N_NN की_PSP फुसफुसाहट_N_NN बढ़ती_V_VM ही_RP_RPD जा_V_VM रही_V_VAUX थीं_V_VAUX</s>
+<s>आगता_N_NN के_PSP एक_QT_QTC जोड़ा_N_NN अनुभवहीन_JJ और_CC_CCD अगढ़_N_NNP हाथ_N_NN नई_JJ कोंपलों_N_NN जैसे_N_NN थे_V_VAUX जिनमें_P छेनी_N_NN और_CC_CCD हथौड़ी_N_NN का_PSP होना_V_VM उस_PR_PRP गांव_N_NN के_PSP लिए_PSP एक_QT_QTC अचम्भा_N_NN था_V_VM</s>
+<s>वे_DM_DMD वर्षों_N_NN पुराने_JJ सती_N_NN चौरे_N_NN की_PSP एक_QT_QTC एक_QT_QTC ईंट_N_NN पर_PSP छेनी_N_NN लगाकर_V_VM बिना_PSP किसी_DM_DMI भय_N_NN के_PSP बहुत_QT_QTF सधेपन_N_NN से_PSP प्रहार_N_NN कर_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>वह_PR_PRP चौरा_N_NN जैसे_N_NN किसी_DM_DMI मनुष्यता_N_NN से_PSP हीन_JJ बस्ती_N_NN में_PSP बना_V_VM पथराया_V_VM हुआ_V_VAUX काला_JJ पहाड़_N_NN था_V_VAUX जो_P पिघलकर_V_VM बीत_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>सती_N_NN चौरे_N_NN का_PSP टूटना_V_VM और_CC_CCD औरतों_N_NN का_PSP चुप_N_NN रह_V_VM जाना_V_VAUX भी_RP_RPD एक_QT_QTC अचरज_N_NN था_V_VM</s>
+<s>वह_PR_PRP हंसती_N_NN तो_RP_RPD बसंत_N_NN हँसता_V_VM था_V_VAUX</s>
+<s>कमलिनी_N_NNP ने_PSP अपने_PR_PRF चारों_N_NN और_CC_CCD बने_V_VM थाले_N_NN के_PSP विध्वंसक_N_NN उठान_N_NN को_PSP अजीब_JJ निगाहों_N_NN से_PSP देखा_V_VM था_V_VAUX</s>
+<s>सुमेधा_N_NNP ने_PSP अखबार_N_NN उठाकर_V_VM खबर_N_NN देखी_V_VM</s>
+<s>वह_PR_PRP न्यू_N_NN जागरण_N_NN टाइम्स_N_NNP में_PSP एक_QT_QTC कालम_N_NN के_PSP लिए_PSP काम_N_NN करती_V_VM थी_V_VAUX</s>
+<s>गांवों_N_NN की_PSP अंधविश्वास_N_NN से_PSP भरी_JJ खबरों_N_NN की_PSP पड़ताल_N_NN कर_V_VM स्टोरी_N_NNP बनाती_V_VM थी_V_VAUX</s>
+<s>उनका_PR_PRP सच_N_NN उजागर_N_NN कर_V_VM उसका_PR_PRP खंडन_N_NN करती_V_VM थी_V_VAUX</s>
+<s>आज_N_NST उसी_PR_PRP गाँव_N_NN के_PSP बाहर_N_NST बने_V_VM सती_N_NN चौरे_N_NN को_PSP एक_QT_QTC अट्ठारह_N_NN उन्नीस_QT_QTC साल_N_NN की_PSP लड़की_N_NN तोड़_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>खबर_N_NN ने_PSP उसे_PR_PRP बेचैन_N_NN कर_V_VM दिया_V_VAUX था_V_VAUX</s>
+<s>आज_N_NST से_PSP दो_QT_QTC साल_N_NN पहले_N_NST ही_RP_RPD तो_RP_RPD सुमेधा_N_NN उसी_PR_PRP सती_N_NN चौरे_N_NN की_PSP कहानी_N_NN पर_PSP काम_V_VM करने_V_VAUX गई_V_VAUX थी_V_VAUX</s>
+<s>सुरपुर_N_NNP एकमात्र_N_NN ऐसी_DM_DMD जगह_N_NN थी_V_VAUX जहाँ_P जाकर_V_VM वह_PR_PRP उस_PR_PRP पहेली_N_NN में_PSP खुद_PR_PRF ही_RP_RPD उलझ_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>उसे_PR_PRP तो_RP_RPD सुमेधा_N_NN पलटवार_N_NN कह_V_VM सकती_V_VAUX थी_V_VAUX लेकिन_CC_CCS क्या_PR_PRQ दुनिया_N_NN से_PSP रुखसत_N_NN होने_V_VM के_PSP बाद_N_NST कोई_DM_DMI स्त्री_N_NN पलटवार_N_NN कर_V_VM सकती_V_VAUX है_V_VAUX</s>
+<s>ऐसा_DM_DMD पहली_QT_QTO बार_N_NN हुआ_V_VM था_V_VAUX कि_CC_CCS वह_PR_PRP स्टोरी_N_NNP पूरी_N_NN नहीं_RP_NEG कर_V_VM पाई_V_VAUX थी_V_VAUX और_CC_CCD उसे_PR_PRP सम्पादक_N_NN को_PSP अफ़सोस_N_NN के_PSP साथ_N_NN न_RP_NEG कहना_V_VM पड़ा_V_VAUX था_V_VAUX</s>
+<s>आज_N_NN का_PSP समाचार_N_NN पढ़ते_V_VM हुए_V_VAUX उसने_PR_PRP बुदबुदाते_V_VM हुए_V_VAUX कहा_V_VM लगता_V_VAUX है_V_VAUX कि_CC_CCS आज_N_NST कहानी_N_NN पूरी_JJ हो_V_VM जायेगी_V_VAUX</s>
+<s>सुरपुर_N_NNP से_PSP लौटकर_V_VM उसने_PR_PRP उस_PR_PRP सुरपुर_N_NNP की_PSP चर्चा_N_NN कई_QT_QTF लोगों_N_NN से_PSP की_PSP भी_RP_RPD थी_V_VM</s>
+<s>लड़की_N_NN की_PSP पहली_QT_QTO विदाई_N_NN से_PSP पहले_N_NST ही_RP_RPD उसका_PR_PRP पति_N_NN उससे_PR_PRP मिलने_V_VM चला_V_VAUX आया_V_VAUX था_V_VAUX</s>
+<s>लड़की_N_NN के_PSP भाई_N_NN ने_PSP उसे_PR_PRP देख_V_VM लिया_V_VAUX था_V_VAUX</s>
+<s>भाई_N_NN भानु_N_NNP ने_PSP बहुत_QT_QTF अनाप_N_NN शनाप_N_NN कहने_V_VM के_PSP साथ_PSP ही_RP_RPD लड़की_N_NN को_PSP चरित्रहीन_JJ कह_V_VM दिया_V_VAUX था_V_VAUX</s>
+<s>लड़की_N_NN ने_PSP आग_N_NN लगा_V_VM ली_V_VAUX थी_V_VAUX और_CC_CCD जल_N_NN कर_V_VM मर_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>यह_DM_DMD भी_RP_RPD कोई_DM_DMI बात_N_NN हुई_V_VM</s>
+<s>यह_DM_DMD तो_RP_RPD आये_V_VM दिन_N_NN की_PSP बात_N_NN है_V_VM</s>
+<s>जाने_V_VM कितनी_QT_QTF लड़कियाँ_N_NN रोज़_N_NN ही_RP_RPD तो_RP_RPD जलती_V_VM मरती_V_VM हैं_V_VAUX</s>
+<s>कहाँ_PR_PRQ किसी_DM_DMI को_PSP किसी_DM_DMI स्त्री_N_NN का_PSP श्राप_N_NN लगा_V_VM</s>
+<s>उसके_PR_PRP चारों_QT_QTO ओर_N_NN पढ़ी_JJ लिखी_N_NN स्त्रियों_N_NN का_PSP मजबूत_JJ तबका_N_NN है_V_VM</s>
+<s>वे_DM_DMD स्त्रियां_N_NN भी_RP_RPD खूब_QT_QTF हैं_V_VM जिनकी_P बड़ी_JJ बड़ी_JJ गाड़ियों_N_NN के_PSP दरवाजे_N_NN खुलते_V_VM ही_RP_RPD महंगे_JJ परफ्यूम_N_NN का_PSP जबरदस्त_JJ भभका_N_NN आता_V_VM है_V_VAUX</s>
+<s>उनका_PR_PRP कहना_V_VM था_V_VAUX उसने_PR_PRP कायदा_N_NN तोड़ा_N_NN था_V_VM</s>
+<s>यह_DM_DMD तो_RP_RPD गलत_N_NN किया_V_VM था_V_VAUX उसने_PR_PRP</s>
+<s>लेकिन_CC_CCS हाँ_N_NN तब_N_NN के_PSP लोगों_N_NN में_PSP एक_QT_QTC आब_N_NN होती_V_VM थी_V_VAUX</s>
+<s>अब_N_NST ये_DM_DMD सब_QT_QTF कहाँ_PR_PRQ</s>
+<s>आप_PR_PRP भी_RP_RPD क्या_PR_PRQ कहतीं_V_VM हैं_V_VAUX</s>
+<s>ये_DM_DMD सब_QT_QTF पुरानी_JJ बाते_V_VM हैं_V_VAUX</s>
+<s>आजकल_N_NST यह_DM_DMD सब_QT_QTF कहाँ_PR_PRQ होता_V_VM है_V_VAUX जलता_V_VM बुझता_N_NN कौन_PR_PRQ है_V_VM</s>
+<s>अरे_RP_INJ यह_DM_DMD भी_RP_RPD कोई_DM_DMI बात_N_NN हुई_V_VM</s>
+<s>हाँ_N_NN ये_DM_DMD बात_N_NN माननी_V_VM पड़ेगी_V_VAUX कि_CC_CCS पहले_N_NST वे_PR_PRP खुद_PR_PRF ही_RP_RPD जलतीं_V_VM थीं_V_VAUX और_CC_CCD अब_N_NST जलाई_V_VM जाती_V_VAUX हैं_V_VAUX</s>
+<s>स्त्रियों_N_NN के_PSP मामले_N_NN में_PSP कुछ_QT_QTF बदलता_N_NN क्यों_N_NN नही_RP_NEG</s>
+<s>अब_N_NST वह_PR_PRP कितनी_QT_QTF बहस_N_NN करे_V_VM</s>
+<s>जितने_P मुंह_N_NN उतनी_N_NN बातें_N_NN</s>
+<s>बड़े_JJ शहरों_N_NN में_PSP लोग_N_NN मोमबत्तियाँ_N_NN भी_RP_RPD जलाते_V_VM हैं_V_VAUX</s>
+<s>कुछ_QT_QTF भी_RP_RPD तो_RP_RPD नहीं_RP_NEG बदलता_V_VM है_V_VAUX</s>
+<s>उसको_PR_PRP लगता_V_VM है_V_VAUX फर्क_N_NN बस_N_NN इतना_QT_QTF ही_RP_RPD हुआ_V_VM है_V_VAUX कि_CC_CCS अब_N_NST गावों_N_NN की_PSP खबरें_N_NN शहर_N_NN की_PSP खबरों_N_NN से_PSP मिल_V_VM गयीं_V_VAUX हैं_V_VAUX</s>
+<s>अब_N_NST यहाँ_DM_DMD सी_RP_RPD खुली_JJ दुश्वारियां_N_NN वहां_N_NN भी_RP_RPD हैं_V_VM</s>
+<s>सुमेधा_N_NNP ने_PSP अपने_PR_PRF लैपटॉप_N_NN में_PSP सर्च_N_NN किया_V_VM सुरपुर_N_NNP दो_QT_QTC साल_N_NN पहले_N_NST लिखी_N_NN अपनी_PR_PRF स्टोरी_N_NNP निकाली_V_VM जब_P एक_QT_QTC दिन_N_NN वह_PR_PRP महानगर_N_NN से_PSP एक_QT_QTC निर्जन_N_NN से_PSP गाँव_N_NN की_PSP ओर_N_NN चल_V_VM पडी_V_VAUX थी_V_VAUX</s>
+<s>उसे_PR_PRP सब_QT_QTF कुछ_QT_QTF ज्यों_N_NN का_PSP त्यों_PR_PRF याद_N_NN आने_V_VM लगा_V_VAUX</s>
+<s>वह_PR_PRP पीपल_N_NN का_PSP पेड़_N_NN तो_RP_RPD उस_PR_PRP गांव_N_NN के_PSP बसने_V_VM के_PSP पहले_N_NST से_PSP वहां_V_VM है_V_VAUX</s>
+<s>उसने_PR_PRP देखा_V_VM उसकी_PR_PRP मोटी_JJ मोटी_JJ सोरें_N_NN जमीन_N_NN में_PSP बहुत_RP_INTF गहरे_JJ धंसी_N_NN हैं_V_VM</s>
+<s>उसे_PR_PRP देखते_V_VM ही_RP_RPD वह_PR_PRP समझ_V_VM गई_V_VAUX थी_V_VAUX कि_CC_CCS यही_DM_DMD वह_PR_PRP दरख़्त_N_NN है_V_VAUX जो_P कमलिनी_N_NNP की_PSP मौत_N_NN का_PSP आखिरी_JJ गवाह_N_NN है_V_VM</s>
+<s>उसने_PR_PRP गांव_N_NN की_PSP ओर_N_NN जाता_V_VM रास्ता_N_NN पकड़ा_V_VM और_CC_CCD कमलिनी_N_NNP के_PSP उस_PR_PRP फूल_N_NN तक_PSP पहुंच_V_VM गई_V_VAUX</s>
+<s>लोगों_N_NN को_PSP परेशान_N_NN तो_RP_RPD करती_V_VM ही_RP_RPD थी_V_VAUX बाहर_N_NST निकलकर_V_VM दिगंत_N_NN तक_PSP जाती_V_VM थी_V_VAUX</s>
+<s>वह_PR_PRP फूल_N_NN पूर्णिमा_N_NN के_PSP पूरे_QT_QTF चाँद_N_NN सा_RP_RPD खिलता_V_VM था_V_VAUX</s>
+<s>फर्क_N_NN बस_N_NN इतना_QT_QTF था_V_VM कि_CC_CCS फूल_N_NN का_PSP केंद्र_N_NN लाल_JJ लपटों_N_NN से_PSP लिपटा_V_VM हुआ_V_VAUX था_V_VAUX</s>
+<s>उस_PR_PRP फूल_N_NN को_PSP लोग_N_NN कमलिनी_N_NNP का_PSP फूल_N_NN कहते_V_VM थे_V_VAUX</s>
+<s>उसे_PR_PRP देख_V_VM कर_V_VAUX ही_RP_RPD उसे_PR_PRP लगा_V_VM कि_CC_CCS जाने_N_NN कब_PR_PRQ से_PSP किसी_DM_DMI ने_PSP इस_DM_DMD जगह_N_NN की_PSP खोज_N_NN खबर_N_NN नहीं_RP_NEG ली_V_VM है_V_VAUX</s>
+<s>उसने_PR_PRP अगल_JJ बगल_N_NN खड़े_V_VM लोगों_N_NN से_PSP पूछा_V_VM</s>
+<s>पकी_JJ उम्र_N_NN के_PSP लोगों_N_NN ने_PSP मिचमिचाती_V_VM आँखों_N_NN से_PSP उसे_PR_PRP देखते_V_VM हुए_V_VAUX यही_DM_DMD कहा_V_VM अरे_RP_INJ उस_PR_PRP ओर_N_NN कोई_DM_DMI नहीं_RP_NEG जाता_V_VM</s>
+<s>वह_PR_PRP जगह_N_NN तब_N_NN से_PSP वीरान_N_NN है_V_VM जब_P हम_PR_PRP लोग_N_NN जवान_N_NN थे_V_VM</s>
+<s>पूरे_QT_QTF गाँव_N_NN में_PSP चारों_QT_QTC ओर_N_NN हरियाली_N_NN की_PSP लतरें_N_NN आपस_N_NN में_PSP अँगुलियों_N_NN सी_RP_RPD उलझी_V_VM हुईं_V_VAUX दिखाई_V_VM दे_V_VAUX रहीं_V_VAUX थीं_V_VAUX</s>
+<s>एक_QT_QTC ही_RP_RPD कमलिनी_N_NNP के_PSP कितने_N_NN रूप_N_NN थे_V_VM</s>
+<s>गाँव_N_NN के_PSP लोगों_N_NN ने_PSP उस_PR_PRP सती_N_NN स्त्री_N_NN का_PSP अप्सरा_N_NNP रूप_N_NN उसके_PR_PRP जेहन_N_NN में_PSP बसा_V_VM दिया_V_VAUX था_V_VAUX</s>
+<s>गाँव_N_NN के_PSP लोगों_N_NN ने_PSP ही_RP_RPD बताया_V_VM कि_CC_CCS उस_PR_PRP वीरान_JJ घर_N_NN के_PSP मालिक_N_NN उस_PR_PRP घटना_N_NN के_PSP वर्ष_N_NN ही_RP_RPD गांव_N_NN जवार_N_NN छोड़_V_VM कर_V_VAUX चले_V_VAUX थे_V_VAUX</s>
+<s>उनलोगों_N_NN ने_PSP अपने_PR_PRF सारे_QT_QTF खेत_N_NN खलिहान_N_NN बेच_V_VM दिए_V_VAUX थे_V_VAUX</s>
+<s>वे_PR_PRP ही_RP_RPD शहरों_N_NN की_PSP ओर_N_NN भाग_N_NN गए_V_VM थे_V_VAUX</s>
+<s>वह_PR_PRP मन_N_NN ही_RP_RPD मन_N_NN हंसी_V_VM</s>
+<s>उसे_PR_PRP लगता_V_VM था_V_VAUX कि_CC_CCS वंश_N_NN कोई_DM_DMI बहुत_RP_INTF बड़ी_JJ चीज_N_NN होगी_V_VM जो_P जमीन_N_NN से_PSP आकाश_N_NN तक_PSP जाती_V_VM होगी_V_VAUX</s>
+<s>उसे_PR_PRP मालूम_N_NN नहीं_RP_NEG था_V_VAUX कि_CC_CCS उसका_PR_PRP भाई_N_NN भानु_N_NN ही_RP_RPD वंश_N_NN है_V_VM</s>
+<s>कमलिनी_N_NNP उससे_PR_PRP बातें_N_NN करने_V_VM लगी_V_VAUX थी_V_VAUX</s>
+<s>कुछ_QT_QTF अजीब_JJ सी_N_NN मिटटी_N_NN थी_V_VM उस_PR_PRP गांव_N_NN की_PSP</s>
+<s>कमलिनी_N_NNP विदेह_N_NNP होकर_V_VM भी_RP_RPD रूप_N_NN धरे_N_NN खड़ी_V_VM थी_V_VAUX</s>
+<s>अपनी_PR_PRF कहानी_N_NN उसने_PR_PRP खुद_PR_PRF ही_RP_RPD सुना_V_VM दी_V_VAUX थी_V_VAUX</s>
+<s>बाद_N_NST का_PSP सब_QT_QTF कुछ_QT_QTF तो_RP_RPD मुझे_PR_PRP याद_N_NN है_V_VM</s>
+<s>उस_PR_PRP बार_N_NN सभी_QT_QTF बहुत_QT_QTF खुश_N_NN थे_V_VM</s>
+<s>माँ_N_NN के_PSP दिन_N_NN पूरे_QT_QTF हो_V_VM रहे_V_VAUX थे_V_VAUX और_CC_CCD मुझे_PR_PRP भी_RP_RPD बेसब्री_N_NNP से_PSP भाई_N_NN के_PSP आने_V_VM का_PSP इंतज़ार_N_NN था_V_VM</s>
+<s>मैं_PR_PRP भी_RP_RPD बारह_QT_QTC पंद्रह_QT_QTC बरस_N_NN की_PSP तो_RP_RPD थी_V_VAUX ही_RP_RPD</s>
+<s>एक_QT_QTC अर्धरात्रि_N_NNP में_PSP अचानक_JJ मैं_N_NN अचकचाकर_V_VM जाग_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>थाली_N_NN बजने_V_VM की_PSP जगह_N_NN सिसकियों_N_NN की_PSP आवाजें_N_NN थीं_V_VM</s>
+<s>पिता_N_NN के_PSP गरजने_N_NN की_PSP आवाज़_N_NN थी_V_VM</s>
+<s>सौर_N_NN घर_N_NN के_PSP एक_QT_QTC कोने_N_NN से_PSP लिपटकर_V_VM मां_N_NN के_PSP थरथर_N_NN काँपने_V_VM की_PSP आवाज़_N_NN थी_V_VM</s>
+<s>उन_PR_PRP बहुत_QT_QTF तरह_N_NN की_PSP आवाज़ों_N_NN में_PSP एक_QT_QTC आवाज़_N_NN मेरी_N_NN भी_RP_RPD थी_V_VM</s>
+<s>मैं_PR_PRP माँ_N_NN का_PSP हाल_N_NN देख_V_VM आर्तनाद_N_NN करती_V_VM थी_V_VAUX</s>
+<s>बिना_N_NN बोले_N_NN ही_RP_RPD यातना_N_NN के_PSP गीत_N_NN गुनगुनाती_V_VM थी_V_VAUX</s>
+<s>कैसा_PR_PRQ घुटता_V_VM हुआ_V_VAUX संवाद_N_NN था_V_VM</s>
+<s>मैं_PR_PRP माँ_N_NN के_PSP दुखों_N_NN की_PSP चश्मदीद_N_NN गवाह_N_NN बनती_V_VM जा_V_VAUX रही_V_VAUX थी_V_VAUX</s>
+<s>माँ_N_NN रात_N_NN भर_RP_RPD सोती_V_VM नहीं_RP_NEG थी_V_VAUX</s>
+<s>रात_N_NN के_PSP अँधेरे_N_NN में_PSP पूरे_QT_QTF घर_N_NN में_PSP अर्धविक्षिप्त_JJ सी_N_NN रेंगती_V_VM रहती_V_VAUX थी_V_VAUX</s>
+<s>छोटी_JJ बहन_N_NN दामिनी_N_NN की_PSP उपेक्षा_N_NN मेरे_PR_PRP रहते_V_VM कैसे_PR_PRQ हो_V_VM सकती_V_VAUX थी_V_VAUX</s>
+<s>माँ_N_NN को_PSP दामिनी_N_NN को_PSP दूध_N_NN पिलाने_V_VM जिलाने_N_NN खिलाने_V_VM के_PSP लिए_PSP इतने_QT_QTF ताने_N_NN सुनने_V_VM पड़ते_V_VAUX कि_CC_CCS माँ_N_NN दामिनी_N_NNP को_PSP छूती_V_VM नहीं_RP_NEG थी_V_VAUX</s>
+<s>वह_PR_PRP मर_V_VM मर_V_VM कर_V_VAUX जी_V_VAUX रही_V_VAUX थी_V_VAUX</s>
+<s>मैं_PR_PRP ही_RP_RPD दामिनी_N_NNP की_PSP माँ_N_NN हो_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>अपनी_PR_PRF छोटी_JJ बहन_N_NN दामिनी_N_NN के_PSP जन्मने_N_NN के_PSP बाद_N_NST से_PSP ही_RP_RPD शायद_N_NN मैंने_PR_PRP ज़मीन_N_NN के_PSP भीतर_N_NST फैलना_V_VM शुरू_N_NN कर_V_VM दिया_V_VAUX था_V_VAUX</s>
+<s>मैं_PR_PRP कभी_N_NST भी_RP_RPD ज्वालामुखी_N_NNP की_PSP तरह_N_NN फूट_V_VM सकती_V_VAUX थी_V_VAUX</s>
+<s>इस_DM_DMD बात_N_NN को_PSP घर_N_NN के_PSP लोग_N_NN नहीं_RP_NEG जानते_V_VM थे_V_VAUX</s>
+<s>अपने_PR_PRF ही_RP_RPD घर_N_NN की_PSP स्त्री_N_NN के_PSP बारे_N_NN में_PSP घर_N_NN के_PSP लोग_N_NN कुछ_QT_QTF भी_RP_RPD तो_RP_RPD नहीं_RP_NEG जानते_V_VM</s>
+<s>उसके_PR_PRP ताऊ_N_NN के_PSP बेटे_N_NN भानु_N_NNP ने_PSP सपने_N_NN में_PSP भी_RP_RPD न_RP_NEG सोचा_V_VM था_V_VAUX</s>
+<s>डरी_N_NNP डरी_N_NNP बड़ी_JJ बड़ी_JJ आँखों_N_NN वाली_PSP बित्ती_N_NN भर_N_NN की_PSP लड़की_N_NN इतनी_QT_QTF सी_N_NN बात_N_NN पर_PSP सर्वनाश_N_NN करेगी_V_VM</s>
+<s>दीवारों_N_NN में_PSP चुनी_V_VM हुई_V_VAUX ईंटें_N_NN जब_P एक_QT_QTC साथ_N_NN गिरतीं_V_VM हैं_V_VAUX तब_CC_CCS अपने_PR_PRF साथ_N_NN बहुत_QT_QTF सी_N_NN गर्द_N_NN और_CC_CCD आवाज़_N_NN लेकर_V_VM गिरती_V_VM हैं_V_VAUX</s>
+<s>वे_DM_DMD अपने_PR_PRF आसपास_N_NST ही_RP_RPD नहीं_RP_NEG बहुत_QT_QTF दूर_N_NN तक_PSP बहुत_QT_QTF कुछ_QT_QTF ध्वस्त_N_NN करतीं_V_VM हैं_V_VAUX</s>
+<s>उस_PR_PRP दिन_N_NN कमलिनी_N_NNP ने_PSP यह_DM_DMD साबित_N_NN का_PSP दिया_V_VM था_V_VAUX</s>
+<s>वह_PR_PRP बात_N_NN भानु_N_NN को_PSP छोटी_JJ लगी_V_VM थी_V_VAUX लेकिन_CC_CCD कमलिनी_N_NNP को_PSP बहुत_RP_INTF बड़ी_JJ लगी_V_VM थी_V_VAUX</s>
+<s>कमलिनी_N_NNP गौने_V_VM के_PSP लिए_PSP रोकी_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>वह_PR_PRP सारे_QT_QTF नियम_N_NN कायदों_N_NN को_PSP सिर_N_NN माथे_N_NN पर_PSP उठाये_V_VM थी_V_VAUX</s>
+<s>उसे_PR_PRP चौखट_N_NNP का_PSP मान_N_NN घुट्टी_N_NN में_PSP पिला_V_VM दिया_V_VAUX गया_V_VAUX था_V_VAUX लेकिन_CC_CCS उसका_PR_PRP पढ़ा_V_VM लिखा_V_VM पति_N_NN खुद_PR_PRF को_PSP नहीं_RP_NEG रोक_V_VM पाया_V_VAUX था_V_VAUX</s>
+<s>भानु_N_NNP की_PSP अनुमति_N_NN लिए_PSP बिना_RP_NEG ही_RP_RPD उससे_PR_PRP मिलने_V_VM चला_V_VAUX आया_V_VAUX था_V_VAUX</s>
+<s>भानु_N_NNP उसी_DM_DMD समय_N_NN घर_N_NN वापस_N_NN आ_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>उसने_PR_PRP कमलिनी_N_NNP को_PSP पति_N_NN के_PSP साथ_PSP बैठे_V_VM देख_V_VM लिया_V_VAUX था_V_VAUX</s>
+<s>गौने_N_NN के_PSP पहले_N_NST पति_N_NN के_PSP सामने_N_NST बेशर्मी_N_NN से_PSP बैठना_N_NN भानु_N_NN को_PSP कुल_QT_QTF परम्परा_N_NN का_PSP असह्य_JJ अपमान_N_NN लगा_V_VM था_V_VAUX</s>
+<s>वह_PR_PRP कमलिनी_N_NNP के_PSP पति_N_NN को_PSP कुछ_QT_QTF कहने_V_VM का_PSP साहस_N_NN तो_RP_RPD नहीं_RP_NEG जुटा_V_VM पाया_V_VAUX मगर_CC_CCS उसे_PR_PRP कमलिनी_N_NN को_PSP कुछ_QT_QTF भी_RP_RPD कह_V_VM जाने_V_VAUX की_PSP आदत_N_NN थी_V_VAUX तो_RP_RPD उसी_DM_DMD झोंके_N_NN में_PSP वह_PR_PRP कह_V_VM गया_V_VAUX था_V_VAUX तुम्हें_PR_PRP मालूम_N_NN नहीं_RP_NEG कि_CC_CCS हमारे_PR_PRP घर_N_NN में_PSP गौने_V_VM से_PSP पहले_N_NST पति_N_NN से_PSP मिलना_V_VM वर्जित_V_VAUX है_V_VAUX</s>
+<s>तुम्हारे_PR_PRP पास_N_NST चरित्र_N_NN नहीं_RP_NEG है_V_VM</s>
+<s>कमलिनी_N_NNP को_PSP काटो_V_VM तो_RP_RPD खून_N_NN नहीं_RP_NEG</s>
+<s>पहली_QT_QTO बार_N_NN बैठे_V_VM पति_N_NN के_PSP सामने_N_NST हुए_V_VM इस_DM_DMD अपमान_N_NN से_PSP नहा_V_VM लाल_JJ हो_V_VM उठी_V_VAUX वह_PR_PRP</s>
+<s>जब_P उसकी_PR_PRP लाज_N_NNP का_PSP घूंघट_N_NN उसको_PR_PRP चारों_QT_QTO ओर_N_NN उसका_PR_PRP आवरण_N_NN बना_V_VM पडा_V_VAUX था_V_VAUX तभी_N_NST जैसे_CC_CCS किसी_DM_DMI ने_PSP उसकी_PR_PRP चीर_N_NN खींच_V_VM दी_V_VAUX थी_V_VAUX</s>
+<s>उसका_PR_PRP मान_N_NN अभिमान_N_NN चोटिल_N_NN हो_V_VM गया_V_VAUX</s>
+<s>तारों_N_NN की_PSP छांव_N_NN की_PSP जगह_N_NN घना_JJ अन्धकार_N_NN छा_V_VM गया_V_VAUX</s>
+<s>उसकी_P बहुत_QT_QTF सी_RP_RPD बहनों_N_NN के_PSP अर्ध_QT_QTF बने_V_VM भ्रूण_N_NN उसके_PR_PRP भीतर_N_NST बेआवाज़_N_NN चीख_N_NN पड़े_V_VM थे_V_VAUX</s>
+<s>उसकी_PR_PRP पृथ्वी_N_NN के_PSP भीतर_N_NST इकट्ठा_N_NN गर्म_JJ लावा_N_NN अब_N_NST भीतर_N_NST रुकने_V_VM को_PSP तैयार_N_NN नहीं_RP_NEG था_V_VM</s>
+<s>उसने_PR_PRP उसी_DM_DMD पल_N_NN तय_N_NN कर_V_VM लिया_V_VAUX आज_N_NST सर्वनाश_N_NN करके_V_VM ही_RP_RPD छोडूंगी_V_VM</s>
+<s>दहकती_JJ आँखों_N_NN से_PSP उसने_PR_PRP भानु_N_NNP को_PSP देखा_V_VM और_CC_CCD अपने_PR_PRF पति_N_NN से_PSP उसी_DM_DMD समय_N_NN चले_V_VM जाने_V_VAUX के_PSP लिए_PSP कह_V_VM गई_V_VAUX</s>
+<s>कुछ_QT_QTF देर_N_NN पहले_N_NST की_PSP लजाती_JJ स्त्री_N_NN असली_JJ रूप_N_NN में_PSP रूपांतरित_N_NN हो_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>उसका_PR_PRP पति_N_NN कुछ_QT_QTF भी_RP_RPD समझता_V_VM उसके_PR_PRP पहले_N_NST ही_RP_RPD उसने_PR_PRP अपनी_PR_PRF कोठरी_N_NN का_PSP दरवाज़ा_JJ भीतर_N_NN से_PSP बंद_N_NN कर_V_VM लिया_V_VAUX</s>
+<s>अपमानित_JJ पतिचुपचाप_N_NN चला_V_VM गया_V_VAUX</s>
+<s>भानु_N_NNP गुस्से_N_NN में_PSP बहुत_QT_QTF देर_N_NN तक_PSP बडबडाता_V_VM रहा_V_VAUX</s>
+<s>उस_PR_PRP घर_N_NN पर_PSP किसी_DM_DMI तूफ़ान_N_NN के_PSP आने_V_VM के_PSP पहले_N_NST का_PSP सन्नाटा_N_NN छा_V_VM गया_V_VAUX</s>
+<s>थोड़ी_QT_QTF ही_RP_RPD देर_N_NN में_PSP कमलिनी_N_NNP की_PSP कोठरी_N_NN से_PSP आग_N_NN की_PSP लपटें_N_NN उठने_V_VM लगीं_V_VAUX</s>
+<s>सात_QT_QTC आठ_QT_QTC साल_N_NN की_PSP दामिनी_N_NNP कमलिनी_N_NNP की_PSP कोठरी_N_NN की_PSP और_CC_CCD भागी_N_NN</s>
+<s>दरवाजे_N_NN की_PSP फांक_N_NN से_PSP उसने_PR_PRP अपनी_PR_PRF प्यारी_JJ जिज्जी_N_NN को_PSP धू_N_NN धू_N_NN कर_V_VM जलते_V_VM देखा_V_VAUX</s>
+<s>कमलिनी_N_NNP की_PSP आत्मा_N_NN को_PSP जलाती_V_VM वह_PR_PRP आग_N_NN उसी_DM_DMD दिन_N_NN सात_QT_QTC साल_N_NN की_PSP उस_PR_PRP नन्हीं_JJ बच्ची_N_NN के_PSP सीने_N_NN में_PSP समा_V_VM गई_V_VAUX</s>
+<s>दरवाज़ा_JJ तोड़कर_V_VM कमलिनी_N_NNP को_PSP निकाला_V_VM गया_V_VAUX और_CC_CCD गांव_N_NN के_PSP बाहर_N_NST बने_V_VM पीपल_N_NN के_PSP पेड़_N_NN के_PSP चारों_QT_QTO ओर_N_NN बने_V_VM जगत_N_NN पर_PSP लिटा_V_VM दिया_V_VAUX गया_V_VAUX</s>
+<s>गाँव_N_NN के_PSP बड़े_JJ बूढ़े_N_NN कुछ_QT_QTF सोच_N_NN विचार_N_NN कर_V_VM ही_RP_RPD रहे_V_VM थे_V_VAUX कि_CC_CCS तभी_N_NST कमलिनी_N_NNP के_PSP भीतर_N_NST कोई_DM_DMI शक्ति_N_NN आ_V_VM गई_V_VAUX</s>
+<s>भानु_N_NNP भौचक_N_NNP इधर_N_NN उधर_N_NN देखने_V_VM के_PSP बाद_N_NST जली_V_VM हुई_V_VAUX असहाय_JJ कमलिनी_N_NN को_PSP देखता_V_VM रह_V_VAUX गया_V_VAUX</s>
+<s>उसके_PR_PRP बोल_N_NN नहीं_RP_NEG फूटे_V_VM</s>
+<s>उसको_PR_PRP बचाने_V_VM का_PSP जतन_N_NN करने_V_VM के_PSP लिए_PSP उसको_PR_PRP चारों_QT_QTC और_CC_CCD से_PSP घेरे_V_VM हुए_V_VAUX गांव_N_NN के_PSP वर्चस्वशाली_N_NN पुरुष_N_NN एक_QT_QTC एक_QT_QTC कर_N_NN उससे_PR_PRP दूर_N_NN होने_V_VM लगे_V_VAUX</s>
+<s>उनलोगों_N_NN ने_PSP सर्व_N_NN सम्मति_N_NN से_PSP भानु_N_NNP को_PSP बचाने_V_VM का_PSP फैसला_N_NN किया_V_VM और_CC_CCD तय_N_NN हुआ_V_VM कि_CC_CCS कमलिनी_N_NNP को_PSP इलाज_N_NN सुलभ_JJ कराना_N_NN उनके_PR_PRP लिए_PSP बहुत_QT_QTF खतनाक_N_NN होगा_V_VM</s>
+<s>उसे_PR_PRP उसकी_PR_PRP मृत्यु_N_NN आने_V_VM तक_PSP वहीँ_N_NN छोड़_V_VM दिया_V_VAUX जाए_V_VAUX</s>
+<s>उन्होंने_PR_PRP अनेक_QT_QTF स्त्रियों_N_NN को_PSP मरते_V_VM देखा_V_VAUX था_V_VAUX</s>
+<s>एक_QT_QTC स्त्री_N_NN के_PSP मर_V_VM जाने_V_VAUX से_PSP क्या_PR_PRQ बिगड़_V_VM जाता_V_VAUX है_V_VAUX लेकिन_CC_CCS एक_QT_QTC पुरुष_N_NN यदि_CC_CCS जेल_N_NN चला_V_VM गया_V_VAUX तो_CC_CCS पूर्वजों_N_NN का_PSP पुन्य_JJ प्रताप_N_NN मान_N_NN सम्मान_N_NN सब_QT_QTF बिला_V_VM जाएगा_V_VAUX</s>
+<s>कुल_QT_QTF कलंकित_N_NN हो_V_VM जाएगा_V_VAUX सो_N_NN अलग_N_NN</s>
+<s>वे_DM_DMD तो_RP_RPD सर्वशक्तिमान_N_NN थे_V_VM</s>
+<s>उनकी_PR_PRP आँखों_N_NN ने_PSP तो_RP_RPD भय_N_NN भरी_JJ हिरनियों_N_NN की_PSP आँखों_N_NN के_PSP भय_N_NN को_PSP मधुरस_N_NN की_PSP तरह_N_NN अनिर्वचनीय_JJ सुख_N_NN में_PSP बैठकर_V_VM पिया_V_VM था_V_VAUX</s>
+<s>वे_DM_DMD तो_RP_RPD उसे_PR_PRP बचा_V_VM सकते_V_VAUX थे_V_VAUX</s>
+<s>क्या_PR_PRQ उन्_N_NN डरी_V_VM हुई_V_VAUX स्त्रियों_N_NN की_PSP आँखों_N_NN में_PSP भी_RP_RPD उन्हें_PR_PRP आग_N_NN मिली_V_VM थी_V_VAUX और_CC_CCD वे_PR_PRP क्या_PR_PRQ सचमुच_N_NN उसी_PR_PRP से_PSP डरे_V_VM हुए_V_VAUX थे_V_VAUX</s>
+<s>यह_DM_DMD उस_PR_PRP समय_N_NN अनंत_JJ नींद_N_NN में_PSP समाती_V_VM कमलिनी_N_NNP समझ_N_NN पाई_V_VM थी_V_VAUX</s>
+<s>थोड़ी_QT_QTF ही_RP_RPD देर_N_NN में_PSP कमलिनी_N_NNP की_PSP देह_N_NN मर_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>दामिनी_N_NNP फटी_N_NN फटी_N_NN आँखों_N_NN से_PSP जिज्जी_N_NN को_PSP देखती_V_VM सहमती_N_NN काँपती_V_VM रही_V_VAUX</s>
+<s>उसका_PR_PRP रुदन_N_NN उसके_PR_PRP सीने_N_NN में_PSP जम_V_VM गया_V_VAUX और_CC_CCD वह_PR_PRP एक_QT_QTC लम्बे_JJ अंतराल_N_NN के_PSP लिए_PSP खामोश_N_NN हो_V_VM गई_V_VAUX थी_V_VAUX बहुत_RP_INTF इलाज_N_NN के_PSP बाद_N_NST जब_P वह_PR_PRP बोली_N_NN थी_V_VAUX तब_CC_CCS जिज्जी_N_NN के_PSP लिए_PSP चिघाड़_N_NN उठी_V_VM थी_V_VAUX</s>
+<s>कमलिनी_N_NNP कुछ_QT_QTF वर्ष_N_NN बीतते_V_VM न_RP_NEG बीतते_V_VM सती_N_NN का_PSP चौरा_N_NN बन_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>लोग_N_NN उसका_P नाम_N_NN भूल_V_VM उसे_PR_PRP सती_N_NN कहने_V_VM लगे_V_VAUX थे_V_VAUX</s>
+<s>लेकिन_CC_CCS दामिनी_N_NN अपनी_PR_PRF जिज्जी_N_NN का_PSP नाम_N_NN नहीं_RP_NEG भूली_V_VM थी_V_VAUX</s>
+<s>कमलिनी_N_NNP के_PSP मरने_N_NN के_PSP बाद_N_NST उस_PR_PRP गांव_N_NN में_PSP कई_QT_QTF मौतें_N_NN हो_V_VM गईं_V_VAUX थीं_V_VAUX</s>
+<s>लोग_N_NN कहते_V_VM कि_CC_CCS जाते_V_VM जाते_V_VAUX वह_PR_PRP अपने_PR_PRF साथ_N_NN पांच_QT_QTC और_CC_CCD लोगों_N_NN को_PSP ले_V_VM गई_V_VAUX</s>
+<s>वह_PR_PRP रातों_N_NN में_PSP जागता_V_VM था_V_VAUX</s>
+<s>थोड़ी_QT_QTF देर_N_NN को_PSP सोता_V_VM तो_RP_RPD जाने_V_VM सपने_N_NN में_PSP क्या_PR_PRQ देख_V_VM लेता_V_VAUX कि_CC_CCS जागने_N_NN के_PSP बाद_N_NST डरा_N_NNP सहमा_N_NNP बैठा_V_VM रहता_V_VAUX</s>
+<s>उसने_PR_PRP घर_N_NN से_PSP बाहर_N_NST निकलना_V_VM बंद_N_NN कर_V_VM दिया_V_VAUX</s>
+<s>उस_PR_PRP घर_N_NN में_PSP इतनी_QT_QTF अप्रत्याशित_JJ घटनाएँ_N_NN घटने_V_VM लगीं_V_VAUX कि_CC_CCS खासकर_N_NN पुरुषों_N_NN का_PSP जीवन_N_NN तबाह_V_VM होने_V_VAUX लगा_V_VAUX</s>
+<s>वे_DM_DMD लोग_N_NN घर_N_NN द्वार_N_NN गाँव_N_NN छोड़कर_V_VM वहां_N_NNP से_PSP जाने_V_VM के_PSP लिए_PSP विवश_N_NN हो_V_VM गए_V_VAUX</s>
+<s>वह_PR_PRP घर_N_NN वीरान_N_NN होकर_V_VM उजाड़_N_NN हो_V_VM गया_V_VAUX</s>
+<s>वहां_N_NNP सिर्फ_QT_QTF कमलिनी_N_NNP की_PSP यादें_N_NN रह_V_VM गयीं_V_VAUX और_CC_CCD रह_V_VM गई_V_VAUX कमलिनी_N_NNP की_PSP रूह_N_NN</s>
+<s>कभी_N_NST कभी_N_NST वहां_N_NNP से_PSP गुजरने_V_VM वाले_PSP लोग_N_NN उस_PR_PRP उजाड़_N_NN वीराने_N_NN से_PSP कमलिनी_N_NNP की_PSP हंसी_N_NN की_PSP आवाजें_N_NN सुनते_V_VM थे_V_VAUX</s>
+<s>कुछ_QT_QTF ही_RP_RPD दिनों_N_NN बाद_N_NST गाँव_N_NN की_PSP शान्ति_N_NN के_PSP लिए_PSP गाँव_N_NN के_PSP बाहर_N_NST पीपल_N_NN के_PSP उस_PR_PRP पुराने_JJ पेड़_N_NN के_PSP नीचे_N_NST एक_QT_QTC सती_N_NN का_PSP चौरा_N_NN बन_V_VM गया_V_VAUX था_V_VAUX जहाँ_P गाँव_N_NN की_PSP औरतें_N_NN पूजा_N_NN पाठ_N_NN करने_V_VM लगीं_V_VAUX</s>
+<s>वे_DM_DMD अपनी_PR_PRF इच्छाओं_N_NN की_PSP पूर्ति_N_NN के_PSP लिए_PSP अपने_PR_PRF अचल_JJ सुहाग_N_NN के_PSP लिए_PSP अपनी_PR_PRF बेटी_N_NN के_PSP ब्याह_N_NN के_PSP लिए_PSP पीपल_N_NN के_PSP चारों_QT_QTC ओर_N_NN धागा_N_NN लपेट_N_NN मन्नतें_N_NN मानने_V_VM लगीं_V_VAUX</s>
+<s>सती_N_NN चौरे_N_NN पर_PSP अक्षत_JJ फूल_N_NN चढाने_V_VM लगीं_V_VAUX</s>
+<s>सात_QT_QTC साल_N_NN की_PSP दामिनी_N_NN के_PSP भीतर_N_NST उस_PR_PRP दिन_N_NN की_PSP समाई_N_NN लपटें_N_NN जलतीं_V_VM थीं_V_VAUX</s>
+<s>उसी_DM_DMD के_PSP कारण_N_NN अब_N_NST घर_N_NN के_PSP किसी_DM_DMI पुरुष_N_NN की_PSP हिम्मत_N_NN नहीं_RP_NEG थी_V_VAUX जो_P दामिनी_N_NN को_PSP किसी_DM_DMI भी_RP_RPD काम_N_NN को_PSP करने_V_VM से_PSP रोके_V_VM</s>
+<s>दामिनी_N_NNP पढ़_V_VM लिख_V_VM कर_V_VAUX डॉक्टर_N_NN बनी_V_VM</s>
+<s>उसने_PR_PRP बहुत_QT_QTF सी_RP_RPD स्त्रियों_N_NN को_PSP बेटी_N_NN जनने_V_VM का_PSP हौसला_N_NN दिया_V_VM और_CC_CCD उनके_PR_PRP पास_N_NN खडी_V_VM होकर_V_VAUX उनका_PR_PRP जन्म_N_NN कराया_V_VM</s>
+<s>उसने_PR_PRP भी_RP_RPD बेटी_N_NN जनी_N_NN और_CC_CCD नाम_N_NN रखा_V_VM आगता_V_VAUX</s>
+<s>दामिनी_N_NNP की_PSP नाभि_N_NN में_PSP समाई_N_NN आग_N_NN आगता_N_NN की_PSP नाभि_N_NN में_PSP खुद_PR_PRF ब_N_NN खुद_PR_PRF जलने_V_VM लगी_V_VAUX थी_V_VAUX</s>
+<s>आगता_N_NNP ने_PSP सती_N_NN चौरों_N_NN की_PSP सच्चाई_N_NN पर_PSP काम_N_NN करना_V_VM शुरू_N_NN किया_V_VM</s>
+<s>सबसे_RP_INTF पहले_N_NST वह_PR_PRP उसी_DM_DMD को_PSP तोड़ेगी_N_NN जिसकी_P एक_QT_QTC एक_QT_QTC ईंट_N_NN में_PSP कमलिनी_N_NNP की_PSP दाहक_N_NN सिसकियाँ_N_NN कैद_N_NN थीं_V_VM</s>
+<s>वह_PR_PRP जो_P पूजी_N_NN जाती_V_VM हुई_V_VAUX भी_RP_RPD बेचैन_N_NN है_V_VM</s>
+<s>उसकी_P छेनी_N_NN ऐसे_DM_DMD चौरों_N_NN की_PSP ईंटे_N_NN गिरा_V_VM कर_V_VAUX उन्हें_PR_PRP ध्वस्त_N_NN कर_V_VM देगी_V_VAUX</s>
+<s>विशाल_JJ दरख़्तों_N_NN के_PSP नीचे_N_NST पूजित_N_NN ईंटों_N_NN के_PSP बीच_N_NST के_PSP अंधेरों_N_NN की_PSP क़ैद_N_NN ख़त्म_N_NN कर_V_VM देगी_V_VAUX</s>
+<s>लेकिन_CC_CCS यह_DM_DMD इतना_QT_QTF भी_RP_RPD आसान_N_NN नहीं_RP_NEG था_V_VAUX</s>
+<s>उसके_PR_PRP बाद_N_NST भीड़_N_NN के_PSP विरोध_N_NN का_PSP स्वर_N_NN सुनाई_V_VM देने_V_VAUX लगा_V_VAUX</s>
+<s>रुको_N_NNP रुको_N_NNP लेकिन_CC_CCD आगता_N_NN को_PSP रुकना_V_VM नहीं_RP_NEG था_V_VAUX</s>
+<s>तभी_N_NST एक_QT_QTC बहुत_RP_INTF कर्कश_JJ स्वर_N_NN आया_V_VM</s>
+<s>उसने_PR_PRP पीछे_N_NST मुड़कर_V_VM देखा_V_VAUX</s>
+<s>अस्सी_QT_QTC साल_N_NN का_PSP वृद्ध_N_NN माथे_N_NN के_PSP सारे_QT_QTF बाल_N_NN सफ़ेद_JJ और_CC_CCD हाथ_N_NN में_PSP एक_QT_QTC डंडा_N_NN लिए_PSP</s>
+<s>छोटी_JJ छोटी_JJ आँखों_N_NN के_PSP बीच_N_NST कटे_V_VM का_PSP गहरा_JJ निशान_N_NN लाल_JJ टीके_N_NN सा_RP_RPD</s>
+<s>आगता_N_NN उस_PR_PRP गाँव_N_NN के_PSP पुजारी_N_NN को_PSP पहचान_V_VM गई_V_VAUX</s>
+<s>दामिनी_N_NNP ने_PSP भी_RP_RPD उस_PR_PRP काली_JJ रात_N_NN में_PSP उसी_N_NN को_PSP पहचाना_V_VM था_V_VAUX</s>
+<s>आगता_N_NNP ने_PSP विकराल_N_NN रूप_N_NN धारण_N_NN किया_V_VM और_CC_CCD पुजारी_N_NN के_PSP सामने_N_NST आ_V_VM खड़ी_V_VAUX हुई_V_VAUX उसकी_PR_PRP आवाज़_N_NN असामान्य_JJ हो_V_VM गई_V_VAUX</s>
+<s>मैं_PR_PRP आपको_PR_PRP पहचानती_V_VM हूँ_V_VAUX केशव_N_NNP पंडित_N_NNP</s>
+<s>इसको_P आज_N_NN यहीं_DM_DMD मर_V_VM जाने_V_VAUX दो_QT_QTC</s>
+<s>इसका_DM_DMR मरना_N_NN विपत्ति_N_NN का_PSP जाना_V_VM है_V_VAUX</s>
+<s>केशव_N_NNP पंडित_N_NNP की_PSP आवाज़_N_NN उनके_PR_PRP गले_N_NN में_PSP अटक_V_VM गई_V_VAUX उनका_PR_PRP मुंह_N_NN लाल_JJ मिर्च_N_NN सा_JJ हो_N_NN सूख_V_VM गया_V_VAUX</s>
+<s>उनके_PR_PRP सामने_N_NST ये_DM_DMD कौन_PR_PRQ खड़ी_V_VM है_V_VAUX कमलिनी_N_NNP</s>
+<s>कमलिनी_N_NNP यहाँ_DM_DMD है_V_VM इस_DM_DMD सती_N_NN चौरे_N_NN में_PSP</s>
+<s>आईये_N_NN मैं_PR_PRP आपको_PR_PRP उससे_PR_PRP मिलवाती_V_VM हूँ_V_VAUX</s>
+<s>आपने_PR_PRP उसको_PR_PRP मारने_V_VM के_PSP बाद_N_NST यहाँ_DM_DMD कैद_N_NN किया_V_VM है_V_VAUX सती_N_NN बनाकर_V_VM केशव_N_NNP पंडित_N_NNP जाने_V_VM कब_PR_PRQ भीड़_N_NN में_PSP छुप_V_VM गए_V_VAUX थे_V_VAUX</s>
+<s>आगता_N_NNP ने_PSP भीड़_N_NN को_PSP ललकारा_V_VM था_V_VAUX</s>
+<s>भीड़_N_NN अनगिनत_N_NN मूर्तियों_N_NN में_PSP बदल_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>उस_PR_PRP रात_N_NN का_PSP दृश्य_N_NN भी_RP_RPD ऐसा_DM_DMD ही_RP_RPD रहा_V_VM होगा_V_VAUX</s>
+<s>आगता_N_NNP ने_PSP सोचा_N_NN आज_N_NST दिन_N_NN का_PSP उजाला_N_NN है_V_VM और_CC_CCD वह_PR_PRP रात_N_NN थी_V_VM</s>
+<s>आगता_N_NN के_PSP हाथ_N_NN की_PSP छेनी_N_NN और_CC_CCD हथौड़ी_JJ समय_N_NN को_PSP अपने_PR_PRF ढंग_N_NN से_PSP गढ़ने_N_NN में_PSP लगी_V_VM थीं_V_VAUX</s>
+<s>उसने_PR_PRP उस_PR_PRP पीपल_N_NN के_PSP पेड़_N_NN के_PSP नीचे_N_NST निर्मित_N_NN सती_N_NN के_PSP चौरे_N_NN को_PSP तोड़_V_VM दिया_V_VAUX था_V_VAUX</s>
+<s>तब_CC_CCS यह_DM_DMD सच_N_NN खुला_V_VM था_V_VAUX कि_CC_CCS वह_PR_PRP सती_N_NN का_PSP चौरा_N_NN नहीं_RP_NEG कमलिनी_N_NN का_PSP चौरा_N_NN है_V_VM जिसकी_P आँखों_N_NN में_PSP नींदे_V_VM थी_V_VAUX जो_P ताउम्र_N_NN जागती_RB रह_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>जगह_N_NN जगह_N_NN बने_V_VM सती_N_NN चौरों_N_NN के_PSP सच_N_NN खुलने_V_VM लगे_V_VAUX थे_V_VAUX</s>
+<s>सुमेधा_N_NNP उस_PR_PRP लड़की_N_NN के_PSP सामने_N_NST खड़ी_V_VM थी_V_VAUX जिसके_P हाथ_N_NN में_PSP छेनी_V_VM हथौड़ी_V_VAUX थी_V_VAUX</s>
+<s>सुमेधा_N_NNP के_PSP साथ_PSP अखबार_N_NN का_PSP फोटोग्राफर_N_NN भी_RP_RPD था_V_VM</s>
+<s>कुछ_QT_QTF मीडिया_N_NN वाले_PSP भी_RP_RPD अपने_PR_PRF अपने_PR_PRF कैमरों_N_NN के_PSP साथ_PSP वहां_N_NNP पहुँच_V_VM गए_V_VAUX थे_V_VAUX</s>
+<s>खबर_N_NN आग_N_NN की_PSP तरह_N_NN फैल_V_VM गई_V_VAUX थी_V_VAUX</s>
+<s>आगता_N_NNP ने_PSP केशव_N_NNP पंडित_N_NNP को_PSP दुबारा_N_NN आवाज़_N_NN दी_V_VM</s>
+<s>लेकिन_CC_CCS केशव_N_NNP पंडित_N_NN कहीं_N_NST खो_V_VM गए_V_VAUX थे_V_VAUX</s>
+<s>सती_N_NN का_PSP चौरा_N_NN कैमरे_N_NN की_PSP रोशनी_N_NN में_PSP टूट_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>तस्वीरें_N_NN सोशल_N_NN मीडिया_N_NN से_PSP लेकर_V_VM टी_N_NN वी_N_NN चैनलों_N_NN तक_PSP सुर्खियों_N_NN की_PSP तरह_N_NN कौंध_N_NN रहीं_V_VM थीं_V_VAUX</s>
+<s>इस_DM_DMD हेड_N_NNP लाइन_N_NN के_PSP साथ_PSP उसका_PR_PRP अगला_N_NST कदम_N_NN था_V_VAUX अगला_N_NST चौरा_N_NN</s>
+<s>सुमेधा_N_NNP ने_PSP आगता_N_NN से_PSP पूछा_V_VM क्या_PR_PRQ स्त्री_N_NN में_PSP इतना_QT_QTF क्रोध_N_NN होता_V_VM है_V_VAUX</s>
+<s>क्या_PR_PRQ उसमेंधैर्य_N_NN नहीं_RP_NEG होता_V_VM है_V_VAUX वह_PR_PRP तो_RP_RPD माँ_N_NN होती_V_VM है_V_VAUX न_RP_NEG</s>
+<s>क्या_PR_PRQ उसे_PR_PRP पिघलने_V_VM का_PSP अधिकार_N_NN नहीं_RP_NEG</s>
+<s>सुमेधा_N_NNP को_PSP लगा_V_VM कि_CC_CCS कमलिनी_N_NNP अब_N_NST सती_N_NN चौरे_N_NN से_PSP निकल_V_VM बाहर_N_NST खड़ी_V_VM हो_V_VAUX गई_V_VAUX है_V_VAUX</s>
+<s>अब_N_NST वह_PR_PRP सती_N_NN नहीं_RP_NEG है_V_VAUX स्त्री_N_NN है_V_VM</s>
+<s>उसे_PR_PRP जमी_V_VM हुई_V_VAUX बर्फ_N_NN का_PSP पिघलना_V_VM और_CC_CCD सारी_QT_QTF पृथ्वी_N_NN का_PSP समुद्र_N_NN में_PSP बदल_V_VM जाना_V_VAUX परिघटित_N_NN होता_V_VM हुआ_V_VAUX लगा_V_VM</s>
+<s>आगता_N_NN की_PSP छेनी_N_NN पर_PSP पड़ती_V_VM हथौड़ी_N_NN की_PSP आवाज़_N_NN स्त्रियों_N_NN की_PSP मुक्त_N_NN हंसी_N_NN सी_N_NN सुनाई_N_NN देने_V_VM लगी_V_VAUX थी_V_VAUX</s>
+<s>उनका_PR_PRP ट्रैफ़िक_N_NN सिग्नल_N_NN भी_RP_RPD काम_N_NN नहीं_RP_NEG कर_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ने_PSP ओवरकोट_N_NNP की_PSP ऊपर_N_NST वाली_PSP बटन_N_NN बन्द_N_NN करते_V_VM हुए_V_VAUX कहा_N_NN मैं_N_NN पैदल_N_NN ज़्यादा_QT_QTF जल्दी_RB पहुँच_V_VM जाऊँगा_V_VAUX यहीं_DM_DMD पास_N_NST में_PSP ही_RP_RPD है_V_VM</s>
+<s>बाहर_N_NST बेहद_RP_INTF चिपचिपा_JJ था_V_VAUX गीला_N_NN गन्दा_N_NN</s>
+<s>विन्डशील्ड_N_NN पर_PSP भारी_JJ भारी_JJ गोले_N_NN गिर_V_VM रहे_V_VAUX थे_V_VAUX जो_P निश्चित_N_NN ही_RP_RPD बर्फ_N_NN के_PSP फाहे_N_NN नहीं_RP_NEG थे_V_VM</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ने_PSP फिर_RB से_PSP बटन_N_NN खोल_V_VM दी_V_VAUX कार_N_NN के_PSP भीतर_N_NST गर्माहट_N_NN थी_V_VAUX वह_PR_PRP बाहर_N_NST नहीं_RP_NEG निकला_V_VM</s>
+<s>आज_N_NST उसे_PR_PRP लेख_N_NN के_PSP लिए_PSP पैसे_N_NN मिले_V_VM थे_V_VAUX जो_P बसन्त_N_NN के_PSP मौसम_N_NN में_PSP सम्मेलन_N_NN की_PSP कार्यवाही_N_NN में_PSP छपा_V_VM था_V_VAUX उसे_PR_PRP मानधन_N_NN पाने_V_VM की_PSP कोई_DM_DMI उम्मीद_N_NN नहीं_RP_NEG थी_V_VAUX</s>
+<s>मेट्रो_N_NN में_PSP बैठकर_V_VM अपने_PR_PRF उनींदे_N_NN मोहल्ले_N_NN में_PSP चला_V_VM जाता_V_VAUX मगर_CC_CCS अपने_PR_PRF सहलेखक_N_NN ग्रेज्युएट_N_NN स्टूडेन्ट_N_NN पेत्या_N_NN के_PSP प्रस्ताव_N_NN से_PSP इनकार_N_NN न_RP_NEG कर_V_VM सका_V_VAUX जो_P अपनी_PR_PRF फोर्ड_N_NN में_PSP शॉपिंग_N_NN सेन्टर_N_NN जा_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>मानधन_N_NN प्राप्त_N_NN होने_V_VM के_PSP बाद_N_NST भी_RP_RPD ल्येव_N_NNP लाव्रेन्तेविच_N_NNP का_PSP मूड_N_NN बहुत_RP_INTF ख़राब_N_NN था_V_VM</s>
+<s>सच_N_NN कहा_V_VM जाए_V_VAUX तो_RP_RPD उसकी_PR_PRP बीबी_N_NN किसी_DM_DMI उपहार_N_NN के_PSP काबिल_N_NN ही_RP_RPD नहीं_RP_NEG थी_V_VM</s>
+<s>दो_QT_QTC दिन_N_NN से_PSP वे_DM_DMD लड़_V_VM पड़े_V_VAUX हैं_V_VAUX</s>
+<s>कम_QT_QTF से_PSP कम_QT_QTF आज_N_NN तो_RP_RPD समझौता_N_NN करने_V_VM का_PSP उसका_PR_PRP इरादा_N_NN नहीं_RP_NEG है_V_VM और_CC_CCD हो_V_VM सकता_V_VAUX है_V_VAUX कि_CC_CCS आज_N_NST कोई_DM_DMI गिफ्ट_N_NN ख़रीदना_V_VM कुछ_QT_QTF बेईमानी_JJ सी_N_NN होगी_V_VM</s>
+<s>नए_JJ साल_N_NN में_PSP अभी_N_NST तीन_QT_QTC दिन_N_NN हैं_V_VM</s>
+<s>तुम_PR_PRP कितने_N_NN साल_N_NN के_PSP हो_V_VM पेत्या_N_NN पच्चीस_QT_QTC</s>
+<s>तीस_QT_QTC साल_N_NN की_PSP उम्र_N_NN तक_PSP मज़े_N_NN से_PSP बिना_PSP शादी_N_NN किए_V_VM रह_V_VAUX सकते_V_VAUX हो_V_VAUX</s>
+<s>कम_QT_QTF से_PSP कम_QT_QTF तीस_QT_QTC साल_N_NN तक_PSP तो_RP_RPD रह_V_VM ही_RP_RPD सकते_V_VAUX हो_V_VAUX</s>
+<s>चाँदी_N_NNP जैसे_CC_CCS चमकीले_JJ ओवरकोट_N_NNP में_PSP एक_QT_QTC लड़की_N_NN कारों_N_NN के_PSP पास_N_NST छोटी_JJ छोटी_JJ पत्रिकाएँ_N_NN ला_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ने_PSP कार_N_NN का_PSP शीशा_N_NN नीचे_N_NST गिरा_V_VM दिया_V_VAUX</s>
+<s>जानी_N_NN पहचानी_V_VM सेवाओं_N_NN का_PSP इश्तेहार_N_NN था_V_VM</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ने_PSP शीर्षक_N_NN पढ़ा_V_VM</s>
+<s>बिल्कुल_JJ टोस्ट_N_NN जैसा_N_NN लग_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>कवर_N_NN पे_PSP भरे_JJ भरे_JJ वक्षस्थल_N_NN भूरे_N_NN बालों_N_NN वाली_PSP टॉपलेस_N_NN लड़की_N_NN मुस्कुराते_V_VM हुए_V_VAUX शैम्पेन_N_NN का_PSP जाम_N_NN उठा_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>माँ_N_NN कसम_N_NN कितने_N_NN हैं_V_VM इसमें_DM_DMR</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP उसकी_PR_PRP क्वालिटी_N_NN से_PSP हैरान_N_NN होकर_V_VM पन्ने_N_NN पलटने_V_VM लगा_V_VAUX</s>
+<s>ये_DM_DMD है_V_VAUX एक_QT_QTC इश्तेहार_N_NN</s>
+<s>प्रति_QT_QTF घण्टा_N_NN उच्च_JJ आय_N_NN हेतु_PSP लड़कियाँ_N_NN आमंत्रित_N_NN की_PSP जाती_V_VM हैं_V_VAUX</s>
+<s>नहीं_RP_NEG क्या_PR_PRQ कर_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>कैसे_DM_DMQ फुसला_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>बेहतर_JJ है_V_VAUX कि_CC_CCS आप_PR_PRP तस्वीरों_N_NN के_PSP नीचे_N_NST लिखी_N_NN इबारतें_N_NN पढें_V_VM</s>
+<s>ज़िंदगी_N_NN के_PSP बारे_N_NN में_PSP ज़्यादा_QT_QTF जानकारी_N_NN मिलेगी_V_VM</s>
+<s>आप_PR_PRP इसे_DM_DMD घर_N_NN ले_V_VM जाइये_V_VAUX</s>
+<s>बीबी_N_NNP के_PSP साथ_PSP चर्चा_N_NN कीजिए_V_VM</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ने_PSP पूरे_JJ हफ़्ते_N_NN में_PSP पहली_QT_QTO बार_N_NN मुस्कुरा_V_VM कर_V_VAUX कहा_V_VM</s>
+<s>सबसे_RP_INTF ज़्यादा_QT_QTF बेसब्र_N_NN लोगों_N_NN ने_PSP हॉर्न_N_NN बजाना_N_NN शुरू_N_NN कर_V_VM दिया_V_VAUX</s>
+<s>लो_N_NNP पेत्या_N_NNP ने_PSP कहा_V_VM हो_V_VAUX गया_V_VAUX शुरू_N_NN पागलखाना_N_NN</s>
+<s>ख़ुदा_N_NNP ने_PSP चाहा_N_NN तो_RP_RPD इससे_P भी_RP_RPD निकल_V_VM लेंगे_V_VAUX</s>
+<s>उसने_PR_PRP पेत्या_N_NN से_PSP हाथ_N_NN मिलाया_V_VM कार_N_NN का_PSP दरवाज़ा_N_NN खोला_V_VM</s>
+<s>मैगज़ीन_N_NNP ली_N_NNP और_CC_CCD कार_N_NN से_PSP बाहर_N_NN आया_V_VM</s>
+<s>ठण्डा_JJ कीचड़_N_NN जूतों_N_NN में_PSP घुस_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>किनारे_N_NN तक_PSP पहुँचने_V_VM के_PSP लिए_PSP जैसे_N_NN इस_DM_DMD समंदर_N_NN को_PSP पार_V_VM करना_V_VAUX था_V_VAUX</s>
+<s>वह_PR_PRP चल_V_VM नहीं_RP_NEG बल्कि_CC_CCD भाग_N_NN रहा_V_VM था_V_VAUX</s>
+<s>रूकी_N_NN हुई_V_VM विदेशी_JJ कारों_N_NN के_PSP बीच_N_NST से_PSP रास्ता_N_NN बनाते_V_VM हुए_V_VAUX कोशिश_N_NN कर_V_VM रहा_V_VAUX था_V_VAUX कि_CC_CCS हल्का_JJ भूरा_JJ ओवरकोट_N_NNP गंदे_JJ मड_N_NNP गार्डों_N_NN को_PSP न_RP_NEG छुए_V_VM</s>
+<s>पैरों_N_NN के_PSP नीचे_N_NST मच्_N_NN मच्_N_NN हो_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>पैरों_N_NN के_PSP नीचे_N_NST से_PSP फ़व्वारे_N_NN उछल_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>फुटपाथ_N_NNP पास_N_NST ही_RP_RPD था_V_VM</s>
+<s>एक_QT_QTC लंगडा_N_NN इस_DM_DMD अथाह_N_NN कीचड़_N_NN की_PSP ओर_N_NN ध्यान_N_NN न_RP_NEG देते_V_VM हुए_V_VAUX तेज़ी_RB से_PSP चला_V_VM जा_V_VAUX रहा_V_VAUX था_V_VAUX और_CC_CCD चालकों_N_NN से_PSP भीख_N_NN माँग_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>यहाँ_DM_DMD अपेक्षाकृत_N_NN सूखा_JJ था_V_VM</s>
+<s>दिमाग़_N_NNP में_PSP ख़तरनाक_N_NN शब्द_N_NN सेक्स्टिलियन_N_NN हथौड़े_N_NN बजा_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>सेक्स्टिलियन_N_NNP मतलब_N_NN बहुत_RP_INTF ज़्यादा_QT_QTF वह_PR_PRP ख़ुद_PR_PRF भी_RP_RPD नहीं_RP_NEG जानता_V_VM था_V_VAUX कि_CC_CCS कितना_N_NN</s>
+<s>आँखों_N_NN से_PSP पेत्या_N_NN की_PSP कार_N_NN नहीं_RP_NEG ढूँढ_V_VM पाया_V_VAUX जिसे_P अभी_N_NST अभी_N_NST छोड़कर_V_VM आया_V_VAUX था_V_VAUX</s>
+<s>दोनों_QT_QTC दिशाओं_N_NN में_PSP और_CC_CCD ट्राम_N_NN की_PSP पटरियों_N_NN पर_PSP भी_RP_RPD लोग_N_NN खड़े_V_VM थे_V_VAUX</s>
+<s>उसे_PR_PRP कार_N_NN की_PSP ज़रूरत_N_NN ही_RP_RPD क्या_PR_PRQ है_V_VAUX ग्रेजुएट_N_NNP स्टूडेन्ट_N_NNP के_PSP बारे_N_NN में_PSP ख़याल_N_NN आया_V_VM</s>
+<s>वह_PR_PRP उसका_PR_PRP गुलाम_N_NN है_V_VM गुलाम_N_NN और_CC_CCD ये_DM_DMD रहा_N_NN कलश_N_NN</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ने_PSP गुज़रते_V_VM हुए_V_VAUX उसकी_PR_PRP ओर_N_NN परिचय_N_NN के_PSP लिए_PSP फेंक_V_VM दिया_V_VAUX</s>
+<s>वह_PR_PRP उसमें_PR_PRP गिर_V_VM गया_V_VAUX</s>
+<s>कलशों_N_NN की_PSP नई_JJ पीढ़ी_N_NN को_PSP इस_DM_DMD इबारत_N_NN से_PSP सुशोभित_N_NN किया_V_VM गया_V_VAUX है_V_VAUX</s>
+<s>अपने_PR_PRF शहर_N_NN से_PSP प्यार_N_NN करो_V_VM</s>
+<s>सजाने_N_NN का_PSP मन_N_NN हो_V_VM तो_RP_RPD सजाए_V_VM</s>
+<s>वह_PR_PRP ख़ुद_PR_PRF तो_RP_RPD अच्छी_JJ तरह_N_NN जानती_V_VM है_V_VAUX कि_CC_CCS ल्येव_N_NN लाव्रेन्तेविच_N_NN की_PSP गर्दन_N_NN की_PSP गोलाई_N_NN कितनी_N_NN है_V_VM</s>
+<s>मगर_CC_CCS वह_PR_PRP अपने_PR_PRF आप_PR_PRP से_PSP पूछता_V_VM है_V_VAUX देखिए_V_VM उसे_PR_PRP इस_DM_DMD बात_N_NN को_PSP जानने_V_VM की_PSP ज़रूरत_N_NN क्या_PR_PRQ है_V_VAUX जब_P कि_CC_CCS उसके_PR_PRP लिए_PSP ये_DM_DMD जानना_N_NN ज़रूरी_JJ नहीं_RP_NEG है_V_VM</s>
+<s>हर_QT_QTF चीज़_N_NN ल्येव_N_NN लाव्रेन्तेविच_N_NN को_PSP गुस्सा_N_NN दिला_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>सबसे_RP_INTF ज़्यादा_QT_QTF गुस्सा_N_NN मॉडेल्स_N_NN पर_PSP आ_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>पिछले_N_NST कुछ_QT_QTF समय_N_NN से_PSP मॉडेल्स_N_NN उसे_PR_PRP बेहद_RP_INTF गुस्सा_N_NN दिला_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>हर_QT_QTF तरह_N_NN के_PSP मॉडेल्स_N_NN</s>
+<s>पहले_N_NST वे_PR_PRP ऐसे_DM_DMD नहीं_RP_NEG हुआ_V_VM करते_V_VAUX थे_V_VAUX</s>
+<s>पहले_N_NST वे_PR_PRP बिना_PSP किसी_DM_DMI दिखावे_N_NN के_PSP होते_V_VM थे_V_VAUX</s>
+<s>इसीलिए_CC_CCS ल्येव_N_NN लाव्रेन्तेविच_N_NN उनसे_PR_PRP नफ़रत_N_NN करता_V_VM था_V_VAUX दिखावे_N_NN के_PSP लिए_PSP</s>
+<s>पुतलों_N_NN की_PSP ओर_N_NN देखते_V_VM हुए_V_VAUX ल्येव_N_NN लव्रेन्तेविच_N_NN इन्सान_N_NN के_PSP बारे_N_NN में_PSP सोचे_V_VM बगैर_N_NN नहीं_RP_NEG रह_V_VM सका_V_VAUX</s>
+<s>बिना_PSP कुछ_QT_QTF ख़रीदे_N_NN बाहर_N_NST आ_V_VM गया_V_VAUX</s>
+<s>ट्रॅफ़िक_JJ जॅम_N_NN धीरे_RB धीरे_RB कम_JJ हो_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>अपनी_PR_PRF बवासीर_N_NN भूल_V_VM जाओ_V_VAUX एक_QT_QTC भड़कीला_JJ पोस्टर_N_NN बुला_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>क्लिनिकल_N_NN केस_N_NN ल्येव_N_NN लाव्रेन्तेविच_N_NN ने_PSP यंत्रवत्_N_NN क्लिनिक_N_NN का_PSP पता_N_NN पढ़कर_V_VM अपने_PR_PRF आप_PR_PRP से_PSP कहा_V_VM</s>
+<s>वैसे_CC_CCS वह_PR_PRP इश्तेहारों_N_NN के_PSP मजमून_N_NN पढ़ने_V_VM से_PSP अपने_PR_PRF आपको_PR_PRP रोकता_V_VM था_V_VAUX</s>
+<s>मगर_CC_CCS हर_QT_QTF बार_N_NN ऐसा_DM_DMD नहीं_RP_NEG हो_V_VM पाता_V_VAUX था_V_VAUX</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP के_PSP पास_N_NST भी_RP_RPD भागकर_V_VM आई_V_VAUX</s>
+<s>उसके_PR_PRP चेहरे_N_NN का_PSP दृढ़_JJ भाव_N_NN नहीं_RP_NEG दूँगा_V_VAUX पढ़कर_V_VM फ़ौरन_N_NN दूर_N_NN हट_V_VM गई_V_VAUX</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP अंडरपास_N_NNP पर_PSP नहीं_RP_NEG उतरा_V_VM</s>
+<s>भीतर_N_NST जाते_V_VM हुए_V_VAUX पचास_N_NN की_PSP कल्पना_N_NN की_PSP काउन्टर_N_NN पर_PSP सौ_N_NN के_PSP बारे_N_NN सोचा_N_NN और_CC_CCD तय_N_NN किया_V_VM :_RD_PUNC डेढ़_QT_QTC सौ_N_NN</s>
+<s>उसे_PR_PRP छोटी_JJ सी_RP_RPD सुराही_N_NN में_PSP दी_V_VM गई_V_VAUX</s>
+<s>टोमॅटो_N_NNP जूस_N_NN का_PSP गिलास_N_NN लिया_V_VM</s>
+<s>कुछ_QT_QTF खाने_N_NN का_PSP मन_N_NN नहीं_RP_NEG था_V_VAUX</s>
+<s>तीन_QT_QTC दिन_N_NN से_PSP भूख_N_NN नहीं_RP_NEG थी_V_VM</s>
+<s>जल्दी_RB मचाने_V_VM की_PSP ज़रूरत_N_NN नहीं_RP_NEG है_V_VM</s>
+<s>बगल_N_NN वाली_PSP मेज़_N_NN पर_PSP दो_QT_QTC लोग_N_NN बैठे_V_VM थे_V_VAUX बियर_N_NNP पी_V_VM रहे_V_VAUX थे_V_VAUX प्लेट_N_NN में_PSP सूखे_JJ घोंघो_N_NN का_PSP ढेर_N_NN लगा_V_VM था_V_VAUX</s>
+<s>ल्येव_N_NN लाव्रेन्तेविच_N_NN ये_DM_DMD कचरा_N_NN बर्दाश्त_N_NN नहीं_RP_NEG कर_V_VM पाता_V_VAUX था_V_VAUX</s>
+<s>जब_P से_PSP कटलेट_N_NN हाउस_N_NN ग्लास_N_NN हाउस_N_NN बना_V_VM था_V_VAUX यहाँ_DM_DMD कटलेट्स_N_NN बेचना_N_NN बंद_N_NN कर_V_VM दिया_V_VAUX गया_V_VAUX था_V_VAUX</s>
+<s>नमक_N_NN ही_RP_RPD नहीं_RP_NEG है_V_VM</s>
+<s>उसने_PR_PRP ख़ुद_PR_PRF नमक_N_NN नहीं_RP_NEG डाला_V_VM जानबूझकर_V_VM</s>
+<s>टोमॅटो_N_NNP जूस_N_NN को_PSP अगर_CC_CCS नमक_N_NN डाल_V_VM कर_V_VAUX उबाला_V_VM जाए_V_VAUX तो_CC_CCS वह_PR_PRP लीवर_N_NN को_PSP नुक्सान_N_NN पहुँचाता_V_VM है_V_VAUX</s>
+<s>औरतों_N_NN ने_PSP उससे_PR_PRP कभी_N_NST भी_RP_RPD ऐसा_DM_DMD नहीं_RP_NEG कहा_V_VM था_V_VAUX</s>
+<s>ज़िंदगी_N_NN अगर_CC_CCS ईमानदारी_N_NN से_PSP कहा_V_VM जाए_V_VAUX तो_CC_CCS बुरी_N_NN रही_V_VM</s>
+<s>और_CC_CCD ज़िंदगी_N_NN हमेशा_N_NN ही_RP_RPD बुरी_N_NN होती_V_VM है_V_VAUX</s>
+<s>जैसे_CC_CCS ताश_N_NN का_PSP घर_N_NN</s>
+<s>इससे_P अच्छा_JJ कुछ_QT_QTF और_CC_CCD सोच_N_NN ही_RP_RPD नहीं_RP_NEG सकते_V_VM</s>
+<s>अब_N_NST वे_PR_PRP पॉलिटिक्स_N_NN के_PSP बारे_N_NN में_PSP चर्चा_N_NN कर_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>सबसे_RP_INTF पहले_N_NST इंग्लैण्ड_N_NNP अलग_N_NN होगा_V_VM</s>
+<s>बगल_N_NN वाली_PSP मेज़_N_NN पर_PSP गव्न्युकोव_N_NN भविष्यवाणी_N_NN कर_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>स्कॉटलैण्ड_N_NNP और_CC_CCD वेल्स_N_NNP रह_V_VM जाएँगे_V_VAUX बिना_PSP इंग्लैण्ड_N_NN के_PSP</s>
+<s>दोनों_QT_QTC को_PSP मार_V_VM डालता_V_VAUX</s>
+<s>एक_QT_QTC बेघर_N_NN जैसा_JJ दद्दू_N_NN भीतर_N_NN आया_V_VM</s>
+<s>चेहरा_N_NN जैसे_JJ जाना_N_NN पहचाना_V_VM है_V_VAUX ल्येव_N_NN लाव्रेन्तेविच_N_NN उससे_PR_PRP निश्चित_N_NN ही_RP_RPD कहीं_N_NST मिल_V_VM चुका_V_VAUX है_V_VAUX</s>
+<s>हालात_N_NN का_PSP जायज़ा_JJ लेकर_V_VM वह_PR_PRP उन_PR_PRP दोनों_N_NN की_PSP ओर_N_NN बढ़ा_V_VM</s>
+<s>तू_N_NNP ख़ुद_PR_PRF ही_RP_RPD खानदानी_N_NN है_V_VM</s>
+<s>अच्छा_JJ लगता_V_VM है_V_VAUX देखकर_V_VM</s>
+<s>दद्दू_N_NNP गव्न्युकोव_N_NNP के_PSP दोस्त_N_NN से_PSP मुख़ातिब_N_NN हुआ_V_VM</s>
+<s>कम_QT_QTF से_PSP कम_QT_QTF दस_QT_QTC ही_RP_RPD दीजिए_V_VM</s>
+<s>फूट_N_NN ले_V_VM गव्न्युकोव_N_NNP के_PSP दोस्त_N_NN ने_PSP सलाह_N_NN दी_V_VM</s>
+<s>रुक_N_NN जाओ_V_VM ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ने_PSP हुक्म_N_NN दिया_V_VM</s>
+<s>उसने_PR_PRP सौ_QT_QTC रूबल्स_N_NN का_PSP नोट_N_NN निकाला_N_NN और_CC_CCD दद्दू_N_NN को_PSP दिखाया_V_VM</s>
+<s>ये_DM_DMD देखकर_V_VM कि_CC_CCS दद्दू_N_NN अपनी_PR_PRF जगह_N_NN पर_PSP खड़ा_V_VM ही_RP_RPD है_V_VAUX वह_PR_PRP ख़ुद_PR_PRF उसके_PR_PRP पास_V_VM गया_V_VAUX</s>
+<s>आदमी_N_NN गिर_V_VM गया_V_VAUX है_V_VAUX</s>
+<s>सिर्फ_QT_QTF विदेशी_JJ कारों_N_NN के_PSP ड्राइवर्स_N_NN को_PSP</s>
+<s>पैदल_N_NN चलने_V_VM वालों_V_VAUX को_PSP नहीं_RP_NEG देते_V_VM</s>
+<s>बेघर_N_NN लोगों_N_NN को_PSP भी_RP_RPD नहीं_RP_NEG देते_V_VM</s>
+<s>बेघर_N_NN लोगों_N_NN को_PSP ही_RP_RPD देते_V_VM हैं_V_VAUX</s>
+<s>तुम्हारे_PR_PRP ख़याल_N_NN में_PSP ये_DM_DMD कौन_PR_PRQ था_V_VM</s>
+<s>बेघर_N_NN लोगों_N_NN को_PSP देते_V_VM हैं_V_VAUX ताकि_CC_CCS वे_DM_DMD इस_DM_DMD जैसे_JJ ईडियट्स_N_NN को_PSP बेचें_V_VM</s>
+<s>बेघर_N_NN बेचता_V_VM है_V_VAUX और_CC_CCD पैसे_N_NN आपस_N_NN में_PSP बाँट_V_VM लेते_V_VAUX हैं_V_VAUX</s>
+<s>हमने_PR_PRP ब्रदरहुड_N_NN के_PSP लिए_PSP नहीं_RP_NEG पी_V_VM है_V_VAUX</s>
+<s>ज़िंदगी_N_NN चल_V_VM रही_V_VAUX है_V_VAUX</s>
+<s>शायद_N_NN झूठ_N_NN बोल_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>चारों_QT_QTC ओर_N_NN नज़र_N_NN दौड़ाई_N_NN</s>
+<s>गव्न्युकोव_N_NNP अपने_PR_PRF दोस्त_N_NN के_PSP साथ_PSP पीछे_N_NST पीछे_N_NST आ_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>उन्हें_PR_PRP और_CC_CCD क्या_PR_PRQ चाहिए_V_VM</s>
+<s>वे_DM_DMD ल्येव_N_NN लाव्रेन्तेविच_N_NN के_PSP पीछे_N_NST पीछे_N_NST क्यों_DM_DMQ आ_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP को_PSP शक_V_VM हुआ_V_VAUX कि_CC_CCS उनके_PR_PRP इरादे_N_NN अच्छे_JJ नहीं_RP_NEG हैं_V_VM</s>
+<s>ल्येव_N_NNP लाव्रेन्तेविच_N_NNP ऐसा_DM_DMD नहीं_RP_NEG होने_V_VM देगा_V_VAUX</s>
+<s>इस_DM_DMD बात_N_NN का_PSP यकीन_N_NN करने_V_VM पर_PSP कि_CC_CCS उसका_PR_PRP पीछा_N_NN नहीं_RP_NEG हो_V_VM रहा_V_VAUX है_V_VAUX ल्येव_N_NNP लाव्रेन्तेविच_N_NNP शहर_N_NN के_PSP सेन्टर_N_NN की_PSP ओर_N_NN चल_V_VM पड़ा_V_VAUX</s>
+<s>गाड़ियों_N_NN का_PSP आवागमन_N_NN पूरी_JJ तरह_N_NN फिर_RB से_PSP शुरू_N_NN हो_V_VM गया_V_VAUX था_V_VAUX</s>
+<s>दो_QT_QTC एक_QT_QTC बार_N_NN उछल_N_NN कर_V_VM दूर_N_NN हटना_V_VM पड़ा_V_VAUX</s>
+<s>दूसरे_QT_QTO आने_V_VM जाने_V_VAUX वाले_PSP घरों_N_NN के_PSP नज़दीक_N_NN नज़दीक_N_NN से_PSP चल_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>वह_PR_PRP ठीक_JJ उसी_N_NN को_PSP ढूँढ_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>व्यस्तता_N_NN से_PSP कलश_N_NN में_PSP हाथ_N_NN डालकर_V_VM ढूँढ़_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>उसका_PR_PRP मोबाइल_N_NN रोशनी_N_NN फेंक_V_VM रहा_V_VAUX है_V_VAUX</s>
+<s>वह_PR_PRP डाटा_N_NN बेस_N_NN में_PSP फँस_V_VM गया_V_VAUX है_V_VAUX</s>
+<s>अब_N_NST उसे_PR_PRP ढूँढ़ना_N_NN आसान_N_NN है_V_VM</s>
+<s>वाकई_N_NN में_PSP ढूँढेंगे_V_VM ज़रूर_RB ढूँढेंगे_V_VM</s>
+<s>ख़ुद_PR_PRF ही_RP_RPD फोन_N_NN किया_V_VM और_CC_CCD नहीं_RP_NEG आया_V_VM</s>
+<s>उसे_PR_PRP फ़ोन_N_NN करेंगे_V_VM और_CC_CCD पूछेंगे_V_VM कि_CC_CCS वह_PR_PRP कहाँ_PR_PRQ है_V_VM</s>
+<s>कहेंगे_V_VM कि_CC_CCS मार्केट_N_NN को_PSP जवाब_N_NN देना_V_VM ज़रूरी_N_NN है_V_VM</s>
+<s>चाहे_V_VM जो_P भी_RP_RPD हो_V_VM उससे_PR_PRP दूर_N_NN नहीं_RP_NEG हटेंगे_V_VM</s>
+<s>उसे_P फ़ोन_N_NN करते_V_VM रहेंगे_V_VAUX और_CC_CCD ख़ास_JJ तरह_N_NN की_PSP सेवाओं_N_NN का_PSP प्रस्ताव_N_NN रखेंगे_V_VM</s>
+<s>आज_N_NST उसने_PR_PRP गिफ्ट_N_NN नहीं_RP_NEG खरीदा_V_VM था_V_VAUX</s>
+<s>चौराहे_N_NN से_PSP एक_QT_QTC के_PSP बाद_N_NST एक_QT_QTC बर्फ़_N_NN हटाने_V_VM वाली_PSP मशीनें_N_NN गुज़र_V_VM रही_V_VAUX थीं_V_VAUX</s>
+<s>उनके_PR_PRP फ़ोन_N_NN का_PSP इंतज़ार_N_NN करने_V_VM की_PSP ज़रूरत_N_NN नहीं_RP_NEG है_V_VM</s>
+<s>आ_V_VM जाइए_V_VAUX पछताएँगे_V_VM नहीं_RP_NEG</s>
+<s>मैं_PR_PRP इंतज़ार_N_NN कर_V_VM रही_V_VAUX हूँ_V_VAUX</s>
+<s>दाढ़ी_N_NN बेहद_RP_INTF चिकनी_JJ थी_V_VM</s>
+<s>क्या_PR_PRQ पी_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>उसे_PR_PRP मालूम_N_NN था_V_VAUX कि_CC_CCS महँगा_N_NN ही_RP_RPD होगा_V_VM</s>
+<s>बिना_N_NN आदेश_N_NN के_PSP भी_RP_RPD वह_PR_PRP लेट_V_VM जाता_V_VAUX</s>
+<s>उसने_PR_PRP ऊपर_N_NST से_RP_RPD गिरती_V_VM हुई_V_VAUX चीज़_N_NN को_PSP देखने_V_VM के_PSP लिए_PSP सिर_N_NN उठाया_N_NN इस_DM_DMR बार_N_NN बर्फ_N_NN गिर_V_VM रही_V_VAUX थी_V_VAUX</s>
+<s>पैदल_N_NN यात्री_N_NN ख़ुश_V_VM थे_V_VAUX और_CC_CCD भले_N_NN लग_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>उसके_PR_PRP चारों_QT_QTO ओर_N_NN की_PSP हर_QT_QTF चीज़_N_NN वैसी_JJ नहीं_RP_NEG थी_V_VAUX जैसी_CC_CCS कुछ_QT_QTF देर_N_NN पहले_N_NST थी_V_VM</s>
+<s>हर_QT_QTF चीज़_N_NN ज़्यादा_QT_QTF बेहतर_JJ और_CC_CCD ज़्यादा_QT_QTF साफ़_N_NN थी_V_VM</s>
+<s>उसके_PR_PRP भीतर_N_NST भी_RP_RPD कुछ_QT_QTF असाधारण_JJ रूप_N_NN से_PSP अद्भुत_N_NN जैसा_N_NN था_V_VM</s>
+<s>ऐसा_DM_DMD लग_V_VM रहा_V_VAUX था_V_VAUX कि_CC_CCS रोशनी_N_NN हो_V_VM गई_V_VAUX है_V_VAUX</s>
+<s>सीने_N_NN में_PSP इतना_QT_QTF हल्कापन_N_NN था_V_VAUX कि_CC_CCS बस_N_NN उड़_N_NN ही_RP_RPD जाओ_V_VM</s>
+<s>सबको_QT_QTF माफ़_N_NN करता_V_VM हूँ_V_VAUX और_CC_CCD मुझे_PR_PRP भी_RP_RPD माफ़_N_NN कीजिए_V_VM</s>
+<s>ज़ोर_N_NN की_PSP भूख_N_NN लग_V_VM आई_V_VAUX थी_V_VAUX</s>
+<s>मेट्रो_N_NN के_PSP लिए_PSP और_CC_CCD सॉसेज_N_NN रोल्स_N_NN के_PSP लिए_PSP पैसे_N_NN पर्याप्त_N_NN थे_V_VM</s>
+<s>कल_N_NN उधार_V_VM ले_V_VAUX लेगा_V_VAUX</s>
+<s>उसके_PR_PRP लिए_PSP बन्दर_N_NN वाला_PSP बैरोमीटर_N_NN खरीदेगा_V_VM</s>
+<s>बात_N_NN पुरानी_JJ है_V_VAUX मगर_CC_CCS इतनी_QT_QTF भी_RP_RPD पुरानी_JJ नहीं_RP_NEG कि_CC_CCS बच्चन_N_NNP साहब_N_NNP से_PSP वॉयस_N_NNP ओवर_N_NNP करवाना_V_VM पड़े_V_VAUX</s>
+<s>हुआ_V_VM यूँ_N_NN कि_CC_CCS सुबह_N_NN सुबह_N_NN सिलवट_N_NN भोजपुरिया_N_NN साहब_N_NN मुँह_N_NN उठाये_V_VM हमारे_PR_PRP घर_N_NN आ_V_VM धमके_V_VAUX</s>
+<s>मेरे_PR_PRP तो_RP_RPD उस_PR_PRP वक़्त_N_NN तक_PSP बच्चे_N_NN ही_RP_RPD नहीं_RP_NEG थे_V_VM</s>
+<s>हम_PR_PRP दोनों_QT_QTF ही_RP_RPD इसका_PR_PRP कोई_DM_DMI जवाब_N_NN न_RP_NEG देते_V_VM</s>
+<s>कई_QT_QTF बार_N_NN तम्बाकू_N_NN के_PSP बजाय_N_NN अपनी_PR_PRF नाक_N_NN से_PSP भी_RP_RPD कुछ_QT_QTF चुन_V_VM चुनकर_V_VM वो_DM_DMD घर_N_NN के_PSP फ़र्श_N_NN पर_PSP निशाना_N_NN लगाते_V_VM रहते_V_VAUX</s>
+<s>एक_QT_QTC दिन_N_NN मैंने_PR_PRP इस_DM_DMR अद्भुत_JJ नाम_N_NN का_PSP मतलब_N_NN और_CC_CCD कारण_N_NN पूछा_V_VM</s>
+<s>मतलब_N_NN तो_RP_RPD हमको_PR_PRP नहीं_RP_NEG पता_N_NN बाकी_N_NN कारण_N_NN सुन_N_NN लीजिये_V_VM</s>
+<s>ऐसा_DM_DMD नहीं_RP_NEG कि_CC_CCS सिर्फ़_QT_QTF गीतकारों_N_NN में_PSP ही_RP_RPD तख़ल्लुस_N_NN का_PSP चलन_N_NN है_V_VM</s>
+<s>मैं_PR_PRP ये_DM_DMD अर्ज़_N_NN कर_V_VM रहा_V_VAUX था_V_VAUX कि_CC_CCS हम_PR_PRP गाँव_N_NN पहुँचे_V_VM मगर_CC_CCS गाँव_N_NN पहुँचकर_V_VM मुआमला_N_NNP उलझता_V_VM चला_V_VAUX गया_V_VAUX</s>
+<s>वालिदा_N_NNP की_PSP तबीयत_N_NN बद_N_NN से_PSP बदतर_JJ होती_V_VM गयी_V_VAUX और_CC_CCD आख़िरश_N_NN वो_DM_DMD हमारा_PR_PRP साथ_PSP छोड़_V_VM गयीं_V_VAUX</s>
+<s>इन्हीं_P हालात_N_NN के_PSP सबब_N_NN गाँव_N_NN में_PSP पूरे_QT_QTF चार_QT_QTC महीने_N_NN बीत_V_VM गये_V_VAUX</s>
+<s>उस_PR_PRP वक़्त_N_NN हमारे_PR_PRP और_CC_CCD मकान_N_NN मालिक_N_NN के_PSP दरमियान_N_NN राब्ता_N_NN क़ायम_N_NN करने_V_VM का_PSP कोई_DM_DMI ज़रिया_N_NN नहीं_RP_NEG था_V_VAUX सो_CC_CCS हम_PR_PRP अपने_PR_PRF हालात_N_NN से_PSP उन्हें_PR_PRP आगाह_N_NN नहीं_RP_NEG कर_V_VM पाये_V_VAUX</s>
+<s>कुछ_QT_QTF आपको_PR_PRP सब्र_N_NN करना_V_VM पड़ेगा_V_VAUX</s>
+<s>बात_N_NN रही_V_VM मियाँ_N_NN जी_N_NN की_PSP तो_RP_RPD वो_DM_DMD तो_RP_RPD अब_N_NST आने_V_VM से_PSP रहे_V_VM</s>
+<s>हमने_PR_PRP मकान_N_NN मालिक_N_NN से_PSP और_CC_CCD मकान_N_NN मालिक_N_NN ने_PSP हमसे_PR_PRP जब_P पूरा_QT_QTF वाक़या_N_NN सुना_V_VM तो_RP_RPD दोनों_QT_QTF ही_RP_RPD बहुत_QT_QTF दुखी_N_NN हुए_V_VM</s>
+<s>हमने_PR_PRP मकान_N_NN मालिक_N_NN से_PSP और_CC_CCD मकान_N_NN मालिक_N_NN ने_PSP हमसे_PR_PRP मुआफ़ी_N_NN माँगी_V_VM</s>
+<s>अब_N_NST उस_PR_PRP बात_N_NN पर_PSP आते_V_VM हैं_V_VAUX जहाँ_P से_PSP बात_N_NN शुरू_V_VM हुई_V_VAUX थी_V_VAUX</s>
+<s>हर_QT_QTF आदमी_N_NN में_PSP होते_V_VM हैं_V_VAUX दस_QT_QTC बीस_N_NN आदमी_N_NN</s>
+<s>जिसको_P भी_RP_RPD देखना_V_VM हो_V_VAUX कई_QT_QTF बार_N_NN देखना_V_VM</s>
+<s>अपने_PR_PRF अन्दाज़_N_NN में_PSP कुछ_QT_QTF इस्लाह_N_NN के_PSP साथ_PSP सुनाया_V_VM</s>
+<s>इस_DM_DMR बार_N_NN ख़्याल_N_NNP ज़्यादा_QT_QTF लंबा_JJ नहीं_RP_NEG था_V_VM</s>
+<s>उसने_PR_PRP राहत_N_NN की_PSP सांस_N_NN ली_V_VM</s>
+<s>अरे_RP_INJ यह_DM_DMD क्या_PR_PRQ शाम_N_NN हो_V_VM भी_RP_RPD चुकी_N_NN और_CC_CCD देखो_V_VM खिड़की_N_NN के_PSP शीशे_N_NN कैसे_PR_PRQ भाप_N_NN उगल_V_VM रहे_V_VAUX हैं_V_VAUX</s>
+<s>पर_PSP क्यों_DM_DMQ आएगा_V_VM कोई_DM_DMI इस_DM_DMD कमरे_N_NN में_PSP</s>
+<s>यह_DM_DMD पढ़ने_V_VM और_CC_CCD सोने_N_NN के_PSP बीच_N_NST का_PSP समय_N_NN है_V_VM</s>
+<s>जब_P तक_PSP ऐसा_DM_DMD रहता_V_VM है_V_VAUX कोई_DM_DMI उसके_P कमरे_N_NN में_PSP नहीं_RP_NEG आता_V_VM</s>
+<s>बाहर_N_NST मौसम_N_NN अब_N_NST थोड़ा_QT_QTF थोड़ा_QT_QTF खुल_V_VM चुका_V_VAUX था_V_VAUX</s>
+<s>इस_DM_DMD हवा_N_NN में_PSP सांस_N_NN भर_V_VM कर_V_VAUX देखती_V_VM हूँ_V_VAUX</s>
+<s>उसने_PR_PRP किताब_N_NN पर_PSP एक_QT_QTC लाल_JJ पेन्सिल_N_NN रख_V_VM दी_V_VAUX</s>
+<s>इस_DM_DMD याद_N_NN के_PSP लिए_PSP कि_CC_CCS अभी_N_NN यह_DM_DMD किताब_N_NN पूरी_JJ पढ़ी_V_VM जानी_V_VAUX है_V_VAUX</s>
+<s>नीली_JJ पेन्सिल_N_NN का_PSP मतलब_N_NN था_V_VAUX किताब_N_NN लगभग_N_NN पूरी_JJ पढ़ी_V_VM जा_V_VAUX चुकी_V_VAUX</s>
+<s>और_CC_CCD काली_N_NN का_PSP मतलब_N_NN अब_N_NST यह_DM_DMD किताब_N_NN पढ़_V_VM ली_V_VAUX गई_V_VAUX है_V_VAUX और_CC_CCD स्मृति_N_NN के_PSP चिन्हों_N_NN के_PSP लिए_PSP तैयार_N_NN है_V_VM</s>
+<s>हर_QT_QTF पन्ना_N_NNP कहीं_DM_DMI न_RP_NEG कहीं_DM_DMI से_PSP छोटे_JJ टुकड़ों_N_NN में_PSP स्मृतियों_N_NN में_PSP बाँध_N_NN लिया_V_VM जाएगा_V_VAUX जैसे_CC_CCS ही_RP_RPD कुछ_QT_QTF पंक्तियों_N_NN के_PSP नीचे_N_NST काली_JJ रेखा_N_NN बना_V_VM दी_V_VAUX जायेगी_V_VAUX</s>
+<s>ऐसा_DM_DMD लगता_V_VM था_V_VAUX किताब_N_NN एक_QT_QTC समुद्र_N_NN है_V_VAUX और_CC_CCD ये_DM_DMD काले_JJ चिन्ह_N_NN उसमें_PR_PRP तैरती_V_VM मछलियां_N_NN</s>
+<s>इस_DM_DMD तरह_N_NN से_PSP काईयू_N_NNP की_PSP सारी_QT_QTF किताबें_N_NN करीने_N_NN से_PSP संभले_V_VM हुए_V_VAUX समुद्र_N_NN हैं_V_VAUX और_CC_CCD मछलियां_N_NN स्मृति_N_NN के_PSP तैरते_V_VM हुए_V_VAUX छोटे_JJ छोटे_JJ कोश_N_NN</s>
+<s>कभी_N_NST कभी_N_NST यह_DM_DMD उसे_PR_PRP एक_QT_QTC क्रूर_N_NN बात_N_NN लगती_V_VM है_V_VAUX</s>
+<s>मतलबी_N_NN इंसान_N_NN उसे_PR_PRP खुद_PR_PRF पर_PSP चिड़चिड़ाहट_N_NN हुई_V_VM</s>
+<s>इस_DM_DMD चिड़चिड़ाहट_N_NN में_PSP उसने_PR_PRP खिड़की_N_NN को_PSP पूरा_JJ खोल_V_VM दिया_V_VAUX</s>
+<s>काईयू_N_NNP की_PSP नज़र_N_NN खिड़की_N_NN से_PSP नीचे_V_VM गई_V_VAUX</s>
+<s>ओवर_N_NNP कोर्ट_N_NN पहने_V_VM हुए_V_VAUX एक_QT_QTC आदमी_N_NN बाज़ार_N_NN से_PSP लगती_V_VM दीवार_N_NN पर_PSP पेशाब_N_NN कर_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>और_CC_CCD पास_N_NST ही_RP_RPD दो_QT_QTC कुत्ते_N_NN एक_QT_QTC दूसरे_N_NN में_PSP उलझे_V_VM हुए_V_VAUX अजीब_JJ स्थिति_N_NN में_PSP आने_V_VM जाने_V_VAUX वालों_PSP को_PSP देख_V_VM रहे_V_VAUX थे_V_VAUX</s>
+<s>उसे_PR_PRP इन_DM_DMD दो_QT_QTC दृश्यों_N_NN से_PSP घृणा_N_NN नहीं_RP_NEG हुई_V_VM</s>
+<s>बल्कि_CC_CCD मामूली_JJ सी_RP_RPD छुपी_V_VM हुई_V_VAUX शरारती_JJ मुस्कान_N_NN उसके_PR_PRP कानों_N_NN के_PSP आसपास_N_NST गुदगुदाने_V_VM लगी_V_VAUX</s>
+<s>ओवर_N_NNP कोर्ट_N_NN वाले_PSP आदमी_N_NN ने_PSP पैंट_N_NN की_PSP ज़िप_N_NN चढ़ाई_N_NN और_CC_CCD होंठ_N_NN को_PSP तिरछा_JJ कर_V_VM कोई_DM_DMI गाना_N_NN गाने_V_VM लगा_V_VAUX</s>
+<s>दरअसल_CC_CCS वो_DM_DMD गाना_N_NN गा_V_VM नहीं_RP_NEG रहा_V_VM था_V_VAUX केवल_QT_QTF गीत_N_NN के_PSP बोल_N_NN बुदबुदा_V_VM रहा_V_VAUX था_V_VAUX</s>
+<s>हवा_N_NN तेज़_JJ होने_V_VM लगी_V_VAUX</s>
+<s>काईयू_N_NNP को_PSP इस_DM_DMD बात_N_NN से_PSP बोझ_N_NN होने_V_VM लगा_V_VAUX</s>
+<s>अब_N_NST उसे_PR_PRP उकताहट_N_NN होने_V_VM लगी_V_VAUX किताब_N_NN से_PSP</s>
+<s>उसने_PR_PRP बेमन_N_NN से_PSP कोई_DM_DMI भी_RP_RPD पन्ना_N_NNP खोल_V_VM दिया_V_VAUX किताब_N_NN का_PSP</s>
+<s>जहां_P उसकी_PR_PRP नज़र_N_NN पड़ी_V_VM वहां_V_VAUX लिखा_V_VM था_V_VAUX कि_CC_CCS प्रिंस_N_NNP मिश्किन_N_NNP ने_PSP मैरी_N_NNP का_PSP हाथ_N_NN चूम_V_VM लिया_V_VAUX</s>
+<s>गाँव_N_NN के_PSP शरारती_JJ बच्चे_N_NN उन्हें_PR_PRP छुप_N_NN कर_V_VM देख_V_VM रहे_V_VAUX थे_V_VAUX और_CC_CCD पत्थर_N_NN मारने_V_VM लगे_V_VAUX</s>
+<s>उसे_PR_PRP घृणा_N_NN होने_V_VM लगी_V_VAUX यह_DM_DMD बात_N_NN सोच_N_NN कर_V_VM भी_RP_RPD कि_CC_CCS एक_QT_QTC अति_JJ आत्मीय_N_NN दृश्य_N_NN का_PSP अंत_N_NN इस_DM_DMD तरह_N_NN हुआ_V_VM</s>
+<s>ओह_N_NN यह_DM_DMD कितना_QT_QTF भयावह_N_NN है_V_VM</s>
+<s>उसने_PR_PRP जल्दी_RB से_PSP गर्म_JJ पानी_N_NN में_PSP अपनी_PR_PRF सर्द_N_NN उंगलियां_N_NN डाल_V_VM दीं_V_VAUX</s>
+<s>खिड़की_N_NN के_PSP पास_N_NST खड़े_V_VM होने_V_VAUX की_PSP वजह_N_NN से_PSP ये_DM_DMD जमने_V_VM लगीं_V_VAUX थी_V_VAUX</s>
+<s>उसे_PR_PRP लगा_V_VM ये_DM_DMD सबसे_RP_INTF ज़्यादा_QT_QTF उदासी_N_NN का_PSP मौसम_N_NN है_V_VM</s>
+<s>प्रेम_N_NN का_PSP महीना_N_NN फरवरी_N_NN</s>
+<s>उसे_PR_PRP याद_N_NN आया_V_VM कपूर_N_NN की_PSP टिकिया_N_NN डालनी_V_VM है_V_VAUX उसे_PR_PRP किताबों_N_NN के_PSP रेक_N_NN के_PSP पीछे_N_NST</s>
+<s>फिर_CC_CCS अचानक_RB उसे_PR_PRP याद_N_NN आया_V_VM कि_CC_CCS उसे_PR_PRP नहाना_N_NN भी_RP_RPD है_V_VM अभी_N_NN</s>
+<s>वह_PR_PRP इतनी_QT_QTF सर्दी_N_NN में_PSP नहाना_V_VM तो_RP_RPD नहीं_RP_NEG चाहती_V_VM थी_V_VAUX लेकिन_CC_CCD आजकल_N_NST उसे_PR_PRP अपनी_PR_PRF देह_N_NN से_PSP आती_V_VM नमकीन_JJ गंध_N_NN से_PSP चिढ़_N_NN हो_V_VM गई_V_VAUX है_V_VAUX</s>
+<s>यह_DM_DMD गंध_N_NN कुछ_QT_QTF ऐसी_DM_DMD ही_RP_RPD है_V_VAUX जैसे_CC_CCS मॉल_N_NNP रोड_N_NN पर_PSP अपने_PR_PRF प्रेमियों_N_NN संग_N_NN घूमती_N_NN प्रेमिकाओं_N_NN से_PSP आती_V_VM है_V_VAUX</s>
+<s>वह_PR_PRP जानबूझ_V_VM कर_V_VAUX उनके_PR_PRP करीब_N_NN से_PSP गुज़रती_V_VM थी_V_VAUX ताकि_CC_CCS ध्यान_N_NN से_PSP उनकी_PR_PRP गंध_N_NN को_PSP पहचान_V_VM सके_V_VAUX</s>
+<s>ताकि_CC_CCS उसे_PR_PRP देर_N_NN तक_PSP यह_DM_DMD याद_V_VM रहे_V_VAUX कि_CC_CCS प्रेमिकाओं_N_NN की_PSP संतुलित_JJ और_CC_CCD बहकाव_N_NN से_PSP भरी_JJ गंध_N_NN को_PSP एक_QT_QTC उम्र_N_NN के_PSP बाद_N_NST ही_RP_RPD पाया_V_VM जा_V_VAUX सकता_V_VAUX है_V_VAUX</s>
+<s>जब_P उस_PR_PRP गंध_N_NN में_PSP से_PSP स्पर्श_N_NN और_CC_CCD एकांत_N_NN के_PSP झरने_N_NN बहने_V_VM लगते_V_VAUX हैं_V_VAUX</s>
+<s>उसने_PR_PRP देखा_V_VM उन_PR_PRP लड़कियों_N_NN के_PSP शरीर_N_NN थोड़े_QT_QTF भारी_JJ और_CC_CCD बेफिक्र_JJ हैं_V_VM</s>
+<s>आँखें_N_NN उतनी_N_NN सच्ची_JJ नहीं_RP_NEG जितनी_P उन_PR_PRP लड़कियों_N_NN की_PSP होती_V_VM हैं_V_VAUX जिनके_P प्रेमी_N_NN नहीं_RP_NEG होते_V_VM</s>
+<s>बचपन_N_NN में_PSP ताताई_N_NNP का_PSP यही_DM_DMD शब्द_N_NN सबसे_RP_INTF ज्यादा_QT_QTF अनोखा_JJ लगता_V_VM था_V_VAUX काईयू_N_NNP को_PSP</s>
+<s>ताताई_N_NNP की_PSP हर_QT_QTF बात_N_NN जल्दी_RB से_PSP कभी_N_NST समझ_N_NN नहीं_RP_NEG आती_V_VM थी_V_VAUX</s>
+<s>वो_DM_DMD अलग_JJ थे_V_VM सभी_QT_QTF लोगों_N_NN से_PSP अलग_N_NN</s>
+<s>ताताई_N_NNP ने_PSP ज़ीने_V_VM के_PSP पास_N_NST बाथरूम_N_NN बनवाने_N_NN की_PSP ज़िद_N_NN की_PSP पापा_N_NN से_PSP</s>
+<s>वो_DM_DMD बहुत_QT_QTF रात_N_NN तक_PSP काईयू_N_NNP के_PSP कमरे_N_NN को_PSP देखते_V_VM रहते_V_VAUX थे_V_VAUX</s>
+<s>कहते_V_VM थे_V_VAUX रात_N_NN को_PSP उनकी_PR_PRP नींद_N_NN में_PSP फव्वारें_N_NN उठते_V_VM हैं_V_VAUX इसलिए_CC_CCS वो_DM_DMD सोते_V_VM नहीं_RP_NEG</s>
+<s>वो_N_NN नहीं_RP_NEG चाहते_V_VM ये_DM_DMD फव्वारें_N_NN काईयू_N_NN की_PSP नींद_N_NN तक_PSP भी_RP_RPD पहुँच_V_VM जाएँ_V_VAUX</s>
+<s>काईयू_N_NNP देर_N_NN तक_PSP सोचती_V_VM ताताई_N_NN की_PSP ये_DM_DMD बात_N_NN</s>
+<s>अंत_N_NN में_PSP कुछ_QT_QTF नहीं_RP_NEG समझ_V_VM आता_V_VAUX था_V_VAUX उसे_PR_PRP</s>
+<s>और_CC_CCD ताताई_N_NNP से_PSP कभी_N_NST पूछा_V_VM नहीं_RP_NEG उसने_PR_PRP इस_DM_DMD बारे_N_NN में_PSP</s>
+<s>उस_PR_PRP रात_N_NN भी_RP_RPD बारिश_N_NN हुई_V_VM थी_V_VAUX</s>
+<s>बादल_N_NN गरज_N_NN रहे_V_VM थे_V_VAUX</s>
+<s>ताताई_N_NNP अपनी_PR_PRF नींद_N_NN के_PSP फव्वारों_N_NN में_PSP बेचैन_N_NN थे_V_VM</s>
+<s>वो_DM_DMD चुपचाप_N_NN उनके_PR_PRP कमरे_N_NN की_PSP चौखट_N_NNP पर_PSP खड़ी_V_VM थी_V_VAUX</s>
+<s>एक_QT_QTC चोटी_N_NN का_PSP फीता_N_NNP खुला_V_VM हुआ_V_VAUX था_V_VAUX लेकिन_CC_CCS दूसरे_QT_QTO का_PSP फूल_N_NN सुबह_N_NN से_PSP अभी_N_NST तक_PSP वैसा_N_NN का_PSP वैसा_N_NN था_V_VM</s>
+<s>ताताई_N_NNP ने_PSP उसे_PR_PRP कॉफ़ी_N_NN घोटने_V_VM को_PSP कहा_V_VM</s>
+<s>असीम_JJ सुख_N_NN हमेशा_N_NST आँखें_N_NN बंद_N_NN करने_V_VM पर_PSP मिलता_V_VM है_V_VAUX</s>
+<s>कीमो_N_NNP थेरेपी_N_NN के_PSP बाद_N_NST वो_DM_DMD बहुत_RP_INTF कमज़ोर_JJ हो_V_VM गए_V_VAUX थे_V_VAUX</s>

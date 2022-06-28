@@ -1,0 +1,1000 @@
+﻿<s>सोनीपत_N_NNP में_IN जींद_N_NNP जैसा_RB हाल_JJ होना_V_VB है_V_VB, बाहर_RB से_IN चुनाव_N_NN लड़ने_V_VB आए_V_VB उम्मीदवारों_N_NN का_IN हम_PRP इलाज_N_NN करेंगे_V_VB कौशिक_N_NNP</s>
+<s>प्रचार_N_NN बंद_JJ होने_V_VB के_IN बाद_CC भी_RB पंजाबी_N_NN वोटर्स_FW के_IN समारोह_N_NN में_IN पहुंचे_V_VB दीपेंद्र_N_NNP, कार्रवाई_N_NN के_IN लिए_IN नहीं_RB पहुंची_V_VB पुलिस_N_NN</s>
+<s>हुड्डा_N_NNP भले_CC ही_IN ज्यादा_RB वोट_FW से_IN जीते_V_VB, पर_IN भाई_N_NN मन्नै_FW भी_RB नजदीक_RB ला_V_VB दियो_V_VB, नहीं_RB तो_IN बेजती_RB होज्यागी_V_VB दीपेंद्र_N_NNP</s>
+<s>चौटाला_N_NNP राज_N_NN में_IN गुंडागर्दी_N_NN चरम_JJ पर_IN थी_V_VB तो_IN हुड्डा_N_NNP राज_N_NN में_IN भ्रष्टाचार_N_NN चरम_JJ पर_IN था_V_VB अमित_N_NNP शाह_N_NNP</s> 
+<s>मोदी_N_NNP के_IN निशाने_IN पर_IN_IN रहे_V_VB पूर्व_JJ सीएम_FW भूपेंद्र_N_NNP सिंह_N_NNP हुड्‌डा_N_NNP, बोले_V_VB इन्होंने_IN क्या_UH गुल_N_NN खिलाए_V_VB, सब_PRP जानते_V_VB</s>
+<s>दादा_N_NN कहते_V_VB थे_V_VB कि_IN कभी_PRP कमजोर_JJ से_IN टक्कर_N_NN न_IN लो_UH, तभी_PRP हुड्डा_N_NNP और_CC कौशिक_N_NNP से_IN टक्कर_N_NN लेने_V_VB आया हूं_V_VB दिग्विजय_N_NNP</s>
+<s>हेमा_N_NNP मालिनी_N_NNP को_IN देखने_IN का_IN ऐसा_RB क्रेज_FW, बुड्ढों_N_NN ने_RB भी_RB अगली_JJ कतार में_IN बैठकर_V_VB बनाई_V_VB वीडियो_FW</s>
+<s>एक_N_NN तरफ_IN हुई_V_VB राहुल_N_NNP की_IN रैली_FW तो_IN दूसरी_N_NN तरफ_IN सनी_N_NNP देओल_N_NNP का_IN रोड_FW शो_FW, कुछ_RB ऐसा_RB था_V_VB नजारा_N_NN</s>
+<s>मोदी_N_NNP ने_RB कहा_V_VB राजीव_N_NNP ससुरालवालों_N_NNS के_IN साथ_RB आईएनएस_FW विराट_N_NNP से_IN छुट्टियां_N_NN मनाने_V_VB गए_V_VB थे_V_VB</s>
+<s>पीएम_FW की_IN रैली_FW रद्द_JJ होने_V_VB की_IN झूठी_JJ पोस्ट_FW डालने_IN वाले_IN कांग्रेस_N_NNP नेता_N_NN के_IN खिलाफ_JJ मामला_N_NN दर्ज_V_VB</s>
+<s>मोदी_N_NNP ने_RB कांग्रेस_N_NNP के_IN अपशब्दों_N_NNS की_IN डिक्शनरी_FW खोली_V_VB कहा_V_VB मुझ_PRP पर_IN एक_N_NN तरफा_IN जुल्म_N_NN हो_V_VB रहा_V_VB है_V_VB</s>
+<s>पीएम_FW का_IN हुड्डा_N_NNP पर_IN_IN निशाना_N_NN, 'कांग्रेस_N_NNP ने_RB तो_IN किसानों_N_NN की_IN जमीन_N_NN पर_IN भी_RB भ्रष्टाचार_N_NN की_IN खेती_N_NN की_V_VB'</s>
+<s>'कांग्रेसी_N_NNP खुद_RB कहते_V_VB हैं_V_VB राहुल_N_NNP के_IN नाम_N_NN पर_IN वोट_FW न_IN मांग_V_VB लेना_N_NN, जो_IN मिलने_V_VB होंगे_V_VB, वे_PRP भी_RB नहीं_RB मिलेंगे_V_VB'</s>
+<s>कांग्रेस_N_NNP प्रदेश_N_NN सचिव_N_NN ने_RB पीएम_FW की_IN रैली_FW रद्द_JJ होने_V_VB की_IN झूठी_JJ पोस्ट_FW डाली, भाजपाइयों_N_NNP ने_RB दी_V_VB शिकायत_N_NN</s>
+<s>मुस्लिम_N_NN महिलाओं_N_NN को_IN तलाक_N_NN की_IN प्रताड़ना_N_NN से_IN निजात_N_NN दिलाने_IN में_IN सहयोग_N_NN का_IN साहस_N_NN दिखाएं_V_VB गैर_N_NN कांग्रेसी_N_NNP दल_N_NN</s>
+<s>सुशील_N_NNP मोदी_N_NNP ने_RB कहा_V_VB इंदिरा_N_NNP गांधी_N_NNP के_IN आपातकाल_N_NN की_IN तरह_IN बंगाल_N_NNP में_IN हालात_N_NN पैदा_V_VB कर_V_VB दिए_V_VB ममता_N_NNP ने_RB</s>
+<s>अनिल_N_NNP विज_N_NNP ने_RB मुर्दाबाद_JJ के_IN नारे_N_NN लगाने_IN वालों_IN को_IN अपशब्द_N_NN कहे_V_VB, ग्रामीण_N_NN भड़के_JJ तो_IN पुलिस_N_NN ने_RB लाठियां_N_NN भांजी_N_NN</s>
+<s>हुड्डा_N_NNP परिवार_N_NN के_IN लिए_IN गढ़_N_NN बचाना_V_VB है_V_VB इस_PRP$ बार_N_NN बड़ी_JJ चुनौती_N_NN, जातिगत_JJ समीकरण_N_NN रहेंगे_V_VB हावी_N_NN</s>
+<s>राहुल_N_NNP ने_RB कहा_V_VB मैं_PRP मरते_V_VB दम_N_NN तक_IN सेना_N_NN का_IN राजनीतिक_N_NN प्रयोग_N_NN नहीं_RB करूंगा_V_VB</s>
+<s>हरियाणा_N_NNP में_IN अब_RB पूर्व_JJ सरपंचों_N_NN, जिला_N_NN परिषद_N_NN के_IN अध्यक्षों_N_NN और_CC उपाध्यक्षों_N_NN को_IN भी_RB मिलेगी_V_VB पेंशन_FW</s>
+<s>तंवर_N_NNP ने_RB दी_V_VB सफाई_N_NN, सीनियर_FW नेताओं_N_NN संग_IN मीटिंग_FW के_IN बाद_CC एआईसीसी_FW को_IN भेजा_V_VB जाना_V_VB था_V_VB प्रस्ताव_N_NN</s>
+<s>सपना_N_NNP पर_IN दिग्विजय_N_NNP चौटाला_N_NNP का_IN तंज_JJ अब_RB नाचने_IN गाने_IN वाले_IN ठुमके_V_VB लगाकर_V_VB भाजपा_N_NNP को_IN वोट_FW दिलाएंगे_V_VB</s>
+<s>ठेका_N_NN बंद_RB कराने_IN की_IN मांग_V_VB पर_IN योगेंद्र_N_NNP यादव_N_NNP ने_RB समर्थकों_N_NN के_IN साथ_RB किया_V_VB आधा_JJ घंटा_N_NN रोड_FW जाम_N_NN</s>
+<s>मंत्री_N_NN विज_N_NNP के_IN विवादित_JJ बोल_V_VB राहुल_N_NNP गांधी_N_NNP ने_RB इस्तीफा_N_NN दिया_V_VB तो_IN एक_N_NN कुत्ता_N_NN भी_RB नहीं_RB भौंका_V_VB</s>
+<s>नेता_N_NN प्रतिपक्ष_N_NN पद_N_NN को_IN लेकर_V_VB मॉनसून_FW सत्र_N_NN में_IN होगा_V_VB हंगामा_N_NN, कांग्रेस_N_NNP नेता_N_NN किरण_N_NNP चौधरी_N_NNP ने_RB की_IN तैयारी_N_NN</s>
+<s>कांग्रेस_N_NNP ने_RB विधानसभा_N_NN चुनाव_N_NN के_IN लिए_IN बनाई_V_VB इलेक्शन_FW प्लॉनिंग_FW एंड_FW मैनेजमेंट_FW कमेटी_FW</s>
+<s>सीएम_FW ने_RB संभाली_V_VB प्रचार_N_NN की_IN कमान_N_NN, हर_IN कार्यकर्ता_N_NN को_IN दिया_V_VB सक्रिय_JJ कार्यकर्ता_N_NN बनाने_IN का_IN टारगेट_FW</s>
+<s>भाजपा_N_NNP पूर्व_JJ प्रदेशाध्यक्ष_N_NN के_IN बेटे_N_NN संदीप_N_NNP जोशी_N_NNP बने_V_VB हरियाणा_N_NNP हाउसिंग_FW बोर्ड_FW के_IN चेयरमैन_FW</s>
+<s>रोहतक_N_NNP के_IN महंत_N_NN सांसद_N_NN बाबा_N_NN बालकनाथ_N_NNP का_IN हैलीकॉप्टर_FW अलवर_N_NNP में_IN लैंडिंग_FW के_IN वक्त_N_NN हवा_N_NN में_IN लहराया_V_VB</s>
+<s>हुड्डा_N_NNP के_IN लिए_IN भाजपा_N_NNP में_IN दरवाजे_N_NN खुले हैं_V_VB, बल्कि_IN कुछ_RB लोग_N_NN तो_IN दरवाजे_N_NN पै_N_NN बैठे_JJ हैं_V_VB, हम_PRP ही_IN कह_V_VB रहे_V_VB अभी_RB रुको_V_VB</s>
+<s>इनेलो_N_NNP को_IN फिर_RB बड़ा_JJ झटका_V_VB, राष्ट्रीय_JJ प्रवक्ता_N_NN सतीश_N_NNP नांदल_N_NNP भाजपा_N_NNP में_IN हुए_V_VB शामिल_JJ</s>
+<s>महिला_N_NN प्रदेश_N_NN अध्यक्ष_N_NN ने_RB दिया_V_VB इस्तीफा_N_NN, जब_IN तक_IN राहुल_N_NNP गांधी_N_NNP इस्तीफा_N_NN वापिस_RB नहीं_RB लेते_V_VB मैं_PRP कोई_JJ पद_N_NN नहीं_RB लूंगी_V_VB</s>
+<s>चंडीगढ़_N_NN में_IN सीएम_FW मनोहर_N_NNP लाल_N_NNP खट्टर_N_NNP ने_RB सचिवालय_N_NN में_IN फहराया_V_VB फीट_FW ऊंचा_JJ तिरंगा_N_NN</s>
+<s>जिन_JJ सरकारी_N_NN ड्राइवर_FW को_IN छुट्टी_N_NN नहीं_RB मिलती_V_VB अब_RB उन्हें_PRP$ मिलेगी_V_VB महीने_IN की_IN एक्सट्रा_FW सैलरी_FW</s>
+<s>विधायक_N_NN परमिंदर_N_NNP ढुल_N_NNP और_CC जाकिर_N_NNP हुसैन_N_NNP भाजपा_N_NNP में_IN हुए_V_VB शामिल_JJ</s>
+<s>जजपा_N_NNP को_IN झटका_V_VB, किलोई_N_NNP से_IN विधानसभा_N_NN चुनाव_N_NN लड़_N_NN चुके_V_VB प्रेम_N_NNP हुड्डा_N_NNP भाजपा_N_NNP में_IN शामिल_JJ</s>
+<s>कांग्रेस_N_NNP प्रदेशाध्यक्ष_N_NN अशोक_N_NNP तंवर_N_NNP ने_RB अनिल_N_NNP विज_N_NNP को_IN बताया_JJ_JJ पागल_JJ, कहा_V_VB अपने_IN मंत्रालय_N_NN में_IN बेहतर_JJ उपचार_N_NN कराएं_V_VB</s>
+<s>उनकी_PRP$ झोपड़ी_N_NN और_CC दफ्तर_N_NN की_IN चाबी_N_NN भी_RB हमारे_PRP$ पास_RB_JJ है_V_VB, आम_N_NN आदमी_N_NN इसी_PRP$ की_IN मदद_N_NN से_IN विधानसभा_N_NN जाएगा_V_VB</s>
+<s>कुलदीप_N_NNP बिश्नोई_N_NNP बोले_V_VB लोग_N_NN कहते_V_VB हैं_V_VB मेरी_N_NNP हीरे_N_NN की_IN खान, पत्नी_N_NN के_IN पास_RB_JJ एक_N_NN अंगूठी_N_NN हीरे_N_NN की, जो_IN ब्याह_N_NN में_IN मिली_V_VB</s>
+<s>हुड्डा_N_NNP के_IN गढ़_N_NN में_IN फिर_RB भाजपा_N_NNP की_IN पैनी_JJ नजर_N_NN, छोटे_JJ से_IN बड़े_JJ नेताओं_N_NN ने_RB जमाया_V_VB है_V_VB डेरा_N_NN</s>
+<s>विधानसभा_N_NN चुनाव_N_NN से_IN पहले_RB जाटलैंड_N_NNP में_IN पहुचेंगे_V_VB भाजपा_N_NNP राष्ट्रीय_JJ कार्यकारी_N_NN अध्यक्ष_N_NN नड्डा_N_NNP</s>
+<s>रंजीत_N_NNP कुमार_N_NNP पंचनंदा_N_NNP ने_RB ली_V_VB हरियाणा_N_NNP पब्लिक_FW सर्विस_FW कमिशन_FW_FW के_IN चेयरमैन_FW की_IN शपथ_N_NN</s>
+<s>कांग्रेस_N_NNP नेता_N_NN कुलदीप_N_NNP बिश्नोई_N_NNP के_IN ठिकानों_N_NN पर_IN तीसरे_JJ दिन_N_NN भी_RB रेड_FW जारी_V_VB, मेनहोल_FW तक_IN खंगाले_V_VB</s>
+<s>पुलिस_N_NN की_IN पुनर्विचार_N_NN याचिका_N_NN खारिज_V_VB, अब_RB मंत्री_N_NN ग्रोवर_N_NNP और_CC रमेश_N_NNP लोकहा_N_NNP पर_IN दर्ज_V_VB करना_V_VB होगा_V_VB केस_FW</s>
+<s>कांग्रेस_N_NNP नेता_N_NN कुलदीप_N_NNP बिश्नोई_N_NNP का_IN घर_N_NN खंगाल_V_VB रही_IN इनकम_FW टैक्स_FW की_IN टीम_FW</s>
+<s>कुलदीप_N_NNP बिश्नोई_N_NNP के_IN डायमंड_FW कारोबार_N_NN को_IN लेकर_V_VB घर_N_NN और_CC प्रतिष्ठानों_N_NNS पर_IN छापे_V_VB</s>
+<s>भाजपा_N_NNP प्रदेश_N_NN अध्यक्ष_N_NN ने_RB कहा_V_VB प्रियंका_N_NNP का_IN हरियाणा_N_NNP आने_V_VB का_IN असर_N_NN नहीं_RB होगा_V_VB, उनकी_PRP$ कमान_N_NN में_IN राहुल_N_NNP अमेठी_N_NNP से_IN कहा_V_VB गए_V_VB</s>
+<s>नूहं_N_NNP के_IN सरकारी_N_NN स्कूलों_FW में_IN जल्द_RB भर्ती_N_NN होंगे_V_VB शिक्षक_N_NN और_CC गैर_N_NN शिक्षक_N_NN कर्मचारी_N_NN</s>
+<s>सीएम_FW ने_RB फिजिकल_FW टेस्ट_FW रखा_V_VB है_V_VB, जो_IN पास_RB_JJ करता_N_NN है_V_VB, उसे_PRP ही_IN पार्टी_FW ज्वाइन_FW करवाते_V_VB हैं_V_VB मंत्री_N_NN पंवार_N_NNP</s>
+<s>इनेलो_N_NNP को_IN फिर_RB झटका_V_VB, गोपीचंद_N_NNP गहलोत_N_NNP को_IN सीएम_FW मनोहर_N_NNP लाल_N_NNP ने_RB करवाया_V_VB भाजपा_N_NNP में_IN शामिल_JJ</s> 
+<s>इनेलो_N_NNP ने_RB जारी_V_VB की_IN प्रवक्ताओं_N_NN की_IN नई_JJ सूची_N_NN, अभय_N_NNP चौटाला_N_NNP के_IN करण_N_NNP अर्जुन_N_NNP बने_V_VB पार्टी_FW के_IN राष्ट्रीय_JJ प्रवक्ता_N_NN</s>
+<s>विधानसभा_N_NN स्पीकर_FW के_IN बेटे_N_NN की_IN झूठी_JJ पोस्ट_FW फेसबुक_FW पर_IN डालना_V_VB पड़ा_V_VB महंगा_JJ तो_IN पर_IN केस_FW दर्ज_V_VB</s>
+<s>कश्मीर_N_NNP में_IN आतिशबाजी_N_NN करनेवालों_V_VB की_IN सब_JJ सुविधाएं_N_NN बंद_RB कर_V_VB देनी_V_VB चाहिए_V_VB, भूखे_N_NN मरेंगे_V_VB</s>
+<s>आंगनवाड़ी_N_NN वर्कर_FW को_IN सरकार_N_NN ने_RB दी_V_VB राहत_N_NN, अब_RB बैठकों_N_NN में_IN शामिल_JJ होने_V_VB पर_IN मिलेगा_VB यात्रा_N_NN व_CC दैनिक_N_NN भत्ता_N_NN</s>
+<s>सपना_N_NNP चौधरी_N_NNP के_IN पक्ष_N_NN में_IN उतरे_V_VB भाजपाई_N_NNP, महिला_N_NN आयोग_N_NN ने_RB भी_RB भेजा_V_VB दिग्विजय_N_NNP चौटाला_N_NNP को_IN नोटिस_FW</s>
+<s>चौटाला_N_NNP पर_IN दुष्यंत_N_NNP की_IN चुटकी_N_NN, दीपेंद्र_N_NNP के_IN बयान_N_NN पर_IN कहा_V_VB यह_PRP$ प्रेम_N_NNP क्यों_RB जाग_V_VB रहा_V_VB है_V_VB, इसका_PRP$ जवाब_N_NN वही_IN देंगे_V_VB</s>
+<s>लोकसभा_N_NN चुनाव_N_NN में_IN हमारा_N_NN वोट_FW बैंक_FW भाजपा_N_NNP तरफ_IN शिफ्ट_FW हुआ_VB, जजपा_N_NNP का_IN कोई_JJ फर्क_N_NN नहीं_RB पड़ाः_V_VB अभय_N_NNP</s>
+<s>रिटायर्ड_FW आईएएस_FW बीरबल_N_NNP दास_N_NNP ढालिया_N_NNP बने_V_VB इनेलो_N_NNP के_IN नए_RB प्रदेशाध्यक्ष_N_NN</s>
+<s>इनेलो_N_NNP ने_RB प्रदेश_N_NN कार्यकारिणी_N_NN के_IN नाम_N_NN घोषित_JJ_JJ किए_CC, अशोक_N_NNP_N_NNP अरोड़ा_N_NNP अब_RB होंगे_V_VB पार्टी_FW के_IN वरिष्ठ_JJ उपाध्यक्ष_N_NN</s>
+<s>बिना_RB नाम_N_NN लिए_IN मनोहर_N_NNP लाल_N_NNP का_IN विपक्षियोंपर_N_NN तंज_V_VB, कुछ_RB जेल_FW चले गए_V_VB, कुछ_RB जेल_FW जाने_V_VB को_IN तैयार_JJ बैठे_JJ हैं_V_VB</s>
+<s>तंवर_N_NNP की_IN गुड़गांव_N_NNP में_IN हुई_V_VB बैठक_N_NN में_IN नहीं_RB पहुंचे_V_VB हुड्डा_N_NNP, फिर_RB भी_RB तंवर_N_NNP बोले_V_VBपार्टी_FW में_IN कोई_JJ गुटबाजी_N_NN नहीं_RB</s>
+<s>विधानसभा_N_NN चुनाव_N_NN के_IN लिए_IN भाजपा_N_NNP ने_RB कसी_JJ कमर_N_NN, प्रदेश_N_NN कार्यकारिणी_N_NN की_IN बैठक_N_NN में_IN हुई_V_VB चुनावी_JJ प्लानिंग_FW</s>
+<s>भूपेंद्र_N_NNP हुड्डा_N_NNP ने_RB तंवर_N_NNP खेमे_N_NN से_IN अलग_RB अपने_IN समर्थकों_N_NN की_IN ली_V_VB बैठक_N_NN, प्रस्ताव_N_NN किए_CC पास_RB</s>
+<s>मिशन_FW किया_V_VB तय_JJ, शाह_N_NNP का_IN कोर_N_NN कमेटी_FW को_IN मंत्र_N_NN, वर्कर_FW से_IN लेकर_V_VB विधायक_N_NN मंत्री_N_NN एक्टिव_FW मोड_FW में_IN आएं_VB</s>
+<s>सेल्फी_FW ले_VB रहे_V_VB कार्यकर्ता_N_NN का_IN मुख्य_JJ मंत्री_N_NN खट्टर_N_NNP ने_RB हाथ_N_NN झिड़का_V_VB, फिर_RB किया_V_VB निकलने_IN का_IN इशारा_N_NN</s>
+<s>चौटाला_N_NNP ने_RB फिर_RB सीएम_FW के_IN लिए_IN किया_V_VB अमर्यादित_JJ भाषा_N_NN का_IN इस्तेमाल_N_NN, बोले_V_VB मुझे_PRP राय_N_NN न_RB दें_VB खट्टर_N_NNP</s>
+<s>चप्पलवाला_N_NN चुनाव_N_NN चिन्ह_N_NN बदलना_N_NN चाहती_VB है_V_VB जजपा_N_NNP, दुष्यंत_N_NNP चौटाला_N_NNP ने_RB मांगे_VB समर्थकों_N_NN से_IN सुझाव_N_NN</s>
+<s>मध्यप्रदेश_N_NN के_IN पूर्व_JJ मंत्री_N_NN जयभान_N_NNP पवैया_N_NNP का_IN बैग_N_NN दक्षिण_N_NN एक्सप्रेस_N_NN में_IN चोरी_N_NN</s>
+<s>विधानसभा_N_NN चुनाव_N_NN नजदीक_RB देख_RB एक्टिव_FW मोड_FW में_IN खट्टर_N_NNP सरकार_N_NN, विकासकार्यों_N_NN में_IN तेजी के_IN दिए_V_VB निर्देश_N_NN</s>
+<s>लोकसभा_N_NN चुनाव_N_NN के_IN दिन_N_NN हुए_V_VB विवाद_N_NN पर_IN कोर्ट_NNP ने_RB दिए_V_VB मंत्री_N_NN ग्रोवर_N_NNP व_CC रमेश_N_NNP बोहर_N_NNP पर_IN केस_FW दर्ज_V_VB करने_V_VB के_IN आदेश_N_NN</s>
+<s>गुर्जर_N_NNP बोले_V_VB, मुख्य_JJ जिला_N_NN शिक्षा_N_NN अधिकारी_N_NN ने_RB की_IN मेरी_N_NNP बेइज्जती_N_NN, राठौड़_N_NNP की_IN बिठाओ_VB जांच_N_NN</s>
+<s>चौटाला_N_NNP के_IN बहाने_IN हुड्डा_N_NNP ने_RB निकाली_V_VB अपनी_PRP टीस_N_NN, बोले_V_VB खट्टर_N_NNP ने_RB चुनाव_N_NN में_IN मेरे_PRP बारे_RB में_IN कहा_V_VB था_V_VB</s>
+<s>विश्व_N_NN साइकिल_FW दिवस_N_NN पर_IN सीएम_FW मनोहर_N_NNP लाल_N_NNP साइकिल_FW से_IN पहुंचे_V_VB दफ्तर_N_NN</s>
+<s>चौटाला_N_NNP के_IN विवादित_JJ बयान_N_NN पर_IN खट्टर_N_NNP का_IN पलटवार_N_NN, ऐसी_JJ भाषा_N_NN की_IN वजह_N_NN से_IN जनता_N_NN ने_RB आपको_IN सबक_N_NN सिखाया_VB है_V_VB</s>
+<s>इंद्रजीत_N_NNP और_CC कटारिया_N_NNP को_IN मिले_JJ दोदो_JJ मंत्रालय_N_NN, गुर्जर_N_NNP बने_V_VB सामाजिक_JJ न्याय_NNP मंत्रालय_N_NN में_IN राज्यमंत्री_N_NN</s>
+<s>बीरेंद्र_N_NNP सिंह_N_NNP की_IN लॉबिंग_FW हुई_V_VB फेल_JJ, मंत्रिमंडल_N_NN में_IN नहीं_RB शामिल_JJ करवा_VB सके_VB बेटे_N_NN बृजेंद्र_N_NNP को_IN</s>
+<s>वाराणसी_N_NNP से_IN नामांकन_N_NN रद्द_JJ होने_V_VB पर_IN सुप्रीम_JJ कोर्ट_NNP पहुंचे_V_VB तेज_RB_N_NNP बहादुर_N_NNP, चुनाव_N_NN आयोग_N_NN के_IN फैसले_N_NN को_IN चुनौती_N_NN दी_V_VB</s>
+<s>अब_PRP राहुल_N_NNP गांधी_N_NNP ने_RB अनिल_N_NNP अंबानी_N_NNP को_IN चोर_N_NN बताया_JJ, बोले_V_VBचौकीदार_N_NN ने_RB चोर_N_NN की_IN मदद_N_NN की_IN है_V_VB</s>
+<s>बराला_N_NNP की_IN जनसभा_N_NN में_IN हंगामा_N_NN, स्कूल_FW की_IN समस्या_N_NN रखी_VB तो_IN कार्यकर्ताओं_N_NN ने_RB माइक_FW छीना_JJ</s>
+<s>भाजपा_N_NNP कार्यालय_N_NN के_IN बाहर_RB कांग्रेसियों_N_NN ने_RB पकोड़े_N_NN तले_V_VB, पुलिस_NN से_IN शिकायत_N_NN</s>
+<s>अवतार_N_NNP भड़ाना_N_NNP के_IN समर्थक_N_NN पर_IN मामला_N_NN दर्ज_V_VB, बिना_RB अनुमति_N_NN के_IN पब्लिक_FW मीटिंग_FW करने_V_VB का_IN आरोप_N_NN</s>
+<s>मंच_N_NN पर_IN बैठे_JJ लड्डू_N_NN खा रहे_V_VB थे_V_VB कटारिया_N_NNP, मुर्दाबाद_JJ के_IN नारे_N_NN लगे_JJ तो_IN बीच_N_NN में_IN ही_IN जनसभा_N_NN छोड़कर_V_VB भागे_VB</s>
+<s>हमेशा_RB कांग्रेस_N_NNP और_CC भाजपा_N_NNP के_IN बीच_N_NN रही_IN है_V_VB इस_PRP$ सीट_FW पर_IN टक्कर_N_NN, इस_PRP$ बार_N_NN कटारिया_N_NNP और_CC सैलजा_N_NNP के_IN बीच_N_NN मुकाबला_N_NN</s>
+<s>चुनाव_N_NN आयोग_N_NN में_IN फिर_RB पहुंची_V_VB दुग्गल_N_NNP की_IN शिकायत_N_NN, लाभ_N_NN के_IN पदों_N_NN पर_IN तैनात_JJ लोगों_N_NN द्वारा_N_NN प्रचार_N_NN करने_V_VB का_IN आरोप_N_NN</s>
+<s>राजकुमार_N_NNP सैनी_N_NNP की_IN पार्टी_FW को_IN झटका_V_VB, जींद_N_NNP उपचुनाव_N_NN में_IN इनेलो_N_NNP से_IN ज्यादा_RB वोट_FW पाने_IN वाले_IN विनोद_N_NNP आश्री_N_NNP भाजपा_N_NNP में_IN शामिल_JJ</s>
+<s>चौकीदारी_N_NN की_IN नई_JJ नाटकबाजी_JJ भी_RB नहीं_RB बचा_JJ पाएगी_VB भाजपा_N_NNP की_IN सरकार_N_NN</s>
+<s>टिकट_FW कटने_IN से_IN आहत_N_NN विधायक_N_NN भरी_JJ पंचायत_N_NN में_IN रोए_VB नए_RB प्रत्याशी_JJ पहुंचे_V_VB ताे_IN कहा_V_VB मेरे_PRP साथ_RB गलत_JJ हुआ_VB</s> 
+<s>राइफल_N_NN, रिवाल्वर_N_NN और_CC पिस्टल_N_NN रखते_VB हैं_V_VB भूपेंद्र_N_NNP हुड्डा_N_NNP, अजय_N_NNP यादव_N_NNP के_IN पास_JJ भी_RB हैं_V_VB हथियार_N_NN</s>
+<s>सरसों_N_NN खरीद_N_NN में_IN देरी_RB तो_IN किसानों ने_RB लगाया_VB जाम_N_NN, सुनीता_N_NNP दुग्गल_N_NNP फंसी_VB, मुर्दाबाद_JJ के_IN नारे_N_NN लगाए_VB</s>
+<s>अशोक_N_NNP तंवर_N_NNP की_IN जनसभा_N_NN में_IN उड़ा_N_NN तंबू_N_NN, आंधी में_IN कार्यकर्ता_N_NN पकड़े_VB खड़े_JJ रहे_V_VB</s>
+<s>विज_N_NNP का_IN विवादित_JJ बयान_N_NN कांग्रेस_N_NNP ने_RB आतंकवादियों_N_NN से_IN लिखवाया_VB है_V_VB घोषणा_N_NN पत्र_N_NN</s>
+<s>दूसरी_N_NN पार्टियों_N_NN के_IN मुकाबले_RB इनेलो_N_NNP के_IN प्रत्याशी_JJ कम_RB शिक्षित_N_NN, कांग्रेस_N_NNP के_IN अवतार_N_NNP भड़ाना_N_NNP अंडरमैट्रिक_FW</s>
+<s>सिरसा_N_NNP से_IN इनेलो_N_NNP नेता_N_NN चरणजीत_N_NNP रोडी_N_NNP की_IN कवरिंग_FW कैंडिडेट_FW का_IN नामांकन_N_NN हुआ_VB रद्द_JJ</s>
+<s>गुरदासपुर_N_NNP से_IN कहा_V_VB के_IN बाद_CC सुनील_N_NNP जाखड़ ने_RB कांग्रेस_N_NNP प्रदेश_N_NN अध्यक्ष_N_NN पद_N_NN से_IN दिया_V_VB इस्तीफा_N_NN</s>
+<s>कांग्रेस_N_NNP पर_IN बृजेंद्र_N_NNP का_IN तंज, मेयर_FW चुनाव_N_NN, जीद_N_NNP उपचुनाव_N_NN, लोकसभा_N_NN चुनाव_N_NN साफ तो_IN विधानसभा_N_NN कैसे_JJ अछूती रहेगी_VB</s>
+<s>चौटाला_N_NNP ने_RB नहीं_RB किया_V_VB अशोक_N_NNP अरोड़ा का_IN इस्तीफा_N_NN मंजूर, बोले_V_VB एकजुट_N_NN होकर_V_VB लड़ें_N_NN विधानसभा_N_NN चुनाव_N_NN</s>
+<s>मोदी_N_NNP लहर_VB में_IN ढह_VB गए_V_VB दिग्गजों_N_NN के_IN किले_N_NN, बंसीलाल_N_NNP, देवीलाल_N_NNP, भजनलाल_N_NNP और_CC हुड्डा_N_NNP परिवार_N_NN हारे_VB</s>
+<s>इनेलो_N_NNP की_IN बुरी_JJ कहा_V_VB के_IN बाद_CC प्रदेशाध्यक्ष_N_NN अशोक_N_NNP अरोड़ा_N_NNP ने_RB भेजा_V_VB ओमप्रकाश__N_NNP चौटाला_N_NNP को_IN इस्तीफा_N_NN</s>
+<s>बृजेंद्र_N_NNP सिंह_N_NNP और_CC इंद्रजीत_N_NNP को_IN मिल_N_NN सकती_VB है_V_VB मोदी_N_NNP मंत्रीमंडल_N_NN में_IN जगह_RB, गुज्जर_N_NNP का_IN कट_N_NN सकता_V_VB है_V_VB नाम_N_NN</s>
+<s>हुड्डा_N_NNP और_CC कांग्रेसियों_N_NN की_IN कहा_V_VB पर_IN मनोहर_N_NNP लाल_N_NNP की_IN चुटकी_N_NN, लोकसभा_N_NN चुनाव_N_NN में_IN कई_N_NN कांटे_N_NN निकल_V_VB गए_V_VB</s>
+<s>रोहतक_N_NNP में_IN हुई_V_VB भाजपा_N_NNP चुनाव_N_NN प्रबंधन_N_NN समिति_N_NN की_IN बैठक_N_NN, लोकसभा_N_NN चुनाव_N_NN को_IN लेकर_V_VB लिया_V_VB फीडबैक_FW</s>
+<s>बूथ_FW पर_IN पहुंचे_V_VB कांग्रेस_N_NNP प्रत्याशी_JJ भड़ाना_N_NNP के_IN बयान_N_NN पर_IN भड़के_JJ गांववाले_N_NNS, मोदी_N_NNP मोदी_N_NNP के_IN लगाए_VB नारे_N_NN</s>
+<s>भाजपा_N_NNP नेता_N_NN रमेश_N_NNP लोकहा_N_NNP को_IN मिली_V_VB जमानत_N_NN, चुनाव_N_NN के_IN दिन_N_NN हुआ_VB था_V_VB विवाद_N_NN</s> 
+<s>फरीदाबाद_N_NNP में_IN मतदान_N_NN में_IN गड़बड़ी_JJ करते_V_VB पोलिंग_FW एजेंट_FW का_IN वीडियो_FW वायरल_FW, शिकायत_N_NN के_IN बाद_CC गिरफ्तार_JJ</s> 
+<s>सुबहसुबह_RB विराट_N_NNP कोहली_N_NNP से_IN लेकर_V_VB दिग्गज_N_NN नेताओं_N_NN ने_RB डाला_V_VB वोट_FW, देखिए_V_VB तस्वीरें_N_NN</s>
+<s>दूल्हे_N_NN ने_RB शादी_N_NN से_IN पहले_RB किया_V_VB मतदान_N_NN तो_IN कहीं_RB सोते_N_NN दिखे_V_VB जवान_N_NN, तस्वीरों_N_NN में_IN देखिए_V_VB चुनावी_JJ रंग_N_NN</s>
+<s>विद_N_NNP फैमि ली_V_VB _FW वोट_FW डालने_IN पहुंचे_V_VB भूपेंद्र_N_NNP हुड्डा_N_NNP, दूसरे_N_NN नेता_N_NN भी_RB नहीं_RB पीछे_RB, देखिए_V_VB तस्वीरें_N_NN</s>
+<s>रोहतक_N_NNP के_IN जजपा_N_NNP प्रत्याशी_JJ को_IN फोन_FW पर_IN लताड़_V_VB लगाकर_V_VB, बिना_RB नामांकन_N_NN करवाए_V_VB लौट_V_VB गए_V_VB अजय_N_NNP चौटाला_N_NNP</s>
+<s>आखिरी_JJ दिन_N_NN दिग्गजों_N_NN ने_RB किया_V_VB नामांकन_N_NN, सोनीपत_N_NNP से_IN भूपेंद्र_N_NNP हुड्डा_N_NNP और_CC दिग्विजय_N_NNP ने_RB भरा_JJ पर्चा_N_NN</s>
+<s>वोट_FW के_IN लिए_IN अब_RB रुठों_V_VB को_IN मनाने_V_VB का_IN सिलसिला_JJ शुरू_JJ, करण_N_NNP दलाल_N_NNP से_IN मिले_JJ अवतार_N_NNP सिंह_N_NNP भड़ाना_N_NNP</s> 
+<s>षडयंत्र_N_NN और_CC दबाव_N_NN में_IN मेरी_N_NNP टिकट_FW काटकर_V_VB, तीनचार_N_NN पार्टियां_N_NN बदल_N_NN चुके_V_VB शख्स_N_NN को_IN दे_V_VB दी_V_VB ललित_N_NNP नागर_N_NNP</s>
+<s>मां_N_NN और_CC पत्नी_N_NN के_IN साथ_RB भरा_JJ दीपेंद्र_N_NNP ने_RB नामांकन_N_NN, तो_IN सीएम_FW और_CC भाजपा_N_NNP नेताओं_N_NN ने_RB भरवाया_V_VB अरविंद_N_NNP का_IN पर्चा_N_NN</s>
+<s>सोनीपत_N_NNP में_IN भूपेंद्र_N_NNP हुड्डा_N_NNP को_IN टक्कर_N_NN देंगे_V_VB जजपा_N_NNP से_IN दिग्विजय_N_NNP चौटाला_N_NNP</s>
+<s>रोड_FW शो_FW कर_V_VB नामांकन_N_NN करने_V_VB पहुंचे_V_VB थे_V_VB बसपा_N_NNP प्रत्याशी_JJ, आवेदन_N_NN में_IN एक_N_NN कॉलम_FW छूटा_V_VB तो_IN लौटे_V_VB बैरंग_N_NN</s>
+<s>बीरेंद्र_N_NNP सिंह_N_NNP की_IN लॉबिंग_FW हुई_V_VB फेल_JJ, मंत्रिमंडल_N_NN में_IN नहीं_RB शामिल_JJ करवा_VB सके_VB बेटे_N_NN बृजेंद्र_N_NNP को_IN</s>
+<s>वाराणसी_N_NNP से_IN नामांकन_N_NN रद्द_JJ होने_V_VB पर_IN सुप्रीम_JJ कोर्ट_NNP पहुंचे_V_VB तेज_RB_N_NNP बहादुर_N_NNP, चुनाव_N_NN आयोग_N_NN के_IN फैसले_N_NN को_IN चुनौती_N_NN दी_V_VB</s>
+<s>अब_PRP राहुल_N_NNP गांधी_N_NNP ने_RB अनिल_N_NNP अंबानी_N_NNP को_IN चोर_N_NN बताया_JJ, बोले_V_VBचौकीदार_N_NN ने_RB चोर_N_NN की_IN मदद_N_NN की_IN है_V_VB</s>
+<s>बराला_N_NNP की_IN जनसभा_N_NN में_IN हंगामा_N_NN, स्कूल_FW की_IN समस्या_N_NN रखी_VB तो_IN कार्यकर्ताओं_N_NN ने_RB माइक_FW छीना_JJ</s>
+<s>भाजपा_N_NNP कार्यालय_N_NN के_IN बाहर_RB कांग्रेसियों_N_NN ने_RB पकोड़े_N_NN तले_V_VB, पुलिस_NN से_IN शिकायत_N_NN</s>
+<s>अवतार_N_NNP भड़ाना_N_NNP के_IN समर्थक_N_NN पर_IN मामला_N_NN दर्ज_V_VB, बिना_RB अनुमति_N_NN के_IN पब्लिक_FW मीटिंग_FW करने_V_VB का_IN आरोप_N_NN</s>
+<s>मंच_N_NN पर_IN बैठे_JJ लड्डू_N_NN खा रहे_V_VB थे_V_VB कटारिया_N_NNP, मुर्दाबाद_JJ के_IN नारे_N_NN लगे_JJ तो_IN बीच_N_NN में_IN ही_IN जनसभा_N_NN छोड़कर_V_VB भागे_VB</s>
+<s>कांग्रेस_N_NNP का_IN कोई_JJ बड़ा_JJ नेता_N_NN नही_IN पहुंचा_V_VB तंवर_N_NNP का_IN नामांकन_N_NN करवाने_V_VB, इस_PRP$ पर_IN अजय_N_NNP ने_RB कसा_JJ तंज_V_VB</s>
+<s>आईपीएस_FW पति_N_NN से_IN ज्यादा_RB अमीर_JJ हैं_V_VB सिरसा_N_NNP से_IN भाजपा_N_NNP प्रत्याशी_JJ सुनीता_N_NNP दुग्गल_N_NNP</s>
+<s>चौटाला_N_NNP को_IN जेल_N_NN हुई_V_VB तो_IN अर्जुन_N_NNP ने_RB यूएस_FW से_IN छोड़ दी_V_VB थी_V_VB पढ़ाई_N_NN, सिरसा_N_NNP आए_V_VB तो_IN फिर_RB लॉ_FW बीच_N_NN में_IN की_IN ड्राप_FW आउट_FW</s>
+<s>साध्वी_N_NNP प्रज्ञा_N_NNP पर_IN जितनी_JJ चोट_N_NN मारी_V_VB, उसका_V_VB वोट_FW से_IN बदला_V_VB_JJ लेने_V_VB का_IN समय_N_NN आ_V_VB गया_JJ</s>
+<s>अभय_N_NNP चौटाला_N_NNP के_IN छोटे_JJ बेटे_N_NN पहली_V_VB बार_N_NN चुनाव_N_NN मैदान_N_NN में_IN, इनेलो_N_NNP ने_RB कुरुक्षेत्र_N_NNP से_IN दिया_V_VB टिकट_FW</s>
+<s>हनुमान_N_NNP जयंती_N_NN के_IN दिन_N_NN सुनीता_N_NNP दुग्गल_N_NNP, रमेश_N_NNP कौशिक_N_NNP, कृष्णपाल_N_NNP गुज्जर_N_NNP और_CC राव_N_NNP इंद्रजीत_N_NNP ने_RB किया_V_VB नामांकन_N_NN</s>
+<s>जजपा_N_NNP ने_RB उतारे_V_VB चारों_N_NN युवा_JJ चेहरे_N_NN, परिवार_N_NN की_IN नाना_RB के_IN बाद_CC भी_RB दुष्यंत_N_NNP ने_RB लिया_V_VB हिसार_N_NNP से_IN लड़ने_V_VB का_IN फैसला_N_NN</s>
+<s>मंदिर_N_NN में_IN जनसभा_N_NN करने_V_VB पर_IN सुनीता_N_NNP दुग्गल_N_NNP और_CC कर्मचारियों_N_NN को_IN धमकी_V_VB देने_IN पर_IN तंवर_N_NNP को_IN जारी_V_VB हुआ_VB नोटिस_FW</s>
+<s>जीतने_V_VB से_IN पहले_RB ही_IN तंवर_N_NNP देने_IN लगे_JJ धमकी_V_VB, बोले_V_VBसरकार_N_NN आते_V_VB ही_IN एससी_FW और_CC एक्सईएन_FW को_IN करूंगा_V_VB सस्पेंड_FW</s>
+<s>सुनीता_N_NNP दुग्गल_N_NNP के_IN आईपीएस_FW पति_N_NN की_IN कांग्रेस_N_NNP नेता_N_NN ने_RB चुनाव_N_NN आयोग_N_NN में_IN की_IN शिकायत_N_NN</s>
+<s>जिंदल_N_NNP का_IN कुरुक्षेत्र_N_NNP लोकसभा_N_NN से_IN चुनाव_N_NN न_IN लड़ना_N_NN लगभग_RB तय_JJ, सुरजेवाला_N_NNP ने_RB दिए_V_VB संकेत_N_NN</s>
+<s>जो_IN करनाल_N_NNP और_CC सोनीपत_N_NNP में_IN रोड_FW शो_FW करके_V_VB आए_V_VB भाजपा_N_NNP ने_RB उन_PRP पर_IN थोप_V_VB दी_V_VB रोहतक_N_NNP की_IN सीटः_FW दीपेंद्र_N_NNP</s>
+<s>भाजपा_N_NNP प्रत्याशी_JJ बृजेंद्र_N_NNP ने_RB एक_N_NN दिन_N_NN पहले_RB दिया_V_VB वीआरएस_FW, बोले_V_VB पता_N_NN था_V_VB कि_IN देरसवेर_RB राजनीति_N_NN में_IN आना_V_VB है_V_VB</s>
+<s>इस_PRP$ गांव_N_NN में_IN गली_V_VB के_IN एक_N_NN तरफ_IN हरियाणा_N_NNP के_IN तो_IN दूसरी_N_NN तरफ_IN हैं_V_VB यूपी_FW के_IN वोटर_FW</s>
+<s>जो_IN कैमरे_FW की_IN लाइट_FW देखकर_V_VB डर_V_VB गया_JJ, उसे_PRP तो_IN मां_N_NN के_IN आंचल में_IN घुस_V_VB जाना_V_VB चाहिए_V_VB</s>
+<s>जजपा_N_NNP और_CC आप_N_NNP गठबंधन_N_NN पर_IN बोले_V_VB सीएम_FW, जिनकी_JJ जमीन_N_NN नहीं_RB होती_V_VB, वही_IN गठबंधन_N_NN की_IN दौड़_V_VB में_IN शामिल_JJ होते_V_VB हैं_V_VB</s>
+<s>भाजपा_N_NNP नेताओं_N_NN ने_RB की_IN गुप्त_JJ बैठक_N_NN, रोहतक_N_NNP से_IN अरविंद_N_NNP शर्मा_N_NNP को_IN टिकट_FW दिए_V_VB जाने_V_VB का_IN किया_V_VB विरोध_N_NN</s>
+<s>कांग्रेस_N_NNP ने_RB तो_IN आकाश_N_NN, पाताल_N_NN और_CC जमीन_N_NN हर_IN जगह_RB जाकर_V_VB किया_V_VB भ्रष्टाचारः_N_NN मनोहर_N_NNP लाल_N_NNP</s>
+<s>खुद_RB के_IN लिए_IN प्रचार_N_NN कर_V_VB रही_IN सुनीता_N_NNP दुग्गल_N_NNP ने_RB बांधे_V_VB देवीलाल_N_NNP की_IN तारीफ_N_NN के_IN पुल_N_NN</s> 
+<s>भाजपा_N_NNP के_IN दो_N_NN लाख_N_NN पन्ना_N_NN प्रमुख_JJ संभालेंगे_V_VB चुनाव_N_NN की_IN जिम्मेदारी_N_NN</s>
+<s>समर्थकों_N_NN से_IN चुनाव_N_NN चिन्ह_N_NN पर_IN बोले_V_VB दुष्यंत_N_NNP चौटाला_N_NNP अब_RB तो_IN मजबूरी_N_NN है_V_VB, इसी_PRP$ से_IN चुनाव_N_NN लड़ना_N_NN पड़ेगा_V_VB</s>
+<s>करनाल_N_NNP से_IN भाजपा_N_NNP का_IN टिकट_FW न_IN मिलने_V_VB पर_IN अरविंद_N_NNP शर्मा_N_NNP कांग्रेस_N_NNP में_IN कर_V_VB सकते हैं_V_VB वापसी_JJ, चर्चाएं_N_NN तेज_RB</s>
+<s>भाजपा_N_NNP ने_RB पन्ना_N_NN प्रमुख_JJ की_IN रणनीति_N_NN में_IN लाई_N_NN तेजी_N_NN, सीएम_FW ने_RB कहा_V_VB वाट्सएप_FW ग्रुप_FW बनाकर_V_VB सीधे_RB वोटर_FW से_IN जुड़े_JJ</s>
+<s>हुड्डा_N_NNP के_IN गढ़_N_NN में_IN भाजपा_N_NNP ने_RB बनाया_V_VB हाईटैक_FW चुनावी_JJ वाॅर_FW रूम_FW, प्रदेशाध्यक्ष_N_NN ने_RB किया_V_VB शुभारंभ_N_NN</s>
+<s>इनेलो_N_NNP नेता_N_NN अभय_N_NNP चौटाला_N_NNP ने_RB मुख्य_JJ मंत्री_N_NN खट्टर_N_NNP से_IN मुलाकात_N_NN की_IN, सियासी_JJ चर्चाएं_N_NN तेज_RB</s>
+<s>आईआरएस_FW की_IN नौकरी_N_NN छोड़कर_V_VB राजनीति_N_NN में_IN एंट्री_FW, अब_RB भाजपा_N_NNP की_IN सीट_FW पर_IN लड़ेंगी_V_VB चुनाव_N_NN, पति_N_NN हैं_V_VB आईपीएस_FW</s>
+<s>देवीलाल_N_NNP की_IN पुण्यतिथि_N_NN पर_IN चाचाभतीजे_N_NN के_IN बीच_N_NN दिखी_V_VB दूरी_N_NN, अभय_N_NNP ने_RB दुष्यंत_N_NNP को_IN किया_V_VB अनदेखा_JJ</s>
+<s>कांग्रेस_N_NNP ख्वाबों_N_NN में_IN सीएम_FW की_IN कुर्सी_N_NN देख_RB रही_IN लेकिन_CC नेता_N_NN प्रतिपक्ष_N_NN पर_IN हो_V_VB रही_IN आपस_RB में_IN ही_IN कलहः_N_NN खट्टर_N_NNP</s> 
+<s>कांग्रेस_N_NNP महज_RB दिखावे_N_NN के_IN लिए_IN एकजुट_RB होकर_V_VB दिखा_V_VB रही_V_VB, वे_PRP मान_N_NN चुके_V_VB कि_IN कहा_V_VB गए_V_VB हैं_V_VB कलराज_N_NN मिश्र_N_NNP</s>
+<s>कैप्टन_FW अमरिंदर_N_NNP सिंह_N_NNP ने_RB कहा_V_VB कांग्रेस_N_NNP अध्यक्ष_N_NN के_IN रूप_JJ में_IN सबसे_PRP बेहतर_JJ विकल्प_N_NN होंगी_V_VB प्रियंका_N_NNP, हर_IN कांग्रेसी_N_NNP होगा_V_VB साथ_RB</s>
+<s>जदयू_N_NNP में_IN शामिल_JJ हुए_V_VB फातमी_N_NNP, टिकट_FW नहीं_RB मिलने_V_VB से_IN नाराज_JJ_N_NN होकर_V_VB छोड़ी_V_VB थी_V_VB राजद_N_NNP</s>
+<s>अनंत_N_NNP सिंह_N_NNP के_IN कथित_JJ वायरल_FW ऑडियो_FW पर_IN सियासत_N_NN तेज_RB, जदयू_N_NNP ने_RB कहा_V_VBकिसी अपराधी_N_NN को_IN बख्शा_V_VB नहीं_RB जाएगा_V_VB</s>
+<s>दुर्गा_N_NNP पूजा_N_NN समितियों_N_NNS को_IN आयकर_V_VB का_IN नोटिस_FW, ममता_N_NNP बोलीं_V_VB कुछ_RB दलों_N_NNS का_IN चुनावी_JJ खर्च_N_NN तो_IN इस_PRP$ दायरे_N_NN में_IN नहीं_RB आता_V_VB</s>
+<s>सुशील_N_NNP मोदी_N_NNP ने_RB राजद_N_NNP पर_IN साधा_V_VB निशाना_N_NN, कहा_V_VB जनता_N_NN ने_RB राजद_N_NNP का_IN दंभ_N_NN किया_V_VB चूर_V_VB</s>
+<s>नवजोत_N_NNP सिद्धू_N_NNP ने_RB इस्तीफा_N_NN स्वीकार_V_VB होने_V_VB के_IN बाद_CC सरकारी_N_NN आवास_N_NN खाली_V_VB करना_V_VB शुरू_JJ किया_V_VB</s>
+<s>इस_PRP$ स्कूल_FW से_IN पढ़कर_V_VB दिल्ली_N_NNP पहुंची_V_VB थी_V_VB नाना_N_NN वीएन_FW पुरी_N_NNP की_IN लाडली_JJ शीला_N_NNP दीक्षित_N_NNP, नानी_N_NN थी_V_VB प्रिंसिपल_FW</s>
+<s>गुजरात_N_NNP के_IN मुख्य_JJ मंत्री_N_NN रूपाणी_N_NNP का_IN आरोप_N_NN कमलनाथ_N_NNP सरकार_N_NN नर्मदा_N_NNP जल_N_NN की_IN सप्लाई_FW में_IN गंदी_JJ राजनीति_N_NN कर_V_VB रही_V_VB</s>
+<s>अभय_N_NNP के_IN छोटे_JJ बेटे_N_NN अर्जुन_N_NNP की_IN पूर्व_JJ विधायक_N_NN दिलबाग_N_NNP सिंह_N_NNP की_IN बेटी जैसमीन_N_NNP से_IN हुई_V_VB सगाई_N_NN</s>
+<s>मंत्री_N_NN ने_RB दिया_V_VB राज्यसभा_N_NN सांसद_N_NN के_IN खुले_V_VB पत्र_N_NN का_IN जवाब_N_NN दोनों_JJ नेताओं_N_NN में_IN तनातनी_N_NN, विपक्ष_N_NN को_IN मिला_V_VB मुद्दा_N_NN</s>
+<s>एक_N_NN सुर_N_NN में_N_NN विपक्ष_N_NN बोला_V_VB बैलेट_FW पेपर_FW से_IN कराएं_V_VB विधानसभा_N_NN चुनाव_N_NN</s>
+<s>पति_N_NN की_IN बरसी से_IN ठीक_RB पहले_RB सदमे_N_NN में_IN आई_V_VB अकाली_N_NN नेत्री_N_NN गीता_N_NNP शर्मा_N_NNP, मा_N_NN ली_V_VB हालत_N_NN कमजोर_JJ बता_V_VB कुछ_RB लोग_N_NN कर_V_VB रहे_V_VB उगाही_N_NN</s>
+<s>आम_N_NN आदमी_N_NN पार्टी_FW के_IN नेता_N_NN हरपाल_N_NNP चीमा_N_NNP की_IN सिद्धू_N_NNP को_IN सलाह_N_NN कांग्रेस_N_NNP छोड़_V_VB हमारे_PRP$ साथ_RB आ_IN जाएं_V_VB</s>
+<s>मुख्य_JJ मंत्री_N_NN अमरिंदर_N_NNP को_IN कभी_PRP 'कैप्टन_FW' माना_V_VB ही_IN नहीं_RB सिद्धू_N_NNP ने_IN, राहुल_N_NNP गांधी_N_NNP को_IN बताया_JJ_JJ था_V_VB अपना_PRP कैप्टन_FW</s>
+<s>कुत्तों_N_NNS के_IN ट्रांसफर_N_NN_FW पर_IN गर्माई_V_VB सियासत_N_NN भाजपा_N_NNP बोली_V_VB हाय_UH रे_IN बेदर्दी_N_NN सरकार_N_NN इनको_IN तो_IN बख्श_V_VB देते_V_VB</s>
+<s>आशुतोष_N_NNP राणा_N_NNP ने_RB कहा_V_VB हम_PRP सब_JJ पॉलिटिक्स_FW में_IN हैं_V_VB, सड़क_N_NN जगी_N_NN रही_V_VB तो_IN संसद_N_NN भी_RB जगी_N_NN रहेगी_V_VB</s>
+<s>पांच_JJ बार_N_NN पंजाब_N_NNP के_IN सीएम_FW रहे_V_VB प्रकाश_N_NNP सिंह_N_NNP बादल_N_NN ने_RB ली_V_VB शिअद_N_NNP की_IN मेंबरशिप_FW</s>
+<s>फातमी_N_NNP ने_RB किया_V_VB राजद_N_NNP ने_RB नाता_N_NN तोड़ने_V_VB का_IN ऐलान_N_NN, नीतीश_N_NNP को_IN जमकर_V_VB सराहा_V_VB</s>
+<s>विपक्ष_N_NN ने_RB कहा_V_VB बिकहा_N_NNP में_IN कानून_N_NN व्यवस्था_N_NN ध्वस्त_V_VB, सीएम_FW नीतीश_N_NNP से_IN नहीं_RB संभल_V_VB रहे_V_VB हालात_N_NN</s>
+<s>अहंकार_N_NN छोड़_V_VB राहुल_N_NNP लालू_N_NNP ने_RB गरीबों_N_NN के_IN बारे_RB में_IN सोचा_V_VB होता_V_VB पार्टी_FW की_IN हालत_N_NN ऐसी_JJ नहीं_RB होती_V_VB</s>
+<s>सैकड़ों_JJ कार्यकर्ताओं_N_NN के_IN साथ_RB जदयू_N_NNP का_IN दामन_N_NN थामेंगे_V_VB राजद_N_NNP के_IN पूर्व_JJ सांसद_N_NN अ ली_V_VB अशरफ_N_NNP फातमी_N_NNP</s>
+<s>डांसर_FW सपना_N_NNP चौधरी_N_NNP भाजपा_N_NNP में_IN शामिल_JJ, शिवराज_N_NN और_CC रामलाल_N_NNP की_IN मौजूदगी_N_NN में_IN ली_V_VB प्राथमिक_JJ सदस्यता_N_NN</s>
+<s>नेता_N_NN प्रतिपक्ष_N_NN पद_N_NN को_IN लेकर_V_VB मॉनसून_FW सत्र_N_NN में_IN होगा_V_VB हंगामा_N_NN, कांग्रेस_N_NNP नेता_N_NN किरण_N_NNP चौधरी_N_NNP ने_RB की_IN तैयारी_N_NN</s>
+<s>विधानसभा_N_NN के_IN वेल में_IN आकर_V_VB राजद_N_NNP ने_RB किया_V_VB हंगामा_N_NN, मांगा_V_VB मंगल_N_NNP पांडे_N_NNP का_IN इस्तीफा_N_NN</s> 
+<s>गिरिराज_N_NNP ने_RB नीतीश_N_NNP के_IN इफ्तार_N_NN में_IN शामिल_JJ होने_V_VB पर_IN तंज_JJ किया_V_VB, शाह_N_NNP ने_RB कहा_V_VB ऐसे_PRP$ बयानों_N_NN से_IN बचें_V_VB</s> 
+<s>रामविलास_N_NNP पासवान_N_NNP ने_RB कहा_V_VB नीतीश_N_NNP एनडीए_FW के_IN नेता_N_NN हैं_V_VB और_CC आगे_RB भी_RB रहेंगे_V_VB</s>
+<s>नवनिर्वाचित_JJ विधायक_N_NN कौशल_N_NNP यादव_N_NNP और_CC सत्यनारायण_N_NNP यादव_N_NNP सोमवार_N_NN को_IN लेंगे_V_VB शपथ_N_NN</s>
+<s>चौटाला_N_NNP के_IN विवादित_JJ बयान_N_NN पर_IN खट्टर_N_NNP का_IN पलटवार_N_NN, ऐसी_JJ भाषा_N_NN की_IN वजह_N_NN से_IN जनता_N_NN ने_RB आपको_IN सबक_N_NN सिखाया_VB है_V_VB</s>
+<s>जिसने_IN जनजातियों_N_NN का_IN दर्द करीब_RB से_IN देखा_V_VB और_CC झेला_VB, अब_RB मोदी_N_NNP ने_RB दी_V_VB निवारण_N_NN की_IN जिम्मेदारी_N_NN</s> 
+<s>ममता_N_NNP ने_RB मोदी_N_NNP के_IN शपथ_N_NN ग्रहण_N_NN में_IN जाने_V_VB से_IN इनकार_N_NN किया_V_VB, तृणमूल_N_NNP समर्थकों_N_NN के_IN लिए_IN धरना_V_VB देंगी_V_VB</s>
+<s>महागठबंधन_N_NN की_IN कहा_V_VB की_IN समीक्षा_N_NN करने_V_VB नहीं_RB पहुंचे_V_VB कांग्रेसी_N_NNP, राबड़ी_N_NNP के_IN घर_N_NN थी_V_VB बैठक_N_NN</s>
+<s>तीन_N_NN दशक_N_NN पुरानी_JJ मंडल_N_NN मंदिर_N_NN राजनीति_N_NN का_IN अंत_V_VB</s>
+<s>विधानपरिषद_N_NN जाएं_V_VBगे राधामोहन_N_NNP शर्मा_N_NNP, भाजपा_N_NNP ने_RB लगायी_V_VB मुहर_N_NN</s>
+<s>लालटेन_N_NN युग_N_NN के_IN अंधविश्वास_N_NN से_IN बाहर_RB आकर_V_VB सवर्ण_N_NN आरक्षण_N_NN का_IN विरोध_N_NN करने_V_VB जैसे_RB गुनाह_N_NN के_IN लिए_IN माफी_N_NN मांगे_VB लालू_N_NNP</s>
+<s>लोकसभा_N_NN में_IN करारी_JJ कहा_V_VB के_IN बाद_CC राजद_N_NNP में_IN बगावत_N_NN, विधायक_N_NN ने_RB तेजस्वी_N_NNP से_IN मांगा_V_VB इस्तीफा_N_NN</s>
+<s>जिन्हें_PRP$ बंधुआ_JJ समझते_V_VB थे_V_VB उस_PRP समाज_N_NN ने_RB जमकर_V_VB दिया_V_VB एनडीए_FW का_IN साथ_RB मोदी_N_NNP</s>
+<s>एनडीए_FW के_IN राष्ट्रवाद_N_NN का_IN महागठबंधन_N_NN के_IN पास_RB_JJ न_IN था_V_VB कोई_JJ जवाब_N_NN, इस_PRP$ चलते_RB हुई_V_VB कहा_V_VB जीतनराम_N_NNP मांझी_N_NNP</s>
+<s>जाति_N_NN की_IN राजनीति_N_NN करने_V_VB वालों_PRP$ को_IN जनता_N_NN ने_RB सिखाया_VB सबक_N_NN ललन_N_NNP पासवान_N_NNP</s> 
+<s>नेता_N_NN पुत्र_N_NN पुत्रियों_N_NNS, बहु_N_NN और_CC पत्नियों_N_NNS को_IN मिला_V_VB था_V_VB टिकट_FW, जानिए_V_VB कौन_PRP$ पहुंचा_V_VB संसद</s>
+<s>रामविलास_N_NNP मतलब_N_NN केंद्र_N_NN की_IN सत्ता_N_NN की_IN चाबी_N_NN, राजनीतिक_N_NN उलटफेर_N_NN को_IN भांपने_IN में_IN हैं_V_VB नंबर_FW वन_FW</s>
+<s>किसी_PRP$ पर_IN आरोप_N_NN लगाने_IN के_IN बजाए_V_VB महागठबंधन_N_NN के_IN लिए_IN आत्म_JJ मंथन_N_NN करने_V_VB का_IN वक्त_N_NN</s>
+<s>एक्जिट_FW पोल_FW का_IN विपरीत_JJ रुझान_N_NN देख_RB लालू_N_NNP ने_RB सोशल_FW मीडिया_FW पर_IN चहकना_V_VB बंद_RB किया_V_VB</s>
+<s>मंत्री_N_NN विजय_N_NNP सिन्हा_N_NNP बोले_V_VB हताशा_N_NN में_IN हिंसा_N_NN भड़काने_IN वाला बयान_N_NN दे_V_VB रहे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>भाजपा_N_NNP नेता_N_NN मंगल_N_NNP पांडे_N_NNP बोले_V_VB कहा_V_VB से_IN हताश_JJ विपक्ष_N_NN ईवीएम_FW पर_IN फोड़_V_VB रहा_V_VB ठीकरा_N_NN</s>
+<s>भाकपा_N_NNP माले_N_NNP ने_RB कहा_V_VB शिक्षा_N_NN, पानी_N_NN सब_JJ कुछ_RB निजी_JJ कंपनियों_FW के_IN हाथ_N_NN सौंपने_IN की_IN तैयारी_N_NN कर_V_VB रही_V_VB मोदी_N_NNP सरकार_N_NN</s>
+<s>मुजफ्फरपुर_N_NNP में_N_NN बच्चे_N_NNS मर_V_VB रहे_V_VB हैं_V_VB और_CC इधर_RB सरकार_N_NN आम_N_NN बांटने_IN में_IN लगी_V_VB है_V_VB प्रेमचंद_N_NNP मिश्रा_N_NNP</s>
+<s>सीएम_FW हाउस_FW घेरने_IN गए_V_VB लोक_N_NN इंसाफ_N_NN पार्टी_FW समर्थकों_N_NN पर_IN चली_V_VB वाटर_FW कैनन_FW, विधायक_N_NN सिमरजीत_N_NNP बैंस_N_NNP हिरासत_N_NN में_IN</s>
+<s>सनी_N_NNP देओल_N_NNP ने_RB नियुक्त_JJ किया_V_VB प्रतिनिधि_N_NN, सुनील_N_NNP जाखड़_N_NNP बोले_V_VB सेल्फी_FW के_IN सिवाए_RB कुछ_RB नहीं_RB मिलेगा_V_VB</s>
+<s>मानसून_FW सत्र_N_NN में_IN विपक्ष_N_NN ने_RB सदन_N_NN में_IN किया_V_VB हंगामा_N_NN, मांगा_V_VB स्वास्थ्य_N_NN मंत्री_N_NN से_IN इस्तीफा_N_NN</s>
+<s>चमकी_JJ बुखार_N_NN से_IN बच्चों_N_NNS की_IN मौत_V_VB पर_IN विपक्ष_N_NN ने_RB किया_V_VB हंगामा_N_NN, नीतीश_N_NNP ने_RB कहा_V_VB जागरूकता_N_NN से_IN बचेगी_V_VB जान_N_NN</s>
+<s>अतिपिछड़ा_JJ कल्याण_N_NN मंत्री_N_NN ने_RB कहा_V_VB बिकहा_N_NNP में_IN रोजगार_N_NN की_IN कमी_N_NN नहीं_RB, कुछ_RB लोग_N_NN शौक_N_NN से_IN करते_V_VB हैं_V_VB पलायन_V_VB</s>
+<s>आदर्श_JJ, अवधारणा_JJ और_CC विचारधारा_N_NN का_IN युद्ध_N_NN कहाने_V_VB वाले_IN चुनाव_N_NN आयोग_N_NN या_IN ईवीएम_FW पर_IN उतारते_V_VB हैं_V_VB खीझ_V_VB</s>
+<s>दो जुलाई_FW से_IN नीतीश_N_NNP हटाओ_V_VB भविष्य_N_NN बचाओ_V_VB यात्रा_N_NN शुरू_JJ करेंगे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>भाजपा_N_NNP के_IN पुराने_JJ कार्यकर्ता_N_NN बोल_V_VB अपनों_N_NN को_IN भूलकर_V_VB दूसरों_N_NN को_IN टिकटें_FW दी_V_VB तो_IN अन्याय_N_NN होगा_V_VB</s>
+<s>मोदी_N_NNP आवास_N_NN पर_IN भाजपा_N_NNP विधायकों_N_NN की_IN दो_V_VB दुलाई_N_NN को_IN बैठक_N_NN, बने_V_VBगी_V_VB सदन_N_NN के_IN लिए_IN रणनीति_N_NN</s> 
+<s>एक_N_NN जुलाई_FW को_IN मुख्य_JJ मंत्री_N_NN आवास_N_NN पर_IN होगी_V_VB एनडीए_FW की_IN बैठक_N_NN</s>
+<s>मुस्लिम_N_NN महिलाओं_N_NN को_IN तलाक_N_NN की_IN प्रताड़ना_N_NN से_IN निजात_N_NN दिलाने_IN में_IN सहयोग_N_NN का_IN साहस_N_NN दिखाएं_V_VB गैर_N_NN कांग्रेसी_N_NNP दल_N_NN</s>
+<s>सुशील_N_NNP मोदी_N_NNP ने_RB कहा_V_VB इंदिरा_N_NNP गांधी_N_NNP के_IN आपातकाल_N_NN की_IN तरह_IN बंगाल_N_NNP में_IN हालात_N_NN पैदा_V_VB कर_V_VB दिए_V_VB ममता_N_NNP ने</s>
+<s>विधायक_N_NN परमिंदर_N_NNP ढुल और_CC जाकिर_N_NNP हुसैन_N_NNP भाजपा_N_NNP में_IN हुए_V_VB शामिल_JJ</s>
+<s>नहीं_RB थम_V_VB रहा_V_VB कुपोषित_JJ बच्चों_N_NNS की_IN मौत_V_VB का_IN सिलसिला_JJ, बारिश_N_NN का_IN इंतजार_N_NN करना_V_VB दुर्भाग्यपूर्ण_JJ देवेंद्र_N_NNP यादव_N_NNP</s>
+<s>जीतनराम_N_NNP मांझी_N_NNP ने_RB महागठबंधन_N_NN की_IN एकजुटता_JJ पर_IN उठाए_V_VB सवाल_N_NN, कहा_V_VB साफ_JJ दिख_V_VB रहा_V_VB है_V_VB बिखराव_N_NN</s>
+<s>तृणमूल_N_NNP ने_RB भाजपा_N_NNP को_IN आतंकी_IN संगठन_N_NN जैसा_RB बताया_JJ, कहा_V_VB हिंसा_N_NN के_IN लिए_IN उप्रबिकहा_N_NNP से_IN गुंडे_N_NNS बुलाए_V_VB</s>
+<s>भाजपा_N_NNP का_IN आरोप_N_NN जय_UH श्री_N_NNP राम_N_NNP के_IN नारे_N_NN लगाने_IN पर_IN पुलिस_NN ने_RB गोलियां_N_NNS चलाईं_V_VB, दो_N_NN कार्यकर्ता_N_NN जख्मी_N_NN</s>
+<s>सुशील_N_NNP मोदी_N_NNP का_IN राजद_N_NNP पर_IN तंज_V_VB, कहा_V_VB कभी_PRP सीएम_FW पद_N_NN का_IN मजाक_N_NN बनाया_V_VB, आज_RB नेता_N_NN प्रतिपक्ष_N_NN पद_N_NN का_IN वही_IN हश्र_N_NN कर_V_VB दिया_V_VB</s> 
+<s>जदयू_N_NNP नेता_N_NN के_NN सी_FW त्यागी_N_NNP का_IN तेजस्वी_JJ पर_IN तंज_V_VB, कहा_V_VB पहले_RB चुनावी_JJ कप_FW में_IN कहा_V_VB पर_IN करें_V_VB मंथन_N_NN</s> 
+<s>अपनेअपने_PRP क्षेत्रों_N_NN की_IN फिक्र_N_NN में_IN डूबे_JJ माननीय_JJ, पार्टी_FW हारी_V_VB तो_IN विधानसभा_N_NN का_IN सफर_N_NN होगा_V_VB कठिन_JJ</s>
+<s>मई_N_NNP को_IN महामिलावटियों_JJ की_IN अंतिम_JJ यात्रा_N_NN निकलेगी_V_VB नन्दकिशोर_N_NNP यादव_N_NNP</s>
+<s>सीएम_FW का_IN सुझाव_N_NN सही, गर्मी_N_NN की_IN जगह_RB फरवरी_N_NN मार्च_N_NN में_IN चुनाव_N_NN ठीक_RB ललन_N_NNP पासवान_N_NNP</s>
+<s>भाजपा_N_NNP नेता_N_NN रमेश_N_NNP लोकहा_N_NNP को_IN मिली_V_VB जमानत_N_NN, चुनाव_N_NN के_IN दिन_N_NN हुआ_VB था_V_VB विवाद_N_NN</s>
+<s>बिकहा_N_NNP कांग्रेस_N_NNP प्रभारी_JJ बोले_V_VB राहुल_N_NNP का_IN अयोध्या_N_NNP और_CC मोदी_N_NNP का_IN है_V_VB लंका_N_NNP मॉडल_FW</s>
+<s>गडकरी_N_NNP बोले_V_VB सिंधु_N_NNP जल_N_NN समझौते_N_NN का_IN अध्ययन_N_NN जारी_V_VB आतंकवाद_N_NN नहीं_RB रुका_V_VB तो_IN पाकिस्तान_N_NNP का_IN पानी_N_NN रोक_V_VB देंगे_V_VB</s> 
+<s>इमोशनल_FW ब्लैकमेलिंग_FW पर_IN उतरीं_V_VB राबड़ी_N_NNP, शहाबुद्दीन_N_NNP राजबल्लभ_N_NNP के_IN सताए_V_VB लोगों_N_NN के_IN लिए_IN क्यों_RB नहीं_RB लिखी_V_VB चिट्ठी_N_NN</s>
+<s>लोगों_N_NN को_IN बांट_V_VB नहीं_RB सकती_VB पहचान_V_VB की_IN राजनीति_N_NN</s>
+<s>सियासत_N_NN में_IN सांड_N_NN, सरकार_N_NN और_CC विपक्ष_N_NN दोनों_JJ परेशान_JJ</s>
+<s>बोले_V_VB कैप्टन_FW, सनी_N_NNP देओल_N_NNP फिल्मी_FW फौजी_JJ है_V_VB, मैं_PRP असल_JJ जिंदगी_N_NN का_IN फौजी_JJ हूं_V_VB</s>
+<s>पटना_N_NNP साहिब_N_NNP से_IN भाजपा_N_NNP उम्मीदवार_N_NN रविशंकर_V_VB ने_RB किया_V_VB नामांकन_N_NN, रामदेव_N_NNP रहे_V_VB मौजूद_V_VB</s>
+<s>लालू_N_NNP यादव_N_NNP, रामविलास_N_NNP पासवान_N_NNP के_IN पुत्रों ने_RB संभाल_V_VB ली_V_VB पार्टी_FW की_IN कमान_N_NN, ले_IN रहे_V_VB अब_RB सारे_JJ फैसले_N_NN</s>
+<s>चतरासुपौल_N_NNP का_IN बदला_V_VB_JJ मधुबनी_N_NNP में_IN ले_VB रही_V_VB कांग्रेस_N_NNP</s>
+<s>बेगूसराय_N_NNP से_IN कन्हैया_N_NNP के_IN पक्ष_N_NN में_IN अपने_IN प्रत्याशी_N_NN को_IN हटा_V_VB लें_IN तेजस्वी_JJ रेड्‌डी_N_NNP</s>
+<s>शिवहर_N_NNP से_IN लालू_N_NNP राबड़ी__N_NNP मोर्चा_N_NN पार्टी_FW के_IN उम्मीदवार_N_NN अंगेश_N_NNP सिंह_N_NNP का_IN नामांकन_N_NN रद्द_JJ, तेज_RB प्रताप_N_NNP को_IN बड़ा_JJ झटका_V_VB</s>
+<s>राजद_N_NNP के_IN बागी_JJ नेता_N_NN अली_N_NNP अशरफ_N_NNP फातमी_N_NNP ने_RB वापस_RB लिया_V_VB नामांकन_N_NN, शकील_N_NNP अहमद_N_NNP के_IN पक्ष_N_NN में_IN करेंगे_V_VB प्रचार_N_NN</s>
+<s>करनाल_N_NNP से_IN भाजपा_N_NNP का_IN टिकट_FW न_IN मिलने_V_VB पर_IN अरविंद_N_NNP शर्मा_N_NNP कांग्रेस_N_NNP में_IN कर_V_VB सकते_V_VB हैं_V_VB वापसी_JJ, चर्चाएं_N_NN तेज_RB</s>
+<s>रामकुमार_N_NNP ने_RB भी_RB रालोसपा_N_NNP छोड़ी_V_VB चुनाव_N_NN के_IN वक्त_N_NN अकेले_JJ पड़े_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>हुड्डा_N_NNP के_IN गढ़_N_NN में_N_NN भाजपा_N_NNP ने_RB बनाया_V_VB हाईटैक_FW चुनावी_JJ वार_FW रूम_FW, प्रदेशाध्यक्ष_N_NN ने_RB किया_V_VB शुभारंभ_JJ</s>
+<s>कांग्रेस_N_NNP में_IN उठे_V_VB बगावती_JJ सुर_N_NN, पंजाब_N_NNP महिला_N_NN कांग्रेस_N_NNP की_IN पूर्व_JJ अध्यक्ष_N_NN किट्टू_N_NNP ग्रेवाल_N_NNP का_IN इस्तीफा_N_NN</s>
+<s>गोपालगंज_N_NNP से_IN होटवार_N_NNP वाया_FW रायसीना_N_NNP रख_V_VB लें_V_VB लालू_N_NNP अपनी_PRP किताब_N_NN का_IN नाम_N_NN</s>
+<s>जेटली_N_NNP ने_RB पूछा_V_VB ईडी की_IN चार्जशीट_FW पर_IN राहुल_N_NNP चुप_RB क्यों_RB? कांग्रेस_N_NNP ने_RB कहा_V_VB यह_PRP$ चुनावी_JJ स्टंट_FW</s>
+<s>प्रशांत_N_NNP किशोर_N_NNP का_IN तेजस्वी_JJ पर_IN निशाना_N_NN, कहा_V_VB लालू_N_NNP पुत्र_N_NN के_IN सिवा_RB आपकी_IN कोई_JJ पहचान_V_VB नहीं_RB</s>
+<s>राबड़ी__N_NNP ने_RB कहा_V_VB नीतीश_N_NNP लगा_JJ रहे_V_VB गलत_JJ आरोप_N_NN, लालू_N_NNP फोन_FW पर_IN नहीं_RB करते_V_VB बात_N_NN</s>
+<s>भाजपा_N_NNP गरीब_JJ विरोधी_JJ पार्टी_FW, वह_PRP गरीबी_N_NN नहीं_RB बल्कि_IN गरीबों_N_NN को_IN मिटाना_V_VB चाहती_VB है_V_VB तेजस्वी_N_NNP</s>
+<s>अब_PRP सीतामढ़ी_N_NNP से_IN जदयू_N_NNP उम्मीदवार_N_NN बने_V_VB पिंटू_N_NNP, वरुण_N_NNP ने_RB चुनाव_N_NN लड़ने_IN से_IN किया_V_VB इनकार_N_NN</s>
+<s>कोर्ट_NNP पहुंचे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP के_IN खिलाफ_JJ प्रदर्शन_N_NN, लगे_JJ बाहरी_JJ भगाओ_V_VB के_IN नारे_N_NN</s>
+<s>अप्रैल_N_NN को_IN भाजपा_N_NNP स्थापना_N_NN दिवस_N_NN पर_IN आयोजित_JJ करेगी_V_VB ध्वज_N_NN वंदन_N_NN कार्यक्रम_N_NN</s>
+<s>भाजपा_N_NNP में_IN शामिल_JJ हुए_V_VB कांग्रेस_N_NNP और_CC इनेलो_N_NNP के_IN दो_N_NN पूर्व_JJ विधायक_N_NN, बोले_V_VB हुड्डा_N_NNP ने_RB अपने_IN मुझे_PRP प्रयोग_N_NN किया_V_VB</s>
+<s>कैंपस_FW पॉलिटिक्स_FW से_IN शुरुआत_N_NN कर_V_VB इन_PRP नेताओं_N_NN ने_RB चढ़ीं_V_VB सियासत_N_NN की_IN सीढ़ियां_N_NN</s>
+<s>सीटों_FW पर_IN शिअद_N_NNP ने_RB किए_CC उम्मीदवारों_N_NN के_IN नाम_N_NN घोषित_JJ, फतेहगढ़_N_NNP साहिब_N_NNP से_IN गुरु_PRP होंगे_V_VB मैदान_N_NN में_IN</s>
+<s>बसपा_N_NNP ने_RB तोड़ी_V_VB साथ_RB मिलकर_V_VB दलित_N_NN वोट_FW पाने_IN की_IN आस_N_NN, अब_RB चल_JJ अकेला_RB...' के_IN अलावा_RB कोई_JJ चारा_N_NN नहीं_RB आप_PRP के_IN पास_RB</s>
+<s>बिकहा_N_NNP का_IN मिनी_FW चितौड़गढ़_N_NNP, इस_PRP$ सीट_FW पर_IN राजपूत_N_NNP करते_V_VB हैं_V_VB जीत_V_VB और_CC कहा_V_VB का_IN फैसला_N_NN</s>
+<s>भाकपा_N_NNP ने_RB कहा_V_VB पूंजीपतियों_N_NN के_IN दबाव_N_NN में_IN कांग्रेस_N_NNP और_CC राजद_N_NNP ने_RB नहीं_RB छोड़ा_V_VB कन्हैया_N_NNP के_IN लिए_IN बेगूसराय_N_NNP सीट_FW</s>
+<s>अमीरों के_IN चौकीदार_N_NN नरेंद्र_N_NNP मोदी_N_NNP आरएसएस_FW के_IN एजेंडे_FW पर_IN कर_V_VB रहे_V_VB काम_N_NN उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>राहुल_N_NNP पर_IN बोले_V_VB रविशंकर_N_NNP जहाज_N_NN डूबता_V_VB देख_RB भागा_V_VB कप्तान_N_NN</s>
+<s>गुड़गांव_N_NN पहुंचीं_V_VB रक्षामंत्री_N_NN निर्मला_N_NNP सीतारमण_N_NNP, मेट्रो_FW में_IN किया_V_VB मंत्री_N_NN ने_RB सफर_N_NN</s>
+<s>रविवार_N_NN को_IN रालोसपा_N_NNP में_IN शामिल_JJ होंगे_V_VB वृशिण_N_NNP पटेल_N_NNP</s> 
+<s>कन्हैया_N_NNP ने_RB कहा_V_VB चुनाव_N_NN में_IN सामने_IN दिखती_V_VB कहा_V_VB की_IN वजह_N_NN से_IN बौखला गई है_V_VB भाजपा_N_NNP</s>
+<s>शिवानंद_N_NNP का_IN कन्हैया_N_NNP को_IN वोट_FW कटवा_V_VB कहना_V_VB हास्यास्पद_JJ भाकपा_N_NNP</s>
+<s>हिमाचल_N_NNP के_IN राजनीतिक_N_NN परिवारों_N_NN के_IN रिश्तेदार था_V_VBम रहे_V_VB एक_N_NN दूसरे_N_NN के_IN विरोधियों_N_NN का_IN दामन_N_NN, अब_RB सुखराम_N_NNP के_IN दामाद_N_NN हुए_V_VB बीजेपी_N_NNP में_IN शामिल_JJ</s> 
+<s>नीतीश_N_NNP पर_IN तेजस्वी_JJ का_IN एक_N_NN और_CC हमला_N_NN, कहा_V_VB डायनासोर_FW की_IN तरह_IN विलुप्त_JJ हो_V_VB जाएगी_V_VB जदयू_N_NNP</s>
+<s>दो_N_NN बची_JJ हुई_V_VB सीटों_FW पर_IN भाजपा_N_NNP के_IN प्रत्याशी_N_NN घोषित_JJ, बेटे_N_NN को_IN टिकट_FW मिली_V_VB तो_IN बीरेंद्र_N_NNP सिंह_N_NNP ने_RB भेजा_V_VB इस्तीफा_N_NN</s>
+<s>महाचंद्र_N_NNP और_CC विनोद_N_NNP बीजेपी_N_NNP में_IN शामिल_JJ, सदस्यता_N_NN दिलाने_IN स्पेशल चार्टर_FW प्लेन_FW से_IN आए_V_VB भूपेंद्र_N_NNP</s>
+<s>चाय_N_NN पर_IN चर्चा_N_NN करने_V_VB पहुंचे_V_VB मंत्री_N_NN ग्रोवर_N_NNP के_IN कार्यक्रम_N_NN में_IN हंगामा_N_NN, वकील_N_NN ने_RB जड़े_JJ जातपात_JJ की_IN राजनीति_N_NN के_IN आरोप_N_NN</s>
+<s>कांग्रेस_N_NNP ने_RB तो_IN आकाश_N_NN, पाताल_N_NN और_CC जमीन_N_NN हर_IN जगह_RB जाकर_V_VB किया_V_VB भ्रष्टाचार_N_NN मनोहर_N_NNP लाल_N_NNP</s>
+<s>रोहतक_N_NNP की_IN राजनीति_N_NN, हिसार_N_NNP में_IN सरकार_N_NN</s>
+<s>राजनाथ_N_NNP बोले_V_VB देश_N_NN सुरक्षित_JJ हाथों_N_NN में_IN, पाकिस्तान_N_NNP में_IN घुसकर_V_VB दिया_V_VB पुलवामा_N_NNP हमले_N_NN का_IN मुंहतोड़_JJ जवाब_N_NN</s>
+<s>साल_N_NN पहले_RB सोनिया_N_NNP गांधी_N_NNP को_IN कहा_V_VB था_V_VB प्रियंका_N_NNP को_IN ले_VB आओ_V_VB, लेकिन_CC पुत्र_N_NN मोह_V_VB में_IN नहीं_RB मानीः_V_VB बीरेंद्र_N_NNP सिंह_N_NNP</s>
+<s>लालू_N_NNP को_IN सुप्रीम_JJ कोर्ट_NNP का_IN झटका_V_VB, जमानत_N_NN याचिका_N_NN खारिज_V_VB</s>
+<s>दिल्ली_N_NNP के_IN सियासत_N_NN का_IN सूरतएहाल_JJ, स्थानीय_JJ मुद्दे_N_NN बनाम_N_NN मोदी_N_NNP पर_IN मुकाबला_N_NN</s>
+<s>कभी_PRP छत्तीसगढ़_N_NNP की_IN राजनीति_N_NN के_IN केंद्र_N_NN हाेते_V_VB थे_V_VB गद्रे_N_NNP और_CC शुक्ल_N_NNP भवन_N_NN, अब_RB गुमनाम_N_NN</s>
+<s>शिवहर_N_NNP से_IN अंगेश_N_NNP को_IN टिकट_FW न मिलने_V_VB से_IN तेजप्रताप_N_NNP नाराज_JJ, कहा_V_VB फैसले_N_NN पर_IN विचार_V_VB करें_V_VB तेजस्वी_N_NNP</s>
+<s>कैप्टन_FW अमरिंदर_N_NNP सिंह_N_NNP ने_RB कहा_V_VB कांग्रेस_N_NNP अध्यक्ष_N_NN के_IN रूप_JJ में_IN सबसे_PRP बेहतर_JJ विकल्प_N_NN होंगी_V_VB प्रियंका_N_NNP, हर_IN कांग्रेसी_N_NNP होगा_V_VB साथ_RB</s>
+<s>जदयू_N_NNP में_IN शामिल_JJ हुए_V_VB फातमी_N_NNP, टिकट_FW नहीं_RB मिलने_V_VB से_IN नाराज_JJ_N_NN होकर_V_VB छोड़ी_V_VB थी_V_VB राजद_N_NNP</s>
+<s>अनंत_N_NNP सिंह_N_NNP के_IN कथित_JJ वायरल_FW ऑडियो_FW पर_IN सियासत_N_NN तेज_RB, जदयू_N_NNP ने_RB कहा_V_VB किसी_PRP$ अपराधी_N_NN को_IN बख्शा_V_VB नहीं_RB जाएगा_V_VB</s>
+<s>दुर्गा_N_NNP पूजा_N_NN समितियों_N_NNS को_IN आयकर_V_VB का_IN नोटिस_FW, ममता_N_NNP बोलीं_V_VB कुछ_RB दलों_N_NNS का_IN चुनावी_JJ खर्च_N_NN तो_IN इस_PRP$ दायरे_N_NN में_IN नहीं_RB आता_V_VB</s>
+<s>सुशील_N_NNP मोदी_N_NNP ने_RB राजद_N_NNP पर_IN साधा_V_VB निशाना_N_NN, कहा_V_VB जनता_N_NN ने_RB राजद_N_NNP का_IN दंभ_N_NN किया_V_VB चूर_V_VB</s>
+<s>नवजोत_N_NNP सिद्धू_N_NNP ने_RB इस्तीफा_N_NN स्वीकार_V_VB होने_V_VB के_IN बाद_CC सरकारी_N_NN आवास_N_NN खाली_V_VB करना_V_VB शुरू_JJ किया_V_VB</s>
+<s>इस_PRP$ स्कूल_FW से_IN पढ़कर_V_VB दिल्ली_N_NNP पहुंची_V_VB थी_V_VB नाना_N_NN वीएन_FW पुरी_N_NNP की_IN लाडली_JJ शीला_N_NNP दीक्षित_N_NNP, नानी_N_NN थी_V_VB प्रिंसिपल_FW</s>
+<s>गुजरात_N_NNP के_IN मुख्य_JJ मंत्री_N_NN रूपाणी_N_NNP का_IN आरोप_N_NN कमलनाथ_N_NNP सरकार_N_NN नर्मदा_N_NNP जल_N_NN की_IN सप्लाई_FW में_IN गंदी_JJ राजनीति_N_NN कर_V_VB रही_V_VB</s>
+<s>अभय_N_NNP के_IN छोटे_JJ बेटे_N_NN अर्जुन_N_NNP की_IN पूर्व_JJ विधायक_N_NN दिलबाग_N_NNP सिंह_N_NNP की_IN बेटी जैसमीन_N_NNP से_IN हुई_V_VB सगाई_N_NN</s>
+<s>मंत्री_N_NN ने_RB दिया_V_VB राज्यसभा_N_NN सांसद_N_NN के_IN खुले_V_VB पत्र_N_NN का_IN जवाब_N_NN... दोनों_JJ नेताओं_N_NN में_IN तनातनी_N_NN, विपक्ष_N_NN को_IN मिला_V_VB मुद्दा_N_NN</s>
+<s>एक_N_NN सुर_N_NN में_IN विपक्ष_N_NN बोला_V_VB बैलेट_FW पेपर_FW से_IN कराएं_V_VB विधानसभा_N_NN चुनाव_N_NN</s>
+<s>पति_N_NN की_IN बरसी से_IN ठीक_RB पहले_RB सदमे_N_NN में_IN आई_V_VB अका ली_V_VB नेत्री_N_NN गीता_N_NNP शर्मा_N_NNP, माली_V_VB हालत_N_NN कमजोर_JJ बता_V_VB कुछ_RB लोग_N_NN कर_V_VB रहे_V_VB उगाही_N_NN</s>
+<s>आम_N_NN आदमी_N_NN पार्टी_FW के_IN नेता_N_NN हरपाल_N_NNP चीमा_N_NNP की_IN सिद्धू_N_NNP को_IN सलाहकांग्रेस_N_NNP छोड़_V_VB हमारे_PRP$ साथ_RB आ जाएं_V_VB</s>
+<s>मुख्य_JJ मंत्री_N_NN अमरिंदर_N_NNP को_IN कभी_PRP 'कैप्टन_FW' माना_V_VB ही_IN नहीं_RB सिद्धू_N_NNP ने, राहुल_N_NNP गांधी_N_NNP को_IN बताया_JJ_JJ था_V_VB अपना_PRP कैप्टन_FW</s>
+<s>कुत्तों_N_NNS के_IN ट्रांसफर_N_NN_FW पर_IN गर्माई_V_VB सियासत_N_NN भाजपा_N_NNP बो ली_V_VB हाय_UH रे बेदर्दी_N_NN सरकार_N_NN... इनको_IN तो_IN बख्श_V_VB देते_V_VB</s>
+<s>आशुतोष_N_NNP राणा_N_NNP ने_RB कहा_V_VB हम_PRP सब_JJ पॉलिटिक्स_FW में_IN हैं_V_VB, सड़क_N_NN जगी_N_NN रही_V_VB तो_IN संसद_N_NN भी_RB जगी_N_NN रहे_V_VBगी</s>
+<s>पांच_JJ बार_N_NN पंजाब_N_NNP के_IN सीएम_FW रहे_V_VB प्रकाश_N_NNP सिंह_N_NNP बादल_N_NN ने_RB ली_V_VB शिअद_N_NNP की_IN मेंबरशिप_FW</s>
+<s>फातमी_N_NNP ने_RB किया_V_VB राजद_N_NNP ने_RB नाता_N_NN तोड़ने_V_VB का_IN ऐलान_N_NN, नीतीश_N_NNP को_IN जमकर_V_VB सराहा_V_VB</s>
+<s>विपक्ष_N_NN ने_RB कहा_V_VBबिकहा_N_NNP में_IN कानून_N_NN व्यवस्था_N_NN ध्वस्त_V_VB, सीएम_FW नीतीश_N_NNP से_IN नहीं_RB संभल_V_VB रहे_V_VB हालात_N_NN</s>
+<s>अहंकार_N_NN छोड़_V_VB राहुल_N_NNP लालू_N_NNP ने_RB गरीबों_N_NN के_IN बारे_RB में_IN सोचा_V_VB होता_V_VB पार्टी_FW की_IN हालत_N_NN ऐसी_JJ नहीं_RB होती_V_VB</s>
+<s>सैकड़ों_JJ कार्यकर्ताओं_N_NN के_IN साथ_RB जदयू_N_NNP का_IN दामन_N_NN था_V_VB मेंगे_N_NNP राजद_N_NNP के_IN पूर्व_JJ सांसद_N_NN अली_N_NNP अशरफ_N_NNP फातमी_N_NNP</s>
+<s>डांसर_FW सपना_N_NNP चौधरी_N_NNP भाजपा_N_NNP में_IN शामिल_JJ, शिवराज_N_NN और_CC रामलाल_N_NNP की_IN मौजूदगी_N_NN में_IN ली_V_VB प्राथमिक_JJ सदस्यता_N_NN</s>
+<s>नेता_N_NN प्रतिपक्ष_N_NN पद_N_NN को_IN लेकर_V_VB मॉनसून_FW सत्र_N_NN में_IN होगा_V_VB हंगामा_N_NN, कांग्रेस_N_NNP नेता_N_NN किरण_N_NNP चौधरी_N_NNP ने_RB की_IN तैयारी_N_NN</s>
+<s>विधानसभा_N_NN के_IN वेल_FW में_IN आकर_V_VB राजद_N_NNP ने_RB किया_V_VB हंगामा_N_NN, मांगा_V_VB मंगल_N_NNP पांडे_N_NNP का_IN इस्तीफा_N_NN</s>
+<s>अनंत_N_NNP सिंह_N_NNP की_IN पत्नी_N_NN नीलम होंगी_V_VB कांग्रेस_N_NNP की_IN उम्मीदवार_N_NN, जदयू_N_NNP प्रत्याशी_N_NN ललन_N_NNP सिंह_N_NNP से_IN सीधा_RB मुकाबला_N_NN</s> 
+<s>आरा_N_NNP के_IN बदले_RB भाकपा_N_NNP माले_N_NNP ने_RB पाटलिपुत्र_N_NNP सीट_FW राजद_N_NNP के_IN लिए_IN छोड़ी_V_VB</s>
+<s>बिकहा_N_NNP में_IN वामदलों_N_NNS ने_RB खुद_RB को_IN एक_N_NN तिहाई_JJ सीटों_FW पर_IN समेटा_V_VB</s>
+<s>भाजपा_N_NNP के_IN बागी_JJ नेता_N_NN को_IN मनाने_V_VB पहुंचे_V_VB नित्यानंद_N_NNP, झेलना_V_VB पड़ा_V_VB कार्यकर्ताओं_N_NN का_IN गुस्सा_V_VB</s>
+<s>कांग्रेस_N_NNP के_IN नेता_N_NN तो_IN अपनी_PRP पार्टी_FW का_IN भला_RB नहीं_RB कर_V_VB सकते_V_VB वे_PRP प्रदेश_N_NN का_IN क्या_UH भला_RB करेंगे_V_VB</s>
+<s>आप_PRP के_IN बागी_JJ सांसद_N_NN हरिंदर_N_NNP सिंह_N_NNP खालसा_N_NNP भाजपा_N_NNP में_IN शामिल_JJ, जेटली_N_NNP और_CC पुरी_N_NNP ने_RB कराया_V_VB ज्वॉयन_FW</s>
+<s>पीएम_FW के_IN संदेश_N_NN के_IN बाद_CC सिद्धू_N_NNP का_IN ट्वीट_FW जनता_N_NN को_IN अंतरिक्ष_N_NN में_IN मत_N_NN घुमाओ_V_VB, जमीन_N_NN पर_IN वापस_RB लाओ_PRP</s> 
+<s>पार्टी_FW छोड़कर_V_VB गए_V_VB दोनों_JJ विधायक_N_NN स्वार्थी_JJ थे_V_VB, स्पीकर_FW ने_RB न मुझे_PRP बनाया_V_VB और_CC न हटाने_IN की_IN पावरः_FW अभय_N_NNP</s> 
+<s>कुंडारियाकुंवरजी_N_NNP के_IN बीच_N_NN पहले_RB पार्टीशन_FW  था_V_VB, अब_RB एक_N_NN मंच_N_NN पर_IN</s>
+<s>अभय_N_NNP राज_N_NN में_IN इनेलो_N_NNP छोड़_V_VB रहे_V_VB विधायक_N_NN सदन_N_NN में_IN गंवाया_FW संख्या बल तो_IN नेता_N_NN प्रतिपक्ष_N_NN ने_RB भी_RB खोया_JJ पद_N_NN</s>
+<s>पानीपत_N_NNP में_IN सीएम_FW मनोहर_N_NNP लाल_N_NNP का_IN रोड_FW शो_FW, पूर्व_JJ सांसद_N_NN अरविंद_N_NNP शर्मा_N_NNP भी_RB हुए_V_VB शामिल_JJ</s>
+<s>भाजपा_N_NNP में_IN शामिल_JJ दो_N_NN इनेलो_N_NNP विधायकों_N_NN के_IN इस्तीफे_N_NN के_IN बाद_CC नेता_N_NN प्रतिपक्ष_N_NN से_IN हटाए_V_VB गए_V_VB अभय_N_NNP चौटाला_N_NNP</s>
+<s>कांग्रेस_N_NNP की_IN अंदरुनी_JJ गुटबाजी_N_NN पर_IN किरण_N_NNP चौधरी_N_NNP बोलीः_V_VB आस्था_N_NN जिस_JJ भी_RB नेता_N_NN में_IN हो_V_VB लेकिन_CC पार्टी_FW को_IN जीताना_V_VB है_V_VB</s>
+<s>अन्नपूर्णा_N_NNP के_IN पार्टी_FW बदल_N_NN ने_IN पर_IN भाजपा_N_NNP बोली_V_VB महागठबंधन_N_NN विफल_JJ, कांग्रेस_N_NNP, जेएमएम_N_NNP बोले_V_VB कोई_JJ फर्क_N_NN नहीं_RB</s>
+<s>पिछड़ों_N_NN और_CC दलितों_N_NN की_IN पीढ़ी_N_NN पर_IN मंडरा_V_VB रहा_V_VB खतरा_V_VB, आरक्षण_N_NN समाप्त_JJ करने_V_VB की_IN हो_V_VB रही_V_VB कोशिश_N_NN तेजस्वी_N_NNP</s>
+<s>दल_N_NN बदल_N_NN ही_IN यहां_PRP राजनीति_N_NN का_IN असली_V_VB चेहरा_N_NN</s>
+<s>कांग्रेस_N_NNP को_IN फेसबुक_FW पर_IN धमकी_V_VB, लिखा_JJ तेरी_PRP छाती_N_NN पर_IN बनाएंगे_V_VB खालिस्तान_N_NNP, तेरा_PRP बाप_N_NN भी_RB नहीं_RB रोक_V_VB सकता_V_VB</s>
+<s>गुर्जर_N_NNP के_IN खिलाफ_JJ नारेबाजी_N_NN, कलराज_N_NNP मिश्र_N_NNP बोले_V_VB मेरा_PRP प्रदेश_N_NN होता_V_VB तो_IN मंच_N_NN से_IN उतरकर_V_VB मार_V_VB देता_V_VB</s>
+<s>सपना_N_NNP ने_RB कहा_V_VB कांग्रेस_N_NNP में_IN नहीं_RB हूं_V_VB पार्टी_FW का_IN दावा_N_NN सदस्यता_N_NN फॉर्म_FW पर_IN खुद_RB हस्ताक्षर_N_NN किए_CC</s>
+<s>आत्मघाती_JJ रहे_V_VB हैं_V_VB माईका_N_NN लाल_N_NNP, मौत_V_VB का_IN सौदागर_N_NN जैसे_RB बयान_N_NN</s>
+<s>भाकपा_N_NNP माले_N_NNP ने_RB कहा_V_VB शिक्षा_N_NN, पानी_N_NN सब_JJ कुछ_RB निजी_JJ कंपनियों_FW के_IN हाथ_N_NN सौंपने_IN की_IN तैयारी_N_NN कर_V_VB रही_V_VB मोदी_N_NNP सरकार_N_NN</s>
+<s>मुजफ्फरपुर_N_NNP में_IN बच्चे_N_NNS मर_V_VB रहे_V_VB हैं_V_VB और_CC इधर_RB सरकार_N_NN आम_N_NN बांटने_IN में_IN लगी_V_VB है_V_VB प्रेमचंद_N_NNP मिश्रा_N_NNP</s>
+<s>सीएम_FW हाउस_FW घेरने_IN गए_V_VB लोक_N_NN इंसाफ_N_NN पार्टी_FW समर्थकों_N_NN पर_IN च ली_V_VB वाटर_FW कैनन_FW, विधायक_N_NN सिमरजीत_N_NNP बैंस_N_NNP हिरासत_N_NN में_IN</s>
+<s>सनी_N_NNP देओल_N_NNP ने_RB नियुक्त_JJ किया_V_VB प्रतिनिधि_N_NN, सुनील_N_NNP जाखड़_N_NNP बोले_V_VB सेल्फी_FW के_IN सिवा_RB ए_RB कुछ_RB नहीं_RB मिलेगा_V_VB</s>
+<s>मानसून_FW सत्र_N_NN में_IN विपक्ष_N_NN ने_RB सदन_N_NN में_IN किया_V_VB हंगामा_N_NN, मांगा_V_VB स्वास्थ्य_N_NN मंत्री_N_NN से_IN इस्तीफा_N_NN</s>
+<s>चमकी_JJ बुखार_N_NN से_IN बच्चों_N_NNS की_IN मौत_V_VB पर_IN विपक्ष_N_NN ने_RB किया_V_VB हंगामा_N_NN, नीतीश_N_NNP ने_RB कहा_V_VB जागरूकता_N_NN से_IN बचेगी_V_VB जान_N_NN</s>
+<s>अतिपिछड़ा_JJ कल्याण_N_NN मंत्री_N_NN ने_RB कहा_V_VB बिकहा_N_NNP में_IN रोजगार_N_NN की_IN कमी_N_NN नहीं_RB, कुछ_RB लोग_N_NN शौक_N_NN से_IN करते_V_VB हैं_V_VB पलायन_V_VB</s>
+<s>आदर्श_JJ, अवधारणा_JJ और_CC विचारधारा_N_NN का_IN युद्ध_N_NN कहाने_V_VB वाले_IN चुनाव_N_NN आयोग_N_NN या ईवीएम_FW पर_IN उतारते_V_VB हैं_V_VB खीझ_V_VB</s>
+<s>दो_N_NN जुलाई_FW से_IN नीतीश_N_NNP हटाओ_V_VB भविष्य_N_NN बचाओ_V_VB यात्रा_N_NN शुरू_JJ करेंगे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>भाजपा_N_NNP के_IN पुराने_JJ कार्यकर्ता_N_NN बोल_V_VB अपनों_N_NN को_IN भूलकर_V_VB दूसरों_N_NN को_IN टिकटें_FW दी_V_VB तो_IN अन्याय_NNP होगा_V_VB</s> 
+<s>मुस्लिम_N_NN छात्रोंवाले_N_NN स्कूलों_FW में_IN डाइनिंग_FW हॉल_FW बनाने_IN का_IN आदेश_N_NN, भाजपा_N_NNP ने_RB कहा_V_VB ममता_N_NNP सरकार_N_NN भेदभाव_N_NN कर_V_VB रही_V_VB</s>
+<s>एक_N_NN जुलाई_FW को_IN मुख्य_JJ मंत्री_N_NN आवास_N_NN पर_IN होगी_V_VB एनडीए_FW की_IN बैठक_N_NN</s>
+<s>मुस्लिम_N_NN महिलाओं_N_NN को_IN तलाक_N_NN की_IN प्रताड़ना_N_NN से_IN निजात_N_NN दिलाने_IN में_IN सहयोग_N_NN का_IN साहस_N_NN दिखाएं_V_VB गैर_N_NN कांग्रेसी_N_NNP दल_N_NN</s>
+<s>सुशील_N_NNP मोदी_N_NNP ने_RB कहा_V_VB इंदिरा_N_NNP गांधी_N_NNP के_IN आपातकाल_N_NN की_IN तरह_IN बंगाल_N_NNP में_IN हालात_N_NN पैदा_V_VB कर_V_VB दिए_V_VB ममता_N_NNP ने</s>
+<s>विधायक_N_NN परमिंदर_N_NNP ढुल और_CC जाकिर_N_NNP हुसैन_N_NNP भाजपा_N_NNP में_IN हुए_V_VB शामिल_JJ</s>
+<s>नहीं_RB थम_V_VB रहा_V_VB कुपोषित_JJ बच्चों_N_NNS की_IN मौत_V_VB का_IN सिलसिला_JJ, बारिश_N_NN का_IN इंतजार_N_NN करना_V_VB दुर्भाग्यपूर्ण_JJ देवेंद्र_N_NNP यादव_N_NNP</s>
+<s>जीतनराम_N_NNP मांझी_N_NNP ने_RB महागठबंधन_N_NN की_IN एकजुटता_JJ पर_IN उठाए_V_VB सवाल_N_NN, कहा_V_VBसाफ_JJ दिख_V_VB रहा_V_VB है_V_VB बिखराव_N_NN</s>
+<s>तृणमूल_N_NNP ने_RB भाजपा_N_NNP को_IN आतंकी_IN संगठन_N_NN जैसा_RB बताया_JJ, कहा_V_VB हिंसा_N_NN के_IN लिए_IN उप्रबिकहा_N_NNP से_IN गुंडे_N_NNS बुलाए_V_VB</s>
+<s>भाजपा_N_NNP का_IN आरोप_N_NN जय_UH श्री_N_NNP राम_N_NNP के_IN नारे_N_NN लगाने_IN पर_IN पुलिस_NN ने_RB गोलियां_N_NNS चलाईं_V_VB, दो_N_NN कार्यकर्ता_N_NN जख्मी_N_NN</s>
+<s>सुशील_N_NNP मोदी_N_NNP का_IN राजद_N_NNP पर_IN तंज_V_VB, कहा_V_VB कभी_PRP सीएम_FW पद_N_NN का_IN मजाक_N_NN बनाया_V_VB, आज_RB नेता_N_NN प्रतिपक्ष_N_NN पद_N_NN का_IN वही_IN हश्र_N_NN कर_V_VB दिया_V_VB</s> 
+<s>जदयू_N_NNP नेता_N_NN केसी_N_NNP त्यागी_N_NNP का_IN तेजस्वी_N_NNP पर_IN तंज_V_VB, कहा_V_VB पहले_RB चुनावी_JJ कप_FW में_IN कहा_V_VB पर_IN करें_V_VB मंथन_N_NN</s> 
+<s>ललन_N_NNP पासवान_N_NNP को_IN जदयू_N_NNP में_IN शामिल_JJ होने_V_VB का_IN मिला_V_VB पुरस्कार_N_NN, एससीएसटी_N_NNP कल्याण_N_NN समिति_N_NN के_IN सभापति_N_NN बने_V_VB</s>
+<s>हड़ताल_N_NN से_IN स्वास्थ्य_N_NN सेवाएं_N_NN ठप_JJ सड़कों_N_NN पर_IN उतरे_V_VB डॉक्टर_FW, मंत्री_N_NN ने_RB कहा_V_VB हड़ताल_N_NN राजनीति_N_NN से_IN प्रेरित_JJ</s>
+<s>भारत_N_NNP की_IN जीत_V_VB पर_IN नेताओं_N_NN क्रिकेटरों_N_NN ने_RB बधाई_N_NN दी_V_VB, शाह_N_NNP ने_RB कहा_V_VB पाक_N_NNP पर_IN एक_N_NN और_CC सर्जिकल_FW स्ट्राइक_FW</s>
+<s>'आयाराम_N_NN, गया_JJ राम_N_NNP और_CC जय_UH श्री_N_NNP राम_N_NNP' के_IN नारे_N_NN से_IN शुरू_JJ हुआ_VB विधानसभा_N_NN का_IN अंतिम_JJ सत्र_N_NN</s>
+<s>तृणमूल_N_NNP कार्यकर्ताओं_N_NN के_IN घर_N_NN पर_IN बम से_IN हमला_N_NN, तीन_N_NN की_IN गोली_V_VB मारकर_V_VB हत्या_N_NN</s>
+<s>पार्टी_FW छोड़कर_V_VB गए_V_VB दोनों_JJ विधायक_N_NN स्वार्थी_JJ थे_V_VB, स्पीकर_FW ने_RB न मुझे_PRP बनाया_V_VB और_CC न हटाने_IN की_IN पावरः_FW अभय_N_NNP</s>
+<s>भाजपा_N_NNP की_IN मजबूत_JJ सीटों_FW पर_IN कांग्रेस_N_NNP के_IN लिए_IN प्रचार_N_NN करने_V_VB मार्च_N_NN को_IN हरियाणा_N_NNP आएंगे_VB राहुल_N_NNP</s>
+<s>मंत्री_N_NN श्याम_N_NNP रजक_N_NNP बोले_V_VB तीन_N_NN तलाक_N_NN पर_IN भाजपा_N_NNP को_IN नहीं_RB मिलेगा_V_VB_VB जदयू_N_NNP का_IN साथ_RB</s>
+<s>ममता_N_NNP का_IN आरोप_N_NN गृह मंत्री_N_NN अमित_N_NNP शाह_N_NNP भाजपा_N_NNP कार्यकर्ताओं_N_NN को_IN राज्य_N_NN में_IN हिंसा_N_NN के_IN लिए_IN भड़का_JJ रहे_V_VB</s>
+<s>रामविलास_N_NNP की_IN पार्टी_FW में_IN टूट, राष्ट्रीय_JJ महासचिव_N_NN सत्यानंद_N_NNP ने_RB बनाई_V_VB लोजपा_N_NNP सेकुलर_FW</s>
+<s>बिना_RB नाम_N_NN लिए_IN मनोहर_N_NNP लाल_N_NNP का_IN विपक्षियों_N_NN पर_IN तंज_V_VB, कुछ_RB जेल_N_NN चले गए_V_VB, कुछ_RB जेल_N_NN जाने_V_VB को_IN तैयार_JJ बैठे_JJ हैं_V_VB</s>
+<s>भाजपा_N_NNP कार्यकर्ताओं_N_NN और_CC पुलिस_NN में_IN झड़प_N_NN, विजय_N_NNP वर्गीय_N_NNP ने_RB कहा_V_VB ममता_N_NNP हिंसा_N_NN की_IN राजनीति_N_NN कर_V_VB रहीं_V_VB</s>
+<s>डॉ. संजय_N_NNP जायसवाल_N_NNP लोकसभा_N_NN में_IN सत्तारूढ़_JJ दल_N_NN के_IN मुख्य_JJ सचेतक_N_NN बने_V_VB</s>
+<s>आप_PRP नेता_N_NN संजय_N_NNP सिंह_N_NNP ने_RB कहा_V_VB जदयू_N_NNP को_IN केंद्रीय_JJ मंत्रिमंडल_N_NN से_IN दरकिनार_RB करना_V_VB शर्मनाक_JJ</s>
+<s>मंत्री_N_NN विज_N_NNP बोले_V_VB ममता_N_NNP बनर्जी_N_NNP की_IN पार्टी_FW के_IN लोग_N_NN हत्याओं_N_NN और_CC दंगोंने_RB निभा_V_VB रहेV_VB अग्रणी_JJ भूमिका_N_NN</s>
+<s>मंत्रालय_N_NN बदल_N_NN ने_IN के_IN बाद_CC सिद्धू_N_NNP ने_RB राहुल_N_NNP प्रियंका_N_NNP से_IN मुलाकात_N_NN की, राज्य_N_NN के_IN सियासी_JJ हालात_N_NN बताए_V_VB</s>
+<s>सुरक्षा_N_NN को_IN लेकर_V_VB गृह मंत्री_N_NN शाह_N_NNP की_IN बैठक_N_NN, विजय_N_NNP वर्गीय_N_NNP ने_RB कहा_V_VB बंगाल_N_NNP में_IN राष्ट्रपति_N_NN शासन_N_NN लग_V_VB सकता_V_VB है_V_VB</s> 
+<s>लोगों_N_NN को_IN ठंडामीठा_JJ जल_N_NN पिला_V_VB की_IN चौटाला_N_NNP खानदान_N_NN को_IN फिर_RB से_IN एक_N_NN करने_V_VB की_IN कामना_N_NN</s>
+<s>पूरे_JJ देश_N_NN में_IN शुरू_JJ हुआ_VB जदयू_N_NNP का_IN सदस्यता_N_NN अभियान_N_NN, नीतीश_N_NNP वशिष्ठ_N_NNP ने_RB एक_N_NN दूसरे_N_NN को_IN बनाया_V_VB मेंबर_FW</s>
+<s>कैबिनेट_FW बैठक_N_NN में_IN नहीं_RB पहुंचे_V_VB सिद्धू_N_NNP, सीएम_FW अमरिंदर_N_NNP ने_RB उनका_PRP मंत्रालय_N_NN बदला_V_VB</s>
+<s>चौटाला_N_NNP ने_RB फिर_RB सीएम_FW के_IN लिए_IN किया_V_VB अमर्यादित_JJ भाषा_N_NN का_IN इस्तेमाल_N_NN, बोले_V_VB मुझे_PRP राय_N_NN न दें खट्टर_N_NNP</s> 
+<s>ममता_N_NNP ने_RB कहा_V_VB हम_PRP हिंदूमुस्लिम_N_NN सभी_JJ धर्मों_N_NN की_IN रक्षा_N_NN करेंगे_V_VB, जो_IN टकराएगा_V_VB चूर_V_VB चूर_V_VB हो_V_VB जाएगा_V_VB</s>
+<s>मोदी_N_NNP की_IN रैलियों_FW से_IN भाजपा_N_NNP सीटों_FW पर_IN जीती_V_VB राहुल_N_NNP ने_RB सभाएं_N_NN कीं_IN, कांग्रेस_N_NNP को_IN सिर्फ_RB सीटों_FW पर_IN फायदा_N_NN</s>
+<s>मुस्लिम_N_NN मतदाताओं_N_NN के_IN असर_N_NN वाली_V_VB सीटें, भाजपा_N_NNP ने_RB जीतीं_V_VB, कांग्रेस_N_NNP को_IN सीटें_FW</s>
+<s>भाजपा_N_NNP को_IN गुजरात_N_NNP और_CC राजस्थान_N_NNP में_IN पूरी_JJ सीटें_FW मिलीं_V_VB बंगाल_N_NNP में_IN से_IN बढ़कर_V_VB पर_IN पहुंची_V_VB</s> 
+<s>नतीजों_N_NN से_IN पहले_RB मायावती_N_NNP ने_RB प्रधानमंत्री_N_NN बनने_IN की_IN इच्छा_V_VB जताई_V_VB रिपोर्ट_FW</s> 
+<s>शाह_N_NNP ने_RB कहा_V_VB ईवीएम_FW का_IN विरोध_N_NN जनादेश_N_NN का_IN अनादर_N_NN, लोकतंत्र_N_NN की_IN छवि_N_NN धूमिल_N_NN कर_V_VB रहे_V_VB विपक्षी_N_NN दल_N_NN</s>
+<s>राहुल_N_NNP ने_RB कार्यकर्ताओं_N_NN से_IN कहा_V_VB फर्जी एग्जिट_FW पोल_FW के_IN दुष्प्रचार_N_NN से_IN निराश_JJ ना_IN हों_V_VB, पार्टी_FW पर_IN विश्वास_N_NN रखें_V_VB</s>
+<s>हिंदू_N_NN कट्टरपंथियों_N_NN से_IN माफी_N_NN मांगकर_V_VB मैं_PRP मुल्ला_N_NN लोगों_N_NN का_IN फायदा_N_NN नहीं_RB कर_V_VB सकताः_V_VB जावेद_N_NNP अख्तर_N_NNP</s>
+<s>प्रेडिक्ट_FW एंड_FW विन_FW किसे_PRP, कितनी_JJ सीटें_FW मिलेंगी_V_VB, बताइए_V_VB और_CC जीतिए_V_VB इनाम_N_NN भास्कर_N_NNP एप_FW पर_IN</s>
+<s>प्रदेश_N_NN की_IN ईदगाहों में_IN उमड़ा_V_VB हुजूम_N_NN, जालंधर_N_NNP लुधियाना_N_NNP में_IN कांग्रेस_N_NNP सांसदाने_RB दी_V_VB लोगों_N_NN को_IN मुबारकबाद_N_NN</s>
+<s>मुख्य_JJ मंत्री_N_NN के_IN भतीजे ने_RB कहा_V_VB राम_N_NNP की_IN टीआरपी_FW गिरी_JJ, अपर्णा_N_NNP सेन_N_NNP बोलीं_V_VB ममता_N_NNP खुद_RB कब्र_N_NN खोद_V_VB रहीं_V_VB</s>
+<s>में_IN शिअद_N_NNP से_IN अलग_RB होकर_V_VB विधानसभा_N_NN चुनाव_N_NN लड़_V_VB सकती_VB है_V_VB भाजपा_N_NNP</s>
+<s>गिरिराज_N_NNP ने_RB नीतीश_N_NNP के_IN इफ्तार_N_NN में_IN शामिल_JJ होने_V_VB पर_IN तंज_V_VB किया_V_VB, शाह_N_NNP ने_RB कहा_V_VB ऐसे_PRP$ बयानों_N_NN से_IN बचें_V_VB</s> 
+<s>रामविलास_N_NNP पासवान_N_NNP ने_RB कहा_V_VBनीतीश_N_NNP एनडीए_FW के_IN नेता_N_NN हैं_V_VB और_CC आगे_RB भी_RB रहेंगे_V_VB</s>
+<s>नवनिर्वाचित_JJ विधायक_N_NN कौशल_N_NNP यादव_N_NNP और_CC सत्यनारायण_N_NNP यादव_N_NNP सोमवार_N_NN को_IN लेंगे_V_VB शपथ_N_NN</s>
+<s>चौटाला_N_NNP के_IN विवादित_JJ बयान_N_NN पर_IN खट्टर_N_NNP का_IN पलटवार_N_NN, ऐसी_JJ भाषा_N_NN की_IN वजह_N_NN से_IN जनता_N_NN ने_RB आपको_IN सबक_N_NN सिखाया_VB है_V_VB</s>
+<s>जिसने_IN जनजातियों_N_NN का_IN दर्द करीब_RB से_IN देखा_V_VB और_CC झेला_VB, अब_RB उसे_PRP ही_IN मोदी_N_NNP ने_RB दी_V_VB निवारण_N_NN की_IN जिम्मेदारी_N_NN</s> 
+<s>ममता_N_NNP ने_RB मोदी_N_NNP के_IN शपथ_N_NN ग्रहण_N_NN में_IN जाने_V_VB से_IN इनकार_N_NN किया_V_VB, तृणमूल_N_NNP समर्थकों_N_NN के_IN लिए_IN धरना_V_VB देंगी_V_VB</s>
+<s>महागठबंधन_N_NN की_IN कहा_V_VB की_IN समीक्षा_N_NN करने_V_VB नहीं_RB पहुंचे_V_VB कांग्रेसी_N_NNP, राबड़ी_N_NNP_N_NNP के_IN घर_N_NN थी_V_VB बैठक_N_NN</s>
+<s>तीन_N_NN दशक_N_NN पुरानी_JJ मंडलमंदिर_N_NN राजनीति_N_NN का_IN अंत_V_VB</s>
+<s>विधानपरिषद_N_NN जाएं_V_VBगे राधामोहन_N_NNP शर्मा_N_NNP, भाजपा_N_NNP ने_RB लगायी_V_VB मुहर_N_NN</s>
+<s>लालटेन_N_NN युग_N_NN के_IN अंधविश्वास_N_NN से_IN बाहर_RB आकर_V_VB सवर्ण_N_NN आरक्षण_N_NN का_IN विरोध_N_NN करने_V_VB जैसे_RB गुनाह_N_NN के_IN लिए_IN माफी_N_NN मांगे_VB लालू_N_NNP</s>
+<s>लोकसभा_N_NN में_IN करारी_JJ कहा_V_VB के_IN बाद_CC राजद_N_NNP में_IN बगावत_N_NN, विधायक_N_NN ने_RB तेजस्वी_JJ से_IN मांगा_V_VB इस्तीफा_N_NN</s>
+<s>जिन्हें_PRP$ बंधुआ_JJ समझते_V_VB थे_V_VB उस_PRP समाज_N_NN ने_RB जमकर_V_VB दिया_V_VB एनडीए_FW का_IN साथ_RB मोदी_N_NNP</s>
+<s>एनडीए_FW के_IN राष्ट्रवाद_N_NN का_IN महागठबंधन_N_NN के_IN पास_RB_JJ न था_V_VB कोई_JJ जवाब_N_NN, इस_PRP$ चलते_RB हुई_V_VB कहा_V_VB जीतनराम_N_NNP मांझी_N_NNP</s>
+<s>जाति_N_NN की_IN राजनीति_N_NN करनेवालों_V_VB को_IN जनता_N_NN ने_RB सिखाया_VB सबक_N_NN ललन_N_NNP पासवान_N_NNP</s> 
+<s>नेता_N_NN पुत्रपुत्रियों_N_NNS, बहु_N_NN और_CC पत्नियों_N_NNS को_IN मिला_V_VB था_V_VB टिकट_FW, जानिए_V_VB कौन_PRP$ पहुंचा_V_VB संसद</s>
+<s>रामविलास_N_NNP मतलब_N_NN केंद्र_N_NN की_IN सत्ता_N_NN की_IN चाबी_N_NN, राजनीति_N_NN क_N_NN उलटफेर_N_NN को_IN भांपने_IN में_IN हैं_V_VB नंबर_FW वन_FW</s>
+<s>किसी_PRP$ पर_IN आरोप_N_NN लगाने_IN के_IN बजाए_V_VB महागठबंधन_N_NN के_IN लिए_IN आत्म_JJ मंथन_N_NN करने_V_VB का_IN वक्त_N_NN</s>
+<s>एक्जिट_FW पोल_FW का_IN विपरीत_JJ रुझान_N_NN देख_RB लालू_N_NNP ने_RB सोशल_FW मीडिया_FW पर_IN चहकना_V_VB बंद_RB किया_V_VB</s>
+<s>मंत्री_N_NN विजय_N_NNP सिन्हा_N_NNP बोले_V_VB हताशा_N_NN में_IN हिंसा_N_NN भड़काने_IN वाला_V_VB बयान_N_NN दे_V_VB रहे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>भाजपा_N_NNP नेता_N_NN मंगल_N_NNP पांडे_N_NNP बोले_V_VB कहा_V_VB से_IN हताश_JJ विपक्ष_N_NN ईवीएम_FW पर_IN फोड़_V_VB रहा_V_VB ठीकरा_N_NN</s>
+<s>ललन_N_NNP पासवान_N_NNP को_IN जदयू_N_NNP में_IN शामिल_JJ होने_V_VB का_IN मिला_V_VB पुरस्कार_N_NN, एससीएसटी_FW कल्याण_N_NN समिति_N_NN के_IN सभापति_N_NN बने_V_VB</s>
+<s>हड़ताल_N_NN से_IN स्वास्थ्य_N_NN सेवाएं_N_NN ठप_JJ सड़कों_N_NN पर_IN उतरे_V_VB डॉक्टर, मंत्री_N_NN ने_RB कहा_V_VB हड़ताल_N_NN राजनीति_N_NN से_IN प्रेरित_JJ</s>
+<s>भारत की_IN जीत_V_VB पर_IN नेताओंक्रिकेटरों_N_NN ने_RB बधाई_N_NN दी_V_VB, शाह_N_NNP ने_RB कहा_V_VB पाक पर_IN एक_N_NN और_CC सर्जिकल_FW स्ट्राइक_FW</s>
+<s>'आया_N_NN राम_N_NNP, गया_JJ राम_N_NNP और_CC जय_UH श्री_N_NNP राम_N_NNP' के_IN नारे_N_NN से_IN शुरू_JJ हुआ_VB विधानसभा_N_NN का_IN अंतिम_JJ सत्र_N_NN</s>
+<s>तृणमूल_N_NNP कार्यकर्ताओं_N_NN के_IN घर_N_NN पर_IN बम से_IN हमला_N_NN, तीन_N_NN की_IN गो ली_V_VB मारकर_V_VB हत्या_N_NN</s>
+<s>मंत्री_N_NN श्याम_N_NNP रजक_N_NNP बोले_V_VB तीन_N_NN तलाक_N_NN पर_IN भाजपा_N_NNP को_IN नहीं_RB मिलेगा_V_VB_VB जदयू_N_NNP का_IN साथ_RB</s>
+<s>ममता_N_NNP का_IN आरोप_N_NN गृह मंत्री_N_NN अमित_N_NNP शाह_N_NNP भाजपा_N_NNP कार्यकर्ताओं_N_NN को_IN राज्य_N_NN में_IN हिंसा_N_NN के_IN लिए_IN भड़का_JJ रहे_V_VB</s> 
+<s>बिना_RB नाम_N_NN लिए_IN मनोहर_N_NNP लाल_N_NNP का_IN विपक्षियों_N_NN पर_IN तंज, कुछ_RB जेल_N_NN चले गए_V_VB, कुछ_RB जेल_N_NN जाने_V_VB को_IN तैयार_JJ बैठे_JJ हैं_V_VB</s>
+<s>भाजपा_N_NNP कार्यकर्ताओं_N_NN और_CC पुलिस_NN में_IN झड़प_N_NN, विजय_N_NNP वर्गीय_N_NNP ने_RB कहा_V_VB ममता_N_NNP हिंसा_N_NN की_IN राजनीति_N_NN कर_V_VB रहीं_V_VB</s>
+<s>डॉ. संजय_UH जायसवाल_N_NNP लोकसभा_N_NN में_IN सत्तारूढ़_JJ दल_N_NN के_IN मुख्य_JJ सचेतक_N_NN बने_V_VB</s>
+<s>आप_PRP नेता_N_NN संजय_UH सिंह_N_NNP ने_RB कहा_V_VB जदयू_N_NNP को_IN केंद्रीय_JJ मंत्रिमंडल_N_NN से_IN दरकिनार_RB करना_V_VB शर्मनाक_JJ</s>
+<s>मंत्री_N_NN विज_N_NNP बोले_V_VB ममता_N_NNP बनर्जी_N_NNP की_IN पार्टी_FW के_IN लोग_N_NN हत्याओं_N_NN और_CC दंगों ने_RB निभा_V_VB रहे_V_VB अग्रणी_JJ भूमिका_N_NN</s>
+<s>मंत्रालय_N_NN बदलने_N_NN के_IN बाद_CC सिद्धू_N_NNP ने_RB राहुल_N_NNP प्रियंका_N_NNP से_IN मुलाकात_N_NN की, राज्य_N_NN के_IN सियासी_JJ हालात_N_NN बताए_V_VB</s>
+<s>सुरक्षा_N_NN को_IN लेकर_V_VB गृह मंत्री_N_NN शाह_N_NNP की_IN बैठक_N_NN, विजय_N_NNP वर्गीय_N_NNP ने_RB कहा_V_VB बंगाल_N_NNP में_IN राष्ट्रपति_N_NN शासन_N_NN लग_V_VBसकता_V_VB है_V_VB</s> 
+<s>लोगों_N_NN को_IN ठंडामीठा_JJ जल_N_NN पिला_V_VB की_IN चौटाला_N_NNP खानदान_N_NNP को_IN फिर_RB से_IN एक_N_NN करने_V_VB की_IN कामना_N_NN</s>
+<s>पूरे_JJ देश_N_NN में_IN शुरू_JJ हुआ_VB जदयू_N_NNP का_IN सदस्यता_N_NN अभियान_N_NN, नीतीश_N_NNP वशिष्ठ_N_NNP ने_RB एक_N_NN दूसरे_N_NN को_IN बनाया_V_VB मेंबर_FW</s>
+<s>कैबिनेट_FW बैठक_N_NN में_IN नहीं_RB पहुंचे_V_VB सिद्धू_N_NNP, सीएम_FW अमरिंदर_N_NNP ने_RB उनका_PRP मंत्रालय_N_NN बदला_V_VB</s>
+<s>चौटाला_N_NNP ने_RB फिर_RB सीएम_FW के_IN लिए_IN किया_V_VB अमर्यादित_JJ भाषा_N_NN का_IN इस्तेमाल_N_NN, बोले_V_VB मुझे_PRP राय_N_NN न दें खट्टर_N_NNP</s> 
+<s>ममता_N_NNP ने_RB कहा_V_VB हम_PRP हिंदूमुस्लिम_N_NN सभी_JJ धर्मोंकी_N_NN रक्षा_N_NN करेंगे_V_VB, जो_IN टकराएगा_V_VB चूर_V_VB चूर_V_VB हो_V_VB जाएगा_V_VB</s>
+<s>प्रदेश_N_NN की_IN ईदगाहों में_IN उमड़ा हुजूम_N_NN, जालंधर_N_NNP लुधियाना_N_NNP में_IN कांग्रेस_N_NNP सांसदाें ने_RB दी_V_VB लोगों_N_NN को_IN मुबारकबाद_N_NN</s>
+<s>मुख्य_JJ मंत्री_N_NN के_IN भतीजे ने_RB कहा_V_VB राम_N_NNP की_IN टीआरपी_FW गिरी_JJ, अपर्णा_N_NNP सेन_N_NNP बोलीं_V_VB ममता_N_NNP खुद_RB कब्र_N_NN खोद_V_VB रहीं_V_VB</s>
+<s>अनंत_N_NNP सिंह_N_NNP की_IN पत्नी_N_NN नीलम_N_NNP होंगी_V_VB कांग्रेस_N_NNP की_IN उम्मीदवार_N_NN, जदयू_N_NNP प्रत्याशी_N_NN ललन_N_NNP सिंह_N_NNP से_IN सीधा_RB मुकाबला_N_NN</s> 
+<s>उपेंद्र_N_NNP कुशवाहा_N_NNP ने_RB पूछा_V_VB आरपीएफ_FW भर्ती_N_NN में_IN सामान्य_JJ का_IN कट_N_NN ऑफ . और_CC ओबीसी_FW का_IN . कैसे_JJ ?</s>
+<s>आरा_N_NNP के_IN बदले_RB भाकपा_N_NNP माले_N_NNP ने_RB पाटलिपुत्र_N_NN सीट_FW राजद_N_NNP के_IN लिए_IN छोड़ी_V_VB</s>
+<s>बिकहा_N_NNP में_IN वामदलों_N_NNS ने_RB खुद_RB को_IN एक_N_NN तिहाई सीटों_FW पर_IN समेटा_V_VB</s>
+<s>भाजपा_N_NNP के_IN बागी_JJ नेता_N_NN को_IN मनाने_V_VB पहुंचे_V_VB नित्यानंद_N_NNP, झेलना_V_VB पड़ा_V_VB कार्यकर्ताओं_N_NN का_IN गुस्सा_V_VB</s>
+<s>कांग्रेस_N_NNP के_IN नेता_N_NN तो_IN अपनी_PRP पार्टी_FW का_IN भला_RB नहीं_RB कर_V_VB सकते_V_VB वे_PRP प्रदेश_N_NN का_IN क्या_UH भला_RB करेंगे_V_VB</s>
+<s>आप_PRP के_IN बागी_JJ सांसद_N_NN हरिंदर_N_NNP सिंह_N_NNP खालसा_N_NNP भाजपा_N_NNP में_IN शामिल_JJ, जेटली_N_NNP और_CC पुरी_N_NNP ने_RB कराया_V_VB ज्वॉयन_FW</s>
+<s>पीएम_FW के_IN संदेश_N_NN के_IN बाद_CC सिद्धू_N_NNP का_IN ट्वीट_FW जनता_N_NN को_IN अंतरिक्ष_N_NN में_IN मत_N_NN घुमाओ_V_VB, जमीन_N_NN पर_IN वापस_RB लाओ_PRP</s>
+<s>भाजपा_N_NNP प्रदेशाध्यक्ष_N_NN के_IN मिनट_FW के_IN भाषण_N_NN में_IN मिनट_fW लगे_JJ विरोधी_JJ नारे_N_NN, बुलानी_V_VB पड़ी_V_VB पुलिस_N_NN</s>
+<s>पार्टी_FW छोड़कर_V_VB गए_V_VB दोनों_JJ विधायक_N_NN स्वार्थी_JJ थे_V_VB, स्पीकर_FW ने_RB न मुझे_PRP बनाया_V_VB और_CC न हटाने_IN की_IN पावरः_FW अभय_N_NNP</s>
+<s>भाजपा_N_NNP की_IN मजबूत_JJ सीटों_FW पर_IN कांग्रेस_N_NNP के_IN लिए_IN प्रचार_N_NN करने_V_VB मार्च_N_NN को_IN हरियाणा_N_NNP आएंगे_V_VB राहुल_N_NNP</s>
+<s>कुंडारियाकुंवर_N_NNP जी के_IN बीच_N_NN पहले_RB पार्टीशन_FW था_V_VB, अब_RB एक_N_NN मंच_N_NN पर_IN</s>
+<s>अभय_N_NNP राज_N_NN में_IN इनेलो_N_NNP छोड़_V_VB रहे_V_VB विधायक_N_NN सदन_N_NN में_IN गंवाया_FW संख्याबल_N_NN तो_IN नेता_N_NN प्रतिपक्ष_N_NN ने_RB भी_RB खोया_JJ पद_N_NN</s>
+<s>पानीपत में_N_NN सीएम_FW मनोहर_N_NNP लाल_N_NNP का_IN रोड_FW शो_FW, पूर्व_JJ सांसद_N_NN अरविंद_N_NNP शर्मा_N_NNP भी_RB हुए_V_VB शामिल_JJ</s>
+<s>भाजपा_N_NNP में_IN शामिल_JJ दो_N_NN इनेलो_N_NNP विधायकों_N_NN के_IN इस्तीफे_N_NN के_IN बाद_CC नेता_N_NN प्रतिपक्ष_N_NN से_IN हटाए_V_VB गए_V_VB अभय_N_NNP चौटाला_N_NNP</s>
+<s>कांग्रेस_N_NNP की_IN अंदरुनी_JJ गुटबाजी_N_NN पर_IN किरण_N_NNP चौधरी_N_NNP बोलीः_V_VB आस्था_N_NN जिस भी_RB नेता_N_NN में_IN हो_V_VB लेकिन_CC पार्टी_FW को_IN जीताना_V_VB है_V_VB</s>
+<s>कांग्रेस_N_NNP की_IN महिला_N_NN विधायक_N_NN ने_RB अधिकारियों को_IN दी_V_VB गाली_V_VB, वीडियो_FW हो_V_VB रहा_V_VB वायरल_FW</s>
+<s>फरीदाबाद_N_NNP में_IN मतदान_N_NN में_IN गड़बड़ी_JJ करते_V_VB पोलिंग_FW एजेंट_FW का_IN वीडियो_FW वायरल_FW, शिकायत_N_NN के_IN बाद_CC गिरफ्तार_JJ</s>
+<s>अन्नपूर्णा_N_NNP के_IN पार्टी_FW बदलने_N_NN पर_IN भाजपा_N_NNP बोली_V_VB महागठबंधन_N_NN विफल_JJ, कांग्रेस_N_NNP, जेएमएम_FW बोले_V_VB कोई_JJ फर्क_N_NN नहीं_RB</s>
+<s>पिछड़ों_N_NN और_CC दलितों_N_NN की_IN पीढ़ी_N_NN पर_IN मंडरा_V_VB रहा_V_VB खतरा_V_VB, आरक्षण_N_NN समाप्त_JJ करने_V_VB की_IN हो_V_VB रही_V_VB कोशिश_N_NN तेजस्वी_N_NNP</s>
+<s>दल_N_NN बदल_N_NN ही_IN यहां_PRP राजनीति_N_NN का_N_NN असली_V_VB चेहरा_N_NN</s>
+<s>कांग्रेस_N_NNP को_IN फेसबुक_FW पर_IN धमकी_V_VB, लिखा_JJ तेरी_PRP छाती_N_NN पर_IN बनाएंगे_V_VB खालिस्तान_N_NNP, तेरा_N_NN बाप_N_NN भी_RB नहीं_RB रोक_V_VB सकता_V_VB</s>
+<s>गुर्जर_N_NNP के_IN खिलाफ_JJ नारेबाजी_N_NN, कलराज_N_NNP मिश्र_N_NNP बोले_V_VB मेरा_PRP प्रदेश_N_NN होता_V_VB तो_IN मंच_N_NN से_IN उतरकर_V_VB मार_V_VB देता_V_VB</s>
+<s>सपना_N_NNP ने_RB कहा_V_VB कांग्रेस_N_NNP में_IN नहीं_RB हूं_V_VB पार्टी_FW का_IN दावा_N_NN सदस्यता_N_NN फॉर्म_FW पर_IN खुद_RB हस्ताक्षर_N_NN किए_CC</s>
+<s>आत्मघाती_JJ रहे_V_VB हैं_V_VB माईका_N_NN लाल_N_NNP, मौत_V_VB का_IN सौदागर_N_NN जैसे_RB बयान_N_NN</s>
+<s>अपनेअपने_PRP क्षेत्रों_N_NN की_IN फिक्र_N_NN में_IN डूबे_JJ माननीय_JJ, पार्टी_FW हारी_V_VB तो_IN विधानसभा_N_NN का_IN सफर_N_NN होगा_V_VB कठिन_JJ</s>
+<s>मई_N_NNP को_IN महामिलावटियों_JJ की_IN अंतिम_JJ यात्रा_N_NN निकलेगी_V_VB नन्दकिशोर_N_NNP यादव_N_NNP</s>
+<s>सीएम_FW का_IN सुझाव_N_NN सही_JJ, गर्मी_N_NN की_IN जगह_RB फरवरी_N_NN मार्च_N_NN में_IN चुनाव_N_NN ठीक_RB ललन_N_NNP पासवान_N_NNP</s>
+<s>भाजपा_N_NNP नेता_N_NN रमेश_N_NNP लोकहा_N_NNP को_IN मिली_V_VB जमानत_N_NN, चुनाव_N_NN के_IN दिन_N_NN हुआ_VB था_V_VB विवाद_N_NN</s>
+<s>बिकहा_N_NNP कांग्रेस_N_NNP प्रभारी_JJ बोले_V_VB राहुल_N_NNP का_IN अयोध्या_N_NNP और_CC मोदी_N_NNP का_IN है_V_VB लंका_N_NNP मॉडल_FW</s>
+<s>गडकरी_N_NNP बोले_V_VB सिंधु_N_NNP जल_N_NN समझौते_N_NN का_IN अध्ययन_N_NN जारी_V_VB आतंकवाद_N_NN नहीं_RB रुका_V_VB तो_IN पाकिस्तान_N_NNP का_IN पानी_N_NN रोक_V_VB देंगे_V_VB</s>
+<s>जदयू_N_NNP नेता_N_NN कृष्णमंदन_N_NNP वर्मा_N_NNP बोले_V_VB पूरे_JJ देश_N_NN में_IN एनडीए_FW की_IN लहर_V_VB, बिकहा_N_NNP की_IN सभी_JJ सीटों_FW पर_IN जीत_V_VB तय_JJ</s>
+<s>भाजपा_N_NNP नेता_N_NN नंदकिशोर_N_NNP बोले_V_VB सही_IN कह _V_VB रहेV_VB तेजस्वी_N_NNP, मई_N_NNP के_IN बाद_CC आएगा_V_VB भूचाल_N_NN...टुकड़ों_N_NN में_IN बंटेगा_N_NN राजद_N_NNP</s>
+<s>लोक_N_NN इंसाफ_N_NN पार्टी_FW के_IN अध्यक्ष_N_NN सिमरजीत_N_NNP सिंह_N_NNP बैंस_N_NNP को_IN जान_N_NN से_IN मारने_IN की_IN धमकी_V_VB</s>
+<s>गडकरी_N_NNP ने_RB पाक_N_NNP को_IN चेताया_V_VB आतंक_N_NN का_IN साथ_RB देना_V_VB बंद_JJ करें, वरना_CC नदियों_N_NNS का_IN पानी_N_NN रोक_V_VB लेंगे_V_VB</s>
+<s>रामकृपाल_N_NNP ने_RB विक्रम_N_NNP में_IN किया_V_VB रोड_FW शो_FW, कहा_V_VB पांच_JJ साल_N_NN सेवा की, विकास_N_NN के_IN लिए_IN दें वोट_FW</s>
+<s>तालाब में_IN कार गिरने_IN से_IN अकाली_N_NNS नेता_N_NN समेत परिवार_N_NN के_IN सदस्यों की_IN मौत_V_VB शादी_N_NN से_IN लौट_V_VB रहे_V_VB थे_V_VB</s>
+<s>मोगा_N_NNP जिले_N_NN का_IN एक_N_NN गांव_N_NN, जहां__RB युवा_JJ नशे_N_NN की_IN दल_N_NN दल_N_NN में_IN, खेतों_N_NN में_IN पड़े_V_VB हैं_V_VB सिरिंजों_FW के_IN ढेर के_IN ढेर</s>
+<s>इमोशनल_FW ब्लैकमेलिंग_FW पर_IN उतरीं_V_VB राबड़ी_N_NNP, शहाबुद्दीनराजबल्लभ_N_NNP के_IN सताए_V_VB लोगों_N_NN के_IN लिए_IN क्यों_RB नहीं_RB लिखी_V_VB चिट्ठी_N_NN</s> 
+<s>लोगों_N_NN को_IN बांट_V_VB नहीं_RB सकती_VB पहचान_V_VB की_IN राजनीति_N_NN</s>
+<s>सियासत_N_NN में_IN सांड_N_NN, सरकार_N_NN और_CC विपक्ष_N_NN दोनों_JJ परेशान_JJ</s>
+<s>बोले_V_VB कैप्टन_FW, सनी_N_NNP देओल_N_NNP फिल्मी_FW फौजी_JJ है_V_VB, मैं_PRP असल_JJ जिंदगी_N_NN का_IN फौजी_JJ हूं_V_VB</s>
+<s>पटना_N_NNP साहिब_N_NNP से_IN भाजपा_N_NNP उम्मीदवार_N_NN रविशंकर_V_VB ने_RB किया_V_VB नामांकन_N_NN, रामदेव_N_NNP रहे_V_VB मौजूद_V_VB</s>
+<s>लालू_N_NNP यादव_N_NNP, रामविलास_N_NNP पासवान_N_NNP के_IN पुत्रों ने_RB संभाल_V_VB ली_V_VB पार्टी_FW की_IN कमान_N_NN, ले_VB रहे_V_VB अब_RB सारे_JJ फैसले_N_NN</s>
+<s>चतरासुपौल_N_NNP का_IN बदला_V_VB_JJ मधुबनी_N_NNP में_IN ले_VB रही_V_VB कांग्रेस_N_NNP</s>
+<s>बेगूसराय_N_NNP से_IN कन्हैया_N_NNP के_IN पक्ष_N_NN में_IN अपने_IN प्रत्याशी_N_NN को_IN हटा_V_VB लें तेजस्वी_JJ रेड्‌डी_N_NNP</s>
+<s>शिवहर_N_NNP से_IN लालू_N_NNP राबड़ी_N_NNP मोर्चा_N_NN पार्टी_FW के_IN उम्मीदवार_N_NN अंगेश_N_NNP सिंह_N_NNP का_IN नामांकन_N_NN रद्द_JJ, तेज_RB प्रताप_N_NNP को_IN बड़ा_JJ झटका_V_VB</s>
+<s>राजद_N_NNP के_IN बागी_JJ नेता_N_NN अली_N_NNP अशरफ_N_NNP फातमी_N_NNP ने_RB वापस_RB लिया_V_VB नामांकन_N_NN, शकील_N_NNP अहमद_N_NNP के_IN पक्ष_N_NN में_IN करेंगे_V_VB प्रचार_N_NN</s>
+<s>नेता_N_NN पुत्रपुत्रियों_N_NNS, बहु_N_NN और_CC पत्नियों_N_NNS को_IN मिला_V_VB था_V_VB टिकट_FW, जानिए_V_VB कौन_PRP$ पहुंचा_V_VB संसद_N_NN</s> 
+<s>कन्हैया_N_NNP ने_RB कहा_V_VB चुनाव_N_NN में_IN सामने_IN दिखती_V_VB कहा_V_VB की_IN वजह_N_NN से_IN बौखला_V_VB गई है_V_VB भाजपा_N_NNP</s>
+<s>शिवानंद_N_NNP का_IN कन्हैया_N_NNP को_IN वोट_FW कटवा_V_VB कहना_V_VB हास्यास्पद_JJ भाकपा_N_NNP</s>
+<s>हिमाचल_N_NNP के_IN राजनीतिक_N_NN परिवारों_N_NN के_IN रिश्तेदार_N_NN थाम_V_VB रहे_V_VB एक_N_NN दूसरे_N_NN के_IN विरोधियों_N_NN का_IN दामन_N_NN, अब_RB सुखराम_N_NNP के_IN दामाद_N_NN हुए_V_VB बीजेपी में_IN शामिल_JJ</s>
+<s>में_IN सेकेंड रहे_V_VB प्रत्याशी_N_NN मैदान_N_NN में_IN, को_IN नहीं_RB मिला_V_VB टिकट_FW</s>
+<s>राजस्थान_N_NNP की_IN राजनीति_N_NN के_IN एपिक_FW सेंटर_FW, जो_IN हिला_V_VB सकते_V_VB हैं_V_VB सियासी_JJ जमीन_N_NN</s>
+<s>चौटाला_N_NNP को_IN जेल_N_NN हुई_V_VB तो_IN अर्जुन_N_NNP ने_RB यूएस_FW से_IN छोड़_V_VB दी_V_VB थी_V_VB पढ़ाई_N_NN, सिरसा_N_NNP आए_V_VB तो_IN फिर_RB लॉ_FW बीच_N_NN में_IN की_IN ड्राप_FW आउट_FW</s>
+<s>इनेलो_N_NNP ने_RB की_IN उम्मीदवारों_N_NN की_IN घोषणा_N_NN, चरणजीत_N_NNP सिंह_N_NNP रोडी_N_NNP को_IN छोड़कर_V_VB सभी_JJ नए_RB चेहरे_N_NN उतारे_V_VB</s>
+<s>टिकट_FW नहीं_RB मिलने_V_VB से_IN नाराज_JJ_N_NN पूर्व_JJ केंद्रीय_JJ मंत्री_N_NN ने_RB राजद_N_NNP के_IN सभी_JJ पदों_N_NN से_IN दिया_V_VB इस्तीफा_N_NN, मधुबनी_N_NNP से_IN लड़ेंगे_V_VB चुनाव_N_NN</s> 
+<s>चुनावी_JJ मौसम_N_NN में_IN दिन_N_NN की_IN फरलो_FW पर_IN तिहाड़_N_NNP से_IN बाहर_RB आए_V_VB अजय_N_NNP, जजपा_N_NNP को_IN मिलेगा_V_VB सीधे_RB फायदा_N_NN</s>
+<s>नीतीश_N_NNP पर_IN तेजस्वी_N_NNP का_IN एक_N_NN और_CC हमला_N_NN, कहा_V_VB डायनासोर_FW की_IN तरह_IN विलुप्त_JJ हो_V_VB जाएगी_V_VB जदयू_N_NNP</s>
+<s>दो_N_NN बची_JJ हुई_V_VB सीटों_FW पर_IN भाजपा_N_NNP के_IN प्रत्याशी_N_NN घोषित_JJ, बेटे_N_NN को_IN टिकट_FW मिली_V_VB तो_IN बीरेंद्र_N_NNP सिंह_N_NNP ने_RB भेजा_V_VB इस्तीफा_N_NN</s>
+<s>महाचंद्र_N_NNP और_CC विनोद_N_NNP बीजेपी_N_NNP में_IN शामिल_JJ, सदस्यता_N_NN दिलाने_IN स्पेशल_FW चार्टर_FW प्लेन_FW से_IN आए_V_VB भूपेंद्र_N_NNP</s>
+<s>चाय_N_NN पर_IN चर्चा_N_NN करने_V_VB पहुंचे_V_VB मंत्री_N_NN ग्रोवर_N_NNP के_IN कार्यक्रम_N_NN में_IN हंगामा_N_NN, वकील_N_NN ने_RB जड़े_JJ जातपात_JJ की_IN राजनीति_N_NN के_IN आरोप_N_NN</s>
+<s>आप_PRP और_CC जजपा_N_NNP में_IN गठबंधन_N_NN, सीट_FW के_IN फॉर्मूले_FW पर_IN बनी_V_VB सहमति_N_NN</s>
+<s>कांग्रेस_N_NNP ने_RB तो_IN आकाश_N_NN, पाताल_N_NN और_CC जमीन_N_NN हर_IN जगह_RB जाकर_V_VB किया_V_VB भ्रष्टाचारः_N_NN मनोहर_N_NNP लाल_N_NNP</s>
+<s>रोहतक_N_NNP की_IN राजनीति_N_NN, हिसार_N_NNP में_IN सरकार_N_NN</s>
+<s>राजनाथ_N_NNP बोले_V_VB देश_N_NN सुरक्षित_JJ हाथों_N_NN में_IN, पाकिस्तान_N_NNP में_IN घुसकर_V_VB दिया_V_VB पुलवामा_N_NNP हमले_N_NN का_IN मुंहतोड़_JJ जवाब_N_NN</s>
+<s>साल_N_NN पहले_RB सोनिया_N_NNP गांधी_N_NNP को_IN कहा_V_VB था_V_VB प्रियंका_N_NNP को_IN ले_VB आओ_V_VB, लेकिन_CC पुत्र_N_NN मोह_V_VB में_IN नहीं_RB मानीः_V_VB बीरेंद्र_N_NNP सिंह_N_NNP</s>
+<s>लालू_N_NNP को_IN सुप्रीम_JJ कोर्ट_NNP का_IN झटका_V_VB, जमानत_N_NN याचिका_N_NN खारिज_V_VB</s>
+<s>दिल्ली_N_NNP के_IN सियासत_N_NN का_IN सूरतएहाल_JJ, स्थानीय_JJ मुद्दे_N_NN बनाम_N_NN मोदी_N_NNP पर_IN मुकाबला_N_NN</s>
+<s>कभी_PRP छत्तीसगढ़_N_NNP की_IN राजनीति_N_NN के_IN केंद्र_N_NN हाेते_V_VB थे_V_VB गद्रे_N_NNP और_CC शुक्ल_N_NNP भवन_N_NN, अब_RB गुमनाम_N_NN</s>
+<s>शिवहर_N_NNP से_IN अंगेश_N_NNP को_IN टिकट_FW न_IN मिलने_V_VB से_IN तेज_RB प्रताप_N_NNP नाराज_JJ, कहा_V_VB फैसले_N_NN पर_IN विचार_V_VB करें_V_VB तेजस्वी_N_NNP</s>
+<s>करनाल_N_NNP से_IN भाजपा_N_NNP का_IN टिकट_FW न_IN मिलने_V_VB पर_IN अरविंद_N_NNP शर्मा_N_NNP कांग्रेस_N_NNP में_IN कर_V_VB सकते_V_VB हैं_V_VB वापसी_JJ, चर्चाएं_N_NN तेज_RB</s>
+<s>रामकुमार_N_NNP ने_RB भी_RB रालोसपा_N_NNP छोड़ी_V_VB चुनाव_N_NN के_IN वक्त_N_NN अकेले_JJ पड़े_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>हुड्डा_N_NNP के_IN गढ़_N_NN में_IN भाजपा_N_NNP ने_RB बनाया_V_VB हाईटैक_FW चुनावी_JJ वार_FW रूम_FW, प्रदेशाध्यक्ष_N_NN ने_RB किया_V_VB शुभारंभ_JJ</s>
+<s>कांग्रेस_N_NNP में_IN उठे_V_VB बगावती_JJ सुर_N_NN, पंजाब_N_NNP महिला_N_NN कांग्रेस_N_NNP की_IN पूर्व_JJ अध्यक्ष_N_NN किट्टू_N_NNP ग्रेवाल_N_NNP का_IN इस्तीफा_N_NN</s>
+<s>गोपालगंज_N_NNP से_IN होटवार_N_NNP वाया_FW रायसीना_N_NNP रख_V_VB लें लालू_N_NNP अपनी_PRP किताब_N_NN का_IN नाम_N_NN</s>
+<s>जेटली_N_NNP ने_RB पूछा_V_VB ईडी_FW की_IN चार्जशीट_FW पर_IN राहुल_N_NNP चुप_RB क्यों_RB? कांग्रेस_N_NNP ने_RB कहा_V_VB यह_PRP$ चुनावी_JJ स्टंट_FW</s>
+<s>प्रशांत_N_NNP किशोर_N_NNP का_IN तेजस्वी_JJ पर_IN निशाना_N_NN, कहा_V_VB लालू_N_NNP पुत्र_N_NN के_IN सिवा_RB आपकी_IN कोई_JJ पहचान_V_VB नहीं_RB</s>
+<s>राबड़ी__N_NNP ने_RB कहा_V_VB नीतीश_N_NNP लगा_V_VB रहे_V_VB गलत_JJ आरोप_N_NN, लालू_N_NNP फोन_FW पर_IN नहीं_RB करते_V_VB बात_N_NN</s>
+<s>भाजपा_N_NNP गरीब_JJ विरोधी_JJ पार्टी_FW, वह_PRP गरीबी_N_NN नहीं_RB बल्कि_IN गरीबों_N_NN को_IN मिटाना_V_VB चाहती_VB है_V_VB तेजस्वी_N_NNP</s>
+<s>अब_PRP सीतामढ़ी_N_NNP से_IN जदयू_N_NNP उम्मीदवार_N_NN बने_V_VB पिंटू_N_NNP, वरुण_N_NNP ने_RB चुनाव_N_NN लड़ने_IN से_IN किया_V_VB इनकार_N_NN</s>
+<s>कोर्ट_NNP पहुंचे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP के_IN खिलाफ_JJ प्रदर्शन_N_NN, लगे_JJ बाहरी_JJ भगाओ_V_VB के_IN नारे_N_NN</s>
+<s>अप्रैल_N_NNP को_IN भाजपा_N_NNP स्थापना_N_NN दिवस_N_NN पर_IN आयोजित_JJ करेगी_V_VB ध्वज_N_NN वंदन_N_NN कार्यक्रम_N_NN</s>
+<s>भाजपा_N_NNP में_IN शामिल_JJ हुए_V_VB कांग्रेस_N_NNP और_CC इनेलो_N_NNP के_IN दो_N_NN पूर्व_JJ विधायक_N_NN, बोले_V_VB हुड्डा_N_NNP ने_RB अपने_IN मुझे_PRP प्रयोग_N_NN किया_V_VB</s>
+<s>कैंपस_FW पॉलिटिक्स_FW से_IN शुरुआत_N_NN कर_V_VB इन_PRP नेताओं_N_NN ने_RB चढ़ीं_V_VB सियासत_N_NN की_IN सीढ़ियां_N_NN</s>
+<s>सीटों_FW पर_IN शिअद_N_NNP ने_RB किए_CC उम्मीदवारों_N_NN के_IN नाम_N_NN घोषित_JJ, फतेहगढ़_N_NNP साहिब_N_NNP से_IN गुरु_PRP होंगे_V_VB मैदान_N_NN में_IN</s>
+<s>बसपा_N_NNP ने_RB तोड़ी_V_VB साथ_RB मिलकर_V_VB दलित_N_NN वोट_FW पाने_IN की_IN आस_N_NN, अब_RB चल_JJ अकेला_RB...' के_IN अलावा_RB कोई_JJ चारा_N_NN नहीं_RB आप_PRP के_IN पास_RB</s>
+<s>बिकहा_N_NNP का_IN मिनी_FW चितौड़गढ़_N_NNP, इस_PRP$ सीट_FW पर_IN राजपूत_N_NN करते_V_VB हैं_V_VB जीत_V_VB और_CC कहा_V_VB का_IN फैसला_N_NN</s>
+<s>भाकपा_N_NNP ने_RB कहा_V_VB पूंजीपतियों_N_NN के_IN दबाव_N_NN में_IN कांग्रेस_N_NNP और_CC राजद_N_NNP ने_RB नहीं_RB छोड़ा कन्हैया_N_NNP के_IN लिए_IN बेगूसराय_N_NNP सीट_FW</s>
+<s>अमीरों_N_NN के_IN चौकीदार_N_NN नरेंद्र_N_NNP मोदी_N_NNP आरएसएस_FW के_IN एजेंडे_FW पर_IN कर_V_VB रहे_V_VB काम_N_NN उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>राहुल_N_NNP पर_IN बोले_V_VB रविशंकर_N_NNP जहाज_N_NN डूबता_V_VB देख_RB भागा_V_VB कप्तान_N_NN</s>
+<s>गुड़गांव_N_NNP पहुंचीं_V_VB रक्षा_N_NN मंत्री_N_NN निर्मला_N_NNP सीतारमण_N_NNP, मेट्रो_FW में_IN किया_V_VB मंत्री_N_NN ने_RB सफर_N_NN</s>
+<s>रविवार_N_NN को_IN रालोसपा_N_NNP में_IN शामिल_JJ होंगे_V_VB वृशिण_N_NNP पटेल_N_NNP</s>
+<s>बागियों के_IN खिलाफ_JJ शुरू_JJ हुई_V_VB कार्रवाई_N_NN, पुतल_N_NNP सिंह_N_NNP वर्षों_N_NN के_IN लिए_IN भाजपा_N_NNP से_IN बाहर_RB</s>
+<s>हुड्डा_N_NNP और_CC तंवर_N_NNP को_IN आधा_JJ घंटा_N_NN अकेले_JJ बस में_IN छोड़_V_VB दें तो_IN फीसदी_RB मामला_N_NN दर्ज_V_VB हो_V_VB जाए</s> 
+<s>मध्य_N_NN प्रदेश_N_NN के_IN पूर्व_JJ मंत्री_N_NN जयभान_N_NNP पवैया_N_NNP का_IN बैग_N_NN दक्षिण_N_NN एक्सप्रेस_N_NN में_IN चोरी_N_NN</s>
+<s>बीरेंद्र_N_NNP सिंह_N_NNP की_IN लॉबिंग_FW हुई_V_VB फेल_JJ, मंत्रिमंडल_N_NN में_IN नहीं_RB शामिल_JJ करवा_VB सके_VB बेटे_N_NN बृजेंद्र_N_NNP को_IN</s>
+<s>किसी_PRP$ की_IN मृत्यु के_IN बाद_CC भी_RB सिर्फ_RB राजनीतिक_N_NN लक्ष्यों_N_NN पर_IN ध्यान_N_NN देने_IN का_IN काम_N_NN कांग्रेस_N_NNP ही_IN कर_V_VB सकती_VB है_V_VB राकेश_N_NNP सिंह_N_NNP</s>
+<s>बिना_RB बताए_V_VB दो_N_NN सिपाही_IN हटाए_V_VB तो_IN गोपाल_N_NNP भार्गव_N_NNP ने_RB सभी_JJ को_IN लौटा_V_VB दिया_V_VB</s>
+<s>मप्र_N_NNP में_IN कांग्रेस_N_NNP प्रत्याशियों_N_NN की_IN स्थिति मार्च_N_NN तक_IN साफ_JJ होने_V_VB की_IN संभावना_N_NN</s>
+<s>कोई_JJ हमें_PRP आंखें_N_NN दिखाकर_V_VB दबा_JJ ले_VB, हम_PRP ये नहीं_RB होने_V_VB देंगे_V_VB शिवराज_N_NNP</s>
+<s>बसपा_N_NNP और_CC सपा_N_NNP लोक_N_NN सभा_N_NN सीटों_FW पर_IN लड़ेगी_V_VB चुनाव_N_NN</s>
+<s>सीएम_FW के_IN ओएसडी_FW भूपेंद्र_N_NNP ने_RB की_IN सागर_N_NNP से_IN दावेदारी_N_NN, मिगलानी_N_NNP और_CC श्रीवास्तव_N_NNP भी_RB जल्द_RB देंगे_V_VB इस्तीफा_N_NN</s>
+<s>प्रदेश_N_NN में_IN ढाई_N_NN सीएम_FW की_IN सरकार_N_NN, एक_N_NN ट्रांसफर_FW करा रहा_V_VB दूसरा_N_NN निरस्त_JJ शिवराज_N_NNP सिंह_NNP</s>
+<s>दिग्विजय_N_NNP सिंह_N_NNP ने_RB कहा_V_VB मंदसौर गो ली_V_VB कांड में_IN किसी_PRP$ को_IN क्लीनचिट_FW नहीं_RB, सरकार_N_NN में_IN बैठे_JJ हैं_V_VB भाजपा_N_NNP के_IN नुमाइंदे_N_NN</s>
+<s>कमलनाथ_N_NNP ने_RB कहा_V_VB डॉ. कुसमरिया_N_NNP का_IN कांग्रेस_N_NNP में_IN आना_V_VB ट्रेलर है_V_VB, आगे_RB देखिए_V_VB होता_V_VB है_V_VB क्या?</s>
+<s>किसाननौजवान_N_NN हमारे_PRP$ मालिक, कोई_JJ कांग्रेसी_N_NNP सीएम_FW यह_PRP$_PRP$ बात_N_NN ना भूले_V_VB भोपाल_N_NNP में_IN राहुल_N_NNP</s>
+<s>भोपाल_N_NNP में_IN लगे_JJ पोस्टर_FW में_IN प्रधानमंत्री_N_NN को_IN बताया_JJ रावण_N_NNP और_CC राहुल_N_NNP गांधी_N_NNP को_IN राम_N_NNP</s>
+<s>ललन_N_NNP पासवान_N_NNP को_IN जदयू_N_NNP में_IN शामिल_JJ होने_V_VB का_IN मिला_V_VB पुरस्कार_N_NN, एससीएसटी_FW कल्याण_N_NN समिति_N_NN के_IN सभापति_N_NN बने_V_VB</s>
+<s>मंत्री_N_NN श्याम_N_NNP रजक_N_NNP बोले_V_VB तीन_N_NN तलाक_N_NN पर_IN भाजपा_N_NNP को_IN नहीं_RB मिलेगा_V_VB_VB जदयू_N_NNP का_IN साथ_RB</s> 
+<s>डॉ. संजय_UH जायसवाल_N_NN लोक_N_NN सभा_N_NN में_IN सत्तारूढ़ दल_N_NN के_IN मुख्य_JJ सचेतक_N_NN बने_V_VB</s>
+<s>आप_PRP नेता_N_NN संजय_UH सिंह_N_NNP ने_RB कहा_V_VB जदयू_N_NNP को_IN केंद्रीय_JJ मंत्रिमंडल_N_NN से_IN दरकिनार_RB करना_V_VB शर्मनाक_JJ</s>
+<s>पूरे_JJ देश_N_NN में_IN शुरू_JJ हुआ_VB जदयू_N_NNP का_IN सदस्यता_N_NN अभियान_N_NN, नीतीश_N_NNP वशिष्ठ ने_RB एक_N_NN दूसरे_N_NN को_IN बनाया_V_VB मेंबर_FW</s>
+<s>गिरिराज_N_NNP ने_RB नीतीश_N_NNP के_IN इफ्तार_N_NN में_IN शामिल_JJ होने_V_VB पर_IN तंज किया_V_VB, शाह_N_NNP ने_RB कहा_V_VB ऐसे_PRP$ बयानों_N_NN से_IN बचें_V_VB</s>
+<s>रामविलास_N_NNP पासवान_N_NNP ने_RB कहा_V_VB नीतीश_N_NNP एनडीए_FW के_IN नेता_N_NN हैं_V_VB और_CC आगे_RB भी_RB रहेंगे_V_VB</s>
+<s>नवनिर्वाचित_JJ विधायक_N_NN कौशल_N_NNP यादव_N_NNP और_CC सत्यनारायण_N_NNP यादव_N_NNP सोमवार_N_NN को_IN लेंगे_V_VB शपथ_N_NN</s> 
+<s>महागठबंधन_N_NN की_IN कहा_V_VB की_IN समीक्षा_N_NN करने_V_VB नहीं_RB पहुंचे_V_VB कांग्रेसी_N_NNP, राबड़ी_N_NNP_N_NNP के_IN घर_N_NN थी_V_VB बैठक_N_NN</s>
+<s>विधानपरिषद_N_NN जाएंगे_V_VB राधामोहन_N_NNP शर्मा_N_NNP, भाजपा_N_NNP ने_RB लगायी_V_VB मुहर_N_NN</s>
+<s>लालटेन_N_NN युग_N_NN के_IN अंधविश्वास_N_NN से_IN बाहर_RB आकर_V_VB सवर्ण_N_NN आरक्षण_N_NN का_IN विरोध_N_NN करने_V_VB जैसे_RB गुनाह_N_NN के_IN लिए_IN माफी_N_NN मांगे_VB लालू_N_NNP</s>
+<s>लोकसभा_N_NN में_IN करारी_JJ कहा_V_VB के_IN बाद_CC राजद_N_NNP में_IN बगावत_N_NN, विधायक_N_NN ने_RB तेजस्वी_JJ से_IN मांगा_V_VB इस्तीफा_N_NN</s>
+<s>जिन्हें_PRP$ बंधुआ_JJ समझते_V_VB थे_V_VB उस_PRP समाज_N_NN ने_RB जमकर_V_VB दिया_V_VB एनडीए_FW का_IN साथ_RB मोदी_N_NNP</s>
+<s>एनडीए_FW के_IN राष्ट्रवाद_N_NN का_IN महागठबंधन_N_NN के_IN पास_RB_JJ न था_V_VB कोई_JJ जवाब_N_NN, इस_PRP$ चलते_RB हुई_V_VB कहा_V_VB जीतनराम_N_NNP मांझी_N_NNP</s>
+<s>जाति_N_NN की_IN राजनीति_N_NN करने_V_VB वालों को_IN जनता_N_NN ने_RB सिखाया_VB सबक_N_NN ललन_N_NNP पासवान_N_NNP</s>
+<s>रामविलास_N_NNP मतलब_N_NN केंद्र_N_NN की_IN सत्ता_N_NN की_IN चाबी_N_NN, राजनीतिक_N_NN उलटफेर_N_NN को_IN भांपने_IN में_IN हैं_V_VB नंबर_FW वन_FW</s>
+<s>किसी_PRP$ पर_IN आरोप_N_NN लगाने_IN के_IN बजाए_V_VB महागठबंधन_N_NN के_IN लिए_IN आत्म_JJ मंथन_N_NN करने_V_VB का_IN वक्त_N_NN</s>
+<s>एक्जिट_FW पोल_FW का_IN विपरीत_JJ रुझान_N_NN देख_RB लालू_N_NNP ने_RB सोशल_FW मीडिया_FW पर_IN चहकना_V_VB बंद_JJ किया_V_VB</s>
+<s>मंत्री_N_NN विजय_N_NNP सिन्हा_N_NNP बोले_V_VBहताशा_N_NN में_IN हिंसा_N_NN भड़काने_IN वाला_V_VB बयान_N_NN दे_V_VB रहे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>भाजपा_N_NNP नेता_N_NN मंगल_N_NNP पांडे_N_NNP बोले_V_VB कहा_V_VB से_IN हताश_JJ विपक्ष_N_NN ईवीएम_FW पर_IN फोड़_V_VB रहा_V_VB ठीकरा_N_NN</s>
+<s>अपनेअपने_PRP क्षेत्रों_N_NN की_IN फिक्र_N_NN में_IN डूबे_JJ माननीय_JJ, पार्टी_FW हारी_V_VB तो_IN विधानसभा_N_NN का_IN सफर_N_NN होगा_V_VB कठिन_JJ</s>
+<s>मई_N_NNP को_IN महामिलावटियों_JJ की_IN अंतिम_JJ यात्रा_N_NN निकलेगी_V_VB नन्दकिशोर_N_NNP यादव_N_NNP</s>
+<s>सीएम_FW का_IN सुझाव_N_NN सही, गर्मी_N_NN की_IN जगह_RB फरवरी_N_NN मार्च_N_NN में_IN चुनाव_N_NN ठीक_RB ललन_N_NNP पासवान_N_NNP</s>
+<s>बिकहा_N_NNP कांग्रेस_N_NNP प्रभारी_JJ बोले_V_VB राहुल_N_NNP का_IN अयोध्या_N_NNP और_CC मोदी_N_NNP का_IN है_V_VB लंका_N_NNP मॉडल_FW</s>
+<s>जदयू_N_NNP नेता_N_NN कृष्णमंदन वर्मा बोले_V_VB पूरे_JJ देश_N_NN में_IN एनडीए_FW की_IN लहर, बिकहा_N_NNP की_IN सभी_JJ सीटों_FW पर_IN जीत_V_VB तय_JJ</s> 
+<s>रामकृपाल_N_NNP ने_RB विक्रम_N_NNP में_IN किया_V_VB रोड_FW शो_FW, कहा_V_VB पांच_JJ साल_N_NN सेवा_N_NN की_V_VB, विकास_N_NN के_IN लिए_IN दें वोट_FW</s>
+<s>इमोशनल_FW ब्लैकमेलिंग_FW पर_IN उतरीं_V_VB राबड़ी_N_NNP, शहाबुद्दीनराजबल्लभ_N_NNP के_IN सताए_V_VB लोगों_N_NN के_IN लिए_IN क्यों_RB नहीं_RB लिखी_V_VB चिट्ठी_N_NN</s>
+<s>पटना_N_NNP साहिब_N_NNP से_IN भाजपा_N_NNP उम्मीदवार_N_NN रविशंकर_V_VB ने_RB किया_V_VB नामांकन_N_NN, रामदेव_N_NNP रहे_V_VB मौजूद_V_VB</s>
+<s>लालू_N_NNP यादव_N_NNP, रामविलास_N_NNP पासवान_N_NNP के_IN पुत्रों_N_NNS ने_RB संभाल_V_VB ली_V_VB पार्टी_FW की_IN कमान_N_NN, ले_VB रहे_V_VB अब_RB सारे_JJ फैसले_N_NN</s>
+<s>चतरासुपौल_N_NNP का_IN बदला_V_VB_JJ मधुबनी_N_NNP में_IN ले_VB रही_V_VB कांग्रेस_N_NNP</s>
+<s>बेगूसराय_N_NNP से_IN कन्हैया_N_NNP के_IN पक्ष_N_NN में_IN अपने_IN प्रत्याशी_N_NN को_IN हटा_V_VB लें तेजस्वी_JJ रेड्‌डी_N_NNP</s>
+<s>शिवहर_N_NNP से_IN लालू_N_NNP राबड़ी__N_NNP मोर्चा_N_NN पार्टी_FW के_IN उम्मीदवार_N_NN अंगेश_N_NNP सिंह_N_NNP का_IN नामांकन_N_NN रद्द_JJ, तेज_RB प्रताप_N_NNP को_IN बड़ा_JJ झटका_V_VB</s>
+<s>राजद_N_NNP के_IN बागी_JJ नेता_N_NN अली_N_NNP अशरफ_N_NNP फातमी_N_NNP ने_RB वापस_RB लिया_V_VB नामांकन_N_NN, शकील_N_NNP अहमद_N_NNP के_IN पक्ष_N_NN में_IN करेंगे_V_VB प्रचार_N_NN</s>
+<s>कन्हैया_N_NNP ने_RB कहा_V_VB चुनाव_N_NN में_IN सामने_IN दिखती_V_VB कहा_V_VB की_IN वजह_N_NN से_IN बौखला_V_VB गई है_V_VB भाजपा_N_NNP</s>
+<s>शिवानंद_N_NNP का_IN कन्हैया_N_NNP को_IN वोट_FW कटवा_V_VB कहना_V_VB हास्यास्पद_JJ भाकपा_N_NNP</s>
+<s>में_IN सेकेंड रहे_V_VB प्रत्याशी_N_NN मैदान_N_NN में_IN, को_IN नहीं_RB मिला_V_VB टिकट_FW</s>
+<s>टिकट_FW नहीं_RB मिलने_V_VB से_IN नाराज_JJ पूर्व_JJ केंद्रीय_JJ मंत्री_N_NN ने_RB राजद_N_NNP के_IN सभी_JJ पदों_N_NN से_IN दिया_V_VB इस्तीफा_N_NN, मधुबनी_N_NNP से_IN लड़ेंगे_V_VB चुनाव_N_NN</s>
+<s>नीतीश_N_NNP पर_IN तेजस्वी_JJ का_IN एक_N_NN और_CC हमला_N_NN, कहा_V_VB डायनासोर_FW की_IN तरह_IN विलुप्त_JJ हो_V_VB जाएगी_V_VB जदयू_N_NNP</s>
+<s>महाचंद्र_N_NNP और_CC विनोद_N_NNP बीजेपी_N_NNP में_IN शामिल_JJ, सदस्यता_N_NN दिलाने_IN स्पेशल_FW चार्टर_FW प्लेन_FW से_IN आए_V_VB भूपेंद्र_N_NNP</s>
+<s>राजनाथ_N_NNP बोले_V_VB देश_N_NN सुरक्षित_JJ हाथों_N_NN में_IN, पाकिस्तान_N_NNP में_IN घुसकर_V_VB दिया_V_VB पुलवामा_N_NNP हमले_N_NN का_IN मुंहतोड़_JJ जवाब_N_NN</s>
+<s>लालू_N_NNP को_IN सुप्रीम_JJ कोर्ट_NNP का_IN झटका_V_VB, जमानत_N_NN याचिका_N_NN खारिज_V_VB</s>
+<s>शिवहर_N_NNP से_IN अंगेश_N_NNP को_IN टिकट_FW न_IN मिलने_V_VB से_IN तेजप्रताप_N_NNP नाराज_JJ, कहा_V_VB फैसले_N_NN पर_IN विचार_V_VB करें_V_VB तेजस्वी_N_NNP</s>
+<s>रामकुमार_N_NNP ने_RB भी_RB रालोसपा_N_NNP छोड़ी_V_VB चुनाव_N_NN के_IN वक्त_N_NN अकेले_JJ पड़े_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>गोपालगंज_N_NNP से_IN होटवार_N_NNP वाया_FW रायसीना_N_NNP रख_V_VB लें लालू_N_NNP अपनी_PRP किताब_N_NN का_IN नाम_N_NN</s>
+<s>प्रशांत_N_NNP किशोर_N_NNP का_IN तेजस्वी_JJ पर_IN निशाना_N_NN, कहा_V_VB लालू_N_NNP पुत्र_N_NN के_IN सिवा_RB आपकी_IN कोई_JJ पहचान_V_VB नहीं_RB</s>
+<s>जदयू_N_NNP में_IN शामिल_JJ हुए_V_VB फातमी_N_NNP, टिकट_FW नहीं_RB मिलने_V_VB से_IN नाराज_JJ होकर_V_VB छोड़ी_V_VB थी_V_VB राजद_N_NNP</s>
+<s>अनंत_N_NNP सिंह_N_NNP के_IN कथित_JJ वायरल_FW ऑडियो_FW पर_IN सियासत_N_NN तेज_RB, जदयू_N_NNP ने_RB कहा_V_VB किसी_PRP$ अपराधी_N_NN को_IN बख्शा_V_VB नहीं_RB जाएगा_V_VB</s>
+<s>सुशील_N_NNP मोदी_N_NNP ने_RB राजद_N_NNP पर_IN साधा_V_VB निशाना_N_NN, कहा_V_VB जनता_N_NN ने_RB राजद_N_NNP का_IN दंभ_N_NN किया_V_VB चूर_V_VB</s>
+<s>फातमी_N_NNP ने_RB किया_V_VB राजद_N_NNP ने_RB नाता_N_NN तोड़ने_V_VB का_IN ऐलान_N_NN, नीतीश_N_NNP को_IN जमकर_V_VB सराहा_V_VB</s>
+<s>विपक्ष_N_NN ने_RB कहा_V_VB बिकहा_N_NNP में_IN कानून_N_NN व्यवस्था_N_NN ध्वस्त_V_VB, सीएम_FW नीतीश_N_NNP से_IN नहीं_RB संभल_V_VB रहे_V_VB हालात_N_NN</s>
+<s>अहंकार_N_NN छोड़_V_VB राहुल_N_NNP लालू_N_NNP ने_RB गरीबों_N_NN के_IN बारे_RB में_IN सोचा_V_VB होता_V_VB पार्टी_FW की_IN हालत_N_NN ऐसी_JJ नहीं_RB होती_V_VB</s>
+<s>सैकड़ों_JJ कार्यकर्ताओं_N_NN के_IN साथ_RB जदयू_N_NNP का_IN दामन_N_NN थामेंगे_V_VB राजद_N_NNP के_IN पूर्व_JJ सांसद_N_NN अली_N_NNP अशरफ_N_NNP फातमी_N_NNP</s>
+<s>विधानसभा_N_NN के_IN वेल में_IN आकर_V_VB राजद_N_NNP ने_RB किया_V_VB हंगामा_N_NN, मांगा_V_VB मंगल_N_NNP पांडे_N_NNP का_IN इस्तीफा_N_NN</s>
+<s>भाकपा_N_NNP माले ने_RB कहा_V_VB शिक्षा_N_NN, पानी_N_NN सब_JJ कुछ_RB निजी_JJ कंपनियों_FW के_IN हाथ_N_NN सौंपने_IN की_IN तैयारी_N_NN कर_V_VB रही_V_VB मोदी_N_NNP सरकार_N_NN</s>
+<s>मुजफ्फरपुर_N_NNP में_IN बच्चे_N_NNS मर_V_VB रहे_V_VB हैं_V_VB और_CC इधर_RB सरकार_N_NN आम_N_NN बांटने_IN में_IN लगी_V_VB है_V_VB प्रेमचंद_N_NNP मिश्रा_N_NNP</s>
+<s>मानसून_FW सत्र_N_NN में_IN विपक्ष_N_NN ने_RB सदन_N_NN में_IN किया_V_VB हंगामा_N_NN, मांगा_V_VB स्वास्थ्य_N_NN मंत्री_N_NN से_IN इस्तीफा_N_NN</s>
+<s>चमकी_JJ बुखार_N_NN से_IN बच्चों_N_NNS की_IN मौत_V_VB पर_IN विपक्ष_N_NN ने_RB किया_V_VB हंगामा_N_NN, नीतीश_N_NNP ने_RB कहा_V_VB जागरूकता_N_NN से_IN बचेगी_V_VB जान_N_NN</s>
+<s>अतिपिछड़ा_JJ कल्याण_N_NN मंत्री_N_NN ने_RB कहा_V_VB बिकहा_N_NNP में_IN रोजगार_N_NN की_IN कमी_N_NN नहीं_RB, कुछ_RB लोग_N_NN शौक_N_NN से_IN करते_V_VB हैं_V_VB पलायन_V_VB</s>
+<s>आदर्श_JJ, अवधारणा_JJ और_CC विचारधारा_N_NN का_IN युद्ध_N_NN कहाने_V_VB वाले_IN चुनाव_N_NN आयोग_N_NN या ईवीएम_FW पर_IN उतारते_V_VB हैं_V_VB खीझ_V_VB</s>
+<s>दो_N_NN जुलाई_FW से_IN नीतीश_N_NNP हटाओ_V_VB भविष्य_N_NN बचाओ_V_VB यात्रा_N_NN शुरू_JJ करेंगे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s> 
+<s>एक_N_NN जुलाई_FW को_IN मुख्य_JJ मंत्री_N_NN आवास_N_NN पर_IN होगी_V_VB एनडीए_FW की_IN बैठक_N_NN</s>
+<s>मुस्लिम_N_NN महिलाओं_N_NN को_IN तलाक_N_NN की_IN प्रताड़ना_N_NN से_IN निजात_N_NN दिलाने_IN में_IN सहयोग_N_NN का_IN साहस_N_NN दिखाएं_V_VB गैर_N_NN कांग्रेसी_N_NNP दल_N_NN</s>
+<s>सुशील_N_NNP मोदी_N_NNP ने_RB कहा_V_VB इंदिरा_N_NNP गांधी_N_NNP के_IN आपातकाल_N_NN की_IN तरह_IN बंगाल_N_NNP में_IN हालात_N_NN पैदा_V_VB कर_V_VB दिए_V_VB ममता_N_NNP ने</s>
+<s>नहीं_RB थम_V_VB रहा_V_VB कुपोषित_JJ बच्चों_N_NNS की_IN मौत_V_VB का_IN सिलसिला_JJ, बारिश_N_NN का_IN इंतजार_N_NN करना_V_VB दुर्भाग्यपूर्ण_JJ देवेंद्र_N_NNP यादव_N_NNP</s>
+<s>जीतनराम_N_NNP मांझी_N_NNP ने_RB महागठबंधन_N_NN की_IN एकजुटता_JJ पर_IN उठाए_V_VB सवाल_N_NN, कहा_V_VBसाफ_JJ दिख_V_VB रहा_V_VB है_V_VB बिखराव_N_NN</s>
+<s>सुशील_N_NNP मोदी_N_NNP का_IN राजद_N_NNP पर_IN तंज, कहा_V_VB कभी_PRP सीएम_FW पद_N_NN का_IN मजाक_N_NN बनाया_V_VB, आज_RB नेता_N_NN प्रतिपक्ष_N_NN पद_N_NN का_IN वही_IN हश्र_N_NN कर_V_VB दिया_V_VB</s> 
+<s>भाकपा_N_NNP माले_N_NNP महासचिव_N_NN ने_RB कहा_V_VB वामपंथियों_N_NNS के_IN बिना_RB विपक्ष_N_NN का_IN मजबूत_JJ गठबंधन_N_NN नहीं_RB बन_V_VB सकता_V_VB</s> 
+<s>नीतीश_N_NNP का_IN राहुल_N_NNP पर_IN तंज_V_VB, कहा_V_VB ऑर्डिनेंस_FW फाड़ने_IN वाले_IN ने_RB करप्शन_FW करने_V_VB वालों से_IN मिलाया_V_VB हाथ_N_NN</s>
+<s>उपेंद्र_N_NNP कुशवाहा_N_NNP पर_IN हुए_V_VB लाठीचार्ज_N_NN के_IN विरोध_N_NN में_IN सड़क_N_NN पर_IN उतरे_V_VB रालोसपा_N_NNP कार्यकर्ता_N_NN, कई_N_NN जगह_RB सड़क_N_NN जाम_N_NN</s>
+<s>कांग्रेस_N_NNP की_IN रैली_V_VB _FW पर_IN भाजपा_N_NNP प्रदेश_N_NN अधयक्ष ने_RB कहा_V_VB ये_IN फ्लॉप_FW नेता_N_NN का_IN सुपर_IN फ्लॉप_FW शो_FW</s>
+<s>वाहन_N_NN पार्किंग_FW को_IN लेकर_V_VB कन्हैया_N_NNP समर्थकों_N_NN और_CC दुर्गा_N_NNP पूजा_N_NN समिति_N_NN के_IN कार्यकर्ता_N_NN ओं_N_NN में_IN झड़प_N_NN, तीन_N_NN घायल_V_VB</s>
+<s>लोकसभा_N_NN चुनाव_N_NN की_IN तैयारी_N_NN पर_IN माकपा_N_NNP राज्य_N_NN कमेटी_FW की_IN बैठक_N_NN को_IN</s>
+<s>शत्रुघ्न_N_NNP सिन्हा_N_NNP ने_RB तेजस्वी_JJ को_IN लगाया_VB तिलक_N_NN, कहा_V_VB विजयी_V_VB भवः_V_VB</s>
+<s>नेता_N_NN प्रतिपक्ष_N_NN पद_N_NN को_IN लेकर_V_VB मॉनसून_FW सत्र_N_NN में_IN होगा_V_VB हंगामा_N_NN, कांग्रेस_N_NNP नेता_N_NN किरण_N_NNP चौधरी_N_NNP ने_RB की_IN तैयारी_N_NN</s>
+<s>भाजपा_N_NNP के_IN पुराने_JJ कार्यकर्ता_N_NN बोल_V_VB अपनों_N_NN को_IN भूलकर_V_VB दूसरों_N_NN को_IN टिकटें_FW दी_V_VB तो_IN अन्याय_NNP होगा_V_VB</s>
+<s>विधायक_N_NN परमिंदर_N_NNP ढुल_N_NNP और_CC जाकिर_N_NNP हुसैन_N_NNP भाजपा_N_NNP में_IN हुए_V_VB शामिल_JJ</s>
+<s>महिला_N_NN कांग्रेस_N_NNP जुटाएगी_V_VB वर्करों_FW से_IN फीडबैक_FW, पंचकूला_N_NNP से_IN जून को_IN होगा_V_VB आगाज_N_NN</s>
+<s>बिना_RB नाम_N_NN लिए_IN मनोहर_N_NNP लाल_N_NNP का_IN विपक्षियों_N_NN पर_IN तंज, कुछ_RB जेल_N_NN चले_V_VB गए_V_VB, कुछ_RB जेल_N_NN जाने_V_VB को_IN तैयार_JJ बैठे_JJ हैं_V_VB</s>
+<s>मंत्री_N_NN विज_N_NNP बोले_V_VB ममता_N_NNP बनर्जी की_IN पार्टी_FW के_IN लोग_N_NN हत्याओं_N_NNS और_CC दंगों ने_RB निभा_V_VB रहे_V_VB अग्रणी_JJ भूमिका_N_NN</s>
+<s>चौटाला_N_NNP ने_RB फिर_RB सीएम_FW के_IN लिए_IN किया_V_VB अमर्यादित_JJ भाषा_N_NN का_IN इस्तेमाल_N_NN, बोले_V_VB मुझे_PRP राय_N_NN न_IN दें_V_VB खट्टर_N_NNP</s>
+<s>चौटाला_N_NNP के_IN विवादित_JJ बयान_N_NN पर_IN खट्टर_N_NNP का_IN पलटवार_N_NN, ऐसी_JJ भाषा_N_NN की_IN वजह_N_NN से_IN जनता_N_NN ने_RB आपको_IN सबक_N_NN सिखाया_VB है_V_VB</s>
+<s>कांग्रेस_N_NNP ने_RB रात_N_NN बजे_V_VB की_IN रीकाउंटिंग_FW की_IN मांग_V_VB की_IN तो_IN रोका_V_VB परिणाम_N_NN, सुबह_RB बजे_V_VB जीते_V_VB अरविंद_N_NNP शर्मा_N_NNP</s>
+<s>भाजपा_N_NNP नेता_N_NN रमेश_N_NNP लोक_N_NN हा_N_NNP को_IN मिली_V_VB जमानत_N_NN, चुनाव_N_NN के_IN दिन_N_NN हुआ_VB था_V_VB विवाद_N_NN</s>
+<s>चौटाला_N_NNP को_IN जेल_N_NN हुई_V_VB तो_IN अर्जुन_N_NNP ने_RB यूएस_FW से_IN छोड़_V_VB दी_V_VB थी_V_VB पढ़ाई_N_NN, सिरसा_N_NNP आए_V_VB तो_IN फिर_RB लॉ_FW बीच_N_NN में_IN की_IN ड्राप_FW आउट_FW</s>
+<s>इनेलो_N_NNP ने_RB की_IN उम्मीदवारों_N_NN की_IN घोषणा_N_NN, चरणजीत_N_NNP सिंह_N_NNP रोडी_N_NNP को_IN छोड़कर_V_VB सभी_JJ नए_RB चेहरे_N_NN उतारे_V_VB</s> 
+<s>चुनावी_JJ मौसम_N_NN में_IN दिन_N_NN की_IN फरलो पर_IN तिहाड़_N_NNP से_IN बाहर_RB आए_V_VB अजय_N_NNP, जजपा_N_NNP को_IN मिलेगा_V_VB_VB सीधे_RB फायदा_N_NN</s>
+<s>दो_N_NN बची_JJ हुई_V_VB सीटों_FW पर_IN भाजपा_N_NNP के_IN प्रत्याशी_N_NN घोषित_JJ, बेटे_N_NN को_IN टिकट_FW मिली_V_VB तो_IN बीरेंद्र_N_NNP सिंह_N_NNP ने_RB भेजा_V_VB इस्तीफा_N_NN</s>
+<s>चाय_N_NN पर_IN चर्चा_N_NN करने_V_VB पहुंचे_V_VB मंत्री_N_NN ग्रोवर के_IN कार्यक्रम_N_NN में_IN हंगामा_N_NN, वकील_N_NN ने_RB जड़े_JJ जातपात_JJ की_IN राजनीति_N_NN के_IN आरोप_N_NN</s> 
+<s>कांग्रेस_N_NNP ने_RB तो_IN आकाश_N_NN, पाताल_N_NN और_CC जमीन_N_NN हर_IN जगह_RB जाकर_V_VB किया_V_VB भ्रष्टाचारः_N_NN मनोहर_N_NNP लाल_N_NNP</s>
+<s>साल_N_NN पहले_RB सोनिया_N_NNP गांधी_N_NNP को_IN कहा_V_VB था_V_VB प्रियंका_N_NNP को_IN ले_VB आओ_V_VB, लेकिन_CC पुत्र_N_NN मोह_V_VB में_IN नहीं_RB मानीः_V_VB बीरेंद्र_N_NNP सिंह_N_NNP</s>
+<s>करनाल_N_NNP से_IN भाजपा_N_NNP का_IN टिकट_FW न_IN मिलने_V_VB पर_IN अरविंद_N_NNP शर्मा_N_NNP कांग्रेस_N_NNP में_IN कर_V_VB सकते_V_VB हैं_V_VB वापसी_JJ, चर्चाएं_N_NN तेज_RB</s>
+<s>हुड्डा_N_NNP के_IN गढ़_N_NN में_IN भाजपा_N_NNP ने_RB बनाया_V_VB हाईटैक_FW चुनावी_JJ वार_FW रूम_FW, प्रदेशाध्यक्ष_N_NN ने_RB किया_V_VB शुभारंभ_JJ</s>
+<s>अप्रैल_N_NN को_IN भाजपा_N_NNP स्थापना_N_NN दिवस_N_NN पर_IN आयोजित_JJ करेगी_V_VB ध्वज_N_NN वंदन_N_NN कार्यक्रम_N_NN</s>
+<s>भाजपा_N_NNP में_IN शामिल_JJ हुए_V_VB कांग्रेस_N_NNP और_CC इनेलो_N_NNP के_IN दो_N_NN पूर्व_JJ विधायक_N_NN, बोले_V_VB हुड्डा_N_NNP ने_RB अपने_IN मुझे_PRP प्रयोग_N_NN किया_V_VB</s>
+<s>हुड्डा_N_NNP और_CC तंवर_N_NNP को_IN आधा_JJ घंटा_N_NN अकेले_JJ बस में_IN छोड़_V_VB दें तो_IN फीसदी_RB मामला_N_NN दर्ज_V_VB हो_V_VB जाए_V_VB</s>
+<s>उपेंद्र_N_NNP कुशवाहा_N_NNP ने_RB कहा_V_VB विदेश_N_NN जाने_V_VB के_IN लिए_IN दिए_V_VB थे_V_VB प्रदीप_N_NNP मिश्रा_N_NNP ने_RB पैसे_N_NN, यह_PRP$_PRP$ अपराध_N_NN नहीं_RB</s>
+<s>मुझ_PRP पर_IN लगाए_VB जा रहे_V_VB आरोपों_N_NNS की_IN सीबीआई_V_VB जांच_N_NN करवा_VB दें_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>जदयू_N_NNP में_IN शामिल_JJ होंगे_V_VB नागमणि_N_NNP, उपेंद्र_N_NNP कुशवाहा_N_NNP पर_IN लगाया_VB टिकट_FW के_IN बदले_RB पैसे_N_NN लेने_V_VB का_IN आरोप_N_NN</s>
+<s>चुनाव_N_NN की_IN घोषणा_N_NN होते_V_VB ही_IN उतारे_V_VB जाने_V_VB लगे_JJ राजनीतिक_N_NN दलों_N_NNS के_IN पोस्टरबैनर_FW</s>
+<s>राजद_N_NNP संसदीय_N_NN बोर्ड_FW का_IN फैसला_N_NN, लालू_N_NNP ही_IN करेंगे_V_VB उम्मीदवारों_N_NN का_IN अंतिम_JJ चयन_V_VB</s>
+<s>लालू_N_NNP का_IN हाेगा_V_VB मास्टर_FW चेकअप_FW, शरद_N_NNP यादव_N_NNP ने_RB की_IN मुलाकात_N_NN</s>
+<s>उपेंद्र_N_NNP कुशवाहा_N_NNP बोले_V_VB सड़क_N_NN पर_IN उतरी जनता_N_NN तो_IN केंद्र_N_NN ने_RB लाया_V_VB विवि_N_NN में_IN आरक्षण_N_NN का_IN अध्यादेश_N_NN</s>
+<s>कुछ_RB विपक्षी_N_NN, पार्टी_FW बनाकर_V_VB मछुआरा_N_NN समाज_N_NN के_IN वोट_FW को_IN तोड़ने_V_VB की_IN कर_V_VB रहा_V_VB साजिश_N_NN सुशील_N_NNP मोदी_N_NNP</s>
+<s>चुनावी_JJ राजनीति_N_NN से_IN हजार_N_NN युवाओं_N_NNS को_IN जोड़ेगा_V_VB जदयू_N_NNP प्रशांत_N_NNP किशोर_N_NNP</s>
+<s>विश्वविद्यालयों_N_NNS में_IN बहा_V_VB ली_V_VB के_IN लिए_IN प्वाइंट_FW रोस्टर_FW को_IN खत्म_V_VB करेगा_V_VB केंद्र_N_NN</s>
+<s>दिग्विजय_N_NNP को_IN जदयू_N_NNP ने_RB दिया_V_VB जवाब_N_NN, कहा_V_VB पहले_RB कश्मीर_N_NN में_IN कितने_IN आतंकी_IN हैं_V_VB जाकर_V_VB गिने_V_VB</s>
+<s>प्रधानमंत्री_N_NN नरेंद्र_N_NNP मोदी_N_NNP के_IN पटना_N_NNP आने_V_VB के_IN खिलाफ_JJ यूथ_FW कांग्रेस_N_NNP ने_RB किया_V_VB विरोध_N_NN प्रदर्शन_N_NN</s>
+<s>मार्च_N_NN को_IN सुबह_RB छह_N_NN बजे_V_VB से_IN रैली_FW समाप्त_JJ होने_V_VB तक_IN रामगुलाम_N_NNP चौक_N_NN से_IN जेपी_FW गोलंबर_N_NNP तक_IN नहीं_RB चलेंगे_V_VB वाहन_N_NN</s>
+<s>मार्च_N_NN की_IN रात_N_NN से_IN मार्च_N_NN की_IN दोपहर_N_NN बजे_V_VB तक_IN गांधी_N_NNP सेतु_N_NN, जेपी_FW सेतु_N_NN व कोइलवर_N_NNP पुल_N_NN रहेंगे_V_VB वनवे_FW</s>
+<s>नीतीश_N_NNP बोले_V_VB संविधान_N_NN से_IN नहीं_RB खत्म_V_VB होगा_V_VB धारा_N_NN, खत्म_V_VB करना_V_VB ही_IN है_V_VB तो_IN आतंकवाद_N_NN को_IN जड़_N_NN से_IN मिटा_V_VB दें_V_VB</s>
+<s>भवन_N_NN निर्माण_N_NN मंत्री_N_NN ने_RB कहा_V_VB बंगला_N_NN खुला_V_VB तब_RB लगा_V_VB यह_PRP$_PRP$ तो_IN ताजमहल_N_NNP जैसा_RB</s>
+<s>आरसीपी_FW ने_RB कहा_V_VB लोकसभा_N_NN चुनाव_N_NN में_IN एनडीए_FW की_IN जीत_V_VB से_IN बिकहा_N_NNP के_IN विकास_N_NN की_IN दिशा_N_NN तय_JJ होगी_V_VB</s>
+<s>कहा_V_VB बचपन_N_NN कांग्रेस_N_NNP के_IN साथ_RB गुजरा_V_VB पार्टी_FW जो_IN कहेगी_V_VB वह_PRP करूंगा_V_VB, दरभंगा_N_NNP से_IN चुनाव_N_NN लड़ने_V_VB की_IN बात_N_NN बता_V_VB चुका_V_VB हूं_V_VB</s>
+<s>शहादों_N_NNS को_IN श्रद्धांजलि_N_NN देकर_V_VB महज_RB पांच_JJ मिनट_N_NN में_IN ही_IN भाजपा_N_NNP का_IN राष्ट्रीय_JJ अधिवेशन_N_NN खत्म_V_VB</s>
+<s>शहीदों_N_NNS को_IN शोक_V_VB जताने_IN पर_IN भिड़_V_VB गए_V_VB भाई_N_NN वीरेंद्र_N_NNP व_IN नंदकिशोर_N_NNP, जमकर_V_VB हुई_V_VB तूतूमैंमैं_JJ</s>
+<s>राबड़ी__N_NNP बोलीं_V_VB नरेंद्र_N_NNP मोदी_N_NNP और_CC सुशील_N_NNP मोदी_N_NNP बौखलाहट_N_NN में_IN, लोकसभा_N_NN चुनाव_N_NN में_IN एनडीए_FW का_IN होगा_V_VB सफाया_V_VB</s>
+<s>मुख्य_JJ मंत्री_N_NN नीतीश_N_NNP ने_RB कहा_V_VB परिवारवाद_N_NN और_CC वंशवाद_N_NN खत्म_V_VB करने_V_VB के_IN लिए_IN आगे_RB आएं_VB युवा_N_NN</s>
+<s>बैलगाड़ी से_IN विधानसभा_N_NN पहुंचे_V_VB विधायक_N_NN अमित_N_NNP कुमार_N_NNP_N_NNP, सुरक्षा_N_NN कर्मियों_N_NNS ने_RB गेट_FW पर_IN रोका_V_VB</s>
+<s>बहनोई_N_NN वाड्रा_N_NNP ने_RB लाख_N_NN लगाकर_V_VB करोड़ों_N_NNS कैसे_JJ बनाया_V_VB, बताएं_V_VB राहुल_N_NNP रविशंकर_N_NNP</s>
+<s>राबड़ी__N_NNP ने_RB कहा_V_VB नीतीश_N_NNP लगा_V_VB रहे_V_VB गलत_JJ आरोप_N_NN, लालू_N_NNP फोन_FW पर_IN नहीं_RB करते_V_VB बात_N_NN</s>
+<s>भाजपा_N_NNP गरीब_JJ विरोधी_JJ पार्टी_FW, वह_PRP गरीबी_N_NN नहीं_RB बल्कि_IN गरीबों_N_NN को_IN मिटाना_V_VB चाहती_VB है_V_VB तेजस्वी_N_NNP</s>
+<s>अब_PRP सीतामढ़ी_N_NNP से_IN जदयू_N_NNP उम्मीदवार_N_NN बने_V_VB पिंटू_N_NNP, वरुण_N_NNP ने_RB चुनाव_N_NN लड़ने_IN से_IN किया_V_VB इनकार_N_NN</s>
+<s>कोर्ट_NNP पहुंचे_V_VB उपेंद्र_N_NNP कुशवाहा_N_NNP के_IN खिलाफ_JJ प्रदर्शन_N_NN, लगे_JJ बाहरी_JJ भगाओ_V_VB के_IN नारे_N_NN</s>
+<s>बिकहा_N_NNP का_IN मिनी_FW चितौड़गढ़_N_NNP, इस_PRP$ सीट_FW पर_IN राजपूत करते_V_VB हैं_V_VB जीत_V_VB और_CC कहा_V_VB का_IN फैसला_N_NN</s>
+<s>भाकपा_N_NNP ने_RB कहा_V_VB पूंजीपतियों_N_NN के_IN दबाव_N_NN में_IN कांग्रेस_N_NNP और_CC राजद_N_NNP ने_RB नहीं_RB छोड़ा_V_VB कन्हैया_N_NNP के_IN लिए_IN बेगूसराय_N_NNP सीट_FW</s>
+<s>अमीरों_N_NN के_IN चौकीदार_N_NN नरेंद्र_N_NNP मोदी_N_NNP आरएसएस_FW के_IN एजेंडे_FW पर_IN कर_V_VB रहे_V_VB काम_N_NN उपेंद्र_N_NNP कुशवाहा_N_NNP</s>
+<s>राहुल_N_NNP पर_IN बोले_V_VB रविशंकर_N_NNP जहाज_N_NN डूबता_V_VB देख_RB भागा_V_VB कप्तान_N_NN</s>
+<s>रविवार_N_NN को_IN रालोसपा_N_NNP में_IN शामिल_JJ होंगे_V_VB वृशिण_N_NNP पटेल_N_NNP</s>
+<s>बागियों_N_NNS के_IN खिलाफ_JJ शुरू_JJ हुई_V_VB कार्रवाई_N_NN, पुतल_N_NNP सिंह_N_NNP वर्षों_N_NN के_IN लिए_IN भाजपा_N_NNP से_IN बाहर_RB</s>
+<s>अनंत_N_NNP सिंह_N_NNP की_IN पत्नी_N_NN नीलम_N_NNP होंगी_V_VB कांग्रेस_N_NNP की_IN उम्मीदवार_N_NN, जदयू_N_NNP प्रत्याशी_N_NN ललन_N_NNP सिंह_N_NNP से_IN सीधा_RB मुकाबला_N_NN</s>
+<s>उपेंद्र_N_NNP कुशवाहा_N_NNP ने_RB पूछा_V_VB आरपीएफ_FW भर्ती_N_NN में_IN सामान्य_JJ का_IN कट_N_NN ऑफ_FW . और_CC ओबीसी_FW का_IN . कैसे_JJ ?</s>
+<s>आरा_N_NNP के_IN बदले_RB भाकपा_N_NNP माले_N_NN ने_RB पाटलिपुत्र_N_NN सीट_FW राजद_N_NNP के_IN लिए_IN छोड़ी_V_VB</s>
+<s>बिकहा_N_NNP में_IN वामदलों_N_NNS ने_RB खुद_RB को_IN एक_N_NN तिहाई_JJ सीटों_FW पर_IN समेटा_V_VB</s>
+<s>भाजपा_N_NNP के_IN बागी_JJ नेता_N_NN को_IN मनाने_V_VB पहुंचे_V_VB नित्यानंद_N_NNP, झेलना_V_VB पड़ा_V_VB कार्यकर्ताओं_N_NNS का_IN गुस्सा_V_VB</s>
+<s>पिछड़ों_N_NNS और_CC दलितों_N_NN की_IN पीढ़ी_N_NN पर_IN मंडरा_V_VB रहा_V_VB खतरा_V_VB, आरक्षण_N_NN समाप्त_JJ करने_V_VB की_IN हो_V_VB रही_V_VB कोशिश_N_NN तेजस्वी_N_NNP</s>
+<s>गिरिराज_N_NNP की_IN नाराज_JJ गी_N_NN नहीं_RB हुई_V_VB दूर, केन्द्रीय_N_NN नेतृत्व_N_NN से_IN मिलने_V_VB दिल्ली_N_NNP गए_V_VB</s>
+<s>आरा_N_NNP से_IN राजू_N_NNP यादव_N_NNP होंगे_V_VB भाकपा_N_NNP माले_N_NN के_IN उम्मीदवार_N_NN</s> 
+<s>एनडीए_FW के_IN उम्मीदवारों_N_NN की_IN घोषणा_N_NN आज_N_NN, दोपहर_N_NN बजे_V_VB तीनों_N_NN दलों_N_NNS की_IN संयुक्त_JJ प्रेस_FW कॉन्फ्रेंस_FW</s>
+<s>रालोसपा_N_NNP ने_RB नागमणि_N_NNP व_IN प्रदीप_N_NNP मिश्रा_N_NNP को_IN भेजा_V_VB कानूनी_JJ नोटिस_FW, कहा_V_VB मांफी_V_VB मांगे_VB नहीं_RB तो_IN करेंगे_V_VB मुकदमा_N_NN</s>
+<s>भाकपा_N_NNP माले_N_NN ने_RB कहा_V_VB आरा_N_NNP और_CC सीवान_N_NNP सीट_FW पर_IN किसी_PRP$ तरह_IN का_IN समझौता_N_NN नहीं_RB करेंगे_V_VB</s>
+<s>भाकपा_N_NNP माले_N_NN पार्टी_FW के_IN साथ_RB जनता_N_NN की_IN भी_RB घोषणा_N_NN पत्र_N_NN जारी_V_VB करेगी_V_VB</s>
+<s>मोदी_N_NNP नित्यानंद_N_NNP प्रेम_N_NNP तय_JJ करेंगे_V_VB संभावित_JJ उम्मीदवारों_N_NN का_IN पैनल_FW</s> 
+<s>कांग्रेस_N_NNP के_IN नेता_N_NN तो_IN अपनी_PRP पार्टी_FW का_IN भला_RB नहीं_RB कर_V_VB सकते_V_VB वे_PRP प्रदेश_N_NN का_IN क्या_UH भला_RB करेंगे_V_VB</s>
+<s>पार्टी_FW छोड़कर_V_VB गए_V_VB दोनों_JJ विधायक_N_NN स्वार्थी_JJ थे_V_VB, स्पीकर_FW ने_RB न_IN मुझे_PRP बनाया_V_VB और_CC न_IN हटाने_IN की_IN पावर_FW अभय_N_NNP</s>
+<s>भाजपा_N_NNP की_IN मजबूत_JJ सीटों_FW पर_IN कांग्रेस_N_NNP के_IN लिए_IN प्रचार_N_NN करने_V_VB मार्च_N_NN को_IN हरियाणा_N_NNP आएंगे_VB राहुल_N_NNP</s>
+<s>अभय_N_NNP राज_N_NN में_IN इनेलो_N_NNP छोड़_V_VB रहे_V_VB विधायक_N_NN सदन_N_NN में_IN गंवाया_FW संख्या_N_NN बल_N_NN तो_IN नेता_N_NN प्रतिपक्ष_N_NN ने_RB भी_RB खोया_JJ पद_N_NN</s>
+<s>पानीपत_N_NNP में_IN सीएम_FW मनोहर_N_NNP लाल_N_NNP का_IN रोड_FW शो_FW, पूर्व_JJ सांसद_N_NN अरविंद_N_NNP शर्मा_N_NNP भी_RB हुए_V_VB शामिल_JJ</s>
+<s>भाजपा_N_NNP में_IN शामिल_JJ दो_N_NN इनेलो_N_NNP विधायकों_N_NN के_IN इस्तीफे_N_NN के_IN बाद_CC नेता_N_NN प्रतिपक्ष_N_NN से_IN हटाए_V_VB गए_V_VB अभय_N_NNP चौटाला_N_NNP</s>
+<s>कांग्रेस_N_NNP की_IN अंदरुनी_JJ गुटबाजी_N_NN पर_IN किरण_N_NNP चौधरी_N_NNP बोली_V_VB आस्था_N_NN जिस_JJ भी_RB नेता_N_NN में_IN हो_V_VB लेकिन_CC पार्टी_FW को_IN जीताना_V_VB है_V_VB</s>
+<s>गुर्जर_N_NNP के_IN खिलाफ_JJ नारे_N_NN बाजी_N_NN, कलराज_N_NN मिश्र_N_NNP बोले_V_VB मेरा_PRP प्रदेश_N_NN होता_V_VB तो_IN मंच_N_NN से_IN उतरकर_V_VB मार_V_VB देता_V_VB</s>
+<s>दिल्ली_N_NNP में_IN प्रदेशभर_N_NN के_IN कांग्रेस_N_NNP कार्यकर्ताओं_N_NNS की_IN बैठक_N_NN शुरू_JJ, बस_N_NN यात्रा_N_NN के_IN लिए_IN सौंपी_V_VB जाएंगी_V_VB जिम्मेदारियां_N_NNS</s>
+<s>मुख्य_JJ मंत्रियों_N_NNS, मंत्रियों_N_NNS व राजनीतिक_N_NN कार्यकर्ताओं_N_NNS के_IN बीच_N_NN आधिकारिक_JJ तौर_N_NN पर_IN वीडियो_FW कांफ्रेंसिंग_FW पर_IN प्रतिबंध_N_NN</s>
+<s>होली_V_VB के_IN दिन_N_NN इनेलो_N_NNP को_IN लगा_V_VB बड़ा_JJ झटका_V_VB, नलवाहलके_N_NNP के_IN विधायक_N_NN रणबीर_N_NNP गंगवा_N_NNP भाजपा_N_NNP में_IN शामिल_JJ</s>
+<s>मार्च_N_NN को_IN कार्यकर्ताओं_N_NNS की_IN नब्ज_N_NN टटोलेगी_V_VB कांग्रेस_N_NNP, को_IN रोड_FW शो_FW, फिर_RB तय_JJ होंगे_V_VB उम्मीदवार_N_NN</s>
+<s>फरीदाबाद_N_NNP, गुड़गांव_N_NN छोड़कर_V_VB सीटों_FW पर_IN भाजपा_N_NNP की_IN उम्मीदवार_N_NN बदल_N_NN ने_IN की_IN तैयारी_N_NN, करनाल_N_NNP बनी_V_VB हॉट_FW सीट_FW</s>
+<s>दुष्यंत ने_RB संभाला_V_VB जेजेपी_FW में_IN पहला_JJ पद_N_NN, बने_V_VB दिल्ली_N_NNP इकाई_N_NNP के_IN प्रभारी_N_NN</s>
+<s>केजरीवाल_N_NNP के_IN ट्वीट_FW पर_IN मनोहर_N_NNP ने_RB ली_V_VB चुटकी_N_NN, बोले_V_VB गालिब_N_NNP दिल_N_NN बहलाने_V_VB का_IN ख्याल_N_NN अच्छा है_V_VB</s>
+<s>नवीन_N_NNP जिंदल_N_NN और_CC कुलदीप_N_NNP बिश्नोई_N_NNP के_IN भाजपा_N_NNP में_IN शामिल_JJ होने_V_VB को_IN बराला_N_NNP ने_RB नकारा_V_VB</s>
+<s>कैबिनेट_FW का_IN फैसला_N_NN भंग_V_VB नहीं_RB होगी_V_VB विधानसभा_N_NN, साल_N_NN के_IN अंत_V_VB में_IN ही_IN होंगे_V_VB चुनाव_N_NN</s>
+<s>वकीलों_N_NNS के_IN बीच_N_NN प्रचार_N_NN करने_V_VB पहुंचे_V_VB सीएम_FW हुड्डा_N_NNP, जजपा_N_NNP के_IN कार्यकारिणी_N_NN सदस्य_N_NN सुहाग_N_NNP से_IN की_IN मुलाकात_N_NN</s>
+<s>अगली_V_VB बार_N_NN पाकिस्तान_N_NNP पर_IN बम_N_NN गिराएं_V_VB, तो_IN महागठबंधन_N_NN के_IN नेता_N_NN को_IN नीचे_RB खड़ा_JJ कर_V_VB देना_V_VB चाहिए_V_VB विज_N_NNP</s>
+<s>हमने_IN इनेलो_N_NNP नहीं_RB छोड़ी_V_VB, हमें_PRP यह_PRP$_PRP$ सोचकर_V_VB निकाला_V_VB कि_IN गिड़गिड़ाएंगे_V_VB और_CC फिर_RB वापिस_RB आएंगे_V_VB दुष्यंत_N_NNP</s>
+<s>बजट_FW सेशन_FW के_IN पहले_RB दिन_N_NN पुलवामा_N_NNP के_IN शहीदों_N_NNS को_IN नमन, कार्यवाही_IN गुरुवार_N_NN तक_IN के_IN लिए_IN स्थगित_V_VB</s>
+<s>कुछ_RB लोग_N_NN हजारों_JJ करोड़_N_NN लेकर_V_VB फरार_JJ हो_V_VB गए_V_VB, किसानों_N_NNS को_IN मुद्रा_N_NNP लोन_FW तक_IN नहीं_RB बीरेंद्र_N_NNP सिंह_N_NNP</s>
+<s>हरियाणा_N_NNP के_IN कैबिनेट_FW मंत्री_N_NN विज_N_NNP फिर_RB चर्चा_N_NN में_IN, सेहत_N_NN ठीक_RB नहीं_RB तो_IN रजाई_N_NN में_IN बैठ_V_VB निपटा_V_VB रहे_V_VB काम_N_NN</s>
+<s>कैप्टन_FW अमरिंदर_N_NNP सिंह_N_NNP ने_RB कहा_V_VB कांग्रेस_N_NNP अध्यक्ष_N_NN के_IN रूप_JJ में_IN सबसे_PRP बेहतर_JJ विकल्प_N_NN होंगी_V_VB प्रियंका_N_NNP, हर_IN कांग्रेसी_N_NNP होगा_V_VB साथ_RB</s>
+<s>नवजोत_N_NNP सिद्धू_N_NNP ने_RB इस्तीफा_N_NN स्वीकार_V_VB होने_V_VB के_IN बाद_CC सरकारी_N_NN आवास_N_NN खाली_JJ करना_V_VB शुरू_JJ किया_V_VB</s>
+<s>इस_PRP$ स्कूल_FW से_IN पढ़कर_V_VB दिल्ली_N_NNP पहुंची_V_VB थी_V_VB नाना_N_NN वीएन_FW पुरी_N_NNP की_IN लाडली_JJ शीला_N_NNP दीक्षित_N_NNP, नानी_N_NN थी_V_VB प्रिंसिपल_FW</s>
+<s>आम_N_NN आदमी_N_NN पार्टी_FW के_IN नेता_N_NN हरपाल_N_NNP चीमा_N_NNP की_IN सिद्धू_N_NNP को_IN सलाह_N_NN कांग्रेस_N_NNP छोड़_V_VB हमारे_PRP$ साथ_RB आ_V_VB जाएं_V_VB</s>
+<s>कैबिनेट_FW बैठक_N_NN में_IN नहीं_RB पहुंचे_V_VB सिद्धू_N_NNP, सीएम_FW अमरिंदर_N_NNP ने_RB उनका_PRP मंत्रालय_N_NN बदला_V_VB</s>
+<s>गडकरी_N_NNP ने_RB पाक_N_NN को_IN चेताया_V_VB आतंक_N_NN का_IN साथ_RB देना_V_VB बंद_JJ करें, वरना_CC नदियों_N_NNS का_IN पानी_N_NN रोक_V_VB लेंगे_V_VB</s> 
+<s>बसपा_N_NNP ने_RB तोड़ी_V_VB साथ_RB मिलकर_V_VB दलित_N_NN वोट_FW पाने_IN की_IN आस_N_NN, अब_RB चल_JJ अकेला_RB...' के_IN अलावा_RB कोई_JJ चारा_N_NN नहीं_RB आप_PRP के_IN पास_RB</s>
+<s>आप_PRP के_IN बागी_JJ सांसद_N_NN हरिंदर_N_NNP सिंह_N_NNP खालसा_N_NNP भाजपा_N_NNP में_IN शामिल_JJ, जेटली_N_NNP और_CC पुरी_N_NNP ने_RB कराया_V_VB ज्वॉयन_FW</s>
+<s>सुखबीर_N_NNP बादल_N_NN के_IN चचेरे_JJ भाई_N_NN बब्बी_N_NNP बादल_N_NN ने_RB छोड़ा_V_VB साथ_RB अकाली_N_NNS दल_N_NN का_IN, कहा_V_VB रिश्तेदारी_N_NN से_IN ऊपर_IN बाबाजी_N_NN, इसलिए_IN छोड़ा_V_VB बब्बी_N_NNP बादल_N_NN</s>
+<s>चुनाव_N_NN से_IN पहले_RB आम_N_NN आदमी_N_NN पार्टी_FW को_IN पंजाब_N_NNP में_IN बड़ा_JJ झटका_V_VB, एक_N_NN साथ_RB ने_RB भेजे_V_VB दिल्ली_N_NNP इस्तीफे_N_NNS</s>
+<s>मनमोहन_N_NNP सिंह_N_NNP से_IN मिले_JJ कैप्टन_FW अमरिंदर_N_NNP, अमृतसर से_IN चुनाव_N_NN लड़ने_V_VB का_IN दिया_V_VB न्यौता_N_NN</s>
+<s>बजट_FW सेशन_FW के_IN आखिरी_JJ दिन_N_NN सदन_N_NN में_IN फिर_RB हंगामा_N_NN, अमृतसर_N_NNP रेल_N_NN हादसे_N_NN पर_IN आमनेसामने_IN हुए_V_VB मजीठियासिद्धू_N_NNP</s>
+<s>आप_N_NNP को_IN विपक्ष_N_NN जाने_V_VB का_IN डर_V_VB, किसी_PRP$ भी_RB विधायक_N_NN को_IN नहीं_RB लड़ाया_N_NN जाएगा_V_VB लोकसभा_N_NN चुनाव_N_NN</s>
+<s>सिद्धू_N_NNP के_IN पाेस्टर_FW पर_IN पोती_N_NN कालिख_N_NN नवजोत_N_NNP बोले_V_VB मेरी_N_NNP देशभक्ति_N_NN पर_IN सवाल_N_NN उठाने_IN का_IN हक किसी_PRP$ को_IN नहीं_RB</s>
+<s>आप_N_NNP विधायक_N_NN फूलका_N_NNP का_IN इस्तीफा_N_NN, गुरु_PRP ग्रंथ_N_NN साहिब_N_NNP की_IN बेअदबी_N_NN मामले_N_NN में_IN कार्रवाई_N_NN न_IN होने_V_VB से_IN हैं_V_VB नाराज_JJ</s>
+<s>राजस्थान_N_NNP की_IN राजनीति_N_NN के_IN एपिक_FW सेंटर_FW, जो_IN हिला_V_VB सकते_V_VB हैं_V_VB सियासी_JJ जमीन_N_NN</s>
+<s>हर_JJ नेताकार्यकर्ता_N_NN चुनावी_JJ वायरस_FW की_IN चपेट_V_VB में_IN, इलाज_N_NN जनता_N_NN ही_IN करेगी_V_VB</s>
+<s>इस_PRP$ स्कूल_FW से_IN पढ़कर_V_VB दिल्ली_N_NNP पहुंची_V_VB थी_V_VB नाना_N_NN वीएन_FW पुरी_N_NNP की_IN लाडली_JJ शीला_N_NNP दीक्षित_N_NNP, नानी_N_NN थी_V_VB प्रिंसिपल_FW</s>
+<s>दिल्ली_N_NNP के_IN सियासत_N_NN का_IN सूरतएहाल_JJ, स्थानीय_JJ मुद्दे_N_NN बनाम_N_NN मोदी_N_NNP पर_IN मुकाबला_N_NN</s>
+<s>केजरीवाल_N_NNP के_IN ट्वीट_FW पर_IN मनोहर_N_NNP ने_RB ली_V_VB चुटकी_N_NN, बोले_V_VB गालिब_N_NNP दिल_N_NN बहलाने_V_VB का_IN ख्याल_N_NN अच्छा_JJ है_V_VB</s>
+<s>कांग्रेस_N_NNP ने_RB विधानसभा_N_NN चुनाव_N_NN के_IN लिए_IN बनाई_V_VB इलेक्शन_FW प्लॉनिंग_FW एंड_FW मैनेजमेंट_FW कमेटी_FW</s>
+<s>सीएम_FW ने_RB संभाली_V_VB प्रचार_N_NN की_IN कमान_N_NN, हर_IN कार्यकर्ता_N_NN को_IN दिया_V_VB सक्रिय_JJ कार्यकर्ता_N_NN बनाने_IN का_IN टारगेट_FW</s>
+<s>हरियाणा_N_NNP में_IN सितंबर_N_NN के_IN आसपास_JJ लग_V_VB सकती_VB है_V_VB आचार_N_NN संहिता_N_NN मुख्य_JJ मंत्री_N_NN खट्टर_N_NNP</s>
+<s>जुलाई_FW से_IN शुरू_JJ होगा_V_VB भाजपा_N_NNP का_IN सदस्यता_N_NN अभियान_N_NN, लोकसभा_N_NN में_IN जहां__RB कमजोर_JJ प्रदर्शन_N_NN रहा_V_VB वहां_JJ ज्यादा_RB फोकस_FW</s>
+<s>लोकसभा_N_NN चुनाव_N_NN में_IN हमारा_N_NN वोट_FW बैंक_FW भाजपा_N_NNP तरफ_IN शिफ्ट_FW हुआ_VB, जजपा_N_NNP का_IN कोई_JJ फर्क_N_NN नहीं_RB पड़ा_V_VB अभय_N_NNP</s>
+<s>पुलिस_NN फोर्स_FW से_IN जुड़े_JJ प्रदेश_N_NN के_IN अधिकारीकर्मचारियों_N_NN ने_RB दो_N_NN महीने_IN दी_V_VB चुनाव_N_NN ड्यूटी_FW, सम्मानित_JJ हुए_V_VB</s>
+<s>भाजपा_N_NNP ने_RB दी_V_VB विधानसभा_N_NN चुनाव_N_NN की_IN तैयारियों_N_NN को_IN रफ्तार_N_NN, से_IN जून_N_NN तक_IN प्रदेश_N_NN के_IN सभी_JJ जिलों में_IN होंगी_V_VB बैठकें_N_NNS</s>
+<s>लोकसभा_N_NN चुनाव_N_NN के_IN दिन_N_NN हुए_V_VB विवाद_N_NN पर_IN कोर्ट_NNP ने_RB दिए_V_VB मंत्री_N_NN ग्रोवर_N_NNP व रमेश_N_NNP बोहर_N_NNP पर_IN केस_FW दर्ज_V_VB करने_V_VB के_IN आदेश_N_NN</s>
+<s>एक_N_NN मंत्री_N_NN अब_RB रोटेशन_FW में_IN घंटे_N_NNS के_IN लिए_IN सप्ताह_N_NN में_IN दिन_N_NN बैठेंगे_V_VB कांग्रेस_N_NNP मुख्यालय_N_NN में_IN</s>
+<s>पंचों_N_NNS व_CC सरपंचों_N_NN के_IN खाली_JJ पदों_N_NN पर_IN जुलाई_FW को_IN होगा_V_VB उपचुनाव_N_NN</s>
+<s>छत्तीसगढ़_N_NNP में_IN भाजपा_N_NNP प्रत्याशी_N_NN की_IN जीत_V_VB से_IN गुना_N_NNP ज्यादा_RB नोटा_FW, आदिवासी_N_NN सीटों_FW पर_IN खूब_JJ प्रयोग_N_NN</s>
+<s>लोकसभा_N_NN चुनाव_N_NN में_IN मध्य_N_NN प्रदेश_N_NN में_IN भाजपा_N_NNP को_IN मिले_JJ और_CC कांग्रेस_N_NNP को_IN प्रतिशत_RB मत_N_NN</s>
+<s>हरियाणा_N_NNP में_IN हजार_N_NN ने_RB किया_V_VB नोटा_FW पर_IN वोट_FW, सबसे_PRP ज्यादा_RB अंबाला के_IN लोगों_N_NN ने_RB दबाया_V_VB बटन_FW</s>
+<s>मोदी_N_NNP लहर_VB में_IN ढह_VB गए_V_VB दिग्गजों_N_NN के_IN किले_N_NN, बंसीलाल_N_NNP, देवीलाल_N_NNP, भजनलाल_N_NNP और_CC हुड्डा_N_NNP परिवार_N_NN हारे_VB</s>
+<s>मुख्य_JJ मंत्री_N_NN बघेल_N_NNP को_IN अमित_N_NNP जोगी_N_NNP ने_RB भेजा_V_VB आईना_N_NN, लिखा_JJ इसमें_PRP$ सरकार_N_NN की_IN सही_IN तस्वीर_N_NN दिखेगी_V_VB</s>
+<s>हरियाणा_N_NNP में_IN चुनाव_N_NN लड़_N_NN रहे_V_VB उम्मीदवारों_N_NN में_IN से_IN की_IN जमानत_N_NN हुई_V_VB जब्त_V_VB</s>
+<s>बृजेंद्र_N_NNP सिंह_N_NNP और_CC इंद्रजीत_N_NNP को_IN मिल_N_NN सकती_VB है_V_VB मोदी_N_NNP मंत्रीमंडल_N_NN में_IN जगह_RB, गुज्जर_N_NNP का_IN कट_N_NN सकता_V_VB है_V_VB नाम_N_NN</s>
+<s>कांग्रेस_N_NNP ने_RB रात_N_NN बजे_V_VB की_IN रीकाउंटिंग_FW की_IN मांग_V_VB की_IN तो_IN रोका_V_VB परिणाम_N_NN, सुबह_RB बजे_V_VB जीते_V_VB अरविंद_N_NNP शर्मा_N_NNP</s>
+<s>आज_RB तक_IN के_IN इतिहास में_IN भाजपा_N_NNP की_IN हरियाणा_N_NNP में_IN सबसे_PRP बड़ी_JJ जीत, लाखों_JJ के_IN अंतर_N_NN से_IN जीते_V_VB हैं_V_VB उम्मीदवार_N_NN</s>
+<s>भाजपा_N_NNP की_IN गोमती_N_NNP साय_N_NNP हजार_N_NN से_IN ज्यादा_RB वोटों_FW से_IN जीतीं_V_VB, कांग्रेस_N_NNP के_IN लाल_N_NNP जीत_V_VB सिंह_N_NNP राठिया_N_NNP हारे_VB</s>
+<s>हुड्डा_N_NNP और_CC कांग्रेसियों_N_NN की_IN कहा_V_VB पर_IN मनोहर_N_NNP लाल_N_NNP की_IN चुटकी_N_NN, लोकसभा_N_NN चुनाव_N_NN में_IN कई_N_NN कांटे_N_NN निकल_V_VB गए_V_VB</s>
+<s>केंद्रों_N_NNS पर_IN मतगणना_N_NN, हर_IN विधानसभा_N_NN के_IN मतदान_N_NN केंद्रों_N_NNS की_IN वीवीपैट_FW से_IN वोटर_FW स्लिप_FW होगी_V_VB काउंट_FW</s>
+<s>रोहतक_N_NNP में_IN हुई_V_VB भाजपा_N_NNP चुनाव_N_NN प्रबंधन_N_NN समिति_N_NN की_IN बैठक_N_NN, लोकसभा_N_NN चुनाव_N_NN को_IN लेकर_V_VB लिया_V_VB फीडबैक_FW</s>
+<s>बूथ_FW पर_IN पहुंचे_V_VB कांग्रेस_N_NNP प्रत्याशी_N_NN भड़ाना_N_NNP के_IN बयान_N_NN पर_IN भड़के_JJ गांववाले_N_NNS, मोदी_N_NNP मोदी_N_NNP के_IN लगाए_VB नारे_N_NN</s>
+<s>भाजपा_N_NNP नेता_N_NN रमेश_N_NNP लोकहा_N_NNP को_IN मिली_V_VB जमानत_N_NN, चुनाव_N_NN के_IN दिन_N_NN हुआ_VB था_V_VB विवाद_N_NN</s>
+<s>फरीदाबाद_N_NNP के_IN असावटी_N_NNP में_IN मई_N_NNP को_IN दोबारा_RB मतदान_N_NN, पोलिंग_FW एजेंट_FW की_IN गड़बड़ी_JJ का_IN वीडियो_FW हुआ_VB था_V_VB वायरल_FW</s>
+<s>पंजाब_N_NNP में_IN चुनाव_N_NN के_IN लिए_IN भेजी_V_VB एचएपी_FW और_CC आईआरबी_FW की_IN कंपनियां_FW</s>
+<s>कांग्रेस_N_NNP की_IN महिला_N_NN विधायक_N_NN ने_RB अधिकारियों_N_NNS को_IN दी_V_VB गाली_N_NN, वीडियो_FW हो_V_VB रहा_V_VB वायरल_FW</s>
+<s>फरीदाबाद_N_NNP में_IN मतदान_N_NN में_IN गड़बड़ी_JJ करते_V_VB पोलिंग_FW एजेंट_FW का_IN वीडियो_FW वायरल_FW, शिकायत_N_NN के_IN बाद_CC गिरफ्तार_JJ</s>
+<s>छुटपुट_JJ घटनाओं_N_NNS के_IN बीच_N_NN. प्रतिशन_JJ मतदान_N_NN, फतेहाबाद_N_NNP में_IN दो_N_NN पक्ष_N_NN भिड़े_V_VB, ईंटपत्थर_N_NN चले_V_VB गाड़ियां_N_NNS तोड़ी_V_VB</s>
+<s>सुबहसुबह_RB विराट_N_NNP कोहली_N_NNP से_IN लेकर_V_VB दिग्गज_N_NN नेताओं_N_NN ने_RB डाला_V_VB वोट_FW, देखिए_V_VB तस्वीरें_N_NN</s>
+<s>दूल्हे_N_NN ने_RB शादी_N_NN से_IN पहले_RB किया_V_VB मतदान_N_NN तो_IN कहीं_RB सोते_N_NN दिखे_V_VB जवान_N_NN, तस्वीरों_N_NN में_IN देखिए_V_VB चुनावी_JJ रंग_N_NN</s>
+<s>जगह_RB बने_V_VB स्ट्रॉन्ग_FW रूम_FW में_IN रखी_VB जाएंगी_V_VB हरियाणा_N_NNP की_IN ईवीएम_FW, थ्रीटायर_FW सिक्युरिटी_FW सिस्टम_FW</s>
+<s>विद_N_NNP फैमिली_V_VB _FW वोट_FW डालने_IN पहुंचे_V_VB भूपेंद्र_N_NNP हुड्डा_N_NNP, दूसरे_N_NN नेता_N_NN भी_RB नहीं_RB पीछे_RB, देखिए_V_VB तस्वीरें_N_NN</s>
+<s>हरियाणा_N_NNP की_IN सीटों_FW पर_IN इनके_PRP बीच_N_NN है_V_VB टक्कर_N_NN, सोनीपत_N_NNP, रोहतक_N_NNP और_CC हिसार_N_NNP में_IN दिग्गज_N_NN आमनेसामने_N_NN</s>
+<s>सवा_JJ लाख_N_NN कर्मचारी_N_NN की_IN मौजूद_V_VBगी_N_NN में_IN करोड़_N_NN लाख_N_NN मतदाता_N_NN चुनेंगे_V_VB हरियाणा_N_NNP के_IN सांसद_N_NN</s>
+<s>सोनीपत_N_NNP में_IN जींद_N_NNP जैसा_RB हाल_JJ होना_V_VB है_V_VB, बाहर_RB से_IN चुनाव_N_NN लड़ने_V_VB आए_V_VB उम्मीदवारों_N_NN का_IN हम_PRP इलाज_N_NN करेंगेः_V_VB कौशिक_N_NNP</s>
+<s>प्रचार_N_NN बंद_JJ होने_V_VB के_IN बाद_CC भी_RB पंजाबी_NN वोटर्स_FW के_IN समारोह_N_NN में_IN पहुंचे_V_VB दीपेंद्र_N_NNP, कार्रवाई_N_NN के_IN लिए_IN नहीं_RB पहुंची_V_VB पुलिस_NN</s>
+<s>हुड्डा_N_NNP भले_CC ही_IN ज्यादा_RB वोट_FW से_IN जीते_V_VB, पर_IN भाई_N_NN मन्नै_FW भी_RB नजदीक_RB ला_IN दियो_V_VB, नहीं_RB तो_IN बेजती_N_NN होज्यागीः_V_VB दीपेंद्र_N_NNP</s>
+<s>चौटाला_N_NNP राज_N_NN में_IN गुंडागर्दी_N_NN चरम_JJ पर_IN थी_V_VB तो_IN हुड्डा_N_NNP राज_N_NN में_IN भ्रष्टाचार_N_NN चरम_JJ पर_IN थाः_V_VB अमित_N_NNP शाह_N_NNP</s>
+<s>भगवंत_N_NNP मान_N_NNP ने_RB शायराना_JJ अंदाज में_IN साधा_V_VB पीएम_FW पर_IN निशाना_N_NN, बोले_V_VB मोदी_N_NNP तो_IN इंटरनेशनल_FW गप्पी_JJ</s>
+<s>मोदी_N_NNP के_IN निशाने_IN पर_IN रहे_V_VB पूर्व_JJ सीएम_FW भूपेंद्र_N_NNP सिंह_N_NNP हुड्‌डा_N_NNP, बोले_V_VB इन्होंने_IN क्या_UH गुल_N_NN खिलाए_V_VB, सब_JJ जानते_V_VB</s>
+<s>मोदी_N_NNP बोले_V_VB शब्दों_N_NNS से_IN कांग्रेस_N_NNP का_IN अहंकार_N_NN समझा_V_VB जा_V_VB सकता_V_VB है_V_VB, उनके_PRP लिए_IN जिंदगी_N_NN का_IN कोई_JJ मोल_N_NN नहीं_RB</s>
+<s>दादा_N_NN कहते_V_VB थे_V_VB कि_IN कभी_PRP कमजोर_JJ से_IN टक्कर_N_NN न_IN लो_V_VB, तभी_PRP हुड्डा_N_NNP और_CC कौशिक_N_NNP से_IN टक्कर_N_NN लेने_V_VB आया हूं_V_VB दिग्विजय_N_NNP</s>
+<s>अब_PRP हरियाणा_N_NNP में_IN अर्धसैनिक_N_NN कंपनियां_FW संभालेगी_V_VB चुनावी_JJ सुरक्षा_N_NN, अतिरिक्त_JJ कंपनियां_FW और_CC मिली_V_VB</s>
+<s>हेमा_N_NNP मालिनी_N_NNP को_IN देखने_IN का_IN ऐसा_RB क्रेज_FW, बुड्ढों_N_NN ने_RB भी_RB अगली_JJ कतार_N_NN में_IN बैठकर_V_VB बनाई_V_VB वीडियो_FW</s>
+<s>एक_N_NN तरफ_IN हुई_V_VB राहुल_N_NNP की_IN रैली_FW तो_IN दूसरी_N_NN तरफ_IN सनी_N_NNP देओल_N_NNP का_IN रोड_FW शो_FW, कुछ_RB ऐसा_RB था_V_VB नजारा_N_NN</s>
+<s>मोदी_N_NNP ने_RB कहा_V_VB राजीव_N_NNP ससुरालवालों_N_NNS के_IN साथ_RB आईएनएस_FW विराट_N_NNP से_IN छुट्टियां_N_NN मनाने_V_VB गए_V_VB थे_V_VB</s>
+<s>पीएम_FW की_IN रैली_FW रद्द_JJ होने_V_VB की_IN झूठी_JJ पोस्ट_FW डालने_IN वाले_IN कांग्रेस_N_NNP नेता_N_NN के_IN खिलाफ_JJ मामला_N_NN दर्ज_V_VB</s>
+<s>गडकरी_N_NNP ने_RB पाक_N_NN को_IN चेताया_V_VB आतंक_N_NN का_IN साथ_RB देना_V_VB बंद_JJ करें_V_VB, वरना_CC नदियों_N_NNS का_IN पानी_N_NN रोक_V_VB लेंगे_V_VB</s>
+<s>मोदी_N_NNP ने_RB कांग्रेस_N_NNP के_IN अपशब्दों_N_NNS की_IN डिक्शनरी_FW खोली_V_VB कहा_V_VB मुझ_PRP पर_IN एक_N_NN तरफा_IN जुल्म_N_NN हो_V_VB रहा_V_VB है_V_VB</s>
+<s>जीपीएस_FW लगवाने_IN के_IN बाद_CC भी_RB चुनाव_N_NN कार्य_N_NN में_IN नहीं_RB भेजीं_V_VB बसें_N_NNS, मालिकों_N_NNS पर_IN एफआईआर_FW</s>
+<s>कांग्रेस_N_NNP प्रदेश_N_NN सचिव_N_NN ने_RB पीएम_FW की_IN रैली_FW रद्द_JJ होने_V_VB की_IN झूठी_JJ पोस्ट_FW डाली_V_VB, भाजपाइयों_N_NNP ने_RB दी_V_VB शिकायत_N_NN</s>
+<s>अनिल_N_NNP विज_N_NNP ने_RB मुर्दाबाद_JJ के_IN नारे_N_NN लगाने_IN वालों को_IN अपशब्द_N_NN कहे_V_VB, ग्रामीण_N_NN भड़के_JJ तो_IN पुलिस_NN ने_RB लाठियां_N_NN भांजी_N_NN</s>
+<s>जयपुर_N_NNP ग्रामीण_N_NN पुलिस_NN का_IN नवाचार_N_NN, पोल_FW कॉप्स_FW सॉफ्टवेयर_FW से_IN रखी_VB हर_IN बूथ_FW पर_IN नजर_N_NN</s>
+<s>हुड्डा_N_NNP परिवार_N_NN के_IN लिए_IN गढ़_N_NN बचाना_V_VB है_V_VB इस_PRP$ बार_N_NN बड़ी_JJ चुनौती_N_NN, जातिगत_JJ समीकरण_N_NN रहेंगे_V_VB हावी_N_NN</s>
+<s>सीआरपीएफ_FW की_IN कंपनियों_FW के_IN जवान_N_NN संभालेंगे_V_VB चुनाव_N_NN में_IN सुरक्षा_N_NN व्यवस्था_N_NN</s>
+<s>राहुल_N_NNP ने_RB कहा_V_VB मैं_PRP मरते_V_VB दम_N_NN तक_IN सेना_N_NN का_IN राजनीतिक_N_NN प्रयोग_N_NN नहीं_RB करूंगा_V_VB</s>
+<s>वाराणसी_N_NNP से_IN नामांकन_N_NN रद्द_JJ होने_V_VB पर_IN सुप्रीम_JJ कोर्ट_NNP पहुंचे_V_VB तेज_RB बहादुर_N_NNP, चुनाव_N_NN आयोग_N_NN के_IN फैसले_N_NN को_IN चुनौती_N_NN दी_V_VB</s>
+<s>अब_PRP राहुल_N_NNP गांधी_N_NNP ने_RB अनिल_N_NNP अंबानी_N_NNP को_IN चोर_N_NN बताया_JJ, बोले_V_VB चौकीदार_N_NN ने_RB चोर_N_NN की_IN मदद_N_NN की_IN है_V_VB</s>
+<s>बराला_N_NNP की_IN जनसभा_N_NN में_IN हंगामा_N_NN, स्कूल_FW की_IN समस्या_N_NN रखी_VB तो_IN कार्यकर्ताओं_N_NNS ने_RB माइक_FW छीना_JJ</s>
+<s>भाजपा_N_NNP कार्यालय_N_NN के_IN बाहर_RB कांग्रेसियों_N_NN ने_RB पकोड़े_N_NN तले_V_VB, पुलिस_NN से_IN शिकायत_N_NN</s>
+<s>अवतार_N_NNP भड़ाना_N_NNP के_IN समर्थक_N_NN पर_IN मामला_N_NN दर्ज_V_VB, बिना_RB अनुमति_N_NN के_IN पब्लिक_FW मीटिंग_FW करने_V_VB का_IN आरोप_N_NN</s>
+<s>कांग्रेस_N_NNP प्रत्याशी_N_NN के_IN समर्थन में_IN रोड_FW शो_FW कर_V_VB रहीं_V_VB बॉलीवुड_FW अभिनेत्री_N_NN महिमा_N_NNP चौधरी_N_NNP चोटिल_N_NNP</s>
+<s>मंच_N_NN पर_IN बैठे_JJ लड्डू_N_NN खा_V_VB रहे_V_VB थे_V_VB कटारिया_N_NNP, मुर्दाबाद_JJ के_IN नारे_N_NN लगे_JJ तो_IN बीच_N_NN में_IN ही_IN जनसभा_N_NN छोड़कर_V_VB भागे_VB</s> 
+<s>हमेशा_RB कांग्रेस_N_NNP और_CC भाजपा_N_NNP के_IN बीच_N_NN रही_V_VB है_V_VB इस_PRP$ सीट_FW पर_IN टक्कर_N_NN, इस_PRP$ बार_N_NN कटारिया_N_NNP और_CC सैलजा_N_NNP के_IN बीच_N_NN मुकाबला_N_NN</s>
+<s>अर्द्ध_JJ सैनिक_N_NN बलों_IN की_IN कंपनियों_FW के_IN साथ_RB कानून_N_NN व्यवस्था_N_NN संभालेंगे_V_VB हजार_N_NN से_IN ज्यादा_RB जवान_N_NN</s>
+<s>मुख्य_JJ मंत्री_N_NN योगी_N_NN बाेले_V_VB मोदी_N_NNP भीषण_JJ गर्मी_N_NN में_IN सभा_N_NN करते_V_VB है_V_VB, तब_RB पसीना_N_NN एयरकंडीशन_FW में_IN बैठे_JJ इमरान_N_NNP खान_N_NN का_IN छूटता_V_VB है_V_VB</s>
+<s>डेरा_N_NN सच्चा_N_NNP सौदा_N_NNP से_IN समर्थन_N_NN मांगने_IN वाले_IN नेताओं_N_NN का_IN किया_V_VB जाएगा_V_VB बहिष्कार_N_NN बलजीत_V_VB दादूवाल_N_NNP</s>
+<s>वोट_FW के_IN लिए_IN अब_RB रुठों_RB को_IN मनाने_V_VB का_IN सिलसिला_JJ शुरू_JJ, करण_N_NNP दलाल_N_NNP से_IN मिले_JJ अवतार_N_NNP सिंह_N_NNP भड़ाना_N_NNP</s>
+<s>नामांकन_N_NN करने_V_VB निकले_V_VB थे_V_VB चरणजीत_V_VB रोडी_N_NNP, किसानों_N_NNS ने_RB रोका_V_VB रास्ता_N_NN, अभय_N_NNP ने_RB मिनते_N_NNS की_IN तो_IN मिनट_N_NN बाद_CC जाने_V_VB दिया_V_VB</s>
+<s>षडयंत्र_N_NN और_CC दबाव_N_NN में_IN मेरी_N_NNP टिकट_FW काटकर_V_VB, तीनचार_N_NN पार्टियां_N_NN बदल_N_NN चुके_V_VB शख्स_N_NN को_IN दे_V_VB दी_V_VB ललित_N_NNP नागर_N_NNP</s>
+<s>चुनाव_N_NN ड्यूटी_FW में_IN जाते हुए_V_VB पेड़ से_IN टकराई_V_VB स्कॉर्पियो_FW, मतदान_N_NN अधिकारी_N_NN की_IN मौत, घायल_V_VB</s>
+<s>मां_N_NN और_CC पत्नी_N_NN के_IN साथ_RB भरा_JJ दीपेंद्र_N_NNP ने_RB नामांकन_N_NN, तो_IN सीएम_FW और_CC भाजपा_N_NNP नेताओं_N_NN ने_RB भरवाया_V_VB अरविंद_N_NNP का_IN पर्चा_N_NN</s>
+<s>हरियाणा_N_NNP की_IN सीटों_FW पर_IN दिग्गजों_N_NN की_IN साख_N_NN दाव_N_NN पर_IN, सीट_FW पर_IN बड़े_JJ राजनीतिक_N_NN घरानों_N_NNS की_IN टक्कर_N_NN</s>
+<s>सोनीपत_N_NNP में_IN भूपेंद्र_N_NNP हुड्डा_N_NNP को_IN टक्कर_N_NN देंगे_V_VB जजपा_N_NNP से_IN दिग्विजय_N_NNP चौटाला_N_NNP</s>
+<s>पीएम_FW किसान_N_NN योजना_N_NN के_IN तहत_JJ राजस्थान_N_NNP के_IN लाख_N_NN परिवारों_N_NN को_IN मिलने_V_VB वाली_V_VB मदद_N_NN को_IN अटका_V_VB रही_V_VB है_V_VB कांग्रेस_N_NNP</s>
+<s>रायगढ़_N_NNP में_IN बूथ_FW, संवेदनशील_JJ, सुरक्षा_N_NN के_IN लिए_IN सिर्फ_RB जवान_N_NN</s>
+<s>रोड_FW शो_FW कर_V_VB नामांकन_N_NN करने_V_VB पहुंचे_V_VB थे_V_VB बसपा_N_NNP प्रत्याशी_JJ, आवेदन_N_NN में_IN एक_N_NN कॉलम_FW छूटा_V_VB तो_IN लौटे_V_VB बैरंग_N_NN</s>
+<s>पिछले_JJ सालों_N_NNS में_IN घट_V_VB गई_V_VB दुष्यंत_N_NNP और_CC अजय_N_NNP चौटाला_N_NNP की_IN आमदनी_N_NN, बीरेंद्र_N_NNP सिंह_N_NNP इनकम_FW में_IN हुआ_VB इजाफा_N_NN</s>
+<s>प्रदेश_N_NN की_IN सबसे_PRP हॉट_FW सीट_FW रोहतक_N_NNP पर_IN बचा_JJ भाजपा_N_NNP का_IN नामांकन_N_NN, बाकी_IN सीटों_FW पर_IN भरे_RB गए_V_VB पर्चे_N_NNS</s>
+<s>कांग्रेस_N_NNP का_IN कोई_JJ बड़ा_JJ नेता_N_NN नही_IN पहुंचा_V_VB तंवर_N_NNP का_IN नामांकन_N_NN करवाने_V_VB, इस_PRP$ पर_IN अजय_N_NNP ने_RB कसा_JJ तंज_V_VB</s>
+<s>आईपीएस_FW पति_N_NN से_IN ज्यादा_RB अमीर_JJ हैं_V_VB सिरसा_N_NNP से_IN भाजपा_N_NNP प्रत्याशी_N_NN सुनीता_N_NNP दुग्गल_N_NNP</s>
+<s>राहुल_N_NNP गांधी_N_NNP ने_RB रैली_FW में_IN किया_V_VB किसानों_N_NNS को_IN चांद_N_NN पर_IN जमीन_N_NN देने_IN का_IN वादा_N_NN</s>
+<s>चौटाला_N_NNP को_IN जेल_N_NN हुई_V_VB तो_IN अर्जुन_N_NNP ने_RB यूएस_FW से_IN छोड़_V_VB दी_V_VB थी_V_VB पढ़ाई_N_NN, सिरसा_N_NNP आए_V_VB तो_IN फिर_RB लॉ_FW बीच_N_NN में_IN की_IN ड्राप_FW आउट_FW</s>
+<s>साध्वी_N_NNP प्रज्ञा_N_NNP पर_IN जितनी_RB चोट_N_NN मारी_V_VB, उसका_V_VB वोट_FW से_IN बदला_V_VB_JJ लेने_V_VB का_IN समय_N_NN आ_IN गया_JJ</s>
+<s>अभय_N_NNP_N_NNP चौटाला_N_NNP के_IN छोटे_JJ बेटे_N_NN पहली_N_NN बार_N_NN चुनाव_N_NN मैदान_N_NN में_IN, इनेलो_N_NNP ने_RB कुरुक्षेत्र_N_NNP से_IN दिया_V_VB टिकट_FW</s>
+<s>हनुमान_N_NNP जयंती_N_NN के_IN दिन_N_NN सुनीता_N_NNP दुग्गल_N_NNP, रमेश_N_NNP कौशिक_N_NNP, कृष्णपाल_N_NNP गुज्जर_N_NNP और_CC राव_N_NNP इंद्रजीत_N_NNP ने_RB किया_V_VB नामांकन_N_NN</s>
+<s>चुनाव_N_NN आयोग_N_NN ने_RB लॉन्च_FW किया_V_VB वोटर_FW टर्नआउट_FW ऐप_FW रियल_FW टाइम_FW में_IN पता_N_NN लगेगा_V_VB, कहांकितनी_JJ वोटिंग_FW हुई_V_VB</s>
+<s>जजपा_N_NNP ने_RB उतारे_V_VB चारों_N_NN युवा_N_NN_JJ चेहरे_N_NN, परिवार_N_NN की_IN नाना_RB के_IN बाद_CC भी_RB दुष्यंत_N_NNP ने_RB लिया_V_VB हिसार_N_NNP से_IN लड़ने_V_VB का_IN फैसला_N_NN</s>
+<s>जजपा_N_NNP ने_RB नाम_N_NN तय_JJ किए_CC, दुष्यंत_N_NNP चौटाला_N_NNP दोबारा_RB हिसार_N_NNP से_IN प्रत्याशी_JJ</s>
+<s>मंदिर_N_NN में_IN जनसभा_N_NN करने_V_VB पर_IN सुनीता_N_NNP दुग्गल_N_NNP और_CC कर्मचारियों_N_NN को_IN धमकी_V_VB देने_IN पर_IN तंवर_N_NNP को_IN जारी_V_VB हुआ_VB नोटिस_FW</s>
+<s>लोकसभा_N_NN चुनाव_N_NN का_IN निर्दली_JJ य_IN प्रत्याशी_N_NN महिलाओं_N_NN से_IN एक_N_NN करोड़_N_NN की_IN ठगी_N_NN में_IN गिरफ्तार_JJ</s>
+<s>आजम_N_NNP खान_N_NN पर_IN आयोग_N_NN ने_RB दोबारा_RB रोक_V_VB लगाई_V_VB, घंटे_N_NNS तक_IN नहीं_RB कर_V_VB पाएंगे_V_VB चुनाव_N_NN प्रचार_N_NN</s>
+<s>चुनाव_N_NN आयोग_N_NN में_IN फिर_RB पहुंची_V_VB दुग्गल_N_NNP की_IN शिकायत_N_NN, लाभ_N_NN के_IN पदों_N_NN पर_IN तैनात_JJ लोगों_N_NN द्वारा_N_NN प्रचार_N_NN करने_V_VB का_IN आरोप_N_NN</s>
+<s>राजस्थान_N_NNP में_IN प्रथम_V_VB चरण_N_NN में_IN शान्तिपूर्ण_JJ मतदान_N_NN संपन्न_V_VB, डीजी_FW और_CC आईजी_FW ने_RB की_IN निगरानी_N_NN</s>
+<s>चौकीदारी_N_NN की_IN नई_JJ नाटकबाजी_N_NN भी_RB नहीं_RB बचा_JJ पाएगी_VB भाजपा_N_NNP की_IN सरकार_N_NN</s> 
+<s>राजस्थान_N_NNP में_IN मायावती_N_NNP बोलीं_V_VB जब_IN तक_IN बसपा_N_NNP के_IN प्रत्याशी_N_NN को_IN वोट_FW नहीं_RB डाल दें_V_VB, तब_RB तक_IN उपवास_N_NN रखें_V_VB</s>
+<s>राजस्थान_N_NNP में_IN पहले_RB चरण_N_NN में_IN कल_N_NN सीटों_FW पर_IN होगा_V_VB मतदान_N_NN, उम्मीदवार_N_NN लड़_V_VB रहे_V_VB है_V_VB चुनाव_N_NN</s>
+<s>टिकट_FW कटने_IN से_IN आहत_N_NN विधायक_N_NN भरी_JJ पंचायत_N_NN में_IN रोए_VB नए_RB प्रत्याशी_N_NN पहुंचे_V_VB ताे_IN कहा_V_VB मेरे_PRP साथ_RB गलत_JJ हुआ_VB</s>
+<s>हर बार_N_NN फीसदी_RB नेताओं_N_NN की_IN होती_V_VB है_V_VB जमानत_N_NN जब्त_V_VB, की_IN लहर_VB में_IN सबसे_PRP ज्यादा_RB ने_RB बचा_JJ ली_V_VB थी_V_VB जमानत_N_NN</s>
+<s>प्रचार_N_NN को_IN रफ्तार_N_NN देने_IN के_IN लिए_IN हरियाणा_N_NNP में_IN दिन_N_NN के_IN अंदर_RB रैलियां_FW करेंगे_V_VB भाजपा_N_NNP अध्यक्ष_N_NN अमित_N_NNP शाह_N_NNP</s>
+<s>पूर्व_JJ मुख्य_JJ मंत्री_N_NN वसुंधरा_N_NNP राजे को_IN सभा_N_NN में_IN सब्जियों_N_NNS, फल_N_NN और_CC फूल_N_NN की_IN माला_N_NN पहनाई_V_VB</s>
+<s>हरियाणा_N_NNP की_IN सीटों_FW पर_IN उम्मीदवार_N_NN उतरेंगे_V_VB मैदान_N_NN में_IN, ने_RB लिया_V_VB नामाकंन_N_NN वापिस_RB</s>
+<s>राइफल_N_NN, रिवाल्वर_N_NN और_CC पिस्टल_N_NN रखते_VB हैं_V_VB भूपेंद्र_N_NNP हुड्डा_N_NNP, अजय_N_NNP यादव_N_NNP के_IN पास_RB_JJ भी_RB हैं_V_VB हथियार_N_NN</s>
+<s>सरसों_N_NN खरीद_N_NN में_IN देरी_RB तो_IN किसानों_N_NNS ने_RB लगाया_VB जाम_N_NN, सुनीता_N_NNP दुग्गल_N_NNP फंसी_VB, मुर्दाबाद_JJ के_IN नारे_N_NN लगाए_VB</s>
+<s>अशोक_N_NNP तंवर_N_NNP की_IN जनसभा_N_NN में_IN उड़ा_N_NN तंबू_N_NN, आंधी में_IN कार्यकर्ता_N_NN पकड़े_VB खड़े_JJ रहे_V_VB</s>
+<s>मुख्य_JJ मंत्री_N_NN से_IN मुलाकात_N_NN के_IN बाद_CC भाजपा_N_NNP में_IN शामिल_JJ हुए_V_VB करनाल_N_NNP के_IN पूर्व_JJ कांग्रेस_N_NNP मंत्री_N_NN जयप्रकाश_N_NNP गुप्ता_N_NNP</s>
+<s>गहलोत_N_NNP के_IN बेटे_N_NN वैभव_N_NNP की_IN रैली_FW में_IN हुड्‌डा_N_NNP विश्नोई_N_NNP, इनके_PRP बेटे_N_NN भी_RB चुनाव_N_NN लड़_V_VB रहे_V_VB</s>
+<s>गांव_N_NN की_IN महिलाओं_N_NN ने_RB दुष्यंत_N_NNP का_IN इस_PRP$ अंदाज_N_NN में_IN स्वागत_N_NN, बस_N_NN खड़ेखड़े_JJ मुस्कुराते_JJ रहे_V_VB</s>
+<s>स्क्रूटनी_FW में_IN हरियाणा_N_NNP की_IN लोकसभा_N_NN सीटों_FW से_IN उम्मीदवारों_N_NN के_IN नामांकन_N_NN हुए_V_VB रद्द_JJ</s>
+<s>सिरसा_N_NNP से_IN इनेलो_N_NNP नेता_N_NN चरणजीत_V_VB रोडी_N_NNP की_IN कवरिंग_FW कैंडिडेट_FW का_IN नामांकन_N_NN हुआ_VB रद्द_JJ</s>
+<s>रोहतक_N_NNP के_IN जजपा_N_NNP प्रत्याशी_N_NN को_IN फोन_FW पर_IN लताड़_V_VB लगाकर_V_VB, बिना_RB नामांकन_N_NN करवाए_V_VB लौट_V_VB गए_V_VB अजय_N_NNP चौटाला_N_NNP</s>
+<s>आखिरी_JJ दिन_N_NN दिग्गजों_N_NN ने_RB किया_V_VB नामांकन_N_NN, सोनीपत_N_NNP से_IN भूपेंद्र_N_NNP हुड्डा_N_NNP और_CC दिग्विजय_N_NNP ने_RB भरा_JJ पर्चा_N_NN</s>
+<s>जीतने_V_VB से_IN पहले_RB ही_IN तंवर_N_NNP देने_IN लगे_JJ धमकी_V_VB, बोले_V_VB सरकार_N_NN आते_V_VB ही_IN एससी_FW और_CC एक्सईएन_FW को_IN करूंगा_V_VB सस्पेंड_FW</s>
+<s>भाजपा_N_NNP प्रत्याशी_N_NN अर्जुनराम_N_NNP मेघवाल_N_NNP ने_RB भरा_JJ नामांकन_N_NN, भाटी_N_NNP गुट_N_NN ने_RB विरोध_N_NN में_IN उड़ाए_V_VB काले_JJ गुब्बारे_N_NNS</s>
+<s>सुनीता_N_NNP दुग्गल_N_NNP के_IN आईपीएस_FW पति_N_NN की_IN कांग्रेस_N_NNP नेता_N_NN ने_RB चुनाव_N_NN आयोग_N_NN में_IN की_IN शिकायत_N_NN</s>
+<s>चुनाव_N_NN के_IN दिन_N_NN मतदाताओं_N_NN का_IN जन्मदिन_N_NN, चुनाव_N_NN आयोग_N_NN बनाएगा_V_VB ब्रांड_FW एंबेसडर_FW</s>
+<s>इनेलो_N_NNP ने_RB की_IN उम्मीदवारों_N_NN की_IN घोषणा_N_NN, चरणजीत_V_VB सिंह_N_NNP रोडी_N_NNP को_IN छोड़कर_V_VB सभी_JJ नए_RB चेहरे_N_NN उतारे_V_VB</s>
+<s>मुख्य_JJ मंत्री_N_NN ने_RB पूछा_V_VB चुनाव_N_NN के_IN समय_N_NN ही_IN बिजली_N_NN कटौती_N_NN क्यों_RB हो_V_VB रही_V_VB है_V_VB ऊर्जा_N_NN मंत्री_N_NN से_IN मांगी_V_VB एक_N_NN महीने_IN की_IN रिपोर्ट_FW</s>
+<s>छात्रों के_IN परिजनों_N_NNS ने_RB मतदान_N_NN बहिष्कार_N_NN के_IN पर्चे_N_NNS बांटे_V_VB, अब_RB घरघर_N_NN जाकर_V_VB वोट_FW नहीं_RB देने_IN की_IN करेंगे_V_VB अपील_FW</s>
+<s>वोटिंग_FW से_IN पहले_RB नमो_N_NN धुन_N_NN पर_IN नाचते_V_VB कश्मीरी_N_NNP का_IN वीडियो_FW</s>
+<s>'रोड_FW नहीं_RB तो_IN वोट_FW नहीं_RB', को_IN लेकर_V_VB ग्रामीणों_N_NNS ने_RB किया_V_VB मतदान_N_NN का_IN बहिष्कार_N_NN</s>
+<s>चुनावी_JJ मौसम_N_NN में_IN दिन_N_NN की_IN फरलो_FW पर_IN तिहाड़_N_NNP से_IN बाहर_RB आए_V_VB अजय_N_NNP, जजपा_N_NNP को_IN मिलेगा_V_VB_VB सीधे_RB फायदा_N_NN</s>
+<s>जो_IN करनाल_N_NNP और_CC सोनीपत_N_NNP में_IN रोड_FW शो_FW करके_V_VB आए_V_VB भाजपा_N_NNP ने_RB उन_PRP पर_IN थोप_V_VB दी_V_VB रोहतक_N_NNP की_IN सीट_FW दीपेंद्र_N_NNP</s>
+<s>भाजपा_N_NNP प्रत्याशी_N_NN बृजेंद्र_N_NNP ने_RB एक_N_NN दिन_N_NN पहले_RB दिया_V_VB वीआरएस_FW, बोले_V_VB पता_N_NN था_V_VB कि_IN देरसवेर_RB राजनीति_N_NN में_IN आना_V_VB है_V_VB</s>
+<s>इस_PRP$ गांव_N_NN में_IN गली_N_NN के_IN एक_N_NN तरफ_IN हरियाणा_N_NNP के_IN तो_IN दूसरी_N_NN तरफ_IN हैं_V_VB यूपी_FW के_IN वोटर_FW</s>
+<s>राजपरिवार_N_NN का_IN लंबे_RB समय_N_NN तक_IN रहा_V_VB कब्जा_N_NN, इस_PRP$ बार_N_NN भाजपा_N_NNP ने_RB रमन_N_NNP सिंह_N_NNP के_IN बेटे_N_NN का_IN टिकट_FW काटा_V_VB</s>
+<s>सचिन_N_NNP ने_RB मोदी_N_NNP से_IN मिल_N_NN चुनाव_N_NN के_IN लिए_IN समर्थन_N_NN दिया_V_VB</s>
+<s>धर्मगुरुओं_N_NNS ने_RB किया_V_VB कांग्रेस_N_NNP के_IN पक्ष_N_NN में_IN मार्च_FW सच_V_VB गुजरात_N_NNP कांग्रेस_N_NNP ने_RB तिरंगे_N_NN को_IN कांग्रेसी_N_NNP झंडा_N_NN बनाया_V_VB</s>
+<s>कांकेर_N_NNP को_IN कांग्रेस_N_NNP से_IN छीनकर_V_VB भाजपा_N_NNP ने_RB बनाया_V_VB था_V_VB गढ़_N_NN, अब_RB दरक_V_VB रही_V_VB दीवार_N_NN</s>
+<s>भाजपा_N_NNP नेताओं_N_NN ने_RB की_IN गुप्त_JJ बैठक_N_NN, रोहतक_N_NNP से_IN अरविंद_N_NNP शर्मा_N_NNP को_IN टिकट_FW दिए_V_VB जाने_V_VB का_IN किया_V_VB विरोध_N_NN</s>
+<s>राबड़ी__N_NNP ने_RB कहा_V_VB जदयू_N_NNP और_CC राजद_N_NNP के_IN विलय_N_NN का_IN प्रस्ताव_N_NN लेकर_V_VB आए_V_VB थे_V_VB प्रशांत_N_NNP किशोर_N_NNP</s>
+<s>कांग्रेस_N_NNP ने_RB तो_IN आकाश_N_NN, पाताल_N_NN और_CC जमीन_N_NN हर_IN जगह_RB जाकर_V_VB किया_V_VB भ्रष्टाचार_N_NN मनोहर_N_NNP लाल_N_NNP</s>
+<s>खुद_RB के_IN लिए_IN प्रचार_N_NN कर_V_VB रही_V_VB सुनीता_N_NNP दुग्गल_N_NNP ने_RB बांधे_V_VB देवीलाल_N_NNP की_IN तारीफ_N_NN के_IN पुल_N_NN</s>
+<s>जयपुर_N_NNP जिले में_IN धारा_N_NN लागू_V_VB, नौ_N_NN अप्रेल_N_NN की_IN मध्य_N_NN रात्रि से_IN मई_N_NNP तक_IN प्रभावी_JJ होगी_V_VB निषेधाज्ञा_N_NN</s>
+<s>भाजपा_N_NNP के_IN दो_N_NN लाख_N_NN पन्ना_N_NN प्रमुख_JJ संभालेंगे_V_VB चुनाव_N_NN की_IN जिम्मेदारी_N_NN</s>
+<s>कांग्रेस_N_NNP के_IN स्टार_FW प्रचारकों_N_NN की_IN सूची_N_NN जारी_V_VB, सोनिया_N_NNP राहुल_N_NNP गांधी_N_NNP सहित_RB दिग्गज_N_NN नेता_N_NN करेंगे_V_VB प्रचार_N_NN</s>
+<s>इनेलो_N_NNP मिनट_N_NN तो_IN बसपा_N_NNP मिनट_N_NN कर_V_VB सकेगी_V_VB दूरदर्शन_N_NN और_CC आकाशवाणी_N_NN पर_IN प्रचार_N_NN</s>
+<s>समर्थकों_N_NN से_IN चुनाव_N_NN चिन्ह_N_NN पर_IN बोले_V_VB दुष्यंत_N_NNP चौटाला_N_NNP अब_RB तो_IN मजबूरी_N_NN है_V_VB, इसी_PRP$ से_IN चुनाव_N_NN लड़ना_V_VB पड़ेगा_V_VB</s> 
+<s>वरुण_N_NNP गांधी_N_NNP के_IN खिलाफ_JJ रेवाड़ी_N_NNP के_IN वरुण_N_NNP गांधी_N_NNP मैदान_N_NN में_IN में_IN मिले_JJ थे_V_VB हजार_N_NN वोट_FW</s>
+<s>करनाल_N_NNP से_IN भाजपा_N_NNP का_IN टिकट_FW न मिलने_V_VB पर_IN अरविंद_N_NNP शर्मा_N_NNP कांग्रेस_N_NNP में_IN कर_V_VB सकते_V_VB हैं_V_VB वापसी_JJ, चर्चाएं_N_NN तेज_RB</s>
+<s>मुख्य_JJ निर्वाचन_N_NN पदाधिकारी_N_NN बोले_V_VB इनकम_FW टैक्स_FW कार्रवाई_N_NN की_IN जानकारी_N_NN हमें_PRP नहीं_RB दी_V_VB गई_V_VB</s>
+<s>पीएम_FW मोदी_N_NNP के_IN खिलाफ_JJ आचार_N_NN संहिता_N_NN उल्लंघन_N_NN का_IN आरोप_N_NN, सीएम_FW बघेल_N_NNP शिकायत_N_NN लेकर_V_VB पहुंचे_V_VB आयोग_N_NN</s>
+<s>नारियल_FW फोड़, तिलक_N_NN लगवाकर_V_VB नक्सल_FW प्रभावित_JJ इलाकों_N_NNS में_IN निकली_V_VB पोलिंग_FW पार्टियां_FW</s>
+<s>नदी पर_IN पुल_N_NN नहीं_RB बनने_IN से_IN गांवों_N_NNS के_IN मतदाताओं_N_NN का_IN चुनाव_N_NN के_IN बहिष्कार_N_NN का_IN ऐलान_N_NN</s>
+<s>हुड्डा_N_NNP के_IN गढ़_N_NN में_IN भाजपा_N_NNP ने_RB बनाया_V_VB हाईटैक_FW चुनावी_JJ वार_FW रूम_FW, प्रदेशाध्यक्ष_N_NN ने_RB किया_V_VB शुभारंभ_JJ</s>
+<s>इनेलो_N_NNP नेता_N_NN अभय_N_NNP_N_NNP चौटाला_N_NNP ने_RB मुख्य_JJ मंत्री_N_NN खट्टर_N_NNP से_IN मुलाकात_N_NN की, सियासी_JJ चर्चाएं_N_NN तेज_RB</s>
+<s>अलगाववादी_N_NNP संगठनों_N_NNS के_IN समर्थन_N_NN में_IN आए_V_VB नक्सली_FW, लगाए_VB बैनरपोस्टर_FW</s>
+<s>छत्तीसगढ़_N_NNP में_IN आज_RB से_IN भाजपा_N_NNP का_IN चुनावी_JJ शंखनाद_N_NN, बस्तर_N_NNP में_IN पहली_N_NN जनसभा_N_NN शिवराज_N_NN की_IN</s>
+<s>अजीत_N_NNP जोगी_N_NNP नहीं_RB लड़ेंगे_V_VB चुनाव_N_NN, अब_RB सभी_JJ सीटों_FW पर_IN बसपा_N_NNP ने_RB उतारे_V_VB उम्मीदवार_N_NN</s>
+<s>प्रथम_V_VB चरण_N_NN के_IN चुनाव_N_NN के_IN लिए_IN अप्रेल_N_NN से_IN भरे_RB जाएंगे_V_VB नामांकन_N_NN, अप्रेल_N_NN तक_IN दाखिल_JJ होंगे_V_VB</s>
+<s>तमिलनाडु_N_NNP में_IN चुनाव_N_NN प्रेक्षक_N_NN ड्यूटी_FW पर_IN राउंड_FW फायर_FW करने_V_VB वाले_IN हरियाणा_N_NNP के_IN डीआईजी_FW सस्पेंड_FW</s>
+<s>कांग्रेस_N_NNP महज_RB दिखावे_N_NN के_IN लिए_IN एकजुट_RB होकर_V_VB दिखा_V_VB रही_V_VB, वे_PRP मान_N_NNP चुके_V_VB कि_IN कहा_V_VB गए_V_VB हैं_V_VB कलराज_N_NN मिश्र_N_NNP</s>
+<s>सीएम_FW ने_RB गिफ्ट में_IN पीएम_FW मोदी_N_NNP को_IN भेजा_V_VB आईना_N_NN, लिखा_JJ इसमें_PRP$ असली_JJ चेहरा_N_NN पहचानने_IN की_IN कोशिश_N_NN करें_V_VB</s>
+<s>भोपाल_N_NNP से_IN प्रत्याशी_N_NN तय_JJ करने_V_VB में_IN भाजपा_N_NNP को_IN आ रहा_V_VB पसीना_N_NN. वो_IN अखबार_N_NN में_IN विज्ञापन_N_NN निकालें_V_VB कमलनाथ_N_NNP</s>
+<s>उमाभारती ने_RB कहा_V_VB दिग्विजय_N_NNP सिंह_N_NNP के_IN भ्रष्टाचार_N_NN साबित_JJ करने_V_VB का_IN मुझे_PRP मौका_N_NN ही_IN नहीं_RB मिला_V_VB</s>
+<s>विधानसभा_N_NN चुनाव_N_NN में_IN सीट_FW मिली_V_VB तो_IN धनबाद_N_NNP छोड़_V_VB सकती_VB है_V_VB एमसीसी_FW, एक_N_NN अप्रैल_N_NN को_IN फाइनल_FW निर्णय_N_NN</s>
+<s>ऑटोरिक्शा_FW पर_IN मतदाता_N_NN जागरुकता_JJ पोस्टर_FW लगाकर_V_VB किया_V_VB रवाना_V_VB, शहरवासियों_N_NNS को_IN करेंगे_V_VB वोट_FW के_IN लिए_IN प्रेरित_JJ</s>
+<s>इलेक्शन_FW ट्रेनिंग_FW में_IN अनुपस्थित_JJ रहने_IN पर_IN गिरीगाज_N_NNP, सहायक_JJ प्रशासनिक_JJ अधिकारी_N_NN निलम्बित_V_VB</s>
+<s>प्रधानमंत्री_N_NN मोदी_N_NNP ट्रांजिट_FW विजिट_FW पर_IN पहुंचेंगे_V_VB जगदलपुर_N_NNP, भाजपा_N_NNP पदाधिकारियों_N_NNS की_IN लेंगे_V_VB बैठक_N_NN</s>
+<s>भाजपा_N_NNP का_IN मार्च_N_NN से_IN हर_IN जिले में_IN 'मैं_IN भी_RB चौकीदार_N_NN' कार्यक्रम_N_NN होगा_V_VB शुरू_JJ</s>
+<s>राष्ट्रीय_JJ सुरक्षा_N_NN के_IN मामले_N_NN पर_IN देश_N_NN को_IN एकजुट_JJ होने_V_VB की_IN जरूरत_N_NN नीरा_N_NNP यादव_N_NNP</s>
+<s>नक्सली_FW एरिया_FW में_IN पकड़ा_V_VB गया_JJ टन_FW विस्फोटक_N_NN से_IN भरा_JJ ट्रक_FW, इससे_PRP$ बन_V_VB सकते_V_VB हैं_V_VB सैकड़ों_JJ लैंडमाइन_FW</s>
+<s>भाजपा_N_NNP की_IN मजबूत_JJ सीटों_FW पर_IN कांग्रेस_N_NNP के_IN लिए_IN प्रचार_N_NN करने_V_VB मार्च_N_NN को_IN हरियाणा_N_NNP आएंगे_VB राहुल_N_NNP</s>
+<s>पीएम_FW मोदी_N_NNP की_IN बायोपिक_FW रिलीज_FW रोकने_IN की_IN मांग_V_VB, इलेक्शन_FW कमीशन_FW को_IN भेजा_V_VB पत्र_N_NN</s>
+<s>कभी_PRP लहराता_JJ था_V_VB निर्दलियों_N_NNS का_IN झंडा_N_NN, कांग्रेस_N_NNP ने_RB तोड़ा_V_VB वर्चस्व_N_NN, पर_IN साल_N_NN से_IN नहीं_RB मिला_V_VB हाथ_N_NN को_IN साथ_RB</s>
+<s>ड्यूटी_FW से_IN मुक्ति_N_NN पाने_IN आए_V_VB ऐसे_PRP$ आवेदन_N_NN, लिखा_JJ घर_N_NN में_IN शादी_N_NN है_V_VB, शुगर_FW हो_V_VB गई_V_VB बख्श_V_VB दो</s>
+<s>गोड्डा_N_NNP से_IN प्रत्याशी_N_NN नहीं_RB बनाए_V_VB जाने_V_VB पर_IN फुरकान_N_NNP अंसारी_N_NNP नाराज_JJ, कहा_V_VB कॉरपोरेट_FW की_IN तरह_IN चला रहे_V_VB संगठन_N_NN</s>
+<s>भाजपा_N_NNP प्रत्याशी_N_NN चौहान_N_NNP का_IN किया_V_VB सम्मान_N_NN, कांग्रेस_N_NNP जिलाध्यक्ष_N_NN बोले_V_VB चुनावी_JJ खर्च_N_NN में_IN जुड़े_RB समारोह_N_NN खर्च_N_NN</s>
+<s>भाजपा_N_NNP की_IN विजय_N_NNP संकल्प_N_NN सभा_N_NN में_IN सांसद_N_NN बोहरा_N_NNP व_IN पूर्व_JJ एमएलए_FW वर्मा_N_NNP के_IN समर्थकों_N_NN का_IN हंगामा_N_NN</s>
+<s>विजय_N_NNP संकल्प_N_NN सभा_N_NN से_IN वोटर_FW साधेगी_V_VB भाजपा_N_NNP, उमा_N_NNP भारती_N_NNP और_CC संबित_N_NNP पात्रा_N_NNP पहुंचेंगे_V_VB हरियाणा_N_NNP</s>
+<s>भोपाल_N_NNP से_IN दिग्विजय_N_NNP के_IN लड़ने_IN से_IN रोचक_JJ होगा_V_VB मुकाबला_N_NN भाजपा_N_NNP नरेंद्र_N_NNP सिंह_N_NNP तोमर_N_NNP पर_IN लगा_V_VB सकती_VB है_V_VB दांव_N_NN</s>
+<s>स्टेडिंग_FW कमेटी_FW की_IN बैठक_N_NN में_IN कलेक्टर_FW ने_RB दिए_V_VB आदर्श_JJ आचार_N_NN संहिता_N_NN के_IN सख्ती से_IN पालन के_IN आदेश_N_NN</s>
+<s>बस्तर_N_NNP लोकसभा_N_NN क्षेत्र के_IN लिए_IN आज_RB से_IN नामांकन_N_NN, पहले_RB चरण_N_NN के_IN लिए_IN अधिसूचना_N_NN जारी_V_VB</s>
+<s>चाय_N_NN पिलाने_IN पर_IN और_CC समोसा_N_NN खिलाने_IN पर_IN खर्च_N_NN में_IN जुड़ेंगे_V_VB</s>
+<s>आपको_IN इंदौर_N_NNP में_IN भी_RB बहुत_JJ मजबूत_JJ प्रत्याशी_N_NN मिलने_V_VB वाला_V_VB है_V_VB, आप_PRP बेफिक्र_N_NN रहिए_V_VB प्रियंका_N_NNP गांधी_N_NNP वाड्रा_N_NNP</s>
+<s>कमलनाथ_N_NNP बोले_V_VB दिग्विजय_N_NNP को_IN प्रदेश_N_NN की_IN सबसे_PRP कठिन_JJ सीट_FW पर_IN चुनाव_N_NN लड़ना_V_VB चाहिए_V_VB</s>
+<s>भाजपा_N_NNP की_IN विधानसभा_N_NN चुनाव_N_NN के_IN परिणाम_N_NN ने_RB बढाई_RB मुश्किलें_N_NNS</s>
+<s>दिव्यांग_JJ हैं_V_VB तो_IN एप_FW से_IN चुनाव_N_NN आयोग_N_NN को_IN दें_V_VB सूचना_N_NN, बीएलओ_FW पहुंचेगा_V_VB घर_N_NN</s>
+<s>अजय_N_NNP सिंह_N_NNP के_IN खिलाफ_JJ चुनाव_N_NN याचिका_N_NN में_IN गवाही_N_NN पूरी_V_VB, अब_RB सुप्रीम_JJ कोर्ट_NNP के_IN फैसले_N_NN के_IN बाद_RB होगी_V_VB सुनवाई_V_VB</s>
+<s>लोकसभा_N_NN चुनाव_N_NN नहीं_RB लड़ेंगे_V_VB पूर्व_JJ मंत्री_N_NN मुकेश_N_NNP नायक_N_NNP, कहा_V_VB जानता_V_VB हूं_V_VB कहा_V_VB जाऊंगा_V_VB</s>
+<s>बर्खास्त_JJ आईपीएस_FW पंकज_N_NNP चौधरी_N_NNP ने_RB लोकसभा_N_NN चुनाव_N_NN लड़ने_IN का_IN किया_V_VB ऐलान_N_NN</s>
+<s>हरियाणा_N_NNP में_IN अप्रैल_N_NN तक_IN भरे_RB जा_IN सकेंगे_RB नामांकन_N_NN, को_IN लिए_IN जाएंगे_V_VB वापिस_RB</s>
+<s>राहुल_N_NNP ने_RB दूसरे_N_NN दिन_N_NN वायनाड_N_NNP में_IN रोड_FW शो_FW किया_V_VB, कहा_V_VB मोदी_N_NNP सरकार_N_NN देश_N_NN में_IN नफरत_N_NN फैला_V_VB रही_V_VB</s>
+<s>शरद_N_NNP पवार_N_NNP ने_RB कहा_V_VB राकांपा_N_NNP कार्यकर्ता_N_NN चुनाव_N_NN प्रचार_N_NN में_IN संघ_N_NN के_IN दृढ़_JJ निश्चय_N_NN से_IN सीख_V_VB लें_V_VB</s>
+<s>चुनाव_N_NN आयोग_N_NN ने_RB कहा_V_VB विधानसभा_N_NN चुनाव_N_NN की_IN तारीखों_N_NNS का_IN ऐलान_N_NN अमरनाथ_N_NNP यात्रा_N_NN के_IN बाद_RB होगा_V_VB</s>
+<s>मायावती_N_NNP ने_RB सपा_N_NNP के_IN साथ_RB गठबंधन_N_NN तोड़ा_V_VB, कहा_V_VB अकेले_JJ उपचुनाव_N_NN लड़ेंगे_V_VB अखिलेश_N_NNP बोले_V_VB अलग_RB रास्ते_N_NN का_IN स्वागत_N_NN</s>
+<s>सोनिया_N_NNP चौथी_V_VB बार_N_NN संसदीय_N_NN दल_N_NN की_IN नेता_N_NN बनीं_V_VB, कहा_V_VB हम_PRP दोबारा_RB उठ_V_VB खड़े_JJ होंगे_V_VB</s>
+<s>एनडीए_FW में_IN मंत्रियों_N_NNS की_IN औसत_JJ उम्र_N_NN साल_N_NN, यूपीए_FW की_IN तुलना_N_NN में_IN साल_N_NN कम_RB हरसिमरत_N_NNP सबसे_PRP अमीर_JJ</s>
+<s>शाह_N_NNP को_IN गृह_N_NN और_CC राजनाथ_N_NNP को_IN रक्षा_N_NN इंदिरा_N_NNP गांधी_N_NNP के_IN साल_N_NN बाद_RB निर्मला_N_NNP पहली_N_NN महिला_N_NN जो_IN वित्तमंत्री_N_NN बनीं_V_VB</s>
+<s>में_IN मंत्रियों_N_NNS ने_RB शपथ_N_NN ली_V_VB थी_V_VB, इस_PRP$ बार_N_NN, इनमें_PRP$ नए_RB चेहरे_N_NN कैबिनेट_FW, स्वतंत्र_JJ प्रभार_N_NN और_CC राज्यमंत्री_N_NN</s>
+<s>राहुल_N_NNP ने_RB इस्तीफा_N_NN वापस_RB लेने_V_VB से_IN इनकार_N_NN किया_V_VB, कहा_V_VB नए_RB पार्टी_FW अध्यक्ष_N_NN की_IN मदद_N_NN करूंगा_V_VB</s>
+<s>कांग्रेस_N_NNP ने_RB प्रवक्ता_N_NN से_IN कहा_V_VB एक_N_NN महीने_IN तक_IN टीवी_FW डिबेट_FW में_IN न_IN जाएं_V_VB</s>
+<s>राष्ट्रपति_N_NN भवन_N_NN में_IN हजार_N_NN मेहमान_N_NNP आएंगे_VB घंटे_N_NNS पहले_RB से_IN पक_V_VB रही_V_VB है_V_VB खास_JJ डिश_FW 'दाल_N_NN रायसीना_N_NNP'</s>
+<s>ममता_N_NNP ने_RB मोदी_N_NNP के_IN शपथ_N_NN ग्रहण_N_NN में_IN जाने_V_VB से_IN इनकार_N_NN किया_V_VB, तृणमूल_N_NNP समर्थकों_N_NN के_IN लिए_IN धरना_V_VB देंगी_V_VB</s>
+<s>राहुल_N_NNP ने_RB दिया_V_VB एक_N_NN अध्यक्ष_N_NN और_CC दो_N_NN उपाध्यक्षों_N_NNS का_IN सुझाव_N_NN, चर्चा_N_NN में_IN सिंधिया_NNP और_CC वेणुगोपाल_N_NNP के_IN नाम_N_NN</s>
+<s>उप्र_N_NNP में_IN सीटें_FW जिताने_IN वाले_IN नड्डा_N_NNP बन_V_VB सकते_V_VB हैं_V_VB अध्यक्ष_N_NN, में_IN यहां_PRP शाह_N_NNP ने_RB दिलाई_N_NN थीं_V_VB सीटें_FW</s>
+<s>कैबिनेट_FW को_IN लेकर_V_VB मोदी_N_NNP शाह_N_NNP ने_RB की_IN घंटे_N_NNS बैठक_N_NN, प्रधानमंत्री_N_NN के_IN साथ_RB मंत्री_N_NN ले_VB सकते_V_VB हैं_V_VB शपथ_N_NN</s>
+<s>शपथ_N_NN ग्रहण_N_NN से_IN पहले_RB मोदी_N_NNP से_IN मिले_JJ शाह_N_NNP मंत्रिमंडल_N_NN मानकों_N_NN पर_IN बनेगा_V_VB, विशेषज्ञ_N_NN होंगे_V_VB</s>
+<s>बड़े_JJ नेताओं_N_NN की_IN कहा_V_VB के_IN बाद_CC लोकसभा_N_NN में_IN नेता_N_NN के_IN चयन_V_VB का_IN संकट_N_NN, थरूर_N_NNP बोले_V_VB जिम्मेदारी_N_NN लेने_V_VB को_IN तैयार_JJ</s>
+<s>मोदी_N_NNP की_IN जीत_V_VB के_IN बाद_CC उन्हीं के_IN गुजरात_N_NNP में_IN बवाल_N_NN, सूरत_N_NNP के_IN लोग_N_NN ईवीएम_FW के_IN विरोध_N_NN में_IN सड़कों_N_NN पर_IN उतरे_V_VB</s>
+<s>प्रणब_N_NNP से_IN मिलने_V_VB पहुंचे_V_VB मोदी_N_NNP, पूर्व_JJ राष्ट्रपति_N_NN ने_RB प्रधानमंत्री_N_NN को_IN मिठाई_N_NN खिलाई_V_VB</s>
+<s>राहुल_N_NNP इस्तीफे_N_NN पर_IN अड़े_V_VB, ‘पुत्र_N_NN मोह’ विवाद_N_NN पर_IN राजस्थान_N_NNP के_IN मंत्रियों_N_NNS ने_RB कहा_V_VB कहा_V_VB की_IN जिम्मेदारी_N_NN तय_JJ हो</s>
+<s>पश्चिमी_JJ उप्र_N_NNP में_IN कांग्रेस_N_NNP के_IN में_IN प्रत्याशियों_N_NN की_IN जमानत_N_NN जब्त_V_VB, इनमें_PRP$ राज_N_NN बब्बर_N_NNP सलमान_N_NNP खुर्शीद_N_NNP भी_RB</s>
+<s>मोदी_N_NNP ने_RB कहा_V_VB बनारसी_N_NNP पान_N_NN की_IN पीक_N_NN थूककर_V_VB भारत_N_NNP माता_N_NN का_IN जयकारा_N_NN लगाना_V_VB सही_IN नहीं_RB</s>
+<s>सोनिया_N_NNP ने_RB रायबरेली_N_NNP के_IN मतदाताओं_N_NN को_IN लिखा_JJ पत्र_N_NN, कहा_V_VB सर्वस्व_JJ कुर्बान_N_NN करने_V_VB में_IN पीछे_RB नहीं_RB हटूंगी_V_VB</s>
+<s>नशे_N_NN में_IN झूमते_V_VB दिल्ली_N_NNP सीएम_FW केजरीवाल_N_NNP का_IN वीडियो_FW_FW वायरल_FW, लेकिन_CC असल_JJ में_IN एडिटिंग_FW से_IN हुआ_VB है_V_VB ये_IN हाल_JJ</s>
+<s>क्या_PRP$ इंडोनेशिया_N_NNP के_IN राष्ट्रपति_N_NN ने_RB पीएम_FW मोदी_N_NNP को_IN सम्मान_N_NN देने_IN के_IN लिए_IN अपने_IN पोते_N_NN का_IN नाम_N_NN श्रीनरेंद्र_N_NNP रखा_V_VB?</s>
+<s>क्या_PRP$ चुनाव_N_NN जीतने_V_VB के_IN बाद_CC पीएम_FW मोदी_N_NNP कर_V_VB रहे_V_VB घूमने_IN की_IN तैयारी_N_NN? वायरल_FW फोटो में_IN दिख_V_VB रहा_V_VB ऐसा_RB</s>
+<s>मोदी_N_NNP की_IN जीत_V_VB की_IN खुशी में_IN न्यूयॉर्क_N_NNP और_CC कनाडा_N_NNP की_IN सड़कों_N_NN पर_IN हुई_V_VB नोटों_N_NNS की_IN बरसातN_N_NN?</s>
+<s>क्या_PRP$ बड़ी_JJ जीत_V_VB के_IN बाद_CC मोदी_N_NNP सरकार_N_NN ने_RB किया_V_VB हजार_N_NN देने_IN का_IN वादा_N_NN?</s>
+<s>क्या_PRP$ यूपी_FW की_IN सीटों_FW पर_IN भाजपा_N_NNP प्रत्याशियों_N_NN को_IN मिले_JJ एक_N_NN जैसे_RB वोट_FW?</s>
+<s>पूर्व_JJ प्रधान_N_NN की_IN हत्या_N_NN स्मृति_N_NNP ने_RB अर्थी_N_NN को_IN कंधा_N_NN दिया_V_VB, दोषियों_N_NN को_IN मौत_V_VB की_IN सजा_V_VB दिलाने_IN की_IN शपथ_N_NN ली_V_VB</s>
+<s>इंजीनियरिंग_FW ग्रेजुएट_FW चंद्राणी_N_NNP देश_N_NN की_IN सबसे_PRP युवा_N_NN_JJ सांसद_N_NN, बार_N_NN जीते_V_VB भाजपा_N_NNP प्रत्याशी_N_NN को_IN हराया_V_VB</s>
+<s>स्टालिन_N_NNP ने_RB कहा_V_VB यह_PRP$ देश_N_NN सिर्फ_RB हिंदी_N_NN भाषी_N_NN राज्यों_N_NNS का_IN नहीं_RB, केंद्र_N_NN किसी_PRP$ की_IN अनदेखी_JJ न_IN करे_V_VB</s>
+<s>मोदी_N_NNP की_IN जीत_V_VB के_IN बाद_CC वायरल_FW खबरें_N_NNS ब्रिटेन_N_NNP की_IN बसों_N_NNS पर_IN लिखा_JJ ‘वेलकम_FW मोदीजी_N_NNP’, गुजराती_N_NNP व्यक्ति_N_NN ने_RB डॉलर_FW उड़ाए_V_VB</s>
+<s>राजद_N_NNP की_IN कहा_V_VB से_IN लालू_N_NNP तनाव_N_NN में_IN, दिन_N_NN का_IN खाना_N_NN छोड़ा_V_VB डॉक्टरों_FW ने_RB काउंसलिंग_FW शुरू_JJ की_V_VB</s>
+<s>अमित_N_NNP शाह_N_NNP का_IN नाम_N_NN तीन_N_NN मंत्रालयों_N_NNS के_IN लिए_IN चर्चा_N_NN में_IN, लेकिन_CC सरकार_N_NN में_IN शामिल_JJ होने_V_VB की_IN संभावना_N_NN कम_RB</s>
+<s>शाह_N_NNP चुनाव_N_NN लड़_V_VB चुके_V_VB, एक_N_NN भी_RB नहीं_RB हारे_VB कार्यकर्ताओं_N_NNS से_IN फोन_FW पर_IN कहते_V_VB हैं_V_VB दोस्त_N_NN बोल_V_VB रहा_V_VB हूं_V_VB</s>
+<s>भाजपा_N_NNP ने_RB में_IN जीती_V_VB सीटें_FW गंवाईं_V_VB, नई_JJ जोड़ीं_V_VB कांग्रेस_N_NNP ने_RB अपनी_PRP सीटें_FW बचाईं_V_VB</s>
+<s>पिछली_JJ बार_N_NN सीटें_FW जीतने_V_VB वाले_IN दल_N_NN इस_PRP$ बार_N_NN खाता_N_NN नहीं_RB खोल_V_VB पाए_V_VB लालू_N_NNP चौटाला_N_NNP परिवार_N_NN के_IN सदस्य_N_NN भी_RB हारे_VB</s>
+<s>मोदी_N_NNP की_IN सांसदों_N_NNS को_IN नसीहत_N_NN बड़बोलेपन_JJ से_IN बचें_V_VB, इस_PRP से_IN हमारी_PRP$ परेशानी_N_NN बढ़ती_V_VB है_V_VB</s>
+<s>मोदी_N_NNP का_IN नया_JJ नारा_N_NN सब_PRP का_IN साथ_RB सब_PRP का_IN विकास_N_NN के_IN बाद_RB अब_RB सबका_PRP विश्वास_N_NN</s> 
+<s>दिग्विजय_N_NNP के_IN लिए_IN अनुष्ठान_N_NN का_IN दावा_N_NN करने_V_VB वाले_IN स्वामी_N_NN वैराग्यानंद_N_NNP को_IN निरंजनी_N_NNP अखाड़े_N_NNP ने_RB हटाया_V_VB</s>
+<s>उप्र_N_NNP कांग्रेस_N_NNP अध्यक्ष_N_NN राज_N_NNP बब्बर_N_NNP समेत_RB पदाधिकारियों_N_NNS ने_RB राहुल_N_NNP को_IN इस्तीफा_N_NN भेजा_V_VB</s>
+<s>भाजपा_N_NNP पहली_JJ बार_N_NN के_IN स्मृति_N_NNP से_IN हारे_VB राहुल_N_NNP, साल_N_NN बाद_CC अमेठी_N_NNP में_IN गांधी_N_NNP परिवार_N_NN के_IN सदस्य_N_NN की_IN कहा_V_VB</s>
+<s>होटल_FW में_IN खाना_N_NN परोसते_V_VB नजर_N_NN आए_V_VB टीडीपी_N_NNP वाले_IN चंद्रबाबू_N_NNP नायडू_N_NNP, फिल्ममेकर_FW रामगोपाल_N_NNP वर्मा_N_NNP ने_RB लिखा_JJ 'प्रजेंट_FW पोजिशन_FW'</s>
+<s>कांग्रेस_N_NNP, सपाबसपा_N_NNP के_IN साथ_RB मिलकर_V_VB लड़ती_V_VB तो_IN भाजपा_N_NNP की_IN सीटें_FW कम_RB_RB हो_V_VB जातीं_V_VB</s> 
+<s>मोदी_N_NNP के_IN ज्यादातर_RB मंत्री_N_NN जीते_V_VB, मनोज_N_NNP सिन्हा_N_NNP समेत_RB तीन_N_NN की_IN पराजय_V_VB</s>
+<s>मप्र_N_NNP राजस्थान_N_NNP समेत_RB राज्यों_N_NNS में_IN एनडीए_FW को_IN सीटें_FW, पिछली_JJ बार_N_NN से_IN ज्यादा_RB</s>
+<s>जगन_N_NNP बोले_V_VB भाजपा_N_NNP से_IN टाईअप_FW नहीं_RB, लेकिन_CC राज्य_N_NN के_IN विकास_N_NN के_IN लिए_IN किसी_PRP$ से_IN भी_RB हाथ_N_NN मिलाऊंगा_V_VB</s>
+<s>एनडीए_FW की_IN बैठक_N_NN में_IN मोदी_N_NNP ने_RB कहा_V_VB विपक्ष_N_NN बेवजह_N_NN ईवीएम_FW पर_IN विवाद_N_NN खड़ा_JJ कर_V_VB रहा_V_VB</s>
+<s>विपक्षी_N_NN दलों_N_NNS ने_RB चुनाव_N_NN आयोग_N_NN से_IN कहा_V_VB वीवीपैट_FW का_IN मिलान_V_VB वोटों_FW की_IN गिनती_V_VB से_IN पहले_RB हो_V_VB</s>
+<s>शिवसेना_N_NNP ने_RB कहा_V_VB राहुल_N_NNP, प्रियंका_N_NNP ने_RB खूब_JJ मेहनत_N_NN की_V_VB, कांग्रेस_N_NNP संसद_N_NN में_IN मजबूत_JJ विपक्ष_N_NN बनेगी_V_VB</s>
+<s>भोपाल_N_NNP में_IN दिग्विजय_N_NNP से_IN आगे_RB प्रज्ञा_N_NNP, अमेठी_N_NNP में_IN राहुल_N_NNP को_IN स्मृति_N_NNP से_IN कड़ी_JJ टक्कर_N_NN</s>
+<s>साल_N_NN में_IN शेषन_N_NNP ने_RB बदल_N_NN दी_V_VB थी_V_VB पूरी_JJ तस्वीर_N_NN, पूर्व_JJ सीईसी_FW ने_RB कहा_V_VB उनके_PRP दौर_N_NN से_IN आज_RB की_IN तुलना_N_NN संभव_JJ नहीं_RB</s>
+<s>कांग्रेस_N_NNP विधायक_N_NN बेग_N_NNP ने_RB पार्टी_FW छोड़ने_V_VB के_IN संकेत_N_NN दिए_V_VB, कहा_V_VB एनडीए_FW की_IN सरकार_N_NN बने_V_VB तो_IN मुस्लिम_N_NN समझौता_N_NN करें_V_VB</s>
+<s>क्या_PRP$ अमेठी_N_NNP में_IN स्मृति_N_NNP ईरानी_N_NNP ने_RB करवाई_V_VB ईवीएम_FW चोरी_N_NN</s>
+<s>भाजपा_N_NNP में_IN मोदी_N_NNP के_IN बाद_RB योगी_N_NN दूसरे_JJ नंबर_FW के_IN स्टार_FW प्रचार_N_NN, जनसभाएं_N_NNS कीं_V_VB</s>
+<s>सात_N_NN दलों_N_NNS ने_RB नतीजों_N_NN से_IN पहले_RB ही_IN ईवीएम_FW पर_IN सवाल_N_NN उठाए_V_VB, चंद्रबाबू_N_NNP के_IN नेतृत्व_N_NN में_IN आज_RB आयोग_N_NN से_IN मुलाकात_N_NN करेंगे_V_VB</s>
+<s>मोदी_N_NNP की_IN राहुल_N_NNP से_IN गुना_N_NNP ज्यादा_RB सर्चिंग_FW, प्रियंका_N_NNP ममता_N_NNP से_IN आगे_RB मायावती_N_NNP</s>
+<s>कांग्रेस_N_NNP ने_RB कहा_V_VB सिद्धू_N_NNP पर_IN लोकसभा_N_NN चुनाव_N_NN के_IN नतीजों_N_NNS के_IN बाद_CC कार्रवाई_N_NN होगी_V_VB</s>
+<s>अब_PRP तक_IN सिर्फ_RB में_IN ऐसा_RB हुआ_VB, जब_IN एग्जिट_FW पोल्स_FW पूरी_JJ गलत_JJ साबित_V_VB हुए_V_VB योगेंद्र_N_NNP यादव_N_NNP</s>
+<s>चंद्रबाबू_N_NNP ने_RB ममता_N_NNP से_IN मुलाकात_N_NN की_V_VB, अखिलेश_N_NNP मायावती_N_NNP के_IN बीच_IN वार्ता_N_NN हुई_V_VB</s>
+<s>भाजपा_N_NNP की_IN चुनाव_N_NN आयोग_N_NN से_IN मांग_N_NN हिंसा_N_NN प्रभावित_JJ मतदान_N_NN केंद्रों_N_NNS पर_IN दोबारा_RB वोटिंग_FW हो_V_VB</s> 
+<s>ममता_N_NNP ने_RB एग्जिट_FW पोल्स_FW को_IN गॉसिप_FW बताया_V_VB, कहा_V_VB यह_PRP सिर्फ_RB ईवीएम_FW में_IN गड़बड़ी_JJ का_IN गेम_FW प्लान_FW</s>
+<s>पटनायक_N_NNP के_IN गढ़_N_NN में_IN सेंध_N_NNP लगा_V_VB सकती_VB है_V_VB भाजपा_N_NNP, पंजाब_N_NNP में_IN कांग्रेस_N_NNP के_IN अच्छे_JJ प्रदर्शन_N_NN की_IN उम्मीद_N_NN</s>
+<s>महिला_N_NN और_CC युवा_N_NN वोटर_FW ने_RB मोदी_N_NNP को_IN फिर_RB से_IN बनाया_V_VB प्रधानमंत्री_N_NN</s>
+<s>मोदी_N_NNP को_IN इमरान_N_NNP जिनपिंग_N_NNP ने_RB दी_V_VB बधाई_N_NN, नेतन्याहू_N_NNP बोले_V_VB महान_JJ लोकतंत्र_N_NN को_IN चलाने_V_VB की_IN जीत_N_NN</s>
+<s>ज्यादा_JJ फायदा_N_NN बसपा_N_NNP द्रमुक_N_NNP को_IN, कांग्रेस_N_NNP का_IN प्रदेशों_N_NNS में_IN खाता_N_NN नहीं_RB खुला_V_VB</s>
+<s>मोदी_N_NNP की_IN रैलियों_FW से_IN भाजपा_N_NNP सीटों_FW पर_IN जीती_V_VB राहुल_N_NNP ने_RB सभाएं_N_NN कीं_V_VB, कांग्रेस_N_NNP को_IN सिर्फ_RB सीटों_FW पर_IN फायदा_N_NN</s>
+<s>मुस्लिम_N_NN मतदाताओं_N_NNS के_IN असर_N_NN वाली_V_VB सीटें_FW, भाजपा_N_NNP ने_RB जीतीं_V_VB, कांग्रेस_N_NNP को_IN सीटें_FW</s>
+<s>भाजपा_N_NNP को_IN गुजरात_N_NNP और_CC राजस्थान_N_NNP में_IN पूरी_JJ सीटें_FW मिलीं_V_VB बंगाल_N_NNP में_IN से_IN बढ़कर_V_VB पर_IN पहुंची_V_VB</s> 
+<s>नतीजों_N_NNS से_IN पहले_RB मायावती_N_NNP ने_RB प्रधानमंत्री_N_NN बनने_V_VB की_IN इच्छा_N_NN जताई_V_VB रिपोर्ट_FW</s> 
+<s>शाह_N_NNP ने_RB कहा_V_VB ईवीएम_FW का_IN विरोध_N_NN जनादेश_N_NNP का_IN अनादर_N_NN, लोकतंत्र_N_NN की_IN छवि_N_NN धूमिल_N_NN कर_V_VB रहे_V_VB विपक्षी_JJ दल_N_NN</s>
+<s>राहुल_N_NNP ने_RB कार्यकर्ताओं_N_NNS से_IN कहा_V_VB फर्जी_JJ एग्जिट_FW पोल_FW के_IN दुष्प्रचार_N_NN से_IN निराश_JJ ना_RB हों_V_VB, पार्टी_FW पर_IN विश्वास_N_NN रखें_V_VB</s>
+<s>हिंदू_N_NN कट्टरपंथियों_N_NNS से_IN माफी_N_NN मांग_V_VB कर_V_VB मैं_PRP मुल्ला_N_NN लोगों_N_NNS का_IN फायदा_N_NN नहीं_RB कर_V_VB सकता_V_VB जावेद_N_NNP अख्तर_N_NNP</s>
+<s>प्रेडिक्ट_FW एंड_FW विन_FW किसे_WDT, कितनी_WDT सीटें_FW मिलेंगी_V_VB, बताइए_V_VB और_IN जीतिए_V_VB इनाम_N_NN भास्कर_N_NNP एप_FW पर_IN</s>
+<s>एनडीए_FW को_IN और_CC यूपीए_FW को_IN सीटें_FW, उप्र_N_NNP में_IN भाजपा_N_NNP को_IN सीटें_FW मिलने_V_VB की_IN संभावना_N_NN</s>
+<s>उप्र_N_NNP में_IN भाजपा_N_NNP को_IN नुकसान_N_NN का_IN अनुमान_N_NN, लेकिन_CC बंगाल_N_NNP के_IN किसी_WDT भी_RB सर्वे_FW में_IN से_IN कम_IN सीटें_FW नहीं_RB</s>
+<s>में_N_NNP से_IN एग्जिट_FW पोल्स_FW ने_RB एनडीए_FW को_IN स्पष्ट_JJ बहुमत_N_NN दिया_V_VB, भाजपा_N_NNP गठबंधन_N_NN को_IN औसत_JJ सीटें_FW मिल_V_VB सकती_VB हैं_V_VB</s>
+<s>शिवसेना_N_NNP का_IN तंज_N_NNP चंद्रबाबू_N_NNP बेवजह_N_NN खुद_RB को_IN थका_V_VB रहे_V_VB, उम्मीद_N_NN है_V_VB उनका_PRP$ उत्साह_N_NN मई_N_NNP तक_IN बना_V_VB रहेगा_V_VB</s>
+<s>मोदी_N_NNP राहुल_N_NNP जर्मनी_N_NNP आए_V_VB तो_IN युवा_N_NN कांग्रेस_N_NNP भाजपा_N_NNP से_IN जुड़े_V_VB, भारतीय_JJ गुटों_N_NNS में_IN हिंदुस्तानी_JJ वाली_JJ फीलिंग_FW</s>
+<s>मप्र_N_NNP, राजस्थान_N_NNP, छत्तीसगढ़_N_NNP और_CC गुजरात_N_NNP में_IN भाजपा_N_NNP के_IN जैसे_RB प्रदर्शन_N_NN का_IN अनुमान_N_NN</s>
+<s>कांग्रेस_N_NNP शासित_JJ राज्यों_N_NNS की_IN में_IN से_IN सीटें_FW भाजपा_N_NNP को_IN मिल_V_VB रहीं_V_VB</s>
+<s>दिल्ली_N_NNP हरियाणा_N_NNP में_IN का_IN कमाल_N_NN दोहरा_RB सकती_VB है_V_VB भाजपा_N_NNP, पंजाब_N_NNP में_IN कांग्रेस_N_NNP को_IN बढ़त_N_NN</s> 
+<s>बिकहा_N_NNP में_IN का_IN प्रदर्शन_N_NN कायम_RB रख_V_VB सकता_V_VB है_V_VB एनडीए_FW महाराष्ट्र_N_NNP में_IN बढ़_V_VB सकती_VB हैं_V_VB यूपीए_FW की_IN सीटें_FW</s>
+<s>मोदी_N_NNP ने_RB चुनाव_N_NN आयोग_N_NN को_IN धन्यवाद_N_NN कहा_V_VB, राहुल_N_NNP बोले_V_VB आयोग_N_NN ने_RB पीएम_FW के_IN सामने_IN सरेंडर_FW किया_V_VB</s>
+<s>भाजपा_N_NNP विरोधी_JJ मोर्चे_N_NNS की_IN कवायद_N_NNP चंद्रबाबू_N_NNP से_IN मुलाकात_N_NN के_IN बाद_RB कल_RB राहुल_N_NNP सोनिया_N_NNP से_IN मिलेंगी_V_VB मायावती_N_NNP</s>
+<s>पंजाब_N_NNP में_IN कांग्रेस_N_NNP कार्यकर्ता_N_NN की_IN हत्या_N_NN, मतदान_N_NN केंद्र_N_NN के_IN बाहर_RB फायरिंग_FW बंगाल_N_NNP में_IN भी_RB हिंसक_JJ घटनाएं_N_NNS</s>
+<s>मतदाताओं_N_NNS का_IN आरोप_N_NN भाजपा_N_NNP के_IN पक्ष_N_NN में_IN वोट_FW देने_V_VB से_IN मना_V_VB किया_V_VB तो_IN उंगली_N_NN पर_IN जबरन_RB स्याही_N_NN लगाई_V_VB</s>
+<s>मोदी_N_NNP ने_IN बद्रीनाथ_N_NNP के_IN दर्शन_N_NN किए_V_VB, तृणमूल_N_NNP का_IN आरोप_N_NN इस_PRP$ यात्रा_N_NN का_IN कवरेज_FW आचार_N_NN संहिता_N_NN का_IN उल्लंघन_N_NN</s>
+<s>ममता_N_NNP के_IN भतीजे_N_NN अभिषेक_N_NNP ने_RB मोदी_N_NNP को_IN मानहानि_N_NN नोटिस_FW भेजा_V_VB, कहा_V_VB घंटे_N_NNS में_IN माफी_N_NN मांगें_V_VB</s>
+<s>नीतीश_N_NNP बोले_V_VB आम_JJ चुनाव_N_NN चरणों_N_NNS में_IN फरवरी_N_NNP मार्च_N_NNP में_IN कराया_V_VB जाए_V_VB, प्रज्ञा_N_NNP को_IN भाजपा_N_NNP से_IN निकालने_V_VB पर_IN विचार_N_NN हो_V_VB</s>
+<s>अमेरिका_N_NNP में_IN रैलियां_FW और_CC चाय_N_NN पे_IN चर्चा_N_NN हुई_V_VB, राष्ट्रीय_JJ सुरक्षा_N_NN और_CC धार्मिक_JJ आजादी_N_NN मुख्य_JJ मुद्दे_N_NNS</s>
+<s>भाजपा_N_NNP विरोधी_N_NN मोर्चा_N_NN चंद्रबाबू_N_NNP ने_RB राहुल_N_NNP, माया_N_NNP और_CC अखिलेश_N_NNP समेत_RB विपक्षी_JJ नेताओं_N_NNS से_IN मुलाकात_N_NN की_V_VB</s> 
+<s>कल_RB आएंगे_V_VB एग्जिट_FW पोल_FW चुनाए_V_VB आयोग_N_NN ने_RB जारी_V_VB किए_V_VB इनके_PRP$ लिए_IN दिशा_N_NN निर्देश_N_NN</s>
+<s>कल_RB आएंगे_V_VB तमाम_JJ एग्जिट_FW पोल_FW दैनिक_N_NN भास्कर_N_NN पर_IN पढ़ें_V_VB इनका_PRP$ एनालिसिस_FW</s>
+<s>चुनाव_N_NN आयुक्त_N_NN लवासा_N_NNP ने_RB आचार_N_NN संहिता_N_NN उल्लंघन_N_NN मामलों_N_NNS की_IN बैठक_N_NN से_IN खुद_RB को_IN दूर_JJ किया_V_VB</s>
+<s>प्रियंका_N_NNP बोलीं_V_VB भाजपा_N_NNP का_IN राष्ट्रवाद_N_NN अहंकार_N_NN तक_IN सीमित_V_VB, लोगों_N_NN की_IN आवाज_N_NN दबाना_V_VB कहां_WDT का_IN राष्ट्रवाद_N_NN</s>
+<s>यूपी_FW में_IN सीटों_FW पर_IN त्रिकोणीय_JJ संघर्ष_N_NN, बंगाल_N_NNP ओडिशा_N_NNP भाजपा_N_NNP की_IN नई_JJ उम्मीद_N_NN</s>
+<s>भाजपा_N_NNP नेता_N_NN मुकुल_N_NNP रॉय_N_NNP और_CC दमदम_N_NNP से_IN प्रत्याशी_N_NNP समिक_JJ की_IN गाड़ियों_N_NNS में_IN तोड़फोड़_N_NN</s> 
+<s>क्या_PRP$ अमूल_N_NNP कम्पनी_FW ने_RB होर्डिंग_FW लगाकर_V_VB बटर_FW के_IN विज्ञापन_N_NN के_IN बहाने_V_VB गांधी_N_NNP परिवार_N_NN को_IN भ्रष्टाचारी_N_NN बताया_V_VB?</s>
+<s>क्या_PRP$ कोलकाता_N_NNP यूनिवर्सिटी_FW में_IN ईश्वरचंद्र_N_NNP विद्यासागर_N_NNP की_IN मूर्ति_N_NN तोड़ने_V_VB के_IN पीछे_RB था_V_VBD बांग्लादेशियों_N_NNS का_IN हाथ_N_NN?</s>
+<s>बंगाल_N_NNP में_IN राजनीतिक_JJ हिंसा_N_NN से_IN वोटर_FW नाराज_JJ, गुस्सा_N_NN बदल_V_VB सकता_V_VB है_V_VB स्थिति_N_NN</s>
+<s>मोदी_N_NNP ने_RB कहा_V_VB मैं_PRP उन्हें_PRP कभी_RB मन_N_NN से_IN माफ_N_NN नहीं_RB कर_V_VB पाऊंगा_V_VB शाह_N_NNP ने_RB भी_RB कहा_V_VB ऐसे_PRP$ बयानों_N_NNS से_IN पार्टी_FW का_IN लेना_V_VB देना_V_VB नहीं_RB</s>
+<s>मोदी_N_NNP ने_RB कहा_V_VB दिल्ली_N_NNP में_IN कहते_V_VB हैं_V_VB चुनाव_N_NN लंबा_JJ हो_V_VB गया_V_VB, मैं_PRP कहता_V_VB हूं_V_VB आदिवासियों_N_NNS के_IN बीच_N_NN बैठो_V_VB थकान_N_NN मिट_V_VB जाएगी_V_VB</s>
+<s>गुलाम_N_NNP नबी_N_NNP पलटे_V_VB, कहा_V_VB प्रधानमंत्री_N_NN पद_N_NN के_IN लिए_IN कांग्रेस_N_NNP अपना_PRP दावा_N_NN पेश_RB करेगी_V_VB</s>
+<s>यूपीए_FW अध्यक्ष_N_NN सोनिया_N_NNP गांधी_N_NNP ने_RB मई_N_NNP को_IN गैर_N_NN एनडीए_FW दलों_N_NNS की_IN बैठक_N_NN बुलाई_V_VB</s> 
+<s>मुरली_N_NNP मनोहर_N_NNP ने_RB कहा_V_VB हमने_PRP पार्टी_FW का_IN बीज_N_NN बोया_V_VB, अब_RB दोनों_JJ जनता_N_NN को_IN फल_N_NN दिलाएं_V_VB</s>
+<s>हरीश_N_NNP रावत_N_NNP, मुकुल_N_NNP संगमा_N_NNP और_CC भूपेंद्र_N_NNP हुड्डा_N_NNP समेत_RB पूर्व_JJ मुख्य_JJ मंत्री_N_NN चुनाव_N_NN कहा_V_VB गए_V_VB</s>
+<s>फ़ीनिक्स_FW की_IN तरह_IN अपनी_PRP$ ही_IN राख_N_NN से_IN फिर_RB जन्म_N_NN लेती_V_VB भाजपा_N_NNP</s>
+<s>मोदी_N_NNP ने_RB कहा_V_VB अब_RB देश_N_NN में_IN दो_N_NN ही_IN जातियां_N_NNS रहेंगी_V_VB एक_N_NN गरीब_N_NN, दूसरी_N_NN गरीबी_N_NN हटाने_V_VB वाली_RB</s>
+<s>उप्र_N_NNP में_IN माया_N_NNP हुई_V_VB मुलायम_N_NNP, भाजपा_N_NNP ने_RB सीटें_FW गंवाईं_V_VB अखिलेश_N_NNP मुलायम_N_NNP के_IN अलावा_RB परिवार_N_NN के_IN सभी_JJ सदस्य_N_NN हारे_VB</s> 
+<s>सिक्किम_N_NNP में_IN चामलिंग_N_NNP साल_N_NN की_IN अपनी_PRP सत्ता_N_NN बचा_V_VB नहीं_RB पाए_V_VB, साल_N_NN पुरानी_JJ पार्टी_FW ने_RB हराया_V_VB</s> 
+<s>आंध्र_N_NNP में_IN जगन_N_NNP को_IN बहुमत_N_NN, नायडू_N_NNP डिलीट_FW ओडिशा_N_NNP में_IN लगातार_RB बार_N_NN नवीन_N_NNP सरकार_N_NN</s>
+<s>स्मृति_N_NNP ईरानी_N_NNP ने_RB कांग्रेस_N_NNP अध्यक्ष_N_NN राहुल_N_NNP से_IN अमेठी_N_NNP सीट_FW छीनी_V_VB, गुना_N_NNP में_IN सिंधिया_N_NNP परिवार_N_NN की_IN पहली_N_NN कहा_V_VB</s>
+<s>कांग्रेस_N_NNP को_IN सीटें_FW भी_RB नहीं_RB मिलीं_V_VB, इस_PRP$ बार_N_NN भी_RB विपक्ष_N_NN के_IN नेता_N_NN का_IN पद_N_NN खतरे_N_NN में_IN</s> 
+<s>कांग्रेस_N_NNP को_IN गठजोड़_N_NN में_IN उदारता_N_NN नहीं_RB दिखाना_V_VB भारी_JJ पड़ा_V_VB</s>

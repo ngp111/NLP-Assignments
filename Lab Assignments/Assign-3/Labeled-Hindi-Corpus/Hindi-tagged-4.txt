@@ -1,0 +1,1009 @@
+﻿<s>रेलवे_N_NN ने_PSP दी_V_VM सफाई,_V_VAUX नौकरियों_N_NN में_PSP कटौती_N_NN की_PSP कोई_DM_DMI योजना_N_NN नहीं,_N_NN कही_V_VM ये_DM_DMD बात_N_NN | </s>
+<s>रेलवे_N_NN ने_PSP जोनल_N_NN कार्यालयों_N_NN को_PSP कर्मचारियों_N_NN के_PSP प्रदर्शन_N_NN की_PSP समीक्षा_N_NN के_PSP लिए_PSP भेजे_V_VM गए_V_VAUX पत्र_N_NN के_PSP संबंध_N_NN में_PSP मंगलवार_N_NNP को_PSP सफाई_N_NN दी_N_NN ।</s>
+<s>प्रेमचंद_N_NNP जयंती_N_NN स्पेशल:_N_NN जानिए_V_VM कैसे_DM_DMQ उपन्यास_N_NN सम्राट_N_NN के_PSP नाम_N_NN के_PSP आगे_N_NST लगा_V_VM 'मुंशी'_V_VAUX | </s>
+<s>मुंशी_N_NNP प्रेमचंद_N_NNP हिंदी_N_NNP कथा_N_NN साहित्य_N_NN के_PSP महान_JJ साहित्यकार_N_NN माने_V_VM जाते_V_VAUX हैं_V_VAUX ।</s>
+<s>उन्होंने_N_NN कहानी_N_NN के_PSP साथ-_N_NN साथ_PSP उपन्यास_N_NN लेखन_N_NN किया_N_NN ।</s>
+<s>उनकी_N_NN प्रसिद्धि_N_NN को_PSP आलम_N_NN यह_DM_DMD है_V_VAUX कि_CC_CCS उन्हें_PR_PRP उपन्यास_N_NN सम्राट_N_NN कहा_V_VM जाता_V_VAUX है_V_VAUX ।</s>
+<s>एक_N_NN करोड़_N_NN की_PSP फिरौती_N_NN देकर_V_VM छूटा_V_VM हैदराबाद_N_NNP का_PSP व्यापारी,_N_NN तीन_QT_QTC आरोपी_N_NN गिरफ्तार,_N_NN दो_QT_QTC की_PSP तलाश_N_NN जारी_N_NN | </s>
+<s>हैदराबाद_N_NNP में_PSP बदमाशों_N_NN द्वारा_PSP अगवा_N_NN किए_V_VM गए_V_VAUX व्यापारी_N_NN को_PSP एक_QT_QTC करोड़_QT_QTC रुपये_N_NN की_PSP फिरौती_N_NN लेकर_V_VM छोड़ने_V_VM का_PSP मामला_N_NN सामने_N_NST आया_V_VM है_V_VAUX ।</s>
+<s>पुलिस_N_NNP ने_PSP मामले_N_NN में_PSP तीन_QT_QTC लोगों_N_NN को_PSP गिरफ्तार_N_NN भी_RP_RPD किया_V_VM है_V_VAUX ।</s>
+<s>तीन_N_NN तलाक_N_NN पर_PSP सरकार_N_NN की_PSP बड़ी_JJ जीत,_N_NN जानिए-_N_NN इसके_DM_DMD बारे_PSP में,_N_NN अब_N_NST तक_PSP क्या-_N_NN क्या_PR_PRQ हुआ_N_NN | </s>
+<s>पिछले_N_NN साल_N_NN अगस्त_N_NNP में_PSP सुप्रीम_N_NN कोर्ट_N_NN के_PSP आदेश_N_NN के_PSP बाद_N_NST केंद्र_N_NN सरकार_N_NN ने_PSP इस_DM_DMD पर_PSP सख्त_JJ कानून_N_NN बनाने_V_VM का_PSP फैसला_N_NN किया_V_VM था_V_VAUX ।</s>
+<s>ट्रेनों_N_NN में_PSP सुनाई_N_NN नहीं_RP_NEG देगी_N_NN चाय-चाय_N_NN की_PSP आवाज,_N_NN यात्रियों_N_NN को_PSP सुखद_JJ होगा_V_VM यह_DM_DMD बड़ा_JJ बदलाव_N_NN | </s>
+<s>इंडियन_N_NNP रेलवे_N_NN कैटरिंग_N_NN एंड_N_NNP टूरिज्म_N_NNP कारपोरेशन_N_NNP (आइआरसीटीसी)_N_NNP ट्रेनों_N_NN में_PSP काम_N_NN करने_V_VM वाले_PSP वेंडरों_N_NN को_PSP इसके_PR_PRP लिए_PSP विशेष_JJ प्रशिक्षण_N_NN देने_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>बुलेट_N_NN ट्रेन_N_NN के_PSP रखरखाव_N_NN और_CC_CCD जल_N_NN संरक्षण_N_NN के_PSP लिए_PSP डिपो_N_NN में_PSP होगा_V_VM जलाशयों_N_NN का_PSP निर्माण_N_NN | </s>
+<s>बुलेट_N_NN ट्रेन_N_NN के_PSP रखरखाव_N_NN में_PSP पानी_N_NN की_PSP जरूरतें_N_NN पूरी_N_NN करने_V_VM के_PSP लिए_PSP रेलवे_N_NN उसके_PR_PRP तीनों_QT_QTC डिपो_N_NN में_PSP बारिश_N_NN के_PSP पानी_N_NN का_PSP संचयन_N_NN करने_V_VM के_PSP लिए_PSP जलाशयों_N_NN का_PSP निर्माण_N_NN कराएगा_N_NN ।</s>
+<s>दस_N_NN फीसदी_N_NN आरक्षण_N_NN के_PSP फैसले_N_NN को_PSP संविधान_N_NN पीठ_N_NN में_PSP भेजने_V_VM पर_PSP पहले_N_NST होगा_V_VM विचार:_N_NN सुप्रीम_N_NN कोर्ट_N_NN | </s>
+<s>सामान्य_JJ वर्ग_N_NN के_PSP आर्थिक_JJ रूप_N_NN से_PSP गरीबों_N_NN को_PSP दिए_V_VM गए_V_VAUX दस_QT_QTC फीसद_N_NN आरक्षण_N_NN के_PSP केंद्र_N_NN के_PSP फैसले_N_NN पर_PSP सुप्रीम_N_NN कोर्ट_N_NN ने_PSP सुनवाई_N_NN शुरू_N_NN कर_V_VM दी_V_VAUX है_V_VAUX ।</s>
+<s>सुप्रीम_N_NN कोर्ट_N_NN का_PSP बड़ा_JJ फैसला,_N_NN यूपी_N_NN के_PSP होमगार्ड_N_NN को_PSP मिलेगा_V_VM सिपाही_N_NN के_PSP बराबर_N_NN रोजाना_N_NN भत्ता_N_NN | </s>
+<s>जब_JJ होमगार्ड_N_NN से_PSP लगातार_RB पुलिस_N_NN का_PSP काम_N_NN लिया_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX तो_RP_RPD उन्हें_PR_PRP वैसा_N_NN ही_RP_RPD भत्ता_N_NN मिलना_V_VM चाहिए_V_VAUX ।</s>
+<s>अब_N_NN होमगार्ड_N_NN को_PSP पुलिस_N_NN के_PSP सिपाही_N_NN के_PSP न्यूनतम_JJ वेतन_N_NN के_PSP बराबर_N_NN रोजाना_N_NN भत्ता_V_VM मिलेगा_V_VAUX ।</s>
+<s>तीन_N_NN तलाक_N_NN बिल_N_NN का_PSP पास_N_NST होने_V_VM के_PSP बाद_N_NST मुस्लिम_N_NNP महिलाएं_N_NN अब_N_NST निकाह_N_NN हलाला_N_NN और_CC_CCD बहुविवाह_N_NN जैसी_N_NN कुप्रथा_N_NN से_PSP आजादी_N_NN चाहती_V_VM हैं_V_VAUX ।</s>
+<s>वो_N_NN मुस्लिम_N_NN महिलाएं,_N_NN जिन्होंने_V_VM तीन_QT_QTC तलाक_N_NN को_PSP खत्म_N_NN करवाने_V_VM के_PSP लिए_PSP लड़ी_N_NN जंग_N_NN | </s>
+<s>तीन_N_NNP तलाक_N_NNP बिल_N_NNP मुस्लिम_N_NNP महिला_N_NN (विवाह_N_NN अधिकार_N_NN संरक्षण)_N_NN विधेयक_N_NN 2019_QT_QTC को_PSP अंजाम_N_NN तक_PSP पहुंचाने_V_VM में_PSP कई_QT_QTF महिलाओं_N_NN का_PSP संघर्ष_N_NN शामिल_N_NN रहा_V_VM है_V_VAUX ।</s>
+<s>देश_N_NN में_PSP रह_V_VM सकते_V_VAUX हैं_V_VAUX सिर्फ_RB 15_QT_QTC सौ_N_NN और_CC_CCD बाघ,_JJ इनकी_N_NN बढ़ती_V_VM संख्या_N_NN को_PSP लेकर_V_VM सरकार_N_NN ने_PSP उठाए_V_VM ठोस_N_NN कदम_N_NN | </s>
+<s>बाघों_N_NN की_PSP गणना_N_NN को_PSP लेकर_V_VM आई_V_VM रिपोर्ट_N_NN के_PSP मुताबिक_N_NN देश_N_NN में_PSP मौजूदा_N_NN समय_N_NN में_PSP बाघों_N_NN की_PSP संख्या_N_NN 2967_QT_QTC हो_V_VM गई_V_VAUX है_N_NN ।</s>
+<s>2006_N_NNP में_PSP देश_N_NN में_PSP बाघों_N_NN की_PSP कुल_QT_QTF संख्या_N_NN 1411_QT_QTC थी_N_NN ।</s>
+<s>कैफे_N_NN कॉफी_N_NN डे_N_NN के_PSP मालिक_N_NN सिद्धार्थ_N_NNP का_PSP भावुक_N_NN पत्र_N_NN आया_V_VM सामने,_N_NN आयकर_N_NNP विभाग_N_NN के_PSP अधिकारी_N_NN पर_PSP लगाया_N_NN ये_DM_DMD आरोप_N_NN | </s>
+<s>कैफे_N_NN कॉफी_N_NN डे_N_NN के_PSP संस्थापक_N_NN वीजी_N_NNP सिद्धार्थ_N_NNP सोमवार_N_NNP रात_N_NN से_PSP लापता_N_NN है_N_NN ।</s>
+<s>अब_N_NN उनका_PR_PRP आखिरी_N_NN पत्र_N_NN सामने_N_NST आया_V_VM है_V_VAUX ।</s>
+<s>जिसके_N_NN सामने_N_NST आने_V_VM से_PSP कई_QT_QTF खुलासे_JJ हुए_V_VM हैं_V_VAUX ।</s>
+<s>तमिलनाडु:_N_NN जंगली_JJ हाथी_N_NN ने_PSP ली_N_NNP बुजुर्ग_N_NN की_PSP जान,_N_NN पुलिस_N_NN ने_PSP पोस्टमार्टम_N_NN के_PSP लिए_PSP भेजा_N_NN शव_N_NN | </s>
+<s>मिलनाडु_N_NNP में_PSP एक_QT_QTC जंगली_JJ हाथी_N_NN ने_PSP बुजुर्ग_N_NN पर_PSP हमला_N_NN कर_V_VM उसे_PR_PRP मार_N_NN डाला_N_NN ।</s>
+<s>पुलिस_N_NNP ने_PSP मौके_N_NN पर_PSP पहुंचकर_V_VM शव_N_NN को_PSP पोस्टमार्टम_N_NN के_PSP लिए_PSP भेज_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>कल_N_NNP अस्पताल_N_NNP जा_V_VM रहे_V_VAUX हैं_V_VAUX तो_RP_RPD सावधान!_N_NN इंडियन_N_NN मेडिकल_N_NN एसोसिएशन_N_NN की_PSP कॉल_N_NN पर_PSP कल_N_NN 24_QT_QTC घंटे_N_NN सेवाएं_N_NN बाधित_N_NN रखेंगे_V_VM डॉक्टर_V_VAUX | </s>
+<s>इंडियन_JJ मेडिकल_N_NN एसोसिएशन_N_NN ने_PSP नेशनल_N_NN मेडिकल_N_NN कमीशन_N_NN बिल-2019_N_NN के_PSP विरोध_N_NN में_PSP कल_N_NN यानी_N_NN बुधवार_N_NN को_PSP सुबह_N_NN 6.00_QT_QTC बजे_N_NN से_PSP 24_QT_QTC घंटे_N_NN तक_PSP पूरे_JJ देश_N_NN में_PSP गैर-जरूरी_JJ सेवाओं_N_NN को_PSP बाधित_N_NN रखने_V_VM का_PSP आह्वान_N_NN किया_V_VM है_V_VAUX | </s>
+<s>इस_N_NN पायलट_N_NN ने_PSP 8500_QT_QTC फीट_N_NN से_PSP किया_V_VM विंगसूट_N_NN स्काइडाइव,_N_NN ऐसा_DM_DMD करने_V_VM वाला_PSP पहला_QT_QTO भारतीय_N_NN | </s>
+<s>21_N_NN और_CC_CCD 22_QT_QTC जुलाई_N_NN को_PSP कारगिल_N_NNP दिवस_N_NN समारोह_N_NN के_PSP मौके_N_NN पर_PSP जोधपुर_N_NNP के_PSP वायुसेना_N_NNP स्टेशन_N_NN से_PSP विंग_N_NN कमांडर_N_NN तरुण_N_NN चौधरी_N_NNP ने_PSP विंगसूट_N_NN स्काइडाइव_N_NN किया_V_VM था_V_VAUX ।</s>
+<s>माखनलाल_N_NNP विश्वविद्यालय_N_NN के_PSP पूर्व_N_NST कुलपति_N_NN को_PSP कोर्ट_N_NN ने_PSP जारी_N_NN किया_V_VM समन,_V_VAUX पेश_N_NN ना_RP_NEG होने_V_VM पर_PSP कुर्क_N_NN होगी_V_VM संपत्ति_N_NN | </s>
+<s>भोपाल_N_NNP की_PSP एक_QT_QTC अदालत_N_NN ने_PSP माखनलाल_N_NNP चतुर्वेदी_N_NNP के_PSP पूर्व_N_NST कुलपति_N_NN को_PSP समन_N_NN जारी_N_NN किया_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>साथ_N_NN ही_RP_RPD आदेश_N_NN दिया_V_VM गया_V_VAUX है_V_VAUX कि_CC_CCS वह_PR_PRP 31_QT_QTC अगस्त_N_NNP तक_PSP कोर्ट_N_NN में_PSP पेश_N_NN हो_V_VM जाए_V_VAUX ।</s>
+<s>कैफे_N_NN कॉफी_N_NN डे_N_NN के_PSP मालिक_N_NN वीजी_N_NNP सिद्धार्थ_N_NNP का_PSP अबतक_JJ पता_N_NN नहीं,_N_NN तलाश_N_NN में_PSP जुटी_N_NN कोस्ट_N_NN गार्ड_N_NN | </s>
+<s>वीजी_N_NNP सिद्धार्थ_N_NNP कर्नाटक_N_NNP के_PSP पूर्व_N_NST सीएम_N_NNP एसएम_N_NNP कृष्णा_N_NNP के_PSP दामाद_N_NN हैं_N_NN ।</s>
+<s>लापता_N_NNP सिद्धार्थ_N_NNP की_PSP तलाश_N_NN के_PSP लिए_PSP पुलिस_N_NN सर्च_N_NN ऑपरेशन_N_NN चला_V_VM रही_V_VAUX है_V_VAUX ।</s>
+<s>अल्फा_N_NNP साइन्यूक्लिन_N_NNP नामक_N_NN प्रोटीन_N_NN के_PSP जरिये_N_NN पार्किंसन_N_NN के_PSP इलाज_N_NN में_PSP खुलेंगे_JJ नए_JJ रास्ते_N_NN | </s>
+<s>साइंटिफिक_JJ रिपोर्ट_N_NN में_PSP छपे_JJ शोध_N_NN के_PSP मुताबिक_N_NN यह_DM_DMD प्रोटीन_N_NN मस्तिष्क_N_NN संबंधी_N_NN रोग_N_NN के_PSP कारण_N_NN नष्ट_N_NN हो_V_VM रही_V_VAUX तंत्रिका_N_NN कोशिकाओं_N_NN को_PSP बचा_V_VM सकता_V_VAUX है_V_VAUX ।</s>
+<s>हॉस्टल_N_NN में_PSP घुसा_N_NN बाढ़_N_NN का_PSP पानी,_N_NN फंसे_V_VM 183_QT_QTC छात्रों_N_NN का_PSP एक_QT_QTC दिन_N_NN बाद_N_NST हुआ_V_VM रेस्क्यू_N_NN | </s>
+<s>मध्य_N_NNP प्रदेश_N_NNP के_PSP एक_QT_QTC छात्रावास_N_NN में_PSP बाढ़_N_NN का_PSP पानी_N_NN भर_V_VM गया_V_VAUX ।</s>
+<s>वहां_N_NN 183_QT_QTC छात्र_N_NN फंस_V_VM गए_V_VAUX थे_N_NN ।</s>
+<s>उन्हें_N_NN मंगलवार_N_NN को_PSP बचाया_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>केले_N_NN का_PSP हर_QT_QTF रंग_N_NN बताता_V_VM है_V_VAUX कुछ_QT_QTF खास,_N_NN जानें-_N_NN आपके_PR_PRP लिए_PSP कौन_PR_PRQ सा_RP_RPD केला_N_NN है_V_VM फायदेमंद_N_NN | </s>
+<s>पेक्टिन_N_NN फाइबर_N_NN होता_V_VM है_V_VAUX जो|P इसके_DM_DMD गूदे_N_NN और_CC_CCD आकार-प्रकार_N_NN के_PSP लिए_PSP जिम्मेदार_N_NN होता_V_VM है_V_VAUX ।</s>
+<s>कम_N_NN वसा_N_NN पोटैशियम_N_NNP विटामिन_N_NNP बी6_N_NNP विटामिन_N_NN सी_N_NNP और_CC_CCD फाइबर_N_NN का_PSP समृद्ध_JJ स्रोत_N_NN है_N_NN ।</s>
+<s>इस_N_NN फिल्म_N_NN अभिनेत्री_N_NN के_PSP शौहर_N_NN ने_PSP 100_QT_QTC रुपये_N_NN के_PSP स्टांप_N_NN पेपर_N_NN पर_PSP दिया_V_VM तलाक,_V_VAUX जानें_N_NN पूरा_N_NN मामला_N_NN | </s>
+<s>इंदौर_N_NNP में_PSP एक_QT_QTC भोजपुरी_N_NNP अभिनेत्री_N_NNP ने_PSP अपने_PR_PRF पति_N_NN पर_PSP तलाक_N_NN देने_V_VM का_PSP आरोप_N_NN लगाया_V_VM है_V_VAUX ।</s>
+<s>दरअसल_N_NNP महिला_N_NN अपने_PR_PRF पति_N_NN के_PSP गायब_N_NN होने_V_VM की_PSP रिपोर्ट_N_NN दर्ज_N_NN कराने_V_VM पुलिस_N_NN स्टेशन_N_NN गई_V_VM थी_V_VAUX ।</s>
+<s>मुरारी_N_NN के_PSP रहते_N_NN कोई_DM_DMI बच्चा_N_NN बिना_PSP टीके_N_NN के_PSP छूट_V_VM जाए_V_VAUX 'नामुमकिन',_V_VAUX आप_PR_PRP भी_RP_RPD जानें_N_NN इनकी_N_NN दिलचस्प_N_NN कहानी_N_NN | </s>
+<s>बिहार_N_NN में_PSP जमुई_N_NNP जिले_N_NN के_PSP पतंबर_N_NNP गांव_N_NNP निवासी_N_NN मुरारी_N_NNP शर्मा_N_NNP की।_N_NN </s>
+<s>आर्थिक_JJ तौर_N_NN पर_PSP पिछड़े_N_NN इस_DM_DMD गांव_N_NN के_PSP 21_QT_QTC वर्षीय_N_NN मुरारी_N_NN को_PSP पता_V_VM है_V_VAUX कि_CC_CCS किस_PR_PRQ बच्चे_N_NN को_PSP कब_PR_PRQ कौन_PR_PRQ सा_RP_RPD टीका_N_NN लगना_V_VM है_V_VAUX ।</s>
+<s>धरती_N_NNP के_PSP एक_QT_QTC साल_N_NN के_PSP संसाधन_N_NN सात_QT_QTC महीने_N_NN में_PSP हुए_V_VM चट,_N_NN अब_N_NST उधार_V_VM पर_PSP कट_V_VM रहा_V_VAUX है_V_VAUX जीवन_N_NN | </s>
+<s>विकास_N_NNP के_PSP नाम_N_NN पर_PSP विनाश_N_NN की_PSP ओर_N_NN बढ़_V_VM रही_V_VAUX है_V_VAUX दुनिया।_N_NN </s>
+<s>दोनों_N_NN में_PSP संतुलन_N_NN साधने_V_VM की_PSP बात_N_NN तमाम_N_NN विशेषज्ञ_N_NN करते_V_VM हैं।_V_VAUX </s>
+<s>अपनी_N_NN जरूरतों_N_NN को_PSP पूरा_N_NN करने_V_VM के_PSP लिए_PSP जंगल_N_NN काटते_V_VM जा_V_VAUX रहे_V_VAUX हैं_N_NN ।</s>
+<s>जानें_N_NN कब_PR_PRQ तक_PSP कर_V_VM सकते_V_VAUX हैं_V_VAUX शिव_N_NNP की_PSP आराधना,_N_NN ऐसे_DM_DMD करेंगे_N_NN शिवलिंग_N_NNP की_PSP पूजा_N_NN तो_RP_RPD मिलेगा_V_VM दोगुना_QT_QTF लाभ_N_NN | </s>
+<s>सावन_N_NNP महीने_N_NN की_PSP शिवरात्रि_N_NNP का_PSP खास_JJ महत्व_N_NN होता_V_VM है।_V_VAUX </s>
+<s>इसी_N_NN के_PSP साथ_PSP आज_N_NN एक_QT_QTC बेहद_RP_INTF ही_RP_RPD अद्भूत_JJ संयोग_N_NN भी_RP_RPD बन_V_VM रहा_V_VAUX है।_V_VAUX </s>
+<s>जानें_N_NN किस_DM_DMQ तरह_N_NN करे_N_NN शिव_N_NNP की_PSP आराधना_N_NN तो_RP_RPD मिलेगा_V_VM दोगुना_QT_QTF लाभ_N_NN ।</s>
+<s>ऑपरेशन_N_NN के_PSP वक्त_N_NN नहीं_RP_NEG असली_N_NN खतरा_N_NN उसके_PR_PRP बाद,_N_NN हर_QT_QTF साल_N_NN 18_QT_QTC लाख_N_NN मरीजों_N_NN की_PSP होती_V_VM है_V_VAUX मौत_N_NN | </s>
+<s>वैज्ञानिकों_N_NN ने_PSP एक_QT_QTC नए_JJ अध्ययन_N_NN में_PSP खुलासा_N_NN किया_V_VM है_V_VAUX कि_CC_CCS मरीज_N_NN के_PSP ऑपरेशन_N_NN में_PSP जितना_QT_QTF जोखिम_N_NN नहीं_RP_NEG होता_V_VM उससे_PR_PRP कई_QT_QTF ज्यादा_QT_QTF खतरा_N_NN स्वास्थ्य_N_NN लाभ_N_NN लेने_V_VM के_PSP दौरान_N_NN होता_V_VM है_V_VAUX ।</s>
+<s>मुंबई_N_NNP के_PSP लिए_PSP आज_N_NN का_PSP दिन_N_NN भारी,_N_NNP यूपी,_N_NNP हिमाचल,_N_NNP राजस्थान_N_NNP में_PSP फिर_RB बारिश_N_NN का_PSP दौर_N_NN | </s>
+<s>मुंबई_N_NNP में_PSP एकबार_N_NN फिर_RB भारी_JJ बारिश_N_NN का_PSP दौर_N_NN शुरू_N_NN होने_V_VM वाला_PSP है।_N_NN </s>
+<s>31_N_NNP जुलाई_N_NNP तक_PSP पर्वी_N_NNP राजस्थान_N_NNP पश्चिमी_N_NNP उत्तर_N_NNP प्रदेश_N_NNP पंजाब_N_NNP और_CC_CCD हरियाणा_N_NNP के_PSP कई_QT_QTF इलाकों_N_NN में_PSP बारिश_N_NN का_PSP दौर_N_NN जारी_N_NN रह_V_VM सकता_V_VAUX है_V_VAUX ।</s>
+<s>बिहार_N_NN में_PSP कई_QT_QTF नदियां_N_NN खतरे_N_NN के_PSP निशान_N_NN से_PSP ऊपर,_V_VM इन_DM_DMD राज्यों_N_NN में_PSP भारी_JJ बारिश_N_NN की_PSP चेतावनी_N_NN | </s>
+<s>तटीय_N_NN कर्नाटक_N_NNP कोंकण_N_NNP और_CC_CCD गोवा_N_NNP दक्षिण_N_NNP ओडिशा_N_NNP राजस्थान_N_NNP के_PSP पूर्वी_JJ भागों_N_NN में_PSP ही_RP_RPD भारी_JJ वर्षा_N_NN की_PSP चेतावनी_N_NN है_N_NN ।</s>
+<s>सही_JJ रास्ते_N_NN पर_PSP चंद्रयान-2,_N_NNP तीसरी_QT_QTC बार_N_NN बदला_N_NN ऑर्बिट,_N_NN जानें-_N_NN क्या_PR_PRQ है_V_VAUX मिशन_N_NN का_PSP उद्देश्य_N_NN | </s>
+<s>चंद्रयान-2_N_NNP इसरो_N_NNP ने_PSP कहा_V_VM कि_CC_CCS चंद्रयान-2_N_NNP को_PSP योजना_N_NN के_PSP मुताबिक_N_NN सोमवार_N_NN दोपहर_N_NN तीन_QT_QTC बजकर_N_NN 12_QT_QTC मिनट_N_NN पर_PSP कक्षा_N_NN में_PSP सफलतापूर्वक_N_NN और_CC_CCD ऊंचाई_N_NN पर_PSP पहुंचा_V_VM दिया_V_VAUX गया।_V_VAUX यह_DM_DMD चंद्रयान_N_NNP की_PSP कक्षा_N_NN में_PSP तीसरा_QT_QTC बदलाव_N_NN है_N_NN ।</s>
+<s>तमिलनाडु:_N_NN गुटखा_N_NN घोटाले_N_NN में_PSP ईडी_N_NN की_PSP बड़ी_JJ कार्रवाई,_N_NN जब्त_N_NN की_PSP 246_QT_QTC करोड़_N_NN की_PSP संपत्ति_N_NN | </s>
+<s>करोड़ों_N_NN की_PSP संपत्ति_N_NN जब्त_N_NN करने_V_VM के_PSP बाद_N_NST ED_N_NN ने_PSP कहा_V_VM कि_CC_CCS इन_DM_DMD लोगों_N_NN ने_PSP आपराधिक_JJ गतिविधि_N_NN से_PSP कमाई_N_NN धनराशि_N_NN का_PSP आंध्र_N_NNP प्रदेश_N_NNP पुडुचेरी_N_NNP और_CC_CCD तमिलनाडु_N_NNP की_PSP चल_N_NN और_CC_CCD अचल_JJ संपत्तियों_N_NN में_PSP निवेश_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>तो_N_NNP रेलवे_N_NN में_PSP एेसे_JJ कर्मचारियों_N_NN की_PSP होगी_N_NN छंटनी,_N_NN विभाग_N_NN जुटा_V_VM रहा_V_VAUX है_V_VAUX ब्योरा_N_NN | </s>
+<s>रेलवे_N_NN ने_PSP जोनल_N_NN कार्यालयों_N_NN को_PSP वैसे_DM_DMD कर्मचारियों_N_NN की_PSP सूची_N_NN बनाने_V_VM के_PSP निर्देश_N_NN दिए_V_VM हैं_V_VAUX जिनकी|P उम्र_N_NN वर्ष_N_NN 2020_QT_QTC की_PSP पहली_QT_QTO तिमाही_N_NN में_PSP 55_QT_QTC वर्ष_N_NN हो_V_VM रही_V_VAUX हो_V_VAUX या_CC_CCD उनकी_PR_PRP नौकरी_N_NN के_PSP 30_QT_QTC साल_N_NN पूरे_QT_QTF हो_V_VM गए_V_VAUX हैं_V_VAUX ।</s>
+<s>'राइस_N_NN फोर्टीफिकेशन'_N_NN की_PSP योजना_N_NN पूरे_JJ देश_N_NN में_PSP होगी_N_NN लागू,_N_NN 'वन_N_NN नेशन_N_NN वन_N_NN कार्ड'_N_NN के_PSP मसौदे_N_NN पर_PSP लगेगी_V_VM मुहर_N_NN | </s>
+<s>राशन_N_NN फोर्टिफिकेशन_N_NN प्रोग्राम_N_NN को_PSP स्कूलों_N_NN में_PSP चलाये_V_VM जा_V_VAUX रहे_V_VAUX मिड_N_NN डे_N_NN मील_N_NN में_PSP लागू_N_NN किये_V_VM जाने_V_VAUX की_PSP योजना_N_NN है_V_VM ।</s>
+<s>चावल_N_NN में_PSP आयरन_N_NNP फोलिक_N_NNP एसिड_N_NNP और_CC_CCD विटामिन_N_NN बी-12_N_NNP मिलाया_V_VM जाएगा_V_VAUX ।</s>
+<s>गायक_N_NNP उदित_N_NNP नारायण_N_NNP को_PSP एक_QT_QTC महीने_N_NN से_PSP फोन_N_NN पर_PSP मिल_V_VM रही_V_VAUX धमकी,_N_NN पुलिस_N_NN कर_V_VM रही_V_VAUX है_V_VAUX जांच_N_NN | </s>
+<s>मुंबई_N_NNP पुलिस_N_NN ने_PSP मशहूर_JJ पार्श्व_N_NN गायक_N_NN उदित_N_NN नारायण_N_NN के_PSP मामले_N_NN को_PSP आगे_N_NST बढ़ाया_V_VM है_V_VAUX जिन्होंने|P आरोप_N_NN लगाया_V_VM है_V_VAUX कि_CC_CCS उन्हें_PR_PRP पिछले_N_NN एक_QT_QTC महीने_N_NN से_PSP एक_QT_QTC अज्ञात_JJ व्यक्ति_N_NN से_PSP धमकी_JJ भरे_JJ कॉल_N_NN आ_V_VM रहे_V_VAUX हैं_V_VAUX ।</s>
+<s>अजब-गजब:_N_NN 11_QT_QTC साल_N_NN बाद_N_NST बिजली_N_NN का_PSP टॉवर_N_NN गिरा,_N_NN कंपनी_N_NN ने_PSP रोकी_V_VM तब_N_NN के_PSP इंजीनियर_N_NN की_PSP आधी_N_NN पेंशन_N_NN | </s>
+<s>सूत्रों_N_NN के_PSP मुताबिक_N_NN 220_QT_QTC केवी_N_NN सतना-छतरपुर_N_NNP हाईटेंशन_N_NNP लाइन_N_NN का_PSP एक_QT_QTC टॉवर_N_NN पिछले_N_NST दिनों_N_NN गिर_V_VM गया_V_VAUX था_N_NN ।</s>
+<s>जीजा_N_NNP से_PSP प्यार,_JJ बहन_N_NN की_PSP हत्या;_N_NN पढ़े-_N_NN 19_QT_QTC वर्षीय_N_NN युवती_N_NN की_PSP खौफनाक_N_NN कहानी_N_NN | </s>
+<s>पुलिस_N_NNP ने_PSP बताया_V_VM कि_CC_CCS शहपुरा_N_NNP नगर_N_NN के_PSP कैथरा_N_NNP मोहल्ला_N_NNP में_PSP 27_QT_QTC जुलाई_N_NN को_PSP एक_QT_QTC युवती_N_NN ने_PSP अपनी_PR_PRF गर्भवती_JJ सगी_N_NN बड़ी_JJ बहन_N_NN की_PSP चाकू_N_NN मारकर_V_VM हत्या_N_NN कर_V_VM दी_V_VAUX ।</s>
+<s>दूसरों_N_NN के_PSP बच्चों_N_NN की_PSP सेहत_N_NN बनाने_V_VM अपना_PR_PRF दूध_N_NN दान_V_VM कर_V_VAUX सकेंगी_V_VAUX माताएं_N_NN | </s>
+<s>ज्यादा_N_NN से_PSP ज्यादा_QT_QTF माताएं_N_NN मिल्क_N_NN बैंक_N_NN में_PSP आकर_V_VM दूध_N_NN दान_V_VM कर_V_VAUX सकें_V_VAUX इसके_PR_PRP लिए_PSP कुछ_QT_QTF काउंसलर_N_NN तैनात_N_NN किए_V_VM जाएंगे_V_VAUX ।</s>
+<s>भगोड़े_N_NN कारोबारी_N_NN विजय_N_NN माल्या_N_NN से_PSP जुड़ी_JJ फर्जी_N_NN फर्म_N_NN सामने_N_NST आई,_N_NN करीबी_JJ के_PSP यहां_N_NN ईडी_N_NN की_PSP छापेमारी_N_NN | </s>
+<s>भगोड़े_N_NN शराब_N_NN कारोबारी_N_NN विजय_N_NN माल्या_N_NN के_PSP करीबी_JJ वी_N_NN शशिकांत_N_NN के_PSP यहां_N_NN सोमवार_N_NN को_PSP प्रवर्तन_N_NN निदेशालय_N_NN (ED)_N_NN ने_PSP छापा_N_NN मारा_V_VM है_V_VAUX ।</s>
+<s>प्रस्तावित_N_NN नई_JJ शिक्षा_N_NN नीति_N_NN पर_PSP सुझावों_N_NN की_PSP समय_N_NN सीमा_N_NN दो_QT_QTC हफ्ते_N_NN के_PSP लिए_PSP और_CC_CCD बढ़ी_N_NN | </s>
+<s>नीति_N_NN को_PSP लेकर_V_VM अब_N_NST 15_QT_QTC अगस्त_N_NNP तक_PSP सुझाव_N_NN लिए_PSP जाएंगे_N_NN ।</s>
+<s>प्रदूषण_N_NN की_PSP समस्या_N_NN पर_PSP अंकुश_N_NN लगाने_V_VM के_PSP लिए_PSP देश_N_NN के_PSP 65_QT_QTC शहरों_N_NN में_PSP चलेंगी_JJ इलेक्ट्रिक_N_NN बसें_N_NN | </s>
+<s>प्रदूषण_N_NN की_PSP समस्या_N_NN पर_PSP अंकुश_N_NN लगाने_V_VM के_PSP लिए_PSP सरकार_N_NN अब_N_NST देश_N_NN के_PSP 65_QT_QTC बड़े_JJ शहरों_N_NN में_PSP इलेक्ट्रिक_JJ बसें_N_NN चलाने_V_VM की_PSP तैयारी_N_NN कर_V_VM रही_V_VAUX है_V_VAUX ।</s>
+<s>आदिवासियों_N_NN की_PSP जिंदगी_N_NN में_PSP घुल_V_VM रही_V_VAUX जशपुरिया_N_NN काजू_N_NN की_PSP मिठास,_N_NN लाखों_N_NN में_PSP हो_V_VM रही_V_VAUX कमाई_N_NN | </s>
+<s>काजू_N_NN का_PSP मीठा_JJ स्वाद_N_NN अब_N_NST छत्तीसगढ़_N_NNP के_PSP जनजातीय_N_NN बहुल_JJ जशपुर_N_NNP जिले_N_NN में_PSP लोगों_N_NN के_PSP जीवन_N_NN में_PSP मिठास_N_NN घोल_N_NN रहा_V_VM है_V_VAUX ।</s>
+<s>किसान_N_NN काजू_N_NN के_PSP माध्यम_N_NN से_PSP पूरे_QT_QTF साल_N_NN आमदनी_N_NN प्राप्त_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX ।</s>
+<s>पीएम_N_NNP मोदी_N_NNP ने_PSP कहा,_N_NN कुप्रथा_N_NNP से_PSP पीड़ित_JJ मुस्लिम_N_NN महिलाओं_N_NN को_PSP न्याय_N_NN मिला_V_VM | </s>
+<s>तीन_N_NN तलाक_N_NN बिल_N_NN का_PSP पास_N_NST होना_V_VM मोदी_N_NNP सरकार_N_NN के_PSP लिए_PSP ऐतिहासिक_JJ कामयाबी_N_NN का_PSP दिन_N_NN है_N_NN ।</s>
+<s>इस_N_NN दिन_N_NN को_PSP देश_N_NN में_PSP सामाजिक_JJ सुधार_N_NN की_PSP दिशा_N_NN में_PSP बड़ा_JJ कदम_N_NN माना_V_VM गया_V_VAUX ।</s>
+<s>नड्डा_N_NNP ने_PSP जम्मू-कश्मीर_N_NNP की_PSP राजनीतिक_N_NN हालात_N_NN का_PSP लिया_N_NN जायजा,_JJ विधान_N_NN सभा_N_NN चुनाव_N_NN की_PSP तैयारियां_N_NN शुरू_N_NN | </s>
+<s>अमरनाथ_N_NNP यात्रा_N_NN की_PSP समाप्ति_N_NN के_PSP बाद_N_NST भाजपा_N_NNP अपनी_PR_PRF ओर_N_NN से_PSP चुनाव_N_NN आयोग_N_NN से_PSP जम्मू-कश्मीर_N_NNP में_PSP विधान_N_NN सभा_N_NN चुनाव_N_NN करवाने_N_NN का_PSP आग्रह_N_NN करेगी_N_NN ।</s>
+<s>तीन_N_NN तलाक_N_NN बिल_N_NN का_PSP खौफ_N_NN खत्म,_N_NN पीड़िता_N_NN बोली-_N_NN मजबूरी_N_NN में_PSP सब_QT_QTF कुछ_QT_QTF सहा,_N_NN अब_N_NST मिला_V_VM मौलानाओं_N_NN को_PSP जवाब_N_NN | </s>
+<s>तलाक_N_NNP पीड़िता_N_NNP शबाना_N_NNP ने_PSP कहा_V_VM तीन_QT_QTC तलाक_N_NN पर_PSP सजा_N_NN जरूरी_N_NN थी_N_NN ।</s>
+<s>क्योंकि_N_NN बगैर_N_NN सजा_N_NN और_CC_CCD कानून_N_NN के_PSP पुलिस_N_NN कोई_DM_DMI कार्रवाई_N_NN नहीं_RP_NEG करती_V_VM ।</s>
+<s>अब_N_NN मर्द_N_NN तलाक_N_NN देने_V_VM से_PSP पहले_N_NST सजा_N_NN के_PSP बारे_N_NN में_PSP जरूर_N_NN सोचेंगे_V_VM ।</s>
+<s>शिवसेना_N_NN सांसदों_N_NN का_PSP पीएम_N_NNP से_PSP कृषि_N_NN बीमा_N_NN योजना_N_NN की_PSP खामियां_N_NN दूर_N_NN करने_V_VM का_PSP आग्रह_N_NN | </s>
+<s>बुल्धाना_N_NN से_PSP सांसद_N_NN प्रतापराव_N_NN जाधव_N_NN ने_PSP कहा_V_VM कि_CC_CCS बीमा_N_NN कंपनियों_N_NN के_PSP कार्यालय_N_NN ब्लॉक_N_NN तहसील_N_NN और_CC_CCD जिला_N_NN स्तरों_N_NN पर_PSP भी_RP_RPD होने_V_VM चाहिए_V_VAUX ताकि_CC_CCS किसानों_N_NN को_PSP उनके_PR_PRP दावे_N_NN दर्ज_N_NN कराने_V_VM में_PSP सहूलियत_N_NN हो_N_NN ।</s>
+<s>प्रशासनिक_JJ सुधार_N_NN और_CC_CCD लोक_N_NN शिकायत_N_NN विभाग_N_NN (डीएआरपीजी)_N_NN के_PSP अतिरिक्त_N_NN सचिव_N_NN वी._N_NNP श्रीनिवास_N_NNP ने_PSP कहा_V_VM कि_CC_CCS दो_QT_QTC दिवसीय_N_NN यह_DM_DMD आयोजन_N_NN इस_DM_DMD क्षेत्र_N_NN में_PSP ई-गवर्नेस_N_NNP को_PSP गति_N_NN प्रदान_V_VM करेगा_V_VAUX ।</s>
+<s>मुस्लिम_N_NNP बहनों_N_NN को_PSP मिला_V_VM न्याय,_N_NN मोदी_N_NNP सरकार_N_NN के_PSP साहस_N_NN को_PSP सलाम,_N_NN रूढ़िवादी_N_NN राजनीति_N_NN हुई_V_VM ध्वस्त_N_NN | </s>
+<s>अगर_N_NNP जेल_N_NNP भेजने_V_VM का_PSP प्रावधान_N_NN ही_RP_RPD न_RP_NEG हो_V_VM पुलिस_N_NN के_PSP पास_N_NST कार्रवाई_N_NN का_PSP दिशा_N_NN निर्देश_N_NN ही_RP_RPD न_RP_NEG हो_V_VM तो_CC_CCS कार्रवाई_N_NN कैसे_DM_DMQ होगी_V_VM ।</s>
+<s>तीन_N_NN तलाक_N_NN के_PSP खिलाफ_N_NN कानून_N_NN के_PSP लिए_PSP संसद_N_NN ने_PSP मुहर_N_NN लगा_V_VM दी_V_VAUX ।</s>
+<s>'गांधी'_N_NN सरनेम_N_NN की_PSP वजह_N_NN से_PSP 'राहुल'_N_NN की_PSP जिंदगी_N_NN हुई_V_VM दुश्वार,_V_VAUX अब_N_NST नहीं_RP_NEG मिलता_V_VM लोन_N_NN और_CC_CCD ना_RP_NEG ही_RP_RPD सिम_N_NN कार्ड_N_NN | </s>
+<s>नाम_N_NNP राहुल_N_NNP और_CC_CCD सरनेम_N_NN भी_RP_RPD लगा_V_VM रहे_V_VAUX गांधी_N_NN इस|P वजह_N_NN से_PSP हर_QT_QTF काम_N_NN में_PSP या_CC_CCD तो_RP_RPD उनका_PR_PRP मजाक_N_NN उड़ाया_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX या_CC_CCD फिर_RB उन्हें_PR_PRP फेक_N_NNP आइडेंटिटी_N_NN वाला_PSP व्यक्ति_N_NN करार_N_NN दिया_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>नौसेना_N_NN बेतवा_N_NN हादसे_N_NN में_PSP तीन_QT_QTC नौसेना_N_NN अधिकारियों_N_NN का_PSP कोर्ट_N_NN मार्शल_N_NN शुरू_N_NN | </s>
+<s>नौसेना_N_NN के_PSP आधिकारिक_JJ सूत्र_N_NN ने_PSP बताया_V_VM कि_CC_CCS दो_QT_QTC कमांडर_N_NN और_CC_CCD एक_QT_QTC कैप्टन_N_NN के_PSP खिलाफ_N_NN मुंबई_N_NNP में_PSP कोर्ट_N_NN मार्शल_N_NN की_PSP प्रक्रिया_N_NN 26_QT_QTC जुलाई_N_NN को_PSP शुरू_V_VM हुई_V_VAUX है।<s/>
+<s>तीन_N_NN तलाक_N_NN देने_V_VM वालों_PSP को_PSP जेल_N_NN भेजने_V_VM का_PSP रास्ता_N_NN साफ,_JJ जानिए-_N_NN 10_QT_QTC बड़ी_JJ बातें_N_NN | </s>
+<s>मुस्लिम_N_NN महिलाओं_N_NN से_PSP एक_QT_QTC साथ_N_NN तीन_QT_QTC तलाक_N_NN को_PSP अपराध_N_NN करार_N_NN देने_V_VM वाला_PSP ऐतिहासिक_JJ विधेयक_N_NN राज्यसभा_N_NN से_PSP भी_RP_RPD पारित_N_NN हो_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>मोदी_N_NNP सरकार_N_NN की_PSP बड़ी_JJ कामयाबी,_N_NN तीन_QT_QTC तलाक_N_NN बिल_N_NN राज्यसभा_N_NN में_PSP भी_RP_RPD पास_N_NN | </s>
+<s>लोकसभा_N_NN में_PSP पास_N_NST कराने_V_VM के_PSP बाद_N_NST सरकार_N_NN ने_PSP तीन_QT_QTC तलाक_N_NN बिल_N_NN को_PSP राज्यसभा_N_NN में_PSP पास_N_NN कर_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>यह_N_NN मोदी_N_NNP सरकार_N_NN के_PSP लिए_PSP ऐतिहासिक_JJ कामयाबी_N_NN का_PSP दिन_N_NN है_N_NN ।</s>
+<s>राज्यसभा_N_NN में_PSP भी_RP_RPD पास,_N_NN ऐसे_DM_DMD हुई_V_VM भाजपा_N_NN की_PSP राह_N_NN आसान_N_NN | </s>
+<s>जदयू_N_NNP और_CC_CCD एआईएडीएमके_N_NN समेत_N_NN अन्य_JJ पार्टियों_N_NN के_PSP वॉकआउट_N_NN से_PSP राज्यसभा_N_NN में_PSP बिल_N_NN को_PSP पास_N_NST कराने_V_VM के_PSP लिए_PSP मोदी_N_NNP सरकार_N_NN कामयाब_N_NN हुई_N_NN ।</s>
+<s>लोकसभा_N_NN में_PSP मजदूरी_N_NN संहिता_N_NN विधेयक_N_NN और_CC_CCD राज्यसभा_N_NN में_PSP तीन_QT_QTC तलाक_N_NN विधेयक_N_NN पर_PSP चर्चा_N_NN जारी_N_NN | </s>
+<s>संसद_N_NNP का_PSP बजट_N_NN सत्र_N_NN जारी_N_NN है।_N_NN लोकसभा_N_NN में_PSP तमाम_N_NN विरोधों_N_NN के_PSP बाद_N_NST उपभोक्ता_N_NN संरक्षण_N_NN बिल_N_NN पारित_N_NN कर_V_VM दिया_V_VAUX गया_V_VAUX ।</s>
+<s>अब_N_NN कर्नाटक_N_NN में_PSP नहीं_RP_NEG मनाई_V_VM जाएगी_V_VAUX टीपू_N_NNP जयंती,_N_NNP येदियुरप्पा_N_NNP सरकार_N_NN का_PSP आदेश_N_NN | </s>
+<s>18वीं_QT_QTO सदी_N_NN में_PSP मैसूर_N_NNP के_PSP शासक_N_NN रहे_V_VM टीपू_N_NNP सुल्तान_N_NNP की_PSP जयंती_N_NN को_PSP लेकर_V_VM येदियुरप्पा_N_NNP सरकार_N_NN ने_PSP आदेश_N_NN दिया_V_VM है_V_VAUX कि_CC_CCS अब_N_NST इसे_DM_DMD न_RP_NEG मनाया_V_VM जाए_V_VAUX ।</s>
+<s>सुप्रीम_N_NN कोर्ट_N_NN का_PSP अनुच्छेद-370_N_NN को_PSP चुनौती_N_NN देने_V_VM वाली_PSP याचिका_N_NN पर_PSP जल्द_N_NN सुनवाई_N_NN से_PSP इनकार_N_NN | </s>
+<s>संजय_N_NNP सिंह_N_NNP ने_PSP कांग्रेस_N_NNP छोड़ी,_N_NNP राज्यसभा_N_NNP से_PSP भी_RP_RPD इस्तीफा,_N_NN बुधवार_N_NN को_PSP भाजपा_N_NNP में_PSP होंगे_V_VM शामिल_N_NN | </s>
+<s>गांधी_N_NNP परिवार_N_NN के_PSP करीबी_JJ माने_V_VM जाने_V_VAUX वाले_PSP नेता_N_NN संजय_N_NNP सिंह_N_NNP ने_PSP कांग्रेस_N_NNP पार्टी_N_NN और_CC_CCD राज्यसभा_N_NN की_PSP सदस्यता_N_NN से_PSP इस्तीफा_N_NN दे_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>मेडिकल_JJ छात्रों_N_NN को_PSP बड़ी_JJ राहत,_N_NN निजी_JJ चिकित्सा_N_NN कॉलेजों_N_NN में_PSP नहीं_RP_NEG चलेगी_V_VM फीस_N_NN की_PSP मनमानी_N_NN | </s>
+<s>देश_N_NN में_PSP एम्स_N_NN समेत_N_NN सभी_QT_QTF मेडिकल_N_NN कॉलेजों_N_NN में_PSP एमबीबीएस_N_NN में_PSP नामांकन_N_NNP सिर्फ_QT_QTF एक_QT_QTC परीक्षा_N_NN से_PSP होगा_N_NN ।</s>
+<s>नेशनल_JJ मेडिकल_N_NN कमीशन_N_NN विधेयक_N_NN पर_PSP संसद_N_NN ने_PSP मुहर_N_NN लगा_V_VM दी_V_VAUX ।</s>
+<s>राज्यसभा_N_NN में_PSP आज_N_NN पेश_N_NN होगा_V_VM तीन_QT_QTC तलाक,_N_NN भाजपा_N_NNP ने_PSP सांसदों_N_NN को_PSP जारी_N_NN किया_V_VM व्हिप_N_NN | </s>
+<s>सरकार_N_NN मंगलवार_N_NN को_PSP राज्यसभा_N_NN में_PSP तीन_QT_QTC तलाक_N_NN पेश_N_NN करेगी।_N_NN </s>_N_NN
+<s>सत्तारूढ़_N_NNP भाजपा_N_NNP ने_PSP अपने_PR_PRF सांसदों_N_NN को_PSP सदन_N_NN में_PSP उपस्थित_V_VM रहने_V_VAUX के_PSP लिए_PSP व्हिप_N_NN जारी_N_NN कर_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>पुराने_N_NN कानूनों_N_NN को_PSP खत्म_N_NN करने_V_VM वाला_PSP लोकसभा_N_NN से_PSP बिल_N_NN पारित,_N_NN मंत्री_N_NN ने_PSP कहा-_N_NN इनमें_DM_DMD अधिकतर_QT_QTF अंग्रेजों_N_NN के_PSP जमाने_N_NN के_N_NN | </s>
+<s>सदन_N_NN में_PSP कानून_N_NN मंत्री_N_NN रविशंकर_N_NNP प्रसाद_N_NNP ने_PSP कहा_V_VM कि_CC_CCS हम_PR_PRP 58_QT_QTC और_CC_CCD पुराने_JJ कानून_N_NN खत्म_N_NN करने_V_VM जा_V_VAUX रहे_V_VAUX हैं_N_NN ।</s>
+<s>इनमें_N_NN से_PSP बहुत_QT_QTF से_PSP कानून_N_NN अंग्रेजों_N_NN के_PSP समय_N_NN के_PSP हैं_N_NN ।</s>
+<s>हरियाणा_N_NNP व_CC_CCD महाराष्ट्र_N_NNP के_PSP साथ_PSP जम्मू-कश्मीर_N_NNP में_PSP भी_RP_RPD चुनावी_JJ तैयारी_N_NN शुरू_N_NN | </s>
+<s>इन_N_NNP दिनों_N_NN जम्मू-कश्मीर_N_NNP हरियाणा_N_NNP और_CC_CCD महाराष्ट्र_N_NNP में_PSP राजनीतिक_JJ माहौल_N_NN गर्म_N_NN है_N_NN ।</s>
+<s>भाजपा_N_NNP तीनों_QT_QTC राज्यों_N_NN समेत_N_NN अन्य_JJ दल_N_NN चुनाव_N_NN की_PSP तैयारी_N_NN में_PSP जुट_V_VM गए_V_VAUX हैं_V_VAUX ।</s>
+<s>बंगाल_N_NNP में_PSP BJP_N_NN की_PSP काट_V_VM के_PSP लिए_PSP PK_N_NN का_PSP मिशन_N_NN शुरू,_N_NN TMC_N_NN के_PSP लिए_PSP बना_V_VM रहे_V_VAUX ये_DM_DMD प्लान_N_NN | </s>
+<s>मशहूर_N_NNP चुनावी_N_NNP रणनीतिकार_N_NNP प्रशांत_JJ किशोर_N_NN (पीके)_N_NN और_CC_CCD उनकी_PR_PRP टीम_N_NN ने_PSP टीएमसी_N_NN के_PSP लिए_PSP कोलकाता_N_NNP में_PSP अपने_PR_PRF पहले_N_NST अभियान_N_NN की_PSP शुरुआत_N_NN की_N_NN ।</s>
+<s>प्लेट_N_NN से_PSP निकलकर_V_VM ‘चलने_V_VAUX लगा’_N_NN चिकन_N_NN पीस,_N_NN वीडियो_N_NN देख_N_NN उड़_V_VM जाएंगे_V_VAUX होश_N_NN | </s>
+<s>अमेरिका_N_NN में_PSP फ्लोरिडा_N_NNP के_PSP एक_QT_QTC शख्स_N_NN ने_PSP सोशल_N_NNP मीडिया_N_NN पर_PSP एक_QT_QTC ऐसी_DM_DMD ही_RP_RPD घटना_N_NN का_PSP वीडियो_N_NN शेयर_N_NN किया_V_VM है_V_VAUX जो|P वायरल_N_NN हो_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>मलेशिया_N_NNP में_PSP जन्मा_N_NN दो_QT_QTC सिर_N_NN वाला_PSP कछुआ,_N_NN लेकिन_CC_CCS आसमान_N_NN से_PSP आई_V_VM मौत!</s>
+<s>मलेशिया_N_NNP के_PSP माबुल_N_NNP द्वीप_N_NN पर_PSP दो_QT_QTC सिर_N_NN वाला_PSP एक_QT_QTC कछुआ_N_NN जन्मा_N_NN है_V_VAUX जो|P वहां_N_NNP के_PSP लोगों_N_NN के_PSP बीच_N_NST चर्चा_N_NN का_PSP विषय_N_NN बना_V_VM हुआ_V_VAUX था_N_NN ।</s>
+<s>हालांकि_N_NNP जन्म_N_NN के_PSP कुछ_QT_QTF दिनों_N_NN के_PSP बाद_N_NST ही_RP_RPD उसकी_PR_PRP मौत_N_NN भी_RP_RPD हो_V_VM गई_V_VAUX ।</s>
+<s>यह_N_NN है_V_VM दुनिया_N_NN का_PSP सबसे_RP_INTF महंगा_JJ घोड़ा,_N_NN कीमत_N_NN आपकी_PR_PRP उम्मीद_N_NN से_PSP भी_RP_RPD ज्यादा!_N_NN | </s>
+इस_DM_DMD घोड़े_N_NN का_PSP नाम_N_NN ग्रीनमंकी_N_NNP है_V_VAUX जो|P अमेरिकी_JJ रेस_N_NN हॉर्स_N_NN है।<s>
+<s>दौड़ने_V_VM की_PSP क्षमता_N_NN और_CC_CCD सुंदरता_N_NN ही_RP_RPD इसे_DM_DMD खास_JJ बना_V_VM देती_V_VAUX है_V_VAUX ।</s>
+<s>इसके_N_NN कारण_N_NN ही_RP_RPD इसके_DM_DMD नाम_N_NN अब_N_NST तक_PSP दुनिया_N_NN का_PSP सबसे_RP_INTF महंगा_JJ जानवर_N_NN होने_V_VM का_PSP रिकॉर्ड_N_NN है_N_NN | </s>
+<s>हैरतअंगेज!_N_NNP सांप_N_NNP ने_PSP बुजुर्ग_N_NN को_PSP काटा,_V_VM तो_RP_RPD उसने_PR_PRP भी_RP_RPD सांप_N_NN को_PSP दांतों_N_NN से_PSP चबाया_V_VM | </s>
+<s>गुजरात_N_NN के_PSP महीसागर_N_NNP जिले_N_NN में_PSP चौंका_N_NN देने_V_VM वाली_PSP एक_QT_QTC घटना_N_NN सामने_N_NST आई_V_VM है_V_VAUX ।</s>
+<s>एक_N_NNP सांप_N_NNP ने_PSP बुजुर्ग_N_NN को_PSP काट_V_VM लिया_V_VAUX जिस|P पर_PSP उस_PR_PRP बुजुर्ग_N_NN ने_PSP भी_RP_RPD उस_PR_PRP सांप_N_NN को_PSP अपने_PR_PRF दांतों_N_NN से_PSP काट_V_VM लिया_V_VAUX ।</s>
+<s>84_QT_QTC साल_N_NN के_PSP बुजुर्ग_N_NN की_PSP शादी_N_NN का_PSP विज्ञापन_N_NN सोशल_N_NN मीडिया_N_NN पर_PSP हुआ_V_VM वायरल_N_NN | </s>
+<s>विज्ञापन_N_NN के_PSP अनुसार_N_NN उस_PR_PRP बुजुर्ग_N_NN के_PSP पास_N_NST 3_QT_QTC करोड़_QT_QTC रुपये_N_NN की_PSP कीमत_N_NN का_PSP अपना_PR_PRF घर_N_NN है_V_VM ।</s>
+<s>वह_N_NN धूम्रपान_N_NN नहीं_RP_NEG करते_V_VM हैं।_V_VAUX उनके_PR_PRP पास_N_NST 5_QT_QTC लाख_QT_QTC रुपये_N_NN की_PSP फिक्स्ड_N_NN डिपॉजिट_N_NN भी_RP_RPD है_N_NN ।</s>
+<s>पाकिस्तान_N_NNP में_PSP जब|P रातों-रात_N_NN गायब_N_NN हो_V_VM गया_V_VAUX एक_QT_QTC द्वीप,_N_NN खबर_N_NN सुनकर_V_VM हैरत_N_NN में_PSP पड़_V_VM गए_V_VAUX लोग_N_NN | </s>
+<s>पाकिस्तान_N_NNP के_PSP शहर_N_NN ग्वादर_N_NNP में_PSP समुद्र_N_NN के_PSP बीच_N_NST स्थि_N_NN त_N_NN एक_QT_QTC द्वीप_N_NN रातों-रात_N_NN अचानक_RB गायब_N_NN हो_V_VM गया_V_VAUX ।</s>
+<s>उस_N_NNP द्वीप_N_NN का_PSP नाम_N_NN जलजला_N_NNP कोह_N_NNP था।<s/>
+<s>घर_N_NN पर_PSP खाने_V_VM के_PSP एवज_N_NN में_PSP फ्रेंड_N_NN ने_PSP भेज_V_VM दिया_V_VAUX 68,700_N_NN का_PSP बिल,_N_NN सिर_N_NN चकराया_N_NN | </s>
+<s>इटली_N_NNP की_PSP रहने_V_VM वाली_PSP एक_QT_QTC महिला_N_NN ने_PSP अपनी_PR_PRF एक_QT_QTC पुरानी_JJ फ्रेंड_N_NN को_PSP उसके_PR_PRP परिवार_N_NN से_PSP मिलने_V_VM की_PSP इच्छा_N_NN जताई_N_NN ।</s>
+<s>उसने_N_NN अपने_PR_PRF फ्रेंड_N_NN के_PSP यहां_N_NN पांच_QT_QTC दिन_N_NN रहने_V_VM की_PSP योजना_N_NN बनाई_V_VM ।</s>
+<s>तोता_N_NN है_V_VAUX या_CC_CCD ‘खतरों_N_NN का_PSP खिलाड़ी’,_N_NN कुछ_QT_QTF अलग_JJ है_V_VM इसकी_DM_DMR कहानी_N_NN | </s>
+<s>स्थानीय_JJ मीडिया_N_NN रिपोर्ट्स_N_NN के_PSP अनुसार_N_NN फ्रेडी_N_NNP को_PSP 16_QT_QTC अप्रैल_N_NN को_PSP चिड़ियाघर_N_NNP से_PSP तीन_QT_QTC हथियारबंद_N_NN लुटेरों_N_NN ने_PSP अगवा_V_VM कर_V_VAUX लिया_V_VAUX था_V_VAUX ।</s>
+<s>हालांकि_N_NN दो_QT_QTC दिनों_N_NN के_PSP बाद_N_NST उसे_PR_PRP चिड़ियाघर_N_NNP के_PSP आसपास_N_NST देखा_V_VM गया_V_VAUX ।</s>
+<s>घर_N_NN में_PSP घुसा_V_VM एक_QT_QTC ऐसा_DM_DMD जीव,_N_NN जिसे|P देखकर_V_VM लोगों_N_NN के_PSP उड़े_N_NN होश!_N_NN | </s>
+<s>इंडोनेशिया_N_NNP के_PSP बाली_N_NNP में_PSP बारिश_N_NN से_PSP बचने_V_VM के_PSP लिए_PSP एक_QT_QTC जीव_N_NN एक_QT_QTC घर_N_NN में_PSP घुस_V_VM गया_V_VAUX ।</s>
+<s>उस_N_NN अजीब_JJ जीव_N_NN को_PSP देखकर_V_VM एक_QT_QTC बार_N_NN तो_RP_RPD घरवालों_N_NN के_PSP होश_N_NN ही_RP_RPD उड़_V_VM गए_N_NN ।</s>
+<s>पार्टी_N_NNP में_PSP रौब_N_NN जमान_N_NN के_PSP लिए_PSP निगल_V_VM लिया_V_VAUX सिक्का,_N_NN गले_N_NN में_PSP फंसा_V_VM तो_RP_RPD जान_N_NN पर_PSP बन_V_VM आई_V_VAUX | </s>
+<s>स्कॉटलैंड_N_NNP के_PSP ग्लासगो_N_NNP के_PSP रहने_V_VM वाले_PSP ग्रेग_N_NNP इरविन_N_NNP ने_PSP दोस्तों_N_NN के_PSP साथ_N_NN एक_QT_QTC पार्टी_N_NN में_PSP एक_QT_QTC सिक्का_N_NN निगल_V_VM लिया_V_VAUX लेकिन_CC_CCS वह_PR_PRP उसके_PR_PRP गले_N_NN में_PSP फंस_V_VM गया_V_VAUX ।</s>
+<s>शर्त_JJ जीतने_N_NN के_PSP लिए_PSP खा_V_VM लिया_V_VAUX छिपकली,_RB हो_V_VM गई_V_VAUX मौत!_N_NN | </s>
+<s>ऑस्ट्रेलिया_N_NNP के_PSP ब्रिसबेन_N_NN में_PSP पार्टी_N_NN के_PSP दौरान_N_NN एक_QT_QTC व्यक्ति_N_NN ने_PSP खाने_V_VM की_PSP शर्त_N_NN पूरी_N_NN करने_V_VM के_PSP लिए_PSP एक_QT_QTC ऐसी_DM_DMD चीज_N_NN खा_V_VM ली_V_VAUX जिससे|P उसके_PR_PRP पेट_N_NN में_PSP इंफेक्शन_N_NN हो_V_VM गया_V_VAUX ।</s>
+<s>दिनों_N_NN से_PSP कर_V_VM रही_V_VAUX है_V_VAUX उपवास,_N_NN अन्न_N_NN का_PSP एक_QT_QTC भी_RP_RPD दाना_N_NN नहीं_RP_NEG खाती,_V_VM फिर_RB भी_RP_RPD है_V_VM जिंदा_N_NN | </s>
+<s>एक_N_NN युवती_N_NN ने_PSP दावा_N_NN किया_V_VM है_V_VAUX कि_CC_CCS वह_PR_PRP 97_QT_QTC दिनों_N_NN से_PSP उपवास_N_NN कर_V_VM रही_V_VAUX है_V_VAUX और_CC_CCD इस_DM_DMD दौरान_N_NN उसने_PR_PRP अन्न_N_NN का_PSP एक_QT_QTC भी_RP_RPD दाना_N_NN नहीं_RP_NEG खाया_V_VM है_V_VAUX ।</s>
+<s>वह_N_NN जीवित_N_NN रहने_V_VM के_PSP लिए_PSP प्रकृति_N_NN से_PSP एनर्जी_N_NN लेती_V_VM है_V_VAUX ।</s>
+<s>केवल_N_NN 27_QT_QTC मिनट_N_NN के_PSP लिए_PSP हुई_V_VM मौत,_N_NN आंख_N_NN खुलते_V_VM ही_RP_RPD कॉपी_N_NN पर_PSP लिखे_N_NN ‘रहस्यमयी_N_NN शब्द’!</s>
+<s>अमेरिका_N_NN की_PSP एक_QT_QTC महिला_N_NN अपनी_PR_PRF मौत_N_NN के_PSP 27_QT_QTC मिनट_N_NN के_PSP बाद_N_NST दोबारा_N_NN जीवित_N_NN हो_V_VM उठी_V_VAUX ।</s>
+<s>उसने_N_NN नोटबुक_N_NN मांगकर_V_VM कुछ_QT_QTF ‘रहस्यमयी_JJ शब्द’_N_NN लिखे_N_NN जिसे|P पढ़_V_VM पाना_V_VAUX आसान_JJ नहीं_RP_NEG था_V_VM ।</s>
+<s>यह_N_NN खबर_N_NN आपको_PR_PRP डराने_V_VM के_PSP लिए_PSP नहीं_RP_NEG है_V_VAUX बल्कि_CC_CCD सजग_N_NN करने_V_VM के_PSP लिए_PSP है_N_NN ।</s>
+<s>ऐसी_N_NN एक_QT_QTC घटना_N_NN हुई_V_VM है_V_VAUX अमेरिका_N_NNP के_PSP उटाह_N_NNP शहर_N_NN में_N_NN ।</s>
+<s>मीडिया_N_NNP रिपोर्ट्स_N_NN के_PSP मुताबिक_N_NN आडिया_N_NNP लोपेज_N_NNP ईस्टीवे_N_NNP ने_PSP अपने_PR_PRF प्रेमी_N_NN से_PSP दूसरी_QT_QTO बार_N_NN ब्रेकअप_N_NN होने_V_VM पर_PSP उसकी_PR_PRP जीभ_N_NN काट_V_VM ली_N_NN ।</s>
+<s>इंसान_N_NNP ने_PSP 13_QT_QTC फीट_N_NN लंबे_JJ अजगर_N_NN की_PSP पूंछ_N_NN को_PSP दांत_N_NN से_PSP काटा,_N_NN 3_QT_QTC घंटे_N_NN चली_N_NN लड़ाई_N_NN | </s>
+<s>केन्या_N_NN के_PSP रहने_V_VM वाले_PSP बेन_N_NNP न्याउम्बे_N_NNP ने_PSP बताया_V_VM कि_CC_CCS उनका_PR_PRP पैर_N_NN जमीन_N_NN पर_PSP एक_QT_QTC स्पंज_N_NN जैसी_N_NN चीज_N_NN पर_PSP पड़ा_V_VM तभी_CC_CCS अचानक_RB एक_QT_QTC बड़े_JJ से_PSP अजगर_N_NN ने_PSP उनके_PR_PRP पैर_N_NN को_PSP जकड़_N_NN लिया_V_VM ।</s>
+<s>पर्स_N_NN ऐसा,_N_NN जिसे|P देखकर_V_VM डर_N_NN जाएंगे_V_VAUX आप,_V_VAUX सोशल_JJ मीडिया_N_NN पर_PSP हो_V_VM रहा_V_VAUX वायरल_N_NN | </s>
+<s>इस_N_NN अजीबोगरीब_JJ इंसानी_N_NN मुंह_N_NN वाले_PSP पर्स_N_NN का_PSP वीडियो_N_NN एक_QT_QTC जापानी_JJ डीजे_N_NN ने_PSP ट्विटर_N_NN पर_PSP शेयर_N_NN किया_V_VM है_V_VAUX जिसे|P अब_N_NST तक_PSP 14_QT_QTC मिलियन_N_NN से_PSP ज्यादा_QT_QTF बार_N_NN देखा_V_VM जा_V_VAUX चुका_V_VAUX है_V_VAUX ।</s>
+<s>प्यार_N_NNP के_PSP इजहार_N_NN में_PSP गर्लफ्रेंड_N_NN को_PSP दी_V_VM ऐसी_DM_DMD गिफ्ट,_N_NN जिसके|P बारे_N_NN में_PSP सोच_N_NN भी_RP_RPD नहीं_RP_NEG सकते_V_VM ।</s>
+<s>आप_N_NN चॉकलेट_N_NN महंगी_JJ ड्रेस_N_NN जूलरी_N_NN कार_N_NN घर_N_NN जैसी_JJ चीजों_N_NN के_PSP बारे_N_NN में_PSP सोच_V_VM रहे_V_VAUX हैं_V_VAUX तो_RP_RPD आप_PR_PRP गलत_JJ सोच_N_NN रहे_V_VM हैं_V_VAUX ।</s>
+<s>सूंघने_N_NN की_PSP क्षमता_N_NN से_PSP जुड़ा_V_VM है_V_VAUX आपकी_PR_PRP मौत_N_NN का_PSP राज!</s>
+<s>इस_N_NN शोध_N_NN से_PSP जुड़े_JJ प्रोफेसर_N_NN होन्गलेई_N_NNP चेन_N_NNP का_PSP कहना_V_VM है_V_VAUX कि_CC_CCS बुजुर्ग_JJ लोगों_N_NN में_PSP सूंघने_V_VM की_PSP क्षमता_N_NN में_PSP कमी_QT_QTF आना_V_VM बहुत_RP_INTF ही_RP_RPD सामान्य_JJ है_V_VAUX और_CC_CCD इसका_PR_PRP संबंध_N_NN मौत_N_NN से_PSP है_N_NN ।</s>
+<s>घर_N_NN का_PSP दरवाजा_N_NN खोलते_V_VM समय_N_NN घटी_N_NNP ऐसी_DM_DMD घटना,_N_NN आप_PR_PRP भी_RP_RPD रहें_V_VM सतर्क_N_NN | </s>
+<s>घर_N_NN का_PSP दरवाजा_N_NN खोलते_V_VM ही_RP_RPD कोई_DM_DMI अनहोनी_N_NN की_PSP उम्मीद_N_NN नहीं_RP_NEG करता_V_VM है_V_VAUX लेकिन_CC_CCD अमेरिका_N_NNP में_PSP एक_QT_QTC ऐसी_DM_DMD घटना_N_NN हुई_V_VM कि_CC_CCS उसे_PR_PRP जानकर_N_NN आप_PR_PRP भी_RP_RPD चौकन्ने_V_VM हो_V_VAUX जाएंगे_V_VAUX ।</s>
+<s>तीन_N_NN तलाक_N_NN पर_PSP 63_QT_QTC साल_N_NN पहले_N_NST पाकिस्तान_N_NNP और_CC_CCD 90_QT_QTC साल_N_NN पहले_N_NST मिस्र_N_NNP ने_PSP लगाया_V_VM था_V_VAUX बैन_N_NN | </s>
+<s>तीन_N_NN तलाक_N_NN लेकिन_CC_CCS क्या_PR_PRQ आपको_PR_PRP पता_N_NN है_V_VAUX किस_N_NNP देश_N_NN ने_PSP सबसे_RP_INTF पहले_QT_QTO तीन_QT_QTC तलाक_N_NN को_PSP बैन_RB किया?_N_NN हम_PR_PRP बताते_V_VM हैं_V_VAUX | </s>
+<s>जो_N_NNP उम्मीदवार_N_NN इस_DM_DMD परीक्षा_N_NN में_PSP बैठे_V_VM हैं_V_VAUX वो_DM_DMD अपना_PR_PRF रिजल्ट_N_NN ऑफिशियल_N_NN वेबसाइट_N_NN पर_PSP देख_V_VM सकते_V_VAUX हैं_N_NN ।</s>
+<s>परीक्षा_N_NN से_PSP पहले_N_NST इस_DM_DMD बातों_N_NN का_PSP रखें_V_VM ख्याल,_V_VAUX क्रेक_N_NN करने_V_VM में_PSP मिलेगी_V_VM मदद_N_NN | </s>
+<s>कोलकाता_N_NN नॉन_N_NN टेक्निकल_N_NN पॉपुलर_JJ कैटगरी_N_NN परीक्षा_N_NN के_PSP लिए_PSP जल्द_N_NN ही_RP_RPD एडमिट_N_NN कार्ड/हाल_N_NN टिकट_N_NN जारी_V_VM कर_V_VAUX सकता_V_VAUX है_V_VAUX ।</s>
+<s>मेरठ:_N_NN यूजी_N_NN में_PSP तीन_QT_QTC तक_PSP रजिस्ट्रेशन,_N_NN पीजी_N_NN के_PSP लिए_PSP सिर्फ_QT_QTF आज_N_NN मौका_N_NN | </s>
+<s>परास्नातक_N_NN कक्षाओं_N_NN में_PSP जिन|P छात्र-छात्राओं_N_NN ने_PSP अभी_N_NST तक_PSP ऑनलाइन_N_NN रजिस्ट्रेशन_N_NN नहीं_RP_NEG कराया_V_VM है_V_VAUX ।</s>
+<s>ऐसे_JJ छात्रों_N_NN के_PSP पास_N_NST मंगलवार_N_NN तक_PSP अंतिम_JJ मौका_N_NN है_N_NN ।</s>
+<s>अप्रेंटिस_N_NNP डेवलपमेंट_N_NNP ऑफिसर_N_NNP प्री_N_NN परीक्षा_N_NN के_PSP नतीजे_N_NN घोषित,_N_NN ऐसे_DM_DMD करें_V_VM चेक_N_NN | </s>
+<s>अप्रेंटिस_N_NNP डेवलपमेंट_N_NNP ऑफिसर_N_NNP प्री_N_NN परीक्षा_N_NN के_PSP नतीजे_N_NN घोषित_V_VM कर_V_VAUX दिए_V_VAUX गए_V_VAUX हैं_V_VAUX ।</s>
+<s>उत्तर_N_NNP रेलवे_N_NN में_PSP नौकरी_N_NN का_PSP मौका,_N_NN जानें_N_NN पूरी_N_NN डिटेल_N_NN | </s>
+<s>गुजरात_N_NN में_PSP विभिन्न_JJ पदों_N_NN पर_PSP निकली_V_VM 408_QT_QTC भर्तियां,_N_NN इस_DM_DMD तारीख_N_NN तक_PSP कर_V_VM सकतें_V_VAUX हैं_V_VAUX आवेदन_N_NN | </s>
+<s>एक_N_NN तरफ1.60_N_NN लाख_N_NN पदों_N_NN के_PSP लिए_PSP आवेदन_N_NN शुरू,_N_NN तो_RP_RPD दूसरी_QT_QTO ओर_N_NN जारी_N_NN कर_V_VM सकता_V_VAUX है_V_VAUX एडमिट_N_NN कार्ड_N_NN | </s>
+<s>हम_N_NN आपको_PR_PRP इस_DM_DMD खबर_N_NN में_PSP सरकारी_JJ नौकरी_N_NN और_CC_CCD उनसे_PR_PRP जुड़े_JJ अपडेट_N_NN के_PSP बारे_N_NN में_PSP बता_V_VM रहे_V_VAUX हैं_V_VAUX ।</s>
+<s>दूसरे_JJ राउंड_N_NN में_PSP सीट_N_NN आवंटन_N_NN रिजल्ट_N_NN की_PSP आज_N_NN हो_V_VM सकती_V_VAUX है_V_VAUX घोषणा,_N_NN ऐसे_DM_DMD करें_V_VM चेक_N_NN | </s>
+<s>वॉक-इन-इंटरव्यू_N_NN क्रेक_V_VM करिए_V_VAUX और_CC_CCD बन_V_VM जाइए_V_VAUX असिस्टेंट_N_NN प्रोफेसर_N_NN | </s>
+<s>केन्द्रीय_JJ विश्वविद्यालय_N_NN हरियाणा_N_NNP ने_PSP असिस्टेंट_N_NNP प्रोफेसर_N_NN के_PSP पद_N_NN पर_PSP भर्ती_N_NN के_PSP लिए_PSP आवेदन_N_NN मांगे_V_VM हैं_V_VAUX ।</s>
+<s>जानिए_N_NN क्या_PR_PRQ है_V_VAUX अनुच्छेद_N_NN 35,_QT_QTC जिस|P वजह_N_NN से_PSP कश्मीर_N_NNP समेत_N_NN देशभर_N_NN में_PSP मचा_V_VM है_V_VAUX बवाल_N_NN | </s>
+<s>आपके_N_NN दिमाग_N_NN सवाल_N_NN चल_V_VM रहा_V_VAUX होगा_V_VAUX कि_CC_CCS आखिर_N_NN आर्टिकल_N_NN 35-ए_V_VM है_V_VAUX क्या_PR_PRQ जो|P इतना_QT_QTF बवाल_N_NN मचा_V_VM चुका_V_VAUX है_V_VAUX ।</s>
+<s>सरकारी_JJ स्कूल_N_NN में_PSP पढ़ी_N_NN सौम्या_N_NN बनीं_V_VM मिसाल,_V_VAUX फर्स्ट_N_NN अटेंप्ट_N_NN में_PSP ही_RP_RPD परीक्षा_N_NN पास_V_VM कर_V_VAUX बनीं_V_VM जज_V_VAUX | </s>
+<s>गवर्नमेंट_N_NN स्कूल_N_NN से_PSP बारहवीं_QT_QTF तक_PSP की_PSP पढ़ाई_N_NN उसके_PR_PRP बाद_N_NST बीएचयू_N_NNP से_PSP एलएलबी_N_NNP और_CC_CCD अब_N_NST यूपी_N_NNP पीसीएस_N_NNP जे_N_NNP में_PSP 151वीं_QT_QTC रैंक_N_NN हासिल_V_VM कर_V_VAUX सौम्या_N_NNP ने_PSP अपने_PR_PRF पिता_N_NN का_PSP सपना_N_NN पूरा_N_NN कर_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>जिन_N_NN छात्रों_N_NN ने_PSP परीक्षा_N_NN दी_V_VM थी_V_VAUX वे_DM_DMD अपना_PR_PRF रिजल्ट_N_NN यूनिवर्सिटी_N_NN की_PSP ऑफिशियसल_N_NN वेबसाइट_N_NN पर_PSP जाकर_V_VM देख_V_VM सकते_V_VAUX हैं_N_NN ।</s>
+<s>इमोशनल_N_NN इंटेलिजेंस_N_NN संग_N_NN बढ़ें_N_NN आगे,_N_NN भविष्य_N_NN में_PSP मिलेगा_V_VM फायदा_N_NN | </s>
+<s>2022_QT_QTC तक_PSP करीब_QT_QTF 50_QT_QTC फीसद_N_NN लीडर्स_N_NN इमोशनल_N_NN इंटेलिजेंस_N_NN के_PSP मामले_N_NN में_PSP पिछड़_V_VM जाएंगे_V_VAUX और_CC_CCD ठीक_N_NN से_PSP तालमेल_N_NN नहीं_RP_NEG बिठा_V_VM पाएंगे_V_VAUX ।</s>
+<s>टीयर-1_N_NN परीक्षा_N_NN के_PSP लिए_PSP एडमिट_N_NN कार्ड_N_NN जारी,_N_NN ऑफिशियल_N_NN वेबसाइट_N_NN से_PSP करें_V_VM डाउनलोड_N_NN | </s>
+<s>उम्मीदवारों_N_NN ने_PSP परीक्षा_N_NN के_PSP लिए_PSP अप्लाई_N_NN किया_V_VM है_V_VAUX वो_DM_DMD कमीशन_N_NN की_PSP ऑफिशियल_N_NN वेबसाइट_N_NN पर_PSP जाकर_V_VM एडमिट_N_NN कार्ड_N_NN डाउनलोड_N_NN कर_V_VM सकते_V_VAUX हैं_V_VAUX ।</s>
+<s>स्पेशल_JJ राउंड_N_NN अलॉटमेंट_N_NN रिजल्ट_N_NN जारी,_N_NN ऐसे_DM_DMD करें_V_VM चेक_N_NN | </s>
+<s>सेंट्रल_N_NNP सीट_N_NN अलॉटमेंट_N_NN बोर्ड_N_NN द्वारा_PSP स्पेशल_JJ राउंड_N_NN की_PSP फर्स्ट_N_NN अलॉटमेंट_N_NN लिस्ट_N_NN जारी_N_NN कर_V_VM दी_V_VAUX गई_V_VAUX है_N_NN ।</s>
+<s>इस_N_NNP प्रदेश_N_NNP में_PSP 1लाख_QT_QTC से_PSP अधिक_QT_QTF भर्ती,_N_NN ऐसे_DM_DMD करें_V_VM अप्लाई_N_NN | </s>
+<s>सरकारी_JJ आवेदन_N_NN के_PSP लिए_PSP ऑफिशियल_N_NN वेबसाइट_N_NN की_PSP शुरुआत_N_NN 27_QT_QTC जुलाई_N_NNP 2019_QT_QTC से_PSP शुरू_N_NN हो_V_VM गई_V_VAUX ।</s>
+<s>ट्रेनों_N_NN में_PSP पार्सल_N_NNP की_PSP जिम्मेदारी_N_NN अब_N_NST अमेजन_N_NNP इंडिया_N_NNP को,_N_NNP खतरे_N_NN में_PSP होंगी_V_VM हजारों_N_NN नौकरियां_N_NN | </s>
+<s>दो_N_NNP राजधानी_N_NN ट्रेनों_N_NN में_PSP पार्सल_N_NN लाने_V_VM ले_V_VM जाने_V_VAUX का_PSP काम_N_NN रेलवे_N_NN ने_PSP अमेजन_N_NNP इंडिया_N_NNP को_PSP अधिकृत_QT_QTF किया_V_VM है_V_VAUX ।</s>
+<s>पूर्व_JJ महिला_N_NN सीएसपी_N_NN हुई_V_VM घरेलू_JJ हिंसा_N_NN की_PSP शिकार,_N_NN दरोगा_N_NNP बहू_N_NNP ने_PSP की_PSP जमकर_N_NN पिटाई_N_NN | </s>
+<s>रिटायर्ड_N_NN महिला_N_NN अफसर_N_NN ने_PSP सोमवार_N_NNP को_PSP आरोप_N_NN लगाया_V_VM कि_CC_CCS उसकी_PR_PRP सब_QT_QTF इंस्पेक्टर_N_NN बहू_N_NN ने_PSP पारिवारिक_JJ विवाद_N_NN में_PSP उसके_PR_PRP साथ_N_NN मारपीट_N_NN की_PSP और_CC_CCD उसे_PR_PRP दांतों_N_NN से_PSP काटकर_V_VM घायल_N_NN कर_V_VM दिया_V_VAUX ।</s>
+<s>धरती_N_NNP की_PSP तीसरी_QT_QTC कक्षा_N_NN में_PSP पहुंचा_N_NN चंद्रयान-2,_N_NN क्या_PR_PRQ है_V_VAUX वैज्ञानिकों_N_NN का_PSP अगला_N_NST प्लान_N_NN | </s>
+<s>चंद्रयान-2_N_NN सोमवार_N_NN को_PSP धरती_N_NN की_PSP तीसरी_JJ कक्षा_N_NN में_PSP पहुंच_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>भारतीय_JJ अंतरिक्ष_N_NN अनुसंधान_N_NN संगठन_N_NN के_PSP वैज्ञानिकों_N_NN ने_PSP इस_DM_DMD पर_PSP नजर_N_NN रखा_V_VM है_V_VAUX ।</s>
+<s>अमेरिकी_N_NN आपत्तियों_N_NN को_PSP दरकिनार_N_NN कर_V_VM रूस_N_NNP से_PSP एक_QT_QTC और_CC_CCD रक्षा_N_NN करार,_N_NNP वायुसेना_N_NNP को_PSP मिलेगी_V_VM ये_DM_DMD ताकतवर_N_NN मिसाइल_N_NN | </s>
+<s>भारत_N_NNP ने_PSP रूस_N_NNP के_PSP साथ_PSP 1500_QT_QTC करोड़_QT_QTC रुपये_N_NN का_PSP करार_N_NN किया_V_VM है।_V_VAUX </s>_N_NN
+<s>दोनों_N_NN देशों_N_NN के_PSP बीच_N_NST एयर_N_NN टू_N_NN एयर_N_NN मिसाइलों_N_NN की_PSP खरीद_N_NN के_PSP लिए_PSP सौदा_N_NN हुआ_V_VM है_V_VAUX ।</s>
+<s>देश_N_NNP की_PSP 10_QT_QTC ऐतिहासिक_JJ स्मारकों_N_NN के_PSP खुलने_N_NN का_PSP समय_N_NN बढ़ाया_V_VM गया,_V_VAUX जानें_N_NN कौन-कौन_PR_PRQ हैं_V_VAUX शामिल_N_NN | </s>
+<s>केंद्रीय_JJ संस्कृति_N_NN मंत्री_N_NN प्रहलाद_N_NNP सिंह_N_NNP पटेल_N_NNP ने_PSP घोषणा_N_NN की_PSP है_V_VAUX कि_CC_CCS देश_N_NN भर_RP_RPD में_PSP 10_QT_QTC ऐतिहासिक_JJ स्मारकों_N_NN के_PSP खुलने_N_NN का_PSP समय_N_NN बढ़ा_V_VM दिया_V_VAUX गया_V_VAUX है_V_VAUX ।</s>
+<s>जानिए_N_NN कितने_N_NN तूफानी_N_NN हैं_N_NN बीयर_N_NN ग्रिल्स_N_NN जो|P कराएंगे_N_NN पीएम_N_NNP मोदी_N_NNP को_PSP एडवेंचर_N_NN यात्रा_N_NN | </s>
+<s>शो_N_NN के_PSP एंकर_N_NN बीयर_N_NN ग्रिल्स_N_NN पर_PSP एडवेंचर_N_NN और_CC_CCD स्टंट_N_NN का_PSP खुमार_N_NN इस_DM_DMD तरह_N_NN सवार_V_VM है_V_VAUX कि_CC_CCS उन्होंने_PR_PRP अपने_PR_PRF बेटे_N_NN की_PSP जान_N_NN दांव_N_NN पर_PSP लगा_V_VM दी_V_VAUX थी_N_NN ।</s>
+<s>मोदी_N_NN दिखेंगे_V_VM डिस्कवरी_N_NNP चैनल_N_NN के_PSP शो_N_NN 'मैन_N_NN वाइल्ड'_N_NN में,_N_NN बराक_N_NN ओबामा_N_NN भी_RP_RPD हो_V_VM चुके_V_VAUX हैं_V_VAUX शामिल_N_NN | </s>
+<s>पीएम_N_NNP मोदी_N_NNP डिस्कवरी_N_NNP चैनल_N_NN के_PSP लोकप्रिय_JJ शो_N_NN मैन_N_NN वाइल्ड_N_NN में_PSP दिखेंगे।_N_NN </s>
+<s>इससे_N_NN पहले_N_NST पूर्व_N_NST प्रेसिडेंट_N_NN बराक_N_NNP ओबामा_N_NNP भी_RP_RPD इसमें|P शामिल_N_NN हो_V_VM चुके_V_VAUX हैं_V_VAUX ।</s>
+<s>मुंबई_N_NNP में_PSP ऑरेंज_N_NN चेतावनी,_N_NN एमपी_N_NN और_CC_CCD राजस्थान_N_NN में_PSP भारी_JJ बारिश_N_NN की_PSP चेतावनी,_JJ बाढ़_N_NN से_PSP हाहाकार_N_NN | </s>
+<s>मौसम_N_NNP विभाग_N_NNP ने_PSP मुंबई_N_NNP के_PSP लिए_PSP ऑरेंज_N_NN चेतावनी_N_NN जारी_N_NN किया_V_VM है।_V_VAUX </s>
+<s>मध्य_N_NNP प्रदेश_N_NNP उत्तर_N_NNP गुजरात_N_NNP समेत_N_NN देश_N_NN के_PSP कई_QT_QTF हिस्सों_N_NN में_PSP भारी_JJ से_PSP ज्यादा_N_NN बारिश_N_NN संभव_N_NN है_N_NN ।</s>
+<s>दिल्ली_N_NNP एनसीआर_N_NNP में_PSP भी_RP_RPD बारिश_N_NN हो_V_VM सकती_V_VAUX है_N_NN ।</s>
+<s>उन्नाव_N_NN दुष्कर्म_JJ पीड़िता_N_NN की_PSP कार_N_NN दुर्घटना_N_NN पर_PSP इन_DM_DMD परिस्थितियों_N_NN की_PSP वजह_N_NN से_PSP उठ_V_VM रहे_V_VAUX बड़े_JJ सवाल_N_NN | </s>
+<s>उन्नाव_N_NN दुष्कर्म_JJ पीड़िता_N_NN की_PSP कार_N_NN दुर्घटना_N_NN को_PSP लेकर_V_VM कुछ_QT_QTF ऐसी_DM_DMD परिस्थितियां_N_NN सामने_N_NST आई_V_VM हैं_V_VAUX जो|P बड़े_JJ सवाल_N_NN खड़े_V_VM कर_V_VAUX रही_V_VAUX हैं_V_VAUX ।</s>
+<s>चंद्रयान-2_N_NN की_PSP लॉचिंग_N_NN से_PSP ज्यादा_QT_QTF है_V_VM बाघ_N_NN संरक्षण_N_NN का_PSP खर्च_N_NN | </s>
+<s>भारत_N_NN में_PSP बाघ_N_NN संरक्षण_N_NN पर_PSP होने_V_VM वाला_PSP खर्च_N_NN ही_RP_RPD नहीं_RP_NEG बल्कि_CC_CCD इसका_DM_DMD लाभ_N_NN भी_RP_RPD किसी_DM_DMI अंतरिक्ष_N_NN मिशन_N_NN से_PSP कहीं_N_NST ज्यादा_QT_QTF है_N_NN ।</s>
+<s>जानें-_N_NN क्यों_PR_PRQ जरूरी_N_NN है_V_VAUX बाघों_N_NN का_PSP संरक्षण_N_NN ।</s>
+<s>जापानी_N_NN इंसेफिलाइटिस_N_NN के_PSP मरीजों_N_NN को_PSP असम_N_NNP सरकार_N_NN की_PSP मदद,_N_NN मुहैया_N_NN करा_V_VM रही_V_VAUX मुुफ्त_N_NN इलाज_N_NN | </s>
+<s>असम_N_NN के_PSP स्वास्थ्य_N_NN मंत्री_N_NN ने_PSP बताया_V_VM कि_CC_CCS राज्य_N_NN भर_N_NN में_PSP फैले_V_VM जापानी_JJ इंसेफिलाइटिस_N_NN के_PSP कारण_N_NN 100_QT_QTC से_PSP अधिक_QT_QTF लोगों_N_NN की_PSP मृत्यु_N_NN हो_V_VM चुकी_V_VAUX है_V_VAUX ।</s>
+<s>जानिए-_N_NN कब_PR_PRQ हुई_V_VM टाइगर-डे_N_NN की_PSP शुरुआत,_JJ विश्व_N_NN में_PSP कितनी_QT_QTF प्रजातियां_N_NN हैं_V_VM मौजूद_N_NN | </s>
+<s>नेशनल_N_NN टाइगर_N_NN कंजर्वेशन_N_NN अथॉरिटी_N_NN के_PSP मुताबिक_N_NN 2014_QT_QTC में_PSP आखिरी_QT_QTF बार_N_NN हुई_V_VM गणना_N_NN के_PSP अनुसार_N_NN भारत_N_NNP में_PSP 2226_QT_QTC बाघ_N_NN हैं_N_NN ।</s>
+<s>जो_V_VM कि_CC_CCS 2010_QT_QTC की_PSP गणना_N_NN की_PSP तुलना_N_NN में_PSP काफी_QT_QTF ज्यादा_QT_QTF हैं_N_NN ।</s>
+<s>जज्बे_N_NN को_PSP सलाम:_N_NN दिव्यांग_N_NN होने_V_VM के_PSP बाद_N_NST भी_RP_RPD ऑटो_N_NN चलाता_V_VM है_V_VAUX ये_DM_DMD शख्स,_N_NN कहानी_N_NN पढ़_V_VM आ_V_VM जाएंगे_V_VAUX आपकी_PR_PRP आंखों_N_NN में_PSP आंसू_N_NN | </s>
+<s>छत्तीसगढ़_N_NNP में_PSP एक_QT_QTC दिव्यांग_N_NN व्यक्ति_N_NN दिव्यांग_N_NN होने_V_VM के_PSP बाद_N_NST भी_RP_RPD अपने_PR_PRF परिवार_N_NN को_PSP भरण_N_NN पोषण_N_NN ऑटोरिक्शा_N_NN चलाकर_V_VM करता_V_VAUX है_V_VAUX ।</s>
+<s>जानें_N_NN उसके_PR_PRP साथ_N_NN हुए_V_VM हादसे_N_NN के_PSP बारे_N_NN में_N_NN | </s>
+<s>बेटे_N_NN पर_PSP पाकिस्तानी_N_NNP एजेंट_N_NN होने_V_VM का_PSP आरोप,_N_NN पिता_N_NN बोले-_N_NN काश_N_NN धरती_N_NN फटती_V_VM और_CC_CCD हम_PR_PRP समा_N_NN जाते_N_NN | </s>
+<s>पाकिस्तानी_JJ हैंडलर_N_NN के_PSP संपर्क_N_NN में_PSP होने_V_VM के_PSP आरोप_N_NN में_PSP उत्तर_N_NNP प्रदेश_N_NNP की_PSP एटीएस_N_NNP ने_PSP सीधी_N_NN के_PSP 24_QT_QTC वर्षीय_N_NN सौरभ_N_NN शुक्ला_N_NN को_PSP गिरफ्तार_N_NN कर_V_VM लिया_V_VAUX है_V_VAUX ।</s>
+<s>इस_N_NN जानकारी_N_NN से_PSP उसके_PR_PRP पिता_N_NN सदमे_N_NN में_PSP हैं_N_NN ।</s>
+<s>जयपुर:_N_NN अस्पताल_N_NN के_PSP ICU_N_NN में_PSP शॉर्ट_N_NN सर्किट_N_NN से_PSP लगी_V_VM आग,_V_VAUX दम_N_NN घुटने_N_NN से_PSP डेढ़_QT_QTC साल_N_NN की_PSP बच्ची_N_NN की_PSP मौत_N_NN | </s>
+<s>जानकारी_N_NN के_PSP मुताबिक_N_NN अस्पताल_N_NN के_PSP ICU_N_NN में_PSP शॉर्ट_N_NN सर्किट_N_NN के_PSP कारण_N_NN आग_N_NN लगी_N_NN ।</s>
+<s>इस_N_NN दौरान_N_NN वार्ड_N_NN में_PSP 25_QT_QTC बच्चे_N_NN मौजूद_N_NN थे_N_NN ।</s>
+<s>देश_N_NN के_PSP कई_QT_QTF राज्यों_N_NN में_PSP भूकंप_N_NN के_PSP झटके,_N_NN दहशत_N_NN में_PSP लोग,_N_NN जानिए_V_VM क्या_PR_PRQ है_V_VAUX रिक्टर_N_NN स्केल_N_NN | </s>
+<s>सोमवार_N_NN को_PSP हिमाचल_N_NNP प्रदेश_N_NNP जम्मू-कश्मीर_N_NNP और_CC_CCD पश्चिम_N_NNP बंगाल_N_NNP में_PSP में_PSP भूकंप_N_NN के_PSP झटके_N_NN महसूस_N_NN किए_V_VM गए_V_VAUX ।</s>
+<s>हालांकि_CC_CCS इस_DM_DMD दौरान_N_NN किसी_DM_DMI के_PSP हाताहत_N_NN होने_V_VM की_PSP कोई_DM_DMI खबर_N_NN नहीं_RP_NEG है_V_VM ।</s>
+<s>अगस्त_N_NN तक_PSP टली_N_NN माल्या_N_NN की_PSP याचिका_N_NN पर_PSP सुनवाई,_JJ संपत्ति_N_NN कुर्क_N_NNP मामले_N_NN में_PSP खटखटाया_V_VM था_V_VAUX sC_N_NN का_PSP दरवाजा_N_NN | </s>
+<s>भगोड़े_N_NN शराब_N_NN कारोबारी_N_NNP विजय_N_NNP माल्या_N_NNP ने_PSP अपने_PR_PRF और_CC_CCD अपने_PR_PRF रिश्तेदारों_N_NN की_PSP संपत्तियों_N_NN को_PSP जब्त_N_NN करने_V_VM से_PSP रोक_N_NN लगाने_V_VM के_PSP लिए_PSP दायर_N_NN की_PSP है_V_VAUX याचिका_N_NN ।</s>
+<s>सुप्रीम_N_NN कोर्ट_N_NN का_PSP बार_N_NN काउंसिल_N_NN ऑफ_N_NNP इंडिया_N_NNP और_CC_CCD केंद्र_N_NN को_PSP नोटिस,_JJ महिला_N_NN वकीलों_N_NN की_PSP सुरक्षा_N_NN पर_PSP मांगा_N_NNP जवाब_N_NN | </s>
+<s>सुप्रीम_N_NN कोर्ट_N_NN ने_PSP बार_N_NN काउंसिल_N_NN ऑफ_N_NNP इंडिया_N_NNP और_CC_CCD केंद्र_N_NN सरकार_N_NN को_PSP नोटिस_N_NN जारी_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>महिला_N_NN वकील_N_NN के_PSP लिए_PSP सामाजिक_JJ सुरक्षा_N_NN उपायों_N_NN की_PSP दिशा_N_NN में_PSP एक_QT_QTC योजना_N_NN तैयार_N_NN करने_V_VM पर_PSP जवाब_N_NN मांगा_V_VM है_V_VAUX ।</s>
+<s>बाघों_N_NN की_PSP संख्या_N_NN पर_PSP PM_N_NN मोदी_N_NNP ने_PSP रिपोर्ट_N_NN की_PSP जारी,_N_NN देश_N_NN में_PSP बढ़े_V_VM 741_V_VAUX टाइगर_N_NN | </s>
+<s>प्रधानमंत्री_N_NN नरेंद्र_N_NNP मोदी_N_NNP ने_PSP अंतरराष्ट्रीय_N_NN बाघ_N_NN दिवस_N_NN के_PSP मौके_N_NN पर_PSP बाघों_N_NN की_PSP संख्या_N_NN पर_PSP रिपोर्ट_N_NN जारी_N_NN की_PSP है_N_NN ।</s>
+<s>छत्तीसगढ़:_N_NN सुरक्षाबलों_N_NN को_PSP बड़ी_JJ कामयाबी,_N_NN सुकमा_N_NN में_PSP 2_QT_QTC नक्सलियों_N_NN को_PSP किया_V_VM ढ़ेर_V_VAUX | </s>
+<s>मारे_V_VM गए_V_VAUX दोनों_QT_QTC नक्सलियों_N_NN के_PSP शव_N_NN पुलिस_N_NN ने_PSP बरामद_V_VM कर_V_VAUX लिए_PSP हैं_N_NN ।</s>
+<s>सुपर_N_NNP मॉम_N_NNP 'कॉलरवाली'_N_NNP बाघिन_N_NNP ने_PSP 11_QT_QTC साल_N_NN में_PSP दिए_N_NN 29_QT_QTC बाघ_N_NN | </s>
+<s>रणथंभौर_N_NNP की_PSP मशहूर_JJ ‘मछली’_N_NNP बाघिन_N_NNP की_PSP 20_QT_QTC साल_N_NN की_PSP उम्र_N_NN में_PSP मौत_N_NN के_PSP बाद_N_NST देश_N_NN और_CC_CCD दुनिया_N_NN के_PSP बाघ_N_NN प्रेमियों_N_NN की_PSP नजरें_N_NN पेंच_N_NNP की_PSP ‘कॉलरवाली’_N_NN बाघिन_N_NN पर_PSP टिकी_V_VM हैं_V_VAUX ।</s>
+<s>सावन_N_NNP के_PSP दूसरे_QT_QTO सोमवार_N_NN में_PSP उमड़ा_N_NNP शिव_N_NNP भक्तों_N_NN का_PSP सैलाब,_N_NN आज_N_NN बन_V_VM रहा_V_VAUX यह_DM_DMD शुभ_N_NN संयोग_N_NN | </s>
+<s>सावन_N_NNP माह_N_NN का_PSP आज_N_NN दूसरा_QT_QTO सोमवार_N_NN है_V_VM एक_QT_QTC बार_N_NN फिर_RB प्रमुख_JJ शिवालयों_N_NN पर_PSP शिव_N_NNP भक्तों_N_NN को_PSP तांता_N_NN लगना_V_VM शुरू_N_NN हो_V_VM गया_V_VAUX है।_V_VAUX </s>
+<s>तस्वीरों_N_NN में_PSP देखें_V_VM शिव_N_NNP भक्तों_N_NN की_PSP श्रृद्धा_N_NN ।</s>
+<s>देश_N_NN में_PSP बाघों_N_NN की_PSP सही_JJ संख्या_N_NN आज_N_NN आएगी_V_VM सामने,_V_VAUX पीएम_N_NNP मोदी_N_NNP जारी_N_NN करेंगे_V_VM रिपोर्ट_N_NN | </s>
+<s>इससे_N_NN पहले_N_NST बाघों_N_NN की_PSP गणना_N_NN को_PSP लेकर_V_VM 2006_QT_QTC 2010_QT_QTC और_CC_CCD 2014_QT_QTC में_PSP रिपोर्ट_N_NN जारी_N_NN हो_V_VM चुकी_V_VAUX है_V_VAUX ।</s>
+<s>देश_N_NN में_PSP बाघों_N_NN के_PSP संरक्षण_N_NN का_PSP काम_N_NN राष्ट्रीय_N_NN बाघ_N_NN संरक्षण_N_NN प्राधिकरण_N_NN की_PSP देखरेख_N_NN में_PSP चल_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>पर्यावरण_N_NN बचाने_V_VM के_PSP लिए_PSP छोड़ी_JJ सिलिकॉन_N_NN वैली,_N_NN अब_N_NST जैविक_N_NN खेती_N_NN कर_V_VM रहा_V_VAUX ये_DM_DMD गुजराती_N_NN कपल_N_NN | </s>
+<s>पर्यावरण_N_NN बचाने_V_VM के_PSP अपने_PR_PRF सपने_N_NN को_PSP पूरा_N_NN करने_V_VM के_PSP लिए_PSP गुजराती_JJ मूल_N_NN का_PSP अमेरिकी_JJ कपल_N_NN इन_DM_DMD दिनों_N_NN जौविक_N_NN खेती_N_NN कर_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>देश_N_NN में_PSP बारिश_N_NN और_CC_CCD बाढ़_N_NN का_PSP कहर_N_NN जारी,_N_NNP कोसी_N_NNP फिर_CC_CCS उफनाई,_N_NN 13_QT_QTC की_PSP मौत,_N_NN एमपी_N_NN में_PSP भारी_JJ बारिश_N_NN की_PSP चेतावनी_N_NN | </s>
+<s>जम्मू-कश्मीर_N_NNP में_PSP रविवार_N_NN को_PSP भी_RP_RPD मूसलाधार_N_NN बारिश_N_NN से_PSP कई_QT_QTF जगहों_N_NN पर_PSP भूस्खलन_N_NN हुआ।_N_NN </s>
+<s>अमरनाथ_N_NNP श्रद्धालुओं_N_NN का_PSP जत्था_N_NN भी_RP_RPD रवाना_V_VM नहीं_RP_NEG किया_V_VM गया_V_VAUX ।</s>
+<s>पिता_N_NN का_PSP दर्द,_JJ पाक_N_NN जासूसी_N_NN में_PSP बेटे_N_NN के_PSP शामिल_N_NN होने_V_VM पर_PSP फूट-फूट_N_NN कर_V_VM रोया_V_VAUX | </s>
+<s>मेरा_N_NNP बेटा_N_NNP ऐसा_DM_DMD काम_N_NN करेगा_V_VM पता_N_NN नहीं_RP_NEG था_V_VAUX मेरे_PR_PRP बेटे_N_NN ने_PSP देश_N_NN के_PSP खिलाफ_N_NN ऐसा_DM_DMD काम_N_NN किया_V_VM है_V_VAUX यह_DM_DMD सुनकर_V_VM मैं_PR_PRP अवाक_N_NN रह_V_VM गया_V_VAUX हूं_N_NN हमें_PR_PRP जानकारी_N_NN नहीं_RP_NEG थी_V_VM ।</s>
+<s>पाक_N_NN का_PSP एक_QT_QTC और_CC_CCD झूठ_N_NNP बेनकाब,_N_NNP पाक_N_NNP सैन्य_N_NNP अफसर_N_NN को_PSP मांगनी_N_NN पड़ी_N_NN माफी_N_NN | </s>
+<s>आसिफ_N_NNP गफूर_N_NNP ने_PSP 4_QT_QTC साल_N_NN पुराने_JJ इस_DM_DMD इंटरव्यू_N_NN का_PSP वीडियो_N_NN अपने_PR_PRF सोशल_N_NN मीडिया_N_NN पर_PSP डाला_V_VM है_V_VAUX ।</s>
+<s>इसे_N_NN उन्होंने_PR_PRP अपने_PR_PRF ट्विटर_N_NN अकाउंट_N_NN पर_PSP भी_RP_RPD शेयर_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>सेटेलाइट_N_NNP ने_PSP पिछले_N_NST साल_N_NN जंगल_N_NN में_PSP आग_N_NN की_PSP 38_QT_QTC हजार_N_NN से_PSP ज्यादा_QT_QTF घटनाओं_N_NN की_PSP पहचान_N_NN की_N_NN | </s>
+<s>मार्च_N_NN 2018_QT_QTC में_PSP तमिलनाडु_N_NNP की_PSP कुरांगनी_N_NNP पहाड़ियों_N_NN पर_PSP लगी_V_VM भीषण_JJ आग_N_NN की_PSP पहचान_N_NN सेटेलाइट_N_NN के_PSP जरिये_N_NN ही_RP_RPD की_V_VM गई_V_VAUX थी_N_NN ।</s>
+<s>प्रस्तावित_N_NN नई_JJ शिक्षा_N_NN नीति_N_NN पर_PSP देश_N_NN भर_RP_RPD से_PSP आए_V_VM सुझावों_N_NN पर_PSP मंथन_N_NN करने_V_VM फिर_CC_CCS बैठेगी_N_NN कमेटी_N_NN | </s>
+<s>प्रस्तावित_N_NN नई_JJ शिक्षा_N_NN नीति_N_NN के_PSP सुझावों_N_NN को_PSP लेकर_V_VM सरकार_N_NN जल्द_N_NN ही_RP_RPD नीति_N_NN तैयार_N_NN करने_V_VM वाली_PSP कस्तूरीरंगन_N_NN कमेटी_N_NN की_PSP फिर_RB बैठक_N_NN बुलाने_V_VM की_PSP तैयारी_N_NN में_PSP है_N_NN ।</s>
+<s>पेट्रोल-डीजल_N_NN वाहनों_N_NN के_PSP पंजीयन_N_NN शुल्क_N_NN में_PSP बेतहाशा_JJ वृद्धि_N_NN से_PSP विशेषज्ञ_N_NN हैरान,_N_NNP कहा-_N_NN यह_DM_DMD अव्यवहारिक_JJ है_N_NN | </s>
+<s>सरकार_N_NN ने_PSP पेट्रोल_N_NN एवं_CC_CCD डीजल_N_NN से_PSP चलने_V_VM वाले_PSP वाहनों_N_NN को_PSP हतोत्साहित_N_NN करने_V_VM के_PSP लिए_PSP इनके_DM_DMR पंजीयन_N_NN शुल्क_N_NN में_PSP 10-27_QT_QTC गुना_N_NN तक_PSP की_PSP बढ़ोतरी_V_VM का_PSP प्रस्ताव_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>सातवीं_N_NN के_PSP छात्र_N_NN ने_PSP दिखाई_V_VM प्रतिभा,_V_VAUX सड़क_N_NN हादसे_N_NN और_CC_CCD वाहन_N_NN चोरी_N_NN रोकने_V_VM के_PSP लिए_PSP बनाया_V_VM एप_N_NN | </s>
+<s>सड़क_N_NN दुर्घटना_N_NN तथा_CC_CCD वाहनों_N_NN की_PSP चोरी_N_NN रोकने_V_VM के_PSP लिए_PSP महाराष्ट्र_N_NNP के_PSP सातवीं_QT_QTO कक्षा_N_NN के_PSP एक_QT_QTC छात्र_N_NN ने_PSP कुछ_QT_QTF एप_N_NN तैयार_N_NN किए_V_VM हैं_V_VAUX ।</s>
+<s>वह_N_NN सिर्फ_QT_QTF 12_QT_QTC साल_N_NN का_PSP है_V_VM और_CC_CCD अब_N_NST तक_PSP पेटेंट_N_NN के_PSP लिए_PSP चार_QT_QTC आवेदन_N_NN कर_V_VM चुका_V_VAUX है_V_VAUX ।</s>
+<s>न्याय_N_NN के_PSP लिए_PSP भटक_V_VM रहे_V_VAUX पिता_N_NN पर_PSP सुप्रीम_N_NN कोर्ट_N_NN को_PSP आयी_V_VM दया,_V_VAUX चिट्ठी_N_NN को_PSP बनाया_V_VM पीआइएल_V_VAUX | </s>
+<s>बेटे_N_NN की_PSP हत्या_N_NN के_PSP मुकदमें_N_NN में_PSP न्याय_N_NN पाने_V_VM के_PSP लिए_PSP 19_QT_QTC साल_N_NN से_PSP नवल_N_NN किशोर_N_NN अदालतों_N_NN के_PSP चक्कर_N_NN काट_V_VM रहे_V_VAUX हैं_V_VAUX ।</s>
+<s>अब_N_NN सुप्रीमकोर्ट_N_NN से_PSP बंधी_N_NN है_V_VM न्याय_N_NN की_PSP उम्मीद_N_NN ।</s>
+<s>नक्सल_N_NN विरोधी_N_NN अभियान_N_NN में_PSP जुटे_V_VM जवानों_N_NN के_PSP लिए_PSP पहली_QT_QTO एयर_N_NN एंबुलेंस_N_NN मंजूर,_N_NNP जानें_N_NN कहां_N_NN होगा_V_VM केंद्र_N_NN | </s>
+<s>नक्सल_N_NNP अभियान_N_NN में_PSP जुटे_V_VM जवानों_N_NN को_PSP अब_N_NST एयर_N_NN एंबुलेंस_N_NN के_PSP माध्यम_N_NN से_PSP तत्काल_JJ चिकित्सा_N_NN सहायता_N_NN पहुंचाई_V_VM जा_V_VAUX सकेगी_V_VAUX और_CC_CCD बेशकीमती_JJ जिंदगियां_N_NN बचाई_V_VM जा_V_VAUX सकेंगी_V_VAUX ।</s>
+<s>डायबिटीज_N_NN से_PSP बढ़_V_VM जाता_V_VAUX है_V_VAUX पैंक्रियाज_N_NN के_PSP कैंसर_N_NN का_PSP खतरा,_N_NNP साइलेंट_N_NNP किलर_N_NN भी_RP_RPD है_V_VM ये_DM_DMD बीमारी_N_NN | </s>
+<s>पैंक्रियाज_N_NN के_PSP कैंसर_N_NN का_PSP जल्द_RB पता_V_VM लगाना_V_VAUX मुश्किल_JJ है।_N_NN </s>
+<s>इसकी_N_NN पहचान_N_NN आखिरी_JJ स्टेज_N_NN में_PSP हो_V_VM पाती_V_VAUX है।<s>
+<s>उस_N_NN वक्त_N_NN कैंसर_N_NN शरीर_N_NN के_PSP अन्य_JJ अंगों_N_NN में_PSP पहुंच_N_NN चुका_N_NN होता_V_VM है_V_VAUX ।</s>
+<s>अल_N_NNP नीनो_N_NNP से_PSP बिगड़ेगे_V_VM हालात,_V_VAUX इस_DM_DMR बार_N_NN की_PSP सर्दी_N_NN उत्तर_N_NNP भारतीयों_N_NNP की_PSP सांसों_N_NN पर_PSP और_CC_CCD पड़ेगी_V_VAUX भारी_N_NN | </s>
+<s>अल_N_NNP नीनो_N_NNP केवल_QT_QTF मानसून_N_NN को_PSP ही_RP_RPD नहीं_RP_NEG प्रभावित_N_NN करता_V_VM है_V_VAUX यह_DM_DMD वायु_N_NN प्रदूषण_N_NN भी_RP_RPD बढ़ाता_V_VM है_V_VAUX ।</s>
+<s>वैज्ञानिकों_N_NN ने_PSP चेताया_V_VM है_V_VAUX कि_CC_CCS उत्तर_N_NNP भारत_N_NNP में_PSP इस_DM_DMR बार_N_NN की_PSP सर्दियां_N_NN भारी_JJ पड़ने_V_VM वाली_PSP हैं_N_NN ।</s>
+<s>रॉबर्ट_N_NNP वाड्रा_N_NNP को_PSP मिली_V_VM भविष्य_N_NN बताने_V_VM वाली_PSP गाय,_N_NN बोले-_N_NN हैलो_N_NNP डार्लिंग,_N_NNP पढ़े_V_VM फिर_CC_CCS क्या_PR_PRQ हुआ_N_NN | </s>
+<s>प्रियंका_N_NNP गांधी_N_NNP के_PSP पति_N_NN और_CC_CCD व्यवसायी_N_NN रॉबर्ट_N_NNP वाड्रा_N_NNP ने_PSP अपने_PR_PRF सोशल_N_NN मीडिया_N_NN पर_PSP कुछ_QT_QTF तस्वीरे_N_NN शेयर_N_NN और_CC_CCD वीडियो_N_NN शेयर_N_NN की_PSP है_N_NN ।</s>
+<s>जिसमें_N_NN उन्होंने_PR_PRP भविष्य_N_NN बताने_V_VM वाली_PSP गाय_N_NN के_PSP बारे_N_NN में_PSP भी_RP_RPD बताया_V_VM है_V_VAUX ।</s>
+<s>राज्यसभा:_N_NN कामकाज_N_NN के_PSP लिहाज_N_NN से_PSP उपयोगी_JJ साबित_N_NN हो_V_VM रहा_V_VAUX इस_DM_DMD बार_N_NN का_PSP संसद_N_NN सत्र_N_NN | </s>
+<s>संसद_N_NN अधिक_QT_QTF कानून_N_NN लाकर_V_VM अपने_PR_PRF समय_N_NN का_PSP समुचित_JJ उपयोग_N_NN कर_V_VM रही_V_VAUX है_V_VAUX और_CC_CCD सदन_N_NN का_PSP वर्तमान_N_NN सत्र_N_NN पिछले_N_NST अन्य_N_NN सत्रों_N_NN के_PSP मुकाबले_N_NN ज्यादा_QT_QTF सार्थक_N_NN और_CC_CCD उपयोगी_JJ सिद्ध_N_NN हो_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>आफत_N_NN की_PSP बारिश_N_NN से_PSP लोग_N_NN बेहाल,_JJ पानी_N_NN में_PSP डूबे_V_VM ट्रैक,_N_NN 6_QT_QTC ट्रेनें_N_NN रद_N_NN | </s>
+<s>लगातार_N_NN हो_V_VM रही_V_VAUX भारी_JJ बारिश_N_NN की_PSP वजह_N_NN से_PSP कई_QT_QTF ट्रेनें_N_NN रद_N_NN हो_V_VM गई_V_VAUX हैं_V_VAUX जबकि_CC_CCS कई_QT_QTF ट्रेनों_N_NN को_PSP डायवर्ट_N_NN कर_V_VM दिया_V_VAUX गया_V_VAUX है_V_VAUX ।</s>
+<s>छत्तीसगढ़:_N_NN नक्सलियों_N_NN और_CC_CCD DRG_N_NN जवानों_N_NN के_PSP बीच_N_NST मुठभेड़,_N_NN शहीद_N_NN दिवस_N_NN मनाने_N_NN इकट्ठा_V_VM हुए_V_VAUX थे_V_VAUX नक्सली_N_NN | </s>
+<s>दंतेवाडा_N_NNP में_PSP आज_N_NN एक_QT_QTC बार_N_NN फिर_RB नक्सलियों_N_NN और_CC_CCD डिस्ट्रिक्ट_N_NNP रिजर्व_N_NN गार्ड_N_NN के_PSP जवानों_N_NN के_PSP बीच_N_NST जमकर_N_NN फायरिंग_N_NN हुई_N_NN ।</s>
+<s>मुंबई_N_NNP में_PSP बारिश_N_NN के_PSP बाद_N_NST हादसा,_N_NNP जेजे_N_NNP अस्पताल_N_NN के_PSP पास_N_NST गिरा_V_VM इमारत_N_NN की_PSP छत_N_NN का_PSP हिस्सा;_N_NN 1_QT_QTC घायल_N_NN | </s>
+<s>मुंबई_N_NNP में_PSP आफत_N_NN की_PSP बारिश_N_NN के_PSP बाद_N_NST अब_N_NST एक_QT_QTC हादसा_N_NN हो_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>जेजे_N_NNP अस्पताल_N_NN के_PSP पास_N_NST मौलाना_N_NNP शौकत_JJ अली_N_NNP रोड_N_NNP स्थित_N_NN नंद_V_VM विलास_N_NN इमारत_N_NN में_PSP छत_N_NN का_PSP हिस्सा_N_NN गिर_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>आदिवासी_N_NN लड़की_N_NN से_PSP अफेयर_N_NN का_PSP आरोप,_N_NN अल्पसंख्यक_JJ समुदाय_N_NN के_PSP युवक_N_NN की_PSP पीट-पीटकर_N_NN हत्या,_N_NN चार_QT_QTC गिरफ्तार_N_NN | </s>
+<s>गुजरात_N_NN के_PSP भरूच_N_NNP जिले_N_NN में_PSP एक_QT_QTC अल्पसंख्यक_JJ युवक_N_NN की_PSP पीट-पीटकर_N_NN हत्या_N_NN करने_V_VM के_PSP आरोप_N_NN में_PSP पुलिस_N_NN ने_PSP चार_QT_QTC लोगों_N_NN के_PSP गिरफ्तार_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>देशभर_N_NN में_PSP भारी_JJ बारिश_N_NN से_PSP तबाही,_N_NNP अमरनाथ_N_NNP यात्रा_N_NN रोकी_V_VM गई,_V_VAUX गोवा_N_NNP और_CC_CCD गुजरात_N_NNP के_PSP लिए_PSP अलर्ट_N_NN जारी_N_NN | </s>
+<s>मौसम_N_NNP विभाग_N_NN ने_PSP भविष्यवाणी_N_NN करते_V_VM हुए_V_VAUX कहा_V_VM है_V_VAUX कि_CC_CCS कोंकण_N_NNP गोवा_N_NNP और_CC_CCD गुजरात_N_NNP के_PSP कई_QT_QTF इलाकों_N_NN में_PSP भारी_JJ बारिश_N_NN की_PSP आशंका_N_NN जताई_V_VM है_V_VAUX ।</s>
+<s>पर_N_NNP मोदी_N_NNP सरकार_N_NN का_PSP प्रहार,_N_NN जम्मू-कश्मीर_N_NNP में_PSP चार_QT_QTC जगहों_N_NN पर_PSP एनआइए_N_NN की_PSP छापेमारी_N_NN | </s>
+<s>जम्मू_N_NNP कश्मीर_N_NNP के_PSP बारामूला_N_NNP में_PSP चार_QT_QTC जगहों_N_NN पर_PSP एनआइए_N_NN ने_PSP छापेमारी_N_NN की_PSP है_N_NN ।</s>
+<s>टेरर_N_NN फंडिंग_N_NN के_PSP मामले_N_NN में_PSP ये_DM_DMD छापेमारी_N_NN की_PSP जा_V_VM रही_V_VAUX है_N_NN ।</s>
+<s>देश_N_NN में_PSP बारिश_N_NN और_CC_CCD बाढ़_N_NN से_PSP बिगड़े_JJ हालात,_N_NN लाखों_QT_QTC लोग_N_NN गांव-घर_N_NN छोड़ने_V_VM को_PSP मजबूर,_N_NN 19_QT_QTC की_PSP मौत_N_NN | </s>
+<s>राजस्थान_N_NN समेत_N_NN विभिन्न_JJ इलाकों_N_NN में_PSP हो_V_VM रही_V_VAUX भारी_JJ बारिश_N_NN के_PSP कारण_N_NN ट्रेनों_N_NN का_PSP संचालन_N_NN प्रभावित_N_NN हुआ_V_VM है_V_VAUX ।</s>
+<s>बाढ़_N_NN के_PSP चलते_V_VM लाखों_QT_QTC लोग_N_NN गांव-घर_N_NN छोड़ने_V_VM का_PSP मजबूर_N_NN हैं।लाखों_N_NN लोग_N_NN जहां|P गांव-घर_N_NN छोड़ने_V_VM का_PSP मजबूर_N_NN | </s>
+<s>लाख_N_NN से_PSP ज्यादा_QT_QTF श्रद्धालुओं_N_NN ने_PSP किए_V_VM बाबा_N_NN अमरनाथ_N_NNP की_PSP पवित्र_JJ गुफा_N_NN के_PSP दर्शन_N_NN | </s>
+<s>यात्रा_N_NN मार्ग_N_NN पर_PSP फिसलन_N_NN को_PSP देखते_V_VM हुए_V_VAUX जिला_N_NN प्रशासन_N_NN गांदरबल_N_NNP ने_PSP बालटाल_N_NNP मार्ग_N_NN से_PSP पवित्र_JJ गुफा_N_NN की_PSP तरफ_N_NN यात्रा_N_NN को_PSP नहीं_RP_NEG भेजा_V_VM है_V_VAUX ।</s>
+<s>ओडिशा_N_NNP सीमा_N_NN पर_PSP मुठभेड़,_N_NN DRG_N_NN और_CC_CCD sTF_N_NN की_PSP संयुक्त_JJ कार्रवाई_N_NN में_PSP सात_QT_QTC नक्सली_JJ हुए_V_VM ढेर_N_NN | </s>
+<s>घटनास्थल_N_NN से_PSP सातों_N_NN नक्सलियों_N_NN के_PSP शव_N_NN एक_QT_QTC इंसास_N_NN राइफल_N_NN चार_QT_QTC थ्री_N_NN नाट_N_NNP थ्री_N_NNP रायफल_N_NNP और_CC_CCD एक_QT_QTC भरमार_N_NN बंदूक_N_NN बरामद_N_NN किया_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>मध्य_N_NN प्रदेश:_N_NN खेत_N_NN जोतने_V_VM को_PSP बैल_N_NN की_PSP जगह_N_NN महिलाएं_N_NN रखती_V_VM है_V_VAUX कंधे_N_NN पर_PSP हल,_N_NN जानें_N_NN गरीबी_N_NN का_PSP दर्द_N_NN | </s>
+<s>बैल_N_NN नहीं_RP_NEG होने_V_VM पर_PSP मध्य_N_NNP प्रदेश_N_NNP के_PSP झबुआ_N_NN में_PSP बच्चों_N_NN की_PSP मदद_N_NN से_PSP स्वयं_PR_PRF बैल_N_NN बनकर_V_VM महिलाएं_N_NN हल_N_NN चलाती_V_VM हैं_V_VAUX ।</s>
+<s>संपत्तियों_N_NN को_PSP जब्त_N_NN करने_V_VM पर_PSP रोक_N_NN लगाने_V_VM को_PSP लेकर_V_VM विजय_N_NN माल्या_N_NNP ने_PSP सुप्रीम_N_NN कोर्ट_N_NN का_PSP दरवाजा_N_NN खटखटाया_N_NN | </s>
+<s>भगोड़े_N_NN शराब_N_NN कारोबारी_N_NNP विजय_N_NNP माल्या_N_NNP ने_PSP अपने_PR_PRF और_CC_CCD अपने_PR_PRF रिश्तेदारों_N_NN के_PSP स्वामित्व_N_NN वाली_PSP सभी_QT_QTF संपत्तियों_N_NN को_PSP जब्त_N_NN करने_V_VM पर_PSP रोक_N_NN लगाने_V_VM की_PSP मांग_N_NN करते_V_VM हुए_V_VAUX सुप्रीम_N_NN कोर्ट_N_NN का_PSP दरवाजा_N_NN खटखटाया_V_VM है_V_VAUX ।</s>
+<s>रेलवे_N_NN का_PSP बड़ा_JJ कदम:_N_NN ट्रेन_N_NN में_PSP खाने_V_VM का_PSP ऑर्डर_N_NN देते_V_VM ही_RP_RPD ऑनलाइन_N_NN दिखेगा_V_VM किचन_V_VAUX | </s>
+<s>रेलवे_N_NN खान-पान_N_NN व्यवस्था_N_NN में_PSP सुधार_N_NN के_PSP प्रयास_N_NN लगातार_RB कर_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>अब_N_NN ट्रेन_N_NN यात्री_N_NN यात्रा_N_NN के_PSP दौरान_N_NN खाना_N_NN बनते_V_VM भी_RP_RPD देख_V_VM पाएंगे_V_VAUX ।</s>
+<s>तिहरे_N_NN हत्याकांड_N_NN में_PSP दो_QT_QTC महिलाओं_N_NN सहित_N_NN 13_QT_QTC को_PSP आजीवन_N_NN कारावास,_N_NN भैंस_N_NN को_PSP लेकर_V_VM हुआ_V_VAUX था_V_VAUX नरसंहार_N_NN | </s>
+<s>भैंस_N_NNP चोरी_N_NN को_PSP लेकर_V_VM हुए_V_VAUX विवाद_N_NN पर_PSP पांच_QT_QTC साल_N_NN पहले_N_NST एक_QT_QTC ही_RP_RPD परिवार_N_NN के_PSP 16_QT_QTC लोगों_N_NN ने_PSP पांच_QT_QTC लोगों_N_NN पर_PSP हमला_N_NN कर_V_VM दिया_V_VAUX था_V_VAUX ।</s>
+<s>जिसमें_N_NN तीन_QT_QTC की_PSP मौत_N_NN हो_V_VM गई_V_VAUX थी_V_VAUX और_CC_CCD दो_QT_QTC गंभीर_JJ रूप_N_NN से_PSP घायल_N_NN हो_V_VM गए_V_VAUX थे_N_NN ।</s>
+<s>मध्यप्रदेश_N_NNP में_PSP एक_QT_QTC साथ_N_NN चार_QT_QTC सिस्टम_N_NN सक्रिय,_N_NNP प्रदेश_N_NNP में_PSP तेज_JJ बारिश_N_NN का_PSP चेतावनी_N_NN | </s>
+<s>गिरधरपुर-खोजीपुरा_N_NNP रेलवे_N_NN स्टेशन_N_NN के_PSP पास_N_NST बारिश_N_NN में_PSP रेलवे_N_NN ट्रैक_N_NN के_PSP नीचे_N_NST से_PSP मिट्टी_N_NN का_PSP कटाव_N_NN हो_V_VM गया_V_VAUX जिससे|P दूसरे_QT_QTO दिन_N_NN भी_RP_RPD इस_DM_DMR रूट_N_NN पर_PSP ट्रेनों_N_NN का_PSP संचालन_N_NN बंद_N_NN रहा_N_NN ।</s>
+<s>मंत्री_N_NN ने_PSP टेलीकॉम_N_NNP ऑपरेटरों_N_NN से_PSP कहा-_N_NN 43,000_QT_QTC गांवों_N_NN में_PSP एक_QT_QTC वर्ष_N_NN में_PSP पहुंचाना_V_VM होगा_V_VAUX दूरसंचार_N_NN नेटवर्क_N_NN | </s>
+<s>मोदी_N_NNP सरकार_N_NN ने_PSP टेलीकॉम_N_NNP कंपनियों_N_NN को_PSP एक_QT_QTC वर्ष_N_NN में_PSP उन_PR_PRP सभी_QT_QTF गांवों_N_NN को_PSP दूरसंचार_N_NN सेवाओं_N_NN के_PSP दायरे_N_NN में_PSP लाने_V_VM का_PSP काम_N_NN सौंपा_V_VM है_V_VAUX जहां|P अभी_N_NST तक_PSP ये_DM_DMD सुविधाएं_N_NN नहीं_RP_NEG हैं_V_VM ।</s>
+<s>अर्धसैनिक_JJ बलों_N_NN की_PSP तैनाती_N_NN पर_PSP मचे_V_VM बवाल_N_NN पर_PSP अतिरिक्त_N_NN महानिदेशक_N_NN मुनीर_N_NNP अहमद_N_NNP ने_PSP दिया_V_VM ये_DM_DMD जवाब_N_NN | </s>
+<s>राज्य_N_NN के_PSP कानून_N_NN व्यवस्था_N_NN विंग_N_NN के_PSP अतिरिक्त_N_NN महानिदेशक_N_NN मुनीर_N_NNP अहमद_N_NNP खान_N_NNP ने_PSP कहा_V_VM कि_CC_CCS कंपनियों_N_NN के_PSP आगमन_N_NN को_PSP लेकर_V_VM कुछ_QT_QTF तत्व_N_NN अफवाहें_N_NN फैला_V_VM रहे_V_VAUX हैं_V_VAUX उनसे_PR_PRP सावधान_N_NN रहने_V_VM की_PSP जरूरत_N_NN है_N_NN ।</s>
+<s>चांद_N_NNP के_PSP और_CC_CCD करीब_JJ पहुंचा_N_NN चंद्रयान-2,_N_NN जानिए-_N_NN क्या-क्या_PR_PRQ पता_N_NN लगाएगा_V_VM | </s>
+<s>गुरुवार_N_NN की_PSP रात_N_NN उपग्रह_N_NN को_PSP पृथ्वी_N_NN की_PSP अगली_N_NN कक्षा_N_NN में_PSP प्रवेश_N_NN कराया_V_VM गया_V_VAUX ।</s>
+<s>29_N_NNP जुलाई_N_NNP को_PSP तीसरी_QT_QTC बार_N_NN चंद्रयान-2_N_NNP की_PSP कक्षा_N_NN को_PSP बदला_V_VM जाएगा_V_VAUX ।</s>
+<s>भारी_N_NN बारिश_N_NN का_PSP अतिरिक्त_N_NN महानिदेशक_N_NN जारी,_N_NN इन_DM_DMD राज्यों_N_NN को_PSP है_V_VM अधिक_QT_QTF खतरा_N_NN | </s>
+<s>मौसम_N_NN विभाग_N_NN के_PSP अनुसार_N_NN आने_V_VM वाले_PSP कुछ_QT_QTF दिन_N_NN राजस्थान_N_NNP के_PSP लिए_PSP खतरा_N_NN बन_V_VM सकते_V_VAUX है_N_NN ।</s>
+<s>यहां_N_NN 25_QT_QTC जुलाई_N_NN से_PSP लेकर_V_VM 28_QT_QTC जुलाई_N_NN तक_PSP बारिश_N_NN की_PSP आशंका_N_NN जताई_V_VM गई_V_VAUX है_V_VAUX ।</s>
+<s>महालक्ष्मी_N_NNP एक्सप्रेस_N_NN के_PSP सभी_QT_QTF यात्री_N_NN स्पेशल_JJ ट्रेन_N_NN से_PSP मुंबई_N_NNP के_PSP लिए_PSP हुए_V_VM रवाना_N_NN | </s>
+<s>महालक्ष्मी_N_NNP एक्सप्रेस_N_NN ट्रेन_N_NN में_PSP फंसे_V_VM सभी_QT_QTF सुरक्षित_JJ यात्रियों_N_NN को_PSP बदलापुर_N_NNP रेलवे_N_NN स्टेशन_N_NN से_PSP एक_QT_QTC स्पेशल_JJ ट्रेन_N_NN के_PSP माध्यम_N_NN से_PSP मुंबई_N_NNP के_PSP लिए_PSP रवाना_V_VM किया_V_VAUX गया_V_VAUX ।</s>
+<s>बाढ़_N_NN में_PSP फंसी_N_NN ट्रेन_N_NN में_PSP 10_QT_QTC घंटे_N_NN अटके_V_VM रहे_V_VAUX 1050_QT_QTC यात्री_N_NN | </s>
+<s>मुंबई_N_NNP से_PSP लगभग_QT_QTF 55_QT_QTC किलोमीटर_N_NN की_PSP दूरी_N_NN पर_PSP 10_QT_QTC घंटों_N_NN से_PSP यात्री_N_NN फंसे_V_VM हुए_V_VAUX थे_N_NN ।</s>
+<s>दोपहिया_N_NNP समेत_N_NN सभी_QT_QTF पेट्रोल-डीजल_N_NN वाहन_N_NN होंगे_V_VM महंगे_N_NN | </s>
+<s>सड़क_N_NN परिवहन_N_NN मंत्रालय_N_NN ने_PSP पेट्रोल-डीजल_N_NN वाहनों_N_NN को_PSP हतोत्साहित_N_NN करने_V_VM और_CC_CCD ई-वाहन_N_NN को_PSP बढ़ावा_V_VM देने_V_VAUX के_PSP लिए_PSP ये_DM_DMD कदम_N_NN उठाया_V_VM है_V_VAUX ।</s>
+<s>पंजीकरण_N_NN शुल्क_N_NN में_PSP 20_QT_QTC से_PSP 40_QT_QTC गुना_N_NN तक_PSP इजाफा_N_NN ।</s>
+<s>भारतीय_JJ जांबाजों_N_NN को_PSP रिटायरमेंट_N_NN के_PSP बाद_N_NST मिल_V_VM रही_V_VAUX पांच_QT_QTC गुना_N_NN सैलरी,_N_NN पूरी_JJ दुनिया_N_NN में_PSP है_V_VM मांग_N_NN | </s>
+<s>भारतीय_JJ जांबाजों_N_NN के_PSP रिटायर_N_NN जांबाजों_N_NN की_PSP समुद्री_N_NN सुरक्षा_N_NN के_PSP लिए_PSP पूरी_JJ दुनिया_N_NN में_PSP तेजी_RB से_PSP मांग_N_NN बढ़ी_V_VM है_V_VAUX ।</s>
+<s>समुद्री_N_NNP लुटेरों_N_NN के_PSP लिए_PSP ये_DM_DMD जांबाज_N_NN खौंफ_N_NN का_PSP पर्याय_N_NN बन_V_VM चुके_V_VAUX हैं_V_VAUX ।</s>
+<s>बाढ़_N_NN में_PSP फंसी_N_NN ट्रेन_N_NN में_PSP दर्द_N_NN से_PSP कराह_N_NN उठी_V_VM गर्भवती_JJ महिला,_N_NN जल्द_N_NN मिले_V_VM मदद_N_NN | </s>
+<s>प्रसव_N_NN के_PSP लिए_PSP मुंबई_N_NNP से_PSP कोल्हापुर_N_NNP जा_V_VM रही_V_VAUX महिला_N_NN को_PSP अचानक_JJ दर्द_N_NN शुरू_V_VM हो_V_VAUX गया_V_VAUX और_CC_CCD बाढ़_N_NN में_PSP फंसी_N_NN ट्रेन_N_NN में_PSP उसने_PR_PRP मदद_N_NN की_PSP गुहार_N_NN लगाई_V_VM ।</s>
+<s>अदालत_N_NNP ने_PSP सतीश_N_NNP बाबू_N_NNP सना_N_NNP को_PSP पांच_QT_QTC दिन_N_NN की_PSP र्इडी_N_NN हिरासत_N_NN में_PSP भेजा_V_VM | </s>
+<s>गिरफ्तार_N_NN किए_V_VM गए_V_VAUX हैदराबाद_N_NNP के_PSP कारोबारी_N_NNP सतीश_N_NNP बाबू_N_NNP सना_N_NNP को_PSP विशेष_JJ सीबीआई_N_NNP अदालत_N_NNP ने_PSP पांच_QT_QTC दिन_N_NN के_PSP लिए_PSP ईडी_N_NN की_PSP हिरासत_N_NN में_PSP भेज_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>भारत_N_NNP पहुंचा_N_NNP दुनिया_N_NN का_PSP सबसे_RP_INTF घातक_JJ अपाचे_N_NN हेलीकॉप्टर,_N_NN पाक-चीन_N_NN सीमा_N_NN पर_PSP होगा_V_VM तैनात_N_NN | </s>
+<s>बोइंग_N_NN एएच-64_N_NN ई_N_NN अपाचे_N_NN को_PSP गाजियाबाद_N_NNP के_PSP हिंडन_N_NN एयरबेस_N_NN से_PSP पंजाब_N_NNP के_PSP पठानकोट_N_NNP एयरबेस_N_NNP को_PSP रवाना_V_VM किया_V_VAUX जाएगा_V_VAUX ।</s>
+<s>माना_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX कि_CC_CCS इसे_DM_DMD चीन_N_NNP और_CC_CCD पाकिस्तानी_N_NNP सीमा_N_NN पर_PSP तैनात_N_NN किया_V_VM जाएगा_V_VAUX ।</s>
+<s>मध्य_N_NNP प्रदेश_N_NNP के_PSP बैतूल_N_NN में_PSP बच्चा_N_NN चोर_N_NN समझकर_V_VM कांग्रेस_N_NNP नेताओं_N_NN को_PSP पीटा,_N_NN किसी_DM_DMI तरह_N_NN बचाई_V_VM जान_V_VAUX | </s>
+<s>बैतूल_N_NNP जिले_N_NN के_PSP केसिया_N_NNP गांव_N_NNP में_PSP अपने_PR_PRF घर_N_NN लौट_V_VM रहे_V_VAUX दो_QT_QTC कांग्रेसी_N_NN नेताओं_N_NN को_PSP गांव_N_NN वालों_PSP ने_PSP बच्चा_N_NN चोर_JJ समझकर_N_NN बेरहमी_N_NN से_PSP पीट_N_NN दिया_N_NN ।</s>
+<s>कांग्रेस_N_NN नेता_N_NN किसी_DM_DMI तरह_N_NN अपनी_PR_PRF जान_N_NN बचा_V_VM पाने_V_VAUX में_PSP कामयाब_N_NN हुए_N_NN ।</s>
+<s>शोपियां_N_NN एनकाउंटर_N_NN में_PSP सेना_N_NN को_PSP बड़ी_JJ कामयाबी,_N_NN पाकिस्तानी_N_NNP का_PSP टॉप_N_NNP जैश_N_NN कमांडर_N_NN मुन्ना_N_NNP लाहौरी_JJ ढेर_N_NN | </s>
+<s>जम्मू_N_NNP कश्मीर_N_NNP में_PSP आज_N_NST सेना_N_NN को_PSP बड़ी_JJ कामयाबी_N_NN मिला_V_VM है_V_VAUX |</s>
+<s>जवानों_N_NN ने_PSP शोपियां_N_NN मुठभेड़_N_NN में_PSP पाकिस्तानी_N_NNP जैश_N_NN कमांडर_N_NN मुन्ना_N_NNP लाहौरी_JJ को_PSP ढेर_N_NN कर_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>सावधान!_N_NN सुविधाओं_N_NN ही_RP_RPD नहीं_RP_NEG बीमारियों_N_NN का_PSP भी_RP_RPD पिटारा_N_NN है_V_VAUX स्मार्टफोन,_N_NN मोटापे_N_NN से_PSP लेकर_V_VM कैंसर_N_NN तक_PSP है_V_VM खतरा_N_NN | </s>
+<s>ये_N_NN आंकड़े_N_NN हम_PR_PRP आपको_PR_PRP इसलिए_RB बता_V_VM रहे_V_VAUX हैं_V_VAUX ताकि_CC_CCS आप_PR_PRP समझ_V_VM सकें_V_VAUX कि_CC_CCS मोबाइल_N_NN फोन_N_NN से_PSP होने_V_VM वाले_PSP खतरों_N_NN से_PSP एक_QT_QTC साथ_N_NN कितनी_QT_QTF बड़ी_JJ जनसंख्या_N_NN और_CC_CCD कितना_N_NN बड़ा_JJ वर्ग_N_NN प्रभावित_N_NN हो_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>छत्तीसगढ़_N_NNP में_PSP एक_QT_QTC पति_N_NN और_CC_CCD पत्नी_N_NNP ने_PSP ऐसा_DM_DMD कमाल_N_NN किया_V_VM है_V_VAUX कि_CC_CCS सभी_QT_QTF लोग_N_NN हैरान_N_NN रह_V_VM गए_V_VAUX ।</s>
+<s>कई_N_NN बार_N_NN असफलता_JJ हाथ_N_NN लगने_V_VM के_PSP बाद_N_NST दोनों_QT_QTC ने_PSP एग्जाम_N_NN में_PSP पहला_QT_QTO और_CC_CCD दूसरा_QT_QTO स्थान_N_NN हासिल_N_NN किया_V_VM है|</s>
+<s>तमिलनाडु_N_NNP में_PSP बड़ा_JJ सड़क_N_NN हादसा,_N_NN एक_QT_QTC महिला_N_NN समेत_N_NN पांच_QT_QTC लोगों_N_NN की_PSP मौत_N_NN | </s>
+<s>तमिलनाडु_N_NNP के_PSP कोयंबटूर_N_NNP में_PSP एक_QT_QTC बड़ा_JJ सड़क_N_NN हादसा_N_NN हुआ_V_VM है_V_VAUX। </s>
+<s>इस_N_NN हादसे_N_NN में_PSP एक_QT_QTC महिला_N_NN समेत_N_NN पांच_QT_QTC लोगों_N_NN की_PSP मौत_N_NN हो_V_VM गई_V_VAUX है_N_NN ।</s>
+<s>भ्रामक_N_NN या_CC_CCD गुमराह_N_NN करने_V_VM वाले_PSP विज्ञापन_N_NN किए_V_VM तो_RP_RPD सितारों_N_NN को_PSP जमीन_N_NN पर_PSP आना_V_VM पड़ेगा,_V_VAUX कसेगा_V_VAUX शिकंजा_N_NN | </s>
+<s>विज्ञापनों_N_NN में_PSP उत्पादों_N_NN की_PSP तमाम_N_NN खूबियां_N_NN गिनाई_V_VM जाती_V_VAUX हैं_V_VAUX जबकि_CC_CCS गुणवत्ता_N_NN के_PSP लिहाज_N_NN से_PSP वह_PR_PRP वास्तविकता_N_NN से_PSP परे_N_NN होती_V_VM हैं_V_VAUX ।</s>
+<s>भारतीय_JJ मौसम_N_NN विज्ञान_N_NN विभाग_N_NN ने_PSP कहा_V_VM है_V_VAUX कि_CC_CCS उत्तर_N_NNP पश्चिमी_N_NNP बंगाल_N_NNP की_PSP खाड़ी_N_NN में_PSP कम_JJ दबाव_N_NN बनने_V_VM के_PSP चलते_V_VM अगले_V_VAUX 48_QT_QTC घंटों_N_NN तक_PSP उत्तर_N_NNP कोंकण_N_NNP में_PSP भारी_JJ बारिश_N_NN हो_V_VM सकती_V_VAUX है_N_NN ।</s>
+<s>जब_JJ लेक्चर_N_NN देते_V_VM हुए_V_VAUX दुनिया_N_NN को_PSP अलविदा_N_NN कह_V_VM गए_V_VAUX अब्दुल_N_NNP कलाम,_N_NNP जानिए_V_VM उनके_PR_PRP जीवन_N_NN से_PSP जुड़ी_N_NN कुछ_QT_QTF खास_JJ बातें_N_NN | </s>
+<s>देश_N_NNP के_PSP पूर्व_N_NST राष्ट्रपति_N_NN और_CC_CCD मिसाइल_N_NNP मैन_N_NN कहे_V_VM जाने_V_VAUX वाले_PSP अब्दुल_N_NNP कलाम_N_NNP आज_N_NST ही_RP_RPD के_PSP दिन_N_NN चार_QT_QTC साल_N_NN पहले_N_NST देश_N_NN को_PSP अलविदा_N_NN कह_V_VM गए_V_VAUX थे_N_NN ।</s>
+<s>अब_N_NN खाली_JJ प्लास्टिक_N_NN बोतल_N_NN के_PSP देगा_V_VM पांच_QT_QTC रुपये,_N_NN जानें-_N_NN क्या_PR_PRQ है_V_VAUX ये_DM_DMD योजना_N_NN | </s>
+<s>रेलवे_N_NN से_PSP पहले_N_NST कुछ_QT_QTF कालीन_N_NN उत्पादक_N_NN भी_RP_RPD इस_DM_DMD तकनीक_N_NN का_PSP सफलता_N_NN से_PSP उपयोग_N_NN कर_V_VM चुके_V_VAUX हैं_V_VAUX ।</s>
+<s>मुंबई_N_NNP में_PSP भारी_JJ बारिश_N_NN से_PSP जनजीवन_N_NN अस्त-व्यस्त,_N_NN ट्रैफिक_N_NN बुरी_JJ तरह_N_NN प्रभावित_N_NN | </s>
+<s>छत्रपति_N_NNP शिवाजी_N_NNP इंटरनैशनल_N_NN एयरपोर्ट_N_NN मुंबई_N_NNP के_PSP पीआरओ_N_NNP ने_PSP बताया_V_VM कि_CC_CCS बीते_JJ 2_QT_QTC घंटे_N_NN से_PSP हो_V_VM रही_V_VAUX भारी_JJ बारिश_N_NN की_PSP वजह_N_NN से_PSP उड़ानों_N_NN में_PSP औसतन_N_NN आधे_QT_QTC घंटे_N_NN की_PSP देरी_N_NN हो_V_VM रही_V_VAUX है_V_VAUX ।</s>
+<s>पुलिस_N_NNP के_PSP हत्थे_N_NN लगा_V_VM सूट-बूट_N_NNP गिरोह,_N_NNP होंडा_N_NNP सिटी_N_NNP कार_N_NN में_PSP आकर_V_VM करते_V_VAUX थे_V_VAUX सूने_V_VM फ्लैटों_N_NN की_PSP चोरी_N_NN | </s>
+<s>पुलिस_N_NNP के_PSP हत्थे_N_NN लगे_V_VM सूट-बूट_N_NN गिरोह_N_NN के_PSP चोर_N_NN सूट-बूट_N_NN पहनकर_N_NN होंडा_N_NN सिटी_N_NN कार_N_NN में_PSP सवार_N_NN होकर_V_VM पॉश_N_NN कालोनियों_N_NN में_PSP घूम-घूमकर_RB सूने_V_VM फ्लैट_N_NN पर_PSP चोरी_N_NN करते_V_VM थे_V_VAUX ।</s>
+<s>डीआरडीअो_N_NNP प्रमुख_JJ का_PSP बड़ा_JJ बयान,_N_NN मौत_N_NN से_PSP पहले_N_NST पूर्व_N_NST राष्ट्रपति_N_NN कलाम_N_NNP ने_PSP दिया_V_VM था_V_VAUX मिसाइल_N_NNP प्लान_N_NN | </s>
+<s>डीआरडीअो_N_NNP प्रमुख_N_NN ने_PSP कहा_V_VM कि_CC_CCS पूर्व_N_NST राष्ट्रपति_N_NN एपीजे_N_NN अब्दुल_N_NNP कलाम_N_NNP ने_PSP देश_N_NN में_PSP दोबारा_N_NN इस्तेमाल_RB होने_V_VM वाली_PSP मिसाइल_N_NN के_PSP विकास_N_NN का_PSP सुझाव_N_NN दिया_V_VM था_V_VAUX ।</s>
+<s>यूपी_N_NN सहायक_N_NN शिक्षक_N_NN मामलें_N_NN में_PSP सुप्रीम_N_NN कोर्ट_N_NN ने_PSP बेसिक_N_NN शिक्षा_N_NN विभाग_N_NN से_PSP मांगा_N_NNP भर्ती_N_NN का_PSP ब्योरा_N_NN | </s>
+<s>सुप्रीम_N_NNP कोर्ट_N_NNP ने_PSP सक्षम_N_NN अधिकारी_N_NN को_PSP चार_QT_QTC सप्ताह_N_NN में_PSP हलफनामा_N_NN दाखिल_V_VM करने_V_VAUX का_PSP निर्देश_N_NN दिया_V_VM है_V_VAUX।</s>
+<s>साथ_N_NN ही_RP_RPD कहा_V_VM है_V_VAUX कि_CC_CCS हलफनामे_N_NN की_PSP सॉफ्ट_JJ कापी_N_NN अवमानना_N_NN याचिकाकर्ताओं_N_NN के_PSP सभी_QT_QTF वकीलों_N_NN को_PSP भी_RP_RPD दी_V_VM जाएगी_V_VAUX ।</s>
+<s>तबादले_N_NN के_PSP बाद_N_NST वीआरएस_N_NN पर_PSP सचिव_N_NN सुभाष_N_NNP चंद्र_N_NNP गर्ग_N_NNP ने_PSP क्या_PR_PRQ दी_V_VM सफाई_N_NN | </s>
+<s>सचिव_N_NNP सुभाष_N_NNP चंद्र_N_NNP गर्ग_N_NNP ने_PSP शुक्रवार_N_NN को_PSP साफ_JJ किया_V_VM कि_CC_CCS उनके_PR_PRP ट्रांसफर_N_NN और_CC_CCD स्वैच्छिक_JJ सेवानिवृत्ति_N_NN की_PSP पेशकश_N_NN के_PSP बीच_N_NST कोई_DM_DMI संबंध_N_NN नहीं_RP_NEG है_V_VM ।</s>
+<s>मॉब_N_NN लिंचिंग_N_NN पर_PSP सुप्रीम_N_NN कोर्ट_N_NN ने_PSP केंद्र_N_NN व_CC_CCD दस_N_NN राज्यों_N_NN को_PSP नोटिस_N_NN जारी_V_VM कर_V_VAUX मांगा_N_NNP जवाब_N_NN | </s>
+<s>मॉब_N_NN लिंचिंग_N_NN की_PSP याचिका_N_NN पर_PSP सुनवाई_N_NN करते_V_VM हुए_V_VAUX सुप्रीम_N_NN कोर्ट_N_NN ने_PSP केंद्र_N_NN सरकार_N_NN और_CC_CCD दस_QT_QTC राज्य_N_NN सरकारों_N_NN को_PSP नोटिस_N_NN जारी_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>भटकाने_V_VM वाले_PSP प्रचार_N_NN कर_V_VM रही_V_VAUX हस्तियों_N_NN पर_PSP कसेगा_V_VM शिकंजा_N_NN | </s>
+<s>भारी_N_NN जुर्माना_N_NN व_CC_CCD जेल_N_NN की_PSP सजा_N_NN तक_PSP का_PSP सख्त_JJ प्रावधान_N_NN ।</s>
+<s>उपभोक्ता_N_NN संरक्षण_N_NN विधेयक_N_NN के_PSP संसद_N_NN में_PSP पारित_N_NN होने_V_VM का_PSP इंतजार_N_NN ।</s>
+<s>अधिकारियों_N_NN का_PSP कहना_V_VM था_V_VAUX कि_CC_CCS एसआई_N_NNP के_PSP विरुद्ध_N_NN कार्रवाई_N_NN जरूरी_N_NN है_V_VM क्योंकि_CC_CCS वे_PR_PRP वर्दी_N_NN में_PSP थे_N_NN ।</s>
+<s>बताया_V_VM गया_V_VAUX कि_CC_CCS यह_DM_DMD वीडियो_N_NN थाने_N_NN में_PSP ही_RP_RPD शूट_N_NN किया_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>सुस्त_JJ पड़_V_VM रही_V_VAUX धरती_N_NN के_PSP घूमने_V_VM की_PSP रफ्तार,_N_NN जानें_N_NN क्या_PR_PRQ पड़ेगा_V_VAUX असर,_JJ वैज्ञानिकों_N_NN ने_PSP यह_DM_DMD दी_V_VM चेतावनी_V_VAUX | </s>
+<s>धरती_N_NNP के_PSP अपनी_PR_PRF धुरी_N_NN पर_PSP घूमने_V_VM की_PSP रफ्तार_N_NN धीमी_N_NN हो_V_VM रही_V_VAUX है_V_VAUX जिससे|P चंद्रमा_N_NN इससे_DM_DMD दूर_N_NN होता_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>यह_N_NN घटना_N_NN बड़े_JJ भूकंपों_N_NN की_PSP वजह_N_NN बन_V_VM सकती_V_VAUX है_N_NN ।</s>
+<s>वैज्ञानिकों_N_NN ने_PSP सनसनीखेज_N_NN खुलासा_N_NN किया_V_VM है_V_VAUX | </s>
+<s>सिर्फ_N_NN 100_QT_QTC रुपये_N_NN की_PSP बचत_N_NN भी_RP_RPD आपको_PR_PRP बना_V_VM सकती_V_VAUX है_V_VAUX लखपति,_N_NNP जनिए_N_NN कहां_N_NN और_CC_CCD कैसे_DM_DMQ करें_V_VM निवेश_N_NN | </s>
+<s>जब_N_NN भी_RP_RPD हम_PR_PRP किसी_DM_DMI स्कीम_N_NN में_PSP निवेश_N_NN करने_V_VM के_PSP बारे_N_NN में_PSP सोचते_V_VM है_V_VAUX तो_RP_RPD मन_N_NN में_PSP कई_QT_QTF विचार_N_NN आते_V_VM है_V_VAUX ।</s>
+<s>आज_N_NN हम_PR_PRP आपको_PR_PRP बताएंगे_N_NN की_PSP आखिर_N_NN बैंक_N_NN और_CC_CCD पोस्ट_N_NN ऑफिस_N_NN दोनों_QT_QTC में_PSP से_PSP किसमें_DM_DMQ निवेश_N_NN करना_V_VM फायदेमंद_N_NN होगा_N_NN ।</s>
+<s>उत्तराखंड_N_NN में_PSP ऑरेंज_N_NN अलर्ट,_N_NNP यूपी,_N_NNP एमपी_N_NNP और_CC_CCD हिमाचल_N_NNP के_PSP लिए_PSP अगले_N_NN 24_QT_QTC घंटे_N_NN भारी_N_NN | </s>
+<s>मौसम_N_NNP विभाग_N_NN ने_PSP उत्तराखंड_N_NN के_PSP लिए_PSP ऑरेंज_N_NN अलर्ट_N_NN जारी_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>यही_N_NN नहीं_RP_NEG यूपी_N_NN मध्य_N_NNP प्रदेश_N_NNP पंजाब_N_NNP जम्मू-कश्मीर_N_NNP और_CC_CCD हिमाचल_N_NNP प्रदेश_N_NNP में_PSP भारी_JJ से_PSP ज्यादा_N_NN भारी_JJ बारिश_N_NN की_PSP चेतावनी_N_NN जारी_N_NN की_PSP है_N_NN ।</s>
+<s>देश_N_NN में_PSP बाढ़_N_NN से_PSP त्राहिमाम,_N_NN इसरो_N_NN की_PSP मांग_N_NN पर_PSP चीन_N_NNP ने_PSP प्रभावित_JJ इलाकों_N_NN का_PSP सेटेलाइट_N_NN डाटा_N_NN भेजा_V_VM | </s>
+<s>चीन_N_NNP ने_PSP भारतीय_N_NNP अंतरिक्ष_N_NN अनुसंधन_N_NN संगठन_N_NN की_PSP मांग_N_NN पर_PSP बाढ़_N_NN राहत_N_NN कार्यों_N_NN में_PSP मदद_N_NN के_PSP लिए_PSP भारत_N_NNP को_PSP बाढ़ग्रस्त_JJ क्षेत्रों_N_NN का_PSP उपग्रह_N_NN से_PSP प्राप्त_N_NN डेटा_N_NNP मुहैया_N_NN कराया_V_VM है_V_VAUX ।</s>
+<s>भीड़_N_NN की_PSP हिंसा_N_NN पर_PSP PM_N_NN को_PSP खुला_V_VM पत्र_N_NN लिखने_V_VM वालों_V_VAUX पर_PSP कंगना_N_NN समेत_N_NN 62_QT_QTC हस्तियों_N_NN का_PSP पलटवार_N_NN | </s>
+<s>मोदी_N_NNP सरकार_N_NN में_PSP हो_V_VM रही_V_VAUX भीड़_N_NN हिंसा_N_NN को_PSP लेकर_V_VM प्रधानमंत्री_N_NN को_PSP लिखे_N_NN खत_N_NN के_PSP विरोध_N_NN में_PSP 62_QT_QTC हस्तियों_N_NN ने_PSP एक_QT_QTC खुला_N_NN पत्र_N_NN लिखा_V_VM है_V_VAUX ।</s>
+<s>जिनमें_N_NN अभिनेत्री_N_NN कंगना_N_NN रनौत_N_NN गीतकार_N_NN प्रसून_N_NN जोशी_N_NNP भी_RP_RPD शामिल_N_NN हैं_N_NN ।</s>
+<s>कारिगल_N_NNP युद्ध_N_NNP में_PSP पाकिस्तान_N_NN को_PSP भारत_N_NNP ने_PSP पीछे_N_NST भागने_V_VM पर_PSP मजबूर_N_NN तो_RP_RPD किया_V_VM ही_RP_RPD पूरी_JJ दुनिया_N_NN में_PSP उसकी_PR_PRP पोल_N_NN भी_RP_RPD खोल_N_NN दी_N_NN ।</s>
+<s>जानिए_N_NNP गैंग्स_N_NNP ऑफ_N_NNP फोर_N_NNP की_PSP प्लानिंग_N_NN में_PSP PM_N_NN नवाज_N_NN शरीफ_N_NN की_PSP क्या_PR_PRQ थी_V_VAUX भूमिका_V_VAUX ।</s>
+<s>सिंदूर_N_NN हुआ_V_VM अमर,_V_VAUX अब_N_NST बेटे_N_NN को_PSP फौज_N_NN में_PSP भेज_V_VM कहा-_V_VAUX तू_N_NN कोख_N_NN धन्य_JJ कर_V_VM देना_V_VAUX | </s>
+<s>कारगिल_N_NNP युद्ध_N_NN पर_PSP पाक_N_NNP सेना_N_NN की_PSP घुसपैठ_N_NN रोकने_V_VM के_PSP लिए_PSP 3_QT_QTC ग्रेनेडियर्स_N_NN बटालियन_N_NN को_PSP भेजा_V_VM गया_V_VAUX था_N_NN ।</s>
+<s>इसमें_N_NN यूपी_N_NN के_PSP जिला_N_NN मैनपुरी_N_NNP के_PSP गांव_N_NN टिकरई_N_NN निवासी_N_NN नागेंद्र_N_NNP सिंह_N_NNP चौहान_N_NNP भी_RP_RPD शामिल_N_NN थे_N_NN ।</s>
+<s>अनोखा_N_NN मामला:_N_NN ब्लड_N_NN देकर_V_VM एक_QT_QTC एनीमिक_N_NNP डॉग_N_NNP की_PSP जान_N_NN बचाने_V_VM आगे_N_NST आया_V_VM दूसरा_QT_QTO डॉग_N_NN | </s>
+<s>ब्लड_N_NN डोनेशन_N_NN की_PSP बात_N_NN इंसानों_N_NN के_PSP आमतौर_RB पर_PSP इंसानों_N_NN के_PSP बीच_N_NST ही_RP_RPD होती_V_VM है_V_VAUX लेकिन_CC_CCS यहां_N_NN एक_QT_QTC डॉग_N_NNP ने_PSP दूसरे_QT_QTO डॉग_N_NNP को_PSP अपना_PR_PRF ब्लड_N_NN दिया_V_VM और_CC_CCD बचा_N_NN ली_V_VM जान_V_VAUX ।</s>
+<s>'ग्रीन_N_NN इंडिया'_N_NN का_PSP संदेश_N_NN लेकर_V_VM आए_V_VAUX प्रधानमंत्री_N_NN मोदी,_N_NNP संसद_N_NNP में_PSP लगाए_V_VM गए_V_VAUX पेड़_N_NN | </s>
+<s>प्रधानमंत्री_N_NN नरेंद्र_N_NNP मोदी_N_NNP ने_PSP आज_N_NST संसद_N_NN में_PSP वृक्षारोपण_N_NN अभियान_N_NN के_PSP तहत_N_NN पेड़_N_NN लगाया_N_NN ।</s>
+<s>मतदान_N_NN करने_V_VM की_PSP अनुमति_N_NN देने_V_VM की_PSP मांग,_N_NN सुप्रीम_N_NN कोर्ट_N_NN ने_PSP 3_QT_QTC महिने_N_NN के_PSP लिए_PSP स्थगित_N_NN की_PSP याचिका_N_NN | </s>
+<s>चुनावों_N_NN के_PSP दौरान_PSP अप्रवासी_JJ भारतीयों_N_NN को_PSP डाक_N_NN या_CC_CCD ई-मतपत्रों_N_NN के_PSP माध्यम_N_NN से_PSP मतदान_N_NN करने_V_VM की_PSP अनुमति_N_NN दी_V_VM जाने_V_VAUX की_PSP मांग_N_NN ।</s>
+<s>चमड़ी_N_NN के_PSP कालाजार_N_NNP का_PSP संक्रमण_N_NN है_V_VAUX खतरनाक,_N_NN ऐसे_DM_DMD फैलता_V_VM है_V_VAUX संक्रमण_N_NN | </s>
+<s>शोधकर्ताओं_N_NN द्वारा_PSP किए_V_VM गए_V_VAUX एक_QT_QTC नए_JJ अध्ययन_N_NN में_PSP पता_N_NN चला_V_VM है_V_VAUX कि_CC_CCS कालाजार_N_NNP का_PSP उपचार_N_NN पूरा_N_NN के_PSP बाद_N_NST चमड़ी_N_NN के_PSP कालाजार_N_NNP से_PSP ग्रस्त_N_NN मरीज_N_NN भी_RP_RPD इस_DM_DMD बीमारी_N_NN का_PSP संक्रमण_N_NN फैला_V_VM सकते_V_VAUX हैं_V_VAUX ।</s>
+<s>निर्मला_N_NNP के_PSP जज्बे_N_NN को_PSP सलाम,_N_NN पति_N_NN की_PSP शहादत_N_NN से_PSP प्रेरणा_N_NN ले_V_VM अब_N_NST बच्चों_N_NN को_PSP बना_V_VM रहीं_V_VAUX फौजी_N_NN | </s>
+<s>बच्चों_N_NN को_PSP सुनाती_V_VM रहीं_V_VAUX पति_N_NN की_PSP जांबाजी_N_NN की_PSP ‘लोरियां’_N_NN ।</s>
+<s>ये_V_VM है_V_VAUX कारगिल_N_NNP युद्ध_N_NN के_PSP एक_QT_QTC शहीद_N_NN जवान_N_NN के_PSP बलिदान_N_NN और_CC_CCD उसके_PR_PRP परिवार_N_NN के_PSP जज्बे_N_NN की_PSP रोंगटे_N_NN खड़े_V_VM कर_V_VAUX देने_V_VAUX वाली_PSP कहानी_N_NN ।</s>
+<s>कारगिल_N_NN विजय_N_NN दिवस_N_NN की_PSP 20वीं_QT_QTC सालगिरह,_N_NN तीनों_QT_QTC सेनाओं_N_NN के_PSP प्रमुखों_N_NN ने_PSP शहीदों_N_NN को_PSP दी_V_VM श्रद्धांजलि_V_VAUX | </s>
+<s>कारगिल_N_NNP की_PSP चोटी_N_NN पर_PSP पाकिस्तानी_N_NNP सेना_N_NN को_PSP परस्त_N_NN कर_V_VM तिरंगा_N_NN लहराने_V_VM वाले_PSP हमारे_PR_PRP वीर_N_NN जवानों_N_NN को_PSP आज_N_NST पूरा_JJ देश_N_NN याद_V_VM कर_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>इसरो_N_NN ने_PSP चंद्रयान-2_N_NNP को_PSP धरती_N_NN की_PSP दूसरी_QT_QTO कक्षा_N_NN में_PSP सफलतापूर्वक_JJ स्थापित_N_NN कराया_N_NN | </s>
+<s>इसरो_N_NN के_PSP वैज्ञानिकों_N_NN ने_PSP चंद्रयान-2_N_NNP को_PSP सफलतापूर्वक_JJ पृथ्वी_N_NN की_PSP दूसरी_QT_QTO अगली_JJ कक्षा_N_NN में_PSP दाखिल_V_VM करा_V_VM दिया_V_VAUX गया_V_VAUX है_V_VAUX ।</s>
+<s>चंद्रयान-2_N_NN छह_QT_QTC अगस्त_N_NN तक_PSP पृथ्वी_N_NN के_PSP चारों_QT_QTC तरफ_N_NN चक्कर_N_NN लगाएगा_V_VM ।</s>
+<s>सेना_N_NN प्रमुख_N_NN की_PSP पाकिस्तान_N_NN को_PSP चेतावनी,_JJ कहा-_N_NN अगली_N_NN बार_N_NN मिलेगा_V_VM मुहंतोड़_N_NN जवाब_N_NN | </s>
+<s>कारगिल_N_NN विजय_N_NN दिवस_N_NN के_PSP मौके_N_NN पर_PSP द्रास_N_NNP में_PSP एक_QT_QTC कार्यक्रम_N_NN के_PSP दौरान_N_NN सेना_N_NN प्रमुख_JJ बिपिन_N_NN रावत_N_NNP ने_PSP कहा_V_VM कि_CC_CCS वह_PR_PRP पाकिस्तान_N_NN से_PSP इतना_QT_QTF कहना_V_VM चाहेंगे_V_VAUX की_PSP वह_PR_PRP निश्चित_JJ रहे_N_NN सेना_N_NN हमेशा_N_NN उनकी_PR_PRP सुरक्षा_N_NN करेगी_V_VM ।</s>
+<s>मजहब_N_NN के_PSP नाम_N_NN पर_PSP नफरत_N_NN फैलाने_V_VM वाले_PSP लोग_N_NN यहां_N_NNP आकर_V_VM देखें,_V_VAUX कांवड़िया_N_NNP बन_N_NNP शिव_N_NNP का_PSP जलाभिषेक_N_NN करता_V_VM रहमान_V_VAUX | </s>
+<s>प्रतापगढ़_N_NNP निवासी_N_NN रहमान_N_NNP पिछले_N_NNP छह_QT_QTC साल_N_NN से_PSP अपने_PR_PRF हिंदू_N_NN दोस्तों_N_NN संग_N_NN बैजनाथ_N_NNP धाम_N_NN की_PSP कांवड़_N_NN यात्रा_N_NN पर_PSP जाते_V_VM हैं_V_VAUX ।</s>
+<s>तेलंगाना_N_NN में_PSP विस्फोटकों_N_NN के_PSP साथ_PSP 7_QT_QTC माओवादी_N_NN गिरफ्तार_N_NN | </s>
+<s>तेलंगाना_N_NN में_PSP वाहनों_N_NN की_PSP जांच_N_NN के_PSP दौरान_N_NN गाड़ी_N_NN में_PSP सवार_N_NN माओवादियों_N_NN ने_PSP पुलिस_N_NN को_PSP देख_V_VM भागने_V_VM की_PSP कोशिश_N_NN की_PSP जिसके_N_NN बाद_N_NST पुलिस_N_NN ने_PSP पीछा_N_NN कर_V_VM इन_DM_DMD लोगों_N_NN को_PSP पकड़ा_N_NN ।</s>
+<s>जब_JJ पाकिस्तान_N_NN की_PSP नापाक_N_NN सोच_N_NN पर_PSP भारी_JJ पड़ा_V_VM था_V_VAUX भारत_N_NNP का_PSP 'ऑपरेशन_N_NN विजय'_N_NN | </s>
+<s>कारगिल_N_NN की_PSP दुर्गम_JJ पहाड़ियों_N_NN के_PSP जरिए_N_NN देश_N_NN में_PSP घुसपैठ_N_NN करने_V_VM के_PSP पाकिस्तान_N_NN के_PSP नापाक_N_NN मंसूबे_N_NN को_PSP भारतीय_N_NNP सेना_N_NN ने_PSP चूर-चूर_N_NN किया_V_VM था_V_VAUX ।</s>
+<s>लगभग_N_NN 60_QT_QTC दिनों_N_NN तक_PSP युद्ध_N_NN चला_V_VM ।</s>
+<s>देश_N_NN सेवा_N_NN का_PSP ऐसा_DM_DMD जुनून,_N_NN इन_DM_DMD पांच_QT_QTC भाइयों_N_NN ने_PSP एक_QT_QTC साथ_N_NN लड़ी_V_VM थी_V_VAUX कारगिल_N_NNP की_PSP लड़ाई_N_NN | </s>
+<s>देश_N_NN सेवा_N_NN का_PSP जज्बा_N_NN ऐसा_DM_DMD कि_CC_CCS इनमें_DM_DMD से_PSP एक_QT_QTC की_PSP शहादत_N_NN के_PSP बाद_N_NST मां_N_NN ने_PSP फौज_N_NN में_PSP भेज_V_VM दिया_V_VAUX छठवें_QT_QTO बेटे_N_NN को_PSP भी_RP_RPD झुंझुनू_N_NNP जिले_N_NN के_PSP सिंह_N_NNP परिवार_N_NN की_PSP कहानी_N_NN ।</s>
+<s>अब_N_NN ट्रैफिक_N_NN नियम_N_NN तोड़ा_N_NN तो_RP_RPD देना_V_VM होगा_V_VAUX भारी_JJ चालान_N_NN | </s>
+<s>गोल्डन_N_NNP गर्ल_N_NNP हिमा_N_NNP दास_N_NNP को_PSP भारत_N_NNP रत्न_N_NN दे_N_NN केंद्र_N_NN सरकार:_N_NN रजत_N_NN कल्सन_N_NN | </s>
+<s>दबंग_N_NNP दिल्ली_N_NNP के_PSP गुजरात_N_NNP के_PSP हाथों_N_NN मिली_V_VM हार_V_VAUX | </s>
+<s>उन्नाव_N_NN दुष्कर्म_JJ मामलाः_N_NN दहशत_N_NN के_PSP वो_N_NN दो_QT_QTC साल,_N_NN एक_QT_QTC विधायक_N_NN ने_PSP कानून_N_NN का_PSP बना_V_VM डाला_V_VAUX मजाक_N_NN | </s>
+<s>पत्नी_N_NN को_PSP मारपीट_N_NN करके_V_VM घर_N_NN से_PSP निकाला,_JJ फिर_N_NN फोन_N_NN पर_PSP दिया_V_VM तीन_QT_QTC तलाक_N_NN | </s>
+<s>अपनी_N_NN ही_RP_RPD नई_JJ अफगान_JJ पाक_N_NN रणनीति_N_NN में_PSP फंसा_N_NNP Us,_N_NNP अफगानिस्तान_N_NNP से_PSP सेना_N_NN वापसी_N_NN पर_PSP संशय_N_NN | </s>
+<s>वास्तु_N_NNP शास्त्र_N_NNP के_PSP अनुसार_N_NN आपके_PR_PRP कमरों_N_NN के_PSP लिए_PSP कौन_PR_PRQ सा_RP_RPD रंग_N_NN रहेगा_V_VM सही_N_NN | </s>
+<s>वडोदरा_N_NN में_PSP भारी_JJ बारिश_N_NN के_PSP बीच_N_NST सड़कों_N_NN पर_PSP कुत्तों_N_NN पर_PSP हमला_N_NN करता_V_VM नजर_N_NN आया_V_VM मगरमच्छ_N_NN | </s>
+<s>मोहम्मद_N_NN आमिर_N_NN की_PSP बीवी_N_NN नरजिस_N_NN ने_PSP किया_V_VM बड़ा_JJ खुलासा,_N_NN दुनिया_N_NN को_PSP बताई_N_NN ये_DM_DMD सच्चाई_N_NN | </s>
+<s>किरकिरी_N_NN के_PSP बाद_N_NST BJP_N_NN ने_PSP उन्नाव_N_NN दुष्कर्म_JJ कांड_N_NN के_PSP आरोपी_N_NN MLA_N_NN कुलदीप_N_NNP सिंह_N_NNP सेंगर_N_NNP को_PSP किया_V_VM बर्खास्त_V_VAUX | </s>
+<s>टेस्ट_N_NN में_PSP दर्शकों_N_NN ने_PSP पार_N_NN कर_V_VM दी_V_VAUX सारी_QT_QTF हदें,_N_NN स्टेडियम_N_NN में_PSP रोते_V_VM नजर_N_NN आए_V_VM स्टीव_N_NN स्मिथ_N_NN | </s>
+<s>मोदी_N_NNP सरकार_N_NN का_PSP क्रांतिकारी_N_NN बिल_N_NN क्यों_PR_PRQ है_V_VM आपके_PR_PRP लिए_PSP खतरे_N_NN की_PSP घंटी?_N_NN | </s>
+<s>मोदी_N_NNP सरकार_N_NN ने_PSP 28_QT_QTC हजार_N_NN अतिरिक्त_N_NN जवान_N_NN कश्मीर_N_NNP भेजे,_N_NNP हाई_N_NN ऑपरेशनल_N_NN अलर्ट_N_NN पर_PSP आर्मी-एयरफोर्स_N_NN | </s>
+<s>जानिए_N_NNP ग्राम_N_NN प्रधान_N_NN से_PSP विधायक_N_NN बने_V_VM कुलदीप_N_NNP सिंह_N_NNP सेंगर_N_NNP के_PSP अर्श_N_NN से_PSP फर्श_N_NN पर_PSP पहुंचने_V_VM की_PSP कहानी_N_NN | </s>
+<s>टीम_N_NNP इंडिया_N_NNP के_PSP कप्तान_N_NN विराट_N_NNP कोहली_N_NNP ने_PSP कोच_N_NN रवि_N_NNP शास्त्री_N_NNP के_PSP लिए_PSP तोड़ा_N_NN प्रोटोकॉल_N_NN | </s>
+<s>पीड़िता_N_NN का_PSP लखनऊ_N_NNP में_PSP ही_RP_RPD होगा_V_VM इलाज,_V_VAUX चाचा_N_NN को_PSP दिल्ली_N_NNP तिहाड़_N_NN जेल_N_NN किया_V_VM जाएगा_V_VAUX शिफ्ट_N_NN | </s>
+<s>ट्रैक_N_NN पर_PSP दौड़ते_V_VM हुए_V_VAUX 'गायब'_N_NN हो_V_VM गई_V_VAUX जनता_N_NN एक्सप्रेस_N_NN | </s>
+<s>वास्तु_N_NNP शास्त्र_N_NNP के_PSP अनुसार_N_NN आपके_PR_PRP कमरों_N_NN के_PSP लिए_PSP कौन_PR_PRQ सा_RP_RPD रंग_N_NN रहेगा_V_VM सही_N_NN | </s>
+<s>'महिलाएं_N_NN नाजुक_N_NN और_CC_CCD कोमल_JJ होती_V_VM हैं,_V_VAUX उन्हें_PR_PRP रात_N_NN में_PSP घर_N_NN पर_PSP ही_RP_RPD रहना_V_VM चाहिए',_V_VAUX जानिए-क्यों_N_NN कहनी_V_VM पड़ी_V_VAUX यह_DM_DMD बात_N_NN | </s>
+<s>पूर्व_JJ राजनायिकों_N_NN ने_PSP कहा-_N_NNP कश्मीर_N_NNP पर_PSP ट्रंप_N_NN के_PSP बयान_N_NN से_PSP पड़_V_VM सकता_V_VAUX है_V_VAUX भारत_N_NNP अमेरिका_N_NNP के_PSP रिश्तों_N_NN पर_PSP असर_N_NN | </s>
+<s>जया_N_NN प्रदा_N_NN का_PSP आजम_N_NNP खां_N_NNP पर_PSP हमला,_N_NN कहा-_N_NN अल्लाह_N_NN दे_V_VM रहा_V_VAUX है_V_VAUX सपा_N_NN सांसद_N_NN को_PSP सजा_N_NN | </s>
+<s>क्रिकेट_N_NN को_PSP बचाने_V_VM के_PSP लिए_PSP फ्री_N_NN में_PSP खेलेंगे_V_VM इस_DM_DMR देश_N_NN के_PSP खिलाड़ी_N_NN | </s>
+<s>दिल्लीः_N_NNP दलबदल_N_NNP मामले_N_NN में_PSP स्पीकर_N_NN के_PSP फैसले_N_NN को_PSP कोर्ट_N_NN में_PSP चुनौती_N_NN देंगे_V_VM कपिल_N_NNP मिश्रा_N_NN | </s>P
+<s>सपा_N_NNP के_PSP एक_QT_QTC और_CC_CCD सदस्य_N_NN सुरेंद्र_N_NNP नागर_N_NNP का_PSP राज्यसभा_N_NN से_PSP इस्तीफा_N_NN | </s>
+<s>डोनाल्ड_N_NN ट्रंप_N_NN का_PSP बड़ा_JJ बयान,_N_NN कहा-_N_NN अगर_CC_CCS वह_PR_PRP चाहें_V_VM तो_RP_RPD अफगान_N_NNP को_PSP 10_QT_QTC दिनों_N_NN में_PSP दुनिया_N_NN से_PSP मिटा_V_VM दें_V_VAUX | </s>
+<s>देशभर_N_NN में_PSP अधूरी_JJ परियोजनाओं_N_NN का_PSP पूरा_N_NN होना_V_VM सुनिश्चित_JJ करे_N_NN सरकार-_N_NN सुप्रीम_N_NN कोर्ट_N_NN | </s>
+<s>सुप्रीम_N_NN कोर्ट_N_NN छह_QT_QTC अगस्त_N_NN से_PSP करेगा_V_VM रोजाना_N_NN सुनवाई,_JJ मध्यस्थता_N_NN फेल_N_NN | </s>
+<s>रतुल_N_NNP पुरी_N_NNP की_PSP अग्रिम_JJ जमानत_N_NN पर_PSP फैसला_N_NN सुरक्षित,_N_NN गिरफ्तारी_N_NN से_PSP 6_QT_QTC अगस्त_N_NNP तक_PSP राहत|_N_NN
+<s>वो_N_NN पांच_QT_QTC वजहें_N_NN जो|P डोनाल्ड_N_NNP ट्रंप_N_NN को_PSP भारत-अमेरिका_N_NN टैरिफ_N_NN विवाद_N_NN में_PSP गलत_N_NN साबित_N_NN करती_V_VM हैं_V_VAUX | </s>
+<s>जयपुर_N_NNP पिंक_N_NNP पैथर्स_N_NNP ने_PSP हरियाणा_N_NNP स्टीलर्स_N_NNP को_PSP हराया_N_NN | </s>
+<s>जयपुर_N_NNP की_PSP टीम_N_NN ने_PSP हरियाणा_N_NNP को_PSP 37-21_QT_QTC से_PSP हराया_V_VM और_CC_CCD लगातार_N_NN तीसरी_QT_QTC जीत_N_NN दर्ज_N_NN की_N_NN ।</s>
+<s>सिद्धार्थ_N_NN ने_PSP अमेरिकी_JJ कंपनी_N_NN स्टारबक्स_N_NN का_PSP भारतीय_JJ प्रतिद्वंद्वी_N_NN सीसीडी_N_NN सफलतापूर्वक_N_NN खड़ा_V_VM किया_V_VAUX था।_V_VAUX वे_DM_DMD एक_QT_QTC ऐसे_DM_DMD परिवार_N_NN से_PSP आते_V_VM थे_V_VAUX जिसका|P पिछले_N_NST 140_QT_QTC सालों_N_NN से_PSP कॉफी_N_NN उगाने_V_VM का_PSP इतिहास_N_NN रहा_V_VM है_V_VAUX ।</s>
+<s>एचआइवी_N_NNP संक्रमण_N_NN के_PSP खतरे_N_NN का_PSP पता_N_NN लगाएगा_V_VM ये_DM_DMD नया_JJ सॉफ्टवेयर,_N_NN जानें_N_NN इसके_DM_DMD बारे_N_NN में_N_NN | </s>
+<s>हार्वर्ड_N_NN और_CC_CCD उत्तरी_N_NNP कैलिफोर्निया_N_NNP स्थित_V_VM कैसर_N_NN परमानेंट_N_NN हेल्थ_N_NN कंपनी_N_NN के_PSP शोधकर्ता_N_NN ने_PSP एचआइवी_N_NNP संक्रमण_N_NN के_PSP खतरे_N_NN का_PSP पता_N_NN लगाने_V_VM के_PSP लिए_PSP सॉफ्टवेयर_N_NN तैयार_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>ऐसे_N_NN पड़ा_V_VM एशेज_N_NN का_PSP नाम,_N_NN पहले_N_NST टेस्ट_N_NN में_PSP ऑस्ट्रेलिया_N_NNP के_PSP खिलाफ_N_NN इंग्लैंड_N_NNP की_PSP नजरें_N_NN दोहरी_QT_QTO सफलता_N_NN पर_N_NN | </s>
+<s>ऑस्ट्रेलियाई_N_NN टीम_N_NN 2001_QT_QTC के_PSP बाद_N_NST से_PSP इंग्लैंड_N_NNP से_PSP उसके_PR_PRP घर_N_NN में_PSP एशेज_N_NN सीरीज_N_NN नहीं_RP_NEG जीत_V_VM पाई_V_VAUX है_V_VAUX ।</s>
+<s>जोफ्रा_N_NNP आर्चर_N_NNP को_PSP एशेज_N_NN के_PSP पहले_N_NST टेस्ट_N_NN के_PSP लिए_PSP इंग्लैंड_N_NNP के_PSP अंतिम_JJ 11_QT_QTC में_PSP नहीं_RP_NEG मिला_V_VM मौका,_N_NN एंडरसन_N_NN प्लेइंग_N_NN इलेवन_N_NN में_N_NN | </s>
+<s>एशेज_N_NN के_PSP पहले_N_NST टेस्ट_N_NN के_PSP लिए_PSP इंग्लैंड_N_NNP ने_PSP अपनी_PR_PRF प्लेइंग_N_NN इलेवन_N_NN की_PSP घोषणा_N_NN कर_V_VM दी_V_VAUX है_V_VAUX ।</s>
+<s>इस_N_NN टीम_N_NN में_PSP जोफ्रा_N_NNP आर्चर_N_NNP को_PSP जगह_N_NN नहीं_RP_NEG दी_V_VM गई_V_VAUX है_N_NN ।</s>
+<s>अमेरिका-ईरान_N_NNP तनाव_N_NN पर_PSP रूहानी_JJ और_CC_CCD मैक्रों_N_NN ने_PSP की_PSP बात_N_NN | </s>
+<s>परमाणु_N_NN समझौते_N_NN में_PSP ईरान_N_NNP और_CC_CCD अमेरिका_N_NNP के_PSP साथ_PSP फ्रांस_N_NNP रूस_N_NNP ब्रिटेन_N_NNP चीन_N_NNP व_CC_CCD जर्मनी_N_NNP भी_RP_RPD शामिल_N_NN थे।_N_NN ये_DM_DMD सभी_QT_QTF देश_N_NN किसी_DM_DMI भी_RP_RPD हाल_N_NN में_PSP समझौता_N_NN जारी_N_NN रखना_V_VM चाहते_V_VAUX हैं_V_VAUX ।</s>
+<s>अफगानिस्तान_N_NNP में_PSP ड्रोन_N_NN हमले_N_NN में_PSP मारा_V_VM गया_V_VAUX केरल_N_NNP निवासी_N_NN Is_QT_QTC आतंकी,_N_NN राज्य_N_NN से_PSP चौंकाने_V_VM वाले_V_VAUX हैं_V_VAUX ये_DM_DMD आंकड़े_N_NN | </s>
+<s>केरल_N_NNP के_PSP मलप्पुरम_N_NN का_PSP रहने_V_VM वाला_PSP मुहम्मद_N_NNP मोहसिन_N_NNP अफगानिस्तान_N_NNP के_PSP खोरासन_N_NN प्रांत_N_NN में_PSP Is_N_NN के_PSP एक_QT_QTC प्रमुख_JJ कमांडर_N_NN हुजैफा-अल-बाकिस्तानी_N_NN के_PSP साथ_PSP मारा_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>शत्रु_N_NNP संपत्ति_N_NN पर_PSP अवैध_JJ कब्जे_N_NN के_PSP आरोप_N_NN में_PSP सांसद_N_NNP आजम_N_NNP खान_N_NNP पर_PSP कस_V_VM सकता_V_VAUX है_V_VAUX ईडी_N_NN का_PSP शिकंजा_N_NN | </s>
+<s>यदि_N_NN यह_DM_DMD साबित_N_NN होता_V_VM है_V_VAUX कि_CC_CCS शत्रु_N_NN संपत्ति_N_NN पर_PSP अली_N_NNP जौहर_N_NNP विश्वविद्यालय_N_NN ने_PSP अवैध_JJ तरीके_N_NN से_PSP कब्जा_N_NN कर_V_VM रखा_V_VAUX है_V_VAUX तो_RP_RPD ईडी_N_NN मनी_N_NN लांड्रिंग_N_NN रोकथाम_N_NN कानून_N_NN के_PSP तहत_N_NN उसे_PR_PRP अपने_PR_PRF कब्जे_N_NN में_PSP ले_V_VM सकती_V_VAUX है_N_NN ।</s>
+<s>मैंने_N_NN एशेज_N_NN सीरीज_N_NN के_PSP लिए_PSP कुछ_QT_QTF लक्ष्य_N_NN निर्धारित_N_NN किए_V_VM हैं_V_VAUX :_RD_PUNC डेविड_N_NNP वार्नर_N_NN | </s>
+<s>डेविड_N_NNP वार्नर_N_NNP ने_PSP कहा_V_VM कि_CC_CCS मुझे_PR_PRP टेस्ट_N_NN क्रिकेट_N_NN पसंद_N_NN है_V_VM और_CC_CCD मैं_PR_PRP हमेशा_N_NST टेस्ट_N_NN क्रिकेट_N_NN खेलना_V_VM चाहता_V_VAUX हूं_N_NN ।</s>
+<s>बैलिस्टिक_JJ मिसाइलों_N_NN का_PSP फिर_RB हुआ_V_VM परीक्षण,_N_NN इन_DM_DMD दो_QT_QTC देशों_N_NN पर_PSP किम_N_NN जोंग_N_NN बना_V_VM रहा_V_VAUX दबाव_N_NN | </s>
+<s>उत्तर_N_NNP कोरिया_N_NNP ने_PSP पिछली_N_NST 25_QT_QTC जुलाई_N_NN को_PSP भी_RP_RPD इस_DM_DMD जगह_N_NN से_PSP दो_QT_QTC मिसाइलों_N_NN का_PSP परीक्षण_N_NN किया_V_VM था_V_VAUX ।</s>
+<s>उनमें_N_NN से_PSP एक_QT_QTC मिसाइल_N_NN 430_QT_QTC किलोमीटर_N_NN और_CC_CCD दूसरी_QT_QTO 690_QT_QTC किलोमीटर_N_NN दूर_N_NN तक_PSP गई_V_VM थी_N_NN | </s>
+<s>बड़े_JJ शहरों_N_NN की_PSP ज़िंदगी_N_NN आम_JJ तौर_N_NN पर_PSP छोटे_JJ कस्बों_N_NN या_CC_CCD गांवो_N_NN की_PSP तुलना_N_NN में_PSP ज्यादा_QT_QTF तेज_JJ गति_N_NN से_PSP भागती_N_NNP है।_N_NN इस_DM_DMD भागदौड़_JJ भरी_JJ जिंदगी_N_NN का_PSP सबसे_RP_INTF बड़ा_JJ लक्ष्य_N_NN शहरों_N_NN में_PSP रहकर_V_VM नौकरी_N_NN के_PSP जरिये_N_NN | </s>
+<s>भारत_N_NN की_PSP जीडीपी_N_NN रैंकिंग_N_NN गिरी,_V_VM अब_N_NST विश्व_N_NN की_PSP सातवीं_QT_QTO इकॉनमी_N_NN बना_V_VM देश_N_NN | </s>
+<s>ब्रिटेन_N_NNP और_CC_CCD फ्रांस_N_NNP की_PSP जीडीपी_N_NN 2.8_QT_QTC ट्रिलियन_N_NN डॉलर_N_NN रही_V_VM जबकि_CC_CCS भारत_N_NNP की_PSP जीडीपी_N_NN 2.7_QT_QTC ट्रिलियन_N_NN डॉलर_N_NN दर्ज_N_NN की_PSP गई_N_NN ।</s>
+<s>लोन_N_NN लेने_V_VM से_PSP पहले_N_NST हमेशा_JJ ध्यान_N_NN रखें_V_VM ये_DM_DMD 5_QT_QTC बातें,_N_NN वरना_CC_CCS भविष्य_N_NN में_PSP आ_V_VM सकती_V_VAUX है_V_VAUX दिक्कतें_N_NN | </s>
+<s>सबसे_N_NN पहले_N_NST तो_RP_RPD यह_DM_DMD तय_N_NN करें_V_VM कि_CC_CCS आपको_PR_PRP अपनी_PR_PRF किस_PR_PRQ महत्वपूर्ण_JJ जरूरत_N_NN के_PSP लिए_PSP लोन_N_NN लेना_V_VM चाहिए।_V_VAUX साथ_N_NN ही_RP_RPD यह_DM_DMD भी_RP_RPD सुनिश्चित_N_NN करें_V_VM कि_CC_CCS आपकी_PR_PRP जरूरत_N_NN के_PSP लिए_PSP कितने_N_NN रुपयों_N_NN की_PSP आवश्यकता_N_NN होगी_N_NN | </s>
+<s>अपने_V_VM सपनों_N_NN के_PSP घर_N_NN को_PSP बनाएं_V_VM और_CC_CCD सुंदर_JJ होम_N_NN डेकोरेशन_N_NN की_PSP इन_DM_DMD शानदार_JJ चीज़ों_N_NN से,_N_NN वो_N_NN भी_RP_RPD भारी_JJ छूट_N_NN के_PSP साथ_N_NN | </s>
+<s>घर_N_NN को_PSP सजाने_V_VM के_PSP लिए_PSP महंगे_JJ झूमर_N_NN पर्दे_N_NN और_CC_CCD पेटिंग्स_N_NN पर_PSP पैसे_N_NN बर्बाद_N_NN करने_V_VM की_PSP जरूरत_N_NN नहीं_N_NN। </s>
+<s>ये_N_NN ऑनलाइन_N_NN साइट_N_NN दे_V_VM रही_V_VAUX हैं_V_VAUX डेकोरेशन_N_NNP के_PSP आइटम्स_N_NN पर_PSP भारी_JJ छूटजल्द_N_NN से_PSP जल्द_N_NN उठाएं_V_VM फायदा_N_NN ।</s>
+<s>खूबसूरत_N_NN राखी_N_NN ही_RP_RPD नहीं,_N_NN इस_DM_DMD साइट_N_NN से_PSP भेजें_V_VM गिफ्ट्स_N_NN और_CC_CCD कॉर्ड्स_N_NN भी_RP_RPD शानदार_JJ ऑफर_N_NN के_PSP साथ_N_NN | </s>
+<s>15_N_NNP अगस्त_N_NNP को_PSP भारत_N_NNP में_PSP मनाया_V_VM जाएगा_V_VAUX रक्षाबंधन_N_NNP का_PSP पावन_N_NN पर्व_N_NN। </s>
+<s>भाई-बहन_N_NN के_PSP आपसी_JJ प्यार_N_NN को_PSP बयां_V_VM करने_V_VAUX वाले_PSP इस_DM_DMD पर्व_N_NN को_PSP कैसे_PR_PRQ बना_V_VM सकती_V_VAUX हैं_V_VAUX और_CC_CCD खास_JJ जानेंगे_N_NN ।</s>
+<s>अपने_N_NN रैप_N_NN से_PSP सबको_QT_QTF दिवाना_N_NN बनाने_V_VM वाले_PSP बादशाह_N_NN इस_DM_DMD वक्त_N_NN सुर्खियों_N_NN में_PSP हैं_V_VAUX। </s>
+<s>उनके_N_NN सुर्खियों_N_NN में_PSP रहने_V_VM की_PSP दो_QT_QTC वजह_N_NN हैं_V_VAUX। </s>
+<s>पहली_N_NN उनकी_PR_PRP फिल्म_N_NN खानदानी_N_NN शफाखाना_N_NN और_CC_CCD दूसरा_QT_QTO उनका_PR_PRP लड़की_N_NN पागल_N_NN है_V_VAUX गाना_N_NN ।</s>
+<s>तो_N_NN इसलिए_CC_CCS इसरो_N_NN को_PSP चंदा_N_NNP मामा_N_NN की_PSP कहानियां_N_NN सुना_V_VM रहें_V_VAUX हैं_V_VAUX लोग,_N_NN आप_PR_PRP भी_RP_RPD जानें_N_NN वजह_N_NN | </s>
+<s>इसरो_N_NN ने_PSP अपने_PR_PRF ट्वीटर_N_NN पर_PSP एक_QT_QTC पोस्ट_N_NN किया_V_VM है_V_VAUX उसने_PR_PRP लोगों_N_NN से_PSP चांद_N_NNP से_PSP जुड़ी_N_NN अपनी_PR_PRF यादें_N_NN शेयर_N_NN करने_V_VM को_PSP कहा_V_VM है_V_VAUX ।</s>
+<s>पूल_N_NN से_PSP निकलते_V_VM हुए_V_VAUX पुरानी_JJ तस्वीर_N_NN में_PSP लग_V_VM रही_V_VAUX थीं_V_VAUX ग्लैमरस,_V_VAUX स्विमिंग_N_NN | </s>
+<s>कहीं_V_VM हुआ_V_VAUX बुर्का_N_NN बैन_RB तो_RP_RPD कहीं_DM_DMI मिली_N_NN मुस्लिम_JJ महिलाओं_N_NN को_PSP और_CC_CCD आजादी,_N_NN जानें,_N_NN कहां_V_VM हुआ_V_VAUX ये_DM_DMD सब_N_NN | </s>
+<s>यूरोप_N_NN के_PSP बाद_N_NST अब_N_NST नीदरलैंड_N_NNP ने_PSP भी_RP_RPD अपने_PR_PRF यहां_N_NN मुस्लिम_N_NN महिलाओं_N_NN के_PSP बुर्का_N_NN पहनने_V_VM पर_PSP रोक_N_NN लगा_V_VM दी_V_VAUX है।_N_NN सार्वजनिक_N_NN जगहों_N_NN पर_PSP महिलाएं_N_NN अपने_PR_PRF चेहरे_N_NN को_PSP ढककर_V_VM नहीं_RP_NEG जा_V_VM पाएंगी_V_VAUX ।</s>
+<s>अमरनाथ_N_NNP यात्रा_N_NN को_PSP निशाना_N_NN बनाने_V_VM की_PSP फिराक_N_NN में_PSP थे_V_VM आतंकी,_V_VAUX यात्रा_N_NN मार्ग_N_NN से_PSP आइईडी-_N_NN स्नाइपर_N_NN राइफल_N_NN बरामद_N_NN | </s>
+<s>नियंत्रण_N_NN रेखा(एलओसी)_N_NN पर_PSP तनाव_N_NN के_PSP बीच_N_NST भारतीय_N_NNP सेना_N_NN ने_PSP पाकिस्तानी_N_NNP आर्मी_N_NNP के_PSP कश्मीर_N_NNP में_PSP आतंकवाद_N_NN में_PSP शामिल_N_NN होने_V_VM की_PSP बात_N_NN कही_V_VM है_V_VAUX ।</s>
+<s>हरियाली_N_NNP तीज_N_NNP अगर_CC_CCS आपने_PR_PRP अभी_N_NST तक_PSP शॉपिंग_N_NN नहीं_RP_NEG की_PSP है_V_VAUX तो_CC_CCS हम_PR_PRP आपको_PR_PRP कुछ_QT_QTF साड़ियों_N_NN की_PSP जानकारी_N_NN दे_V_VM रहे_V_VAUX हैं।_V_VAUX ये_DM_DMD साड़ी_N_NNP दिखने_V_VM में_PSP बेहद_RP_INTF सुंदर_JJ और_CC_CCD इनकी|P कीमत_N_NN भी_RP_RPD बेहद_RP_INTF किफायती_JJ है_N_NN | </s>
+<s>हैडफोन्स_N_NN स्पीकर्स_N_NN और_CC_CCD स्मार्टवॉचेज_N_NN के_PSP लिए_PSP मार्केट_N_NN में_PSP इनके|P कई_QT_QTF विकल्प_N_NN मौजूद_V_VM हैं।_V_VAUX ऐसे_DM_DMD में_PSP यूजर्स_N_NN के_PSP मन_N_NN में_PSP हमेशा_N_NN ये_DM_DMD दुविधा_N_NN बनी_V_VM रहती_V_VAUX है_V_VAUX कि_CC_CCS उनके_PR_PRP लिए_PSP कौन-सा_PR_PRQ विकल्प_N_NN ज्यादा_QT_QTF बेहतर_JJ है_N_NN | </s>
+<s>बजट_N_NN से_PSP लेकर_V_VM प्रीमियम_N_NNP तक_PSP इन_DM_DMD स्मार्टफोन्स_N_NN पर_PSP शानदर_JJ ऑफर_N_NN उपलब्ध,_N_NN जल्दी_RB करें_V_VM | </s>
+<s>ई-कॉमर्स_N_NN कंपनियां_N_NN समय-समय_N_NN पर_PSP सेल_N_NN का_PSP आयोजन_N_NN करती_V_VM हैं_V_VAUX जिसमें|P लाखों_QT_QTC प्रोडक्टस_N_NN को_PSP भारी_JJ डिस्काउंट_N_NN के_PSP साथ_PSP उपलब्ध_N_NN कराया_V_VM जाता_V_VAUX है_V_VAUX | </s>
+<s>वॉशिंग_N_NN मशीन_N_NN लेने_V_VM की_PSP सोच_N_NN रहे_V_VM हैं_V_VAUX तो_RP_RPD पढ़े_V_VM ये_DM_DMD खबर,_N_NN मिल_V_VM रहे_V_VAUX हैं_V_VAUX शानदार_JJ ऑफर्स_N_NN | </s>
+<s>वॉशिंग_N_NN मशीन्स_N_NN के_PSP कई_QT_QTF शानदार_JJ ऑप्शन्स_N_NN उपलब्ध_V_VM हैं।_V_VAUX अमेजन_N_NN कई_QT_QTF शानदार_JJ डील्स_N_NN भी_RP_RPD उपलब्ध_N_NN करा_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>जिन्हें_N_NN देखकर_V_VM आपका_PR_PRP मन_N_NN उन्हें_PR_PRP खरीदने_V_VM का_PSP हो_V_VM जाएगा_V_VAUX | </s>
+<s>हरियाली_N_NNP तीज_N_NNP अगर_CC_CCS आपने_PR_PRP अभी_N_NST तक_PSP शॉपिंग_N_NN नहीं_RP_NEG की_PSP है_V_VAUX तो_CC_CCS हम_PR_PRP आपको_PR_PRP कुछ_QT_QTF साड़ियों_N_NN की_PSP जानकारी_N_NN दे_V_VM रहे_V_VAUX हैं_V_VAUX ।</s>
+<s>ये_N_NNP साड़ी_N_NNP दिखने_V_VM में_PSP बेहद_RP_INTF सुंदर_JJ और_CC_CCD इनकी|P कीमत_N_NN भी_RP_RPD बेहद_RP_INTF किफायती_JJ है_N_NN | </s>
+<s>हैडफोन्स_N_NN स्पीकर्स_N_NN और_CC_CCD स्मार्टवॉचेज_N_NN के_PSP लिए_PSP मार्केट_N_NN में_PSP इनके|P कई_QT_QTF विकल्प_N_NN मौजूद_N_NN हैं_N_NN ।</s>
+<s>ऐसे_N_NN में_PSP यूजर्स_N_NN के_PSP मन_N_NN में_PSP हमेशा_N_NN ये_DM_DMD दुविधा_N_NN बनी_V_VM रहती_V_VAUX है_V_VAUX कि_CC_CCS उनके_PR_PRP लिए_PSP कौन-सा_PR_PRQ विकल्प_N_NN ज्यादा_QT_QTF बेहतर_JJ है_N_NN | </s>
+<s>अपनी_N_NN नर्सरी_N_NN में_PSP हॉकी_N_NN खिलाडि़यों_N_NN को_PSP तराश_V_VM रहे_V_VAUX पूर्व_N_NST ओलंपियन_N_NNP सैयद_N_NNP अली_N_NN | </s>
+<s>सैयद_N_NNP अली_N_NNP की_PSP नर्सरी_N_NN से_PSP कई_QT_QTF खिलाड़ी_N_NN देश_N_NN के_PSP लिए_PSP खेल_N_NN भी_RP_RPD चुके_N_NN हैं_N_NN ।</s>
+<s>33_QT_QTC साल_N_NN से_PSP अनवरत_N_NN जारी_N_NN उनका_PR_PRP प्रयास_N_NN देश_N_NN की_PSP निस्वार्थ_N_NN सेवा_N_NN का_PSP अप्रतिम_JJ उदाहरण_N_NN है_N_NN ।</s>
+<s>खेल_N_NNP मंत्री_N_NN ने_PSP महिला_N_NN हॉकी_N_NN टीम_N_NN को_PSP दिया_N_NN मदद_N_NN का_PSP आश्वासन_N_NN | </s>
+<s>किरण_N_NN रिजिजू_N_NN ने_PSP भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN से_PSP मुलाकात_N_NN की_PSP और_CC_CCD उन्हें_PR_PRP ओलंपिक_N_NN क्वालीफायर_N_NN के_PSP लिए_PSP हर_QT_QTF संभव_N_NN का_PSP आश्वासन_N_NN दिया_V_VM है_V_VAUX ।</s>
+<s>भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN बनी_V_VM चैंपियन,_V_VAUX जापान_N_NNP को_PSP दी_V_VM करारी_V_VAUX शिकस्त_N_NN | </s>
+<s>भारत_N_NNP ने_PSP जापान_N_NNP को_PSP हराकर_V_VM एफआइएच_V_VAUX सीरीज_N_NN फाइनल्स_N_NN का_PSP खिताब_N_NN जीत_N_NN लिया_V_VM है।_V_VAUX इस_DM_DMD मुकाबले_N_NN में_PSP गुरजीत_N_NNP ने_PSP दो_QT_QTC गोल_N_NN दागे_N_NN | </s>
+<s>एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स:_N_NNP जापान_N_NNP को_PSP हरा_JJ फाइनल_N_NN में_PSP पहुंचा_N_NN भारत_N_NN | </s>
+<s>भारतीय_JJ हॉकी_N_NN टीम_N_NN ने_PSP एशियन_N_NNP गेम्स_N_NNP के_PSP चैंपियन_N_NNP जापान_N_NNP को_PSP 7-2_QT_QTC से_PSP हराकर_N_NN को_PSP एफआइएच_N_NN सीरीज_N_NN फाइनल्स_N_NN के_PSP फाइनल_N_NN में_PSP जगह_N_NN बनाई_V_VM | </s>
+<s>एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स_N_NN के_PSP सेमीफाइनल_N_NN भारत_N_NNP के_PSP सामने_N_NST जापान_N_NNP की_PSP कड़ी_JJ चुनौती_N_NN | </s>
+<s>जापान_N_NN जैसी_JJ टीम_N_NN एफआइएच_N_NN सीरीज_N_NN फाइनल्स_N_NN हॉकी_N_NN टूर्नामेंट_N_NN में_PSP शुक्रवार_N_NN को_PSP यहां_N_NNP भारत_N_NNP को_PSP कड़ी_JJ चुनौती_N_NN देगी_V_VM | </s>
+<s>एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स_N_NN हॉकी_N_NN टूर्नामेंट:_N_NN भारतीय_N_NN हॉकी_N_NN टीम_N_NN ने_PSP रूस_N_NNP को_PSP 10-0_QT_QTC से_PSP रौंदा_N_NN | </s>
+<s>भारत_N_NNP ने_PSP एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स_N_NN हॉकी_N_NN टूर्नामेंट_N_NN के_PSP अपने_PR_PRF शुरुआती_JJ मैच_N_NN में_PSP कमजोर_JJ रूस_N_NNP को_PSP 10-0_QT_QTC से_PSP हरा_JJ दिया_N_NN ।</s>
+<s>भारतीय_JJ हॉकी_N_NN टीम_N_NN में_PSP गुरजीत_N_NNP कौर_N_NNP व_CC_CCD निशा_N_NN वारसी_N_NN का_PSP चयन_N_NN | </s>
+<s>गुरजीत_N_NN पहले_N_NST भी_RP_RPD अंतरराष्ट्रीय_N_NN प्रतियोगिताओं_N_NN में_PSP भारतीय_JJ टीम_N_NN का_PSP हिस्सा_N_NN रही_V_VM हैं_V_VAUX जबकि_CC_CCS निशा_N_NN पहली_QT_QTO बार_N_NN भारतीय_N_NNP टीम_N_NN का_PSP हिस्सा_N_NN बनीं_V_VM हैं_V_VAUX ।</s>
+<s>भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN ने_PSP कोरिया_N_NNP को_PSP 2-1_QT_QTC से_PSP हराकर_V_VM जीती_RB सीरीज_N_NN | </s>
+<s>तीन_N_NN मैचों_N_NN की_PSP सीरीज_N_NN में_PSP भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN ने_PSP 2-0_QT_QTC की_PSP अपराजेय_N_NN बढ़त_N_NN हासिल_N_NN कर_V_VM ली_V_VAUX है_V_VAUX ।</s>
+<s>हार_N_NN के_PSP साथ_PSP खत्म_V_VM हुआ_V_VAUX भारत_N_NNP का_PSP ऑस्ट्रेलिया_N_NNP दौरा,_N_NN आखिरी_JJ मैच_N_NN में_PSP मेजबान_N_NNP टीम_N_NN ने_PSP 5-2_QT_QTC से_PSP हराया_N_NN | </s>
+<s>खेल_N_NNP रत्न_N_NN के_PSP लिए_PSP श्रीजेश_N_NNP के_PSP नाम_N_NN की_PSP सिफारिश,_N_NN हॉकी_N_NNP इंडिया_N_NNP ने_PSP भारतीय_N_NNP गोलकीपर_N_NN के_PSP नाम_N_NN पर_PSP लगाई_V_VM मुहर_N_NN | </s>
+<s>हॉकी_N_NNP इंडिया_N_NNP ने_PSP भारत_N_NNP के_PSP शीर्ष_N_NN गोलकीपर_N_NN पीआर_N_NNP श्रीजेश_N_NNP की_PSP प्रतिष्ठित_N_NN राजीव_N_NNP गांधी_N_NNP खेल_N_NN रत्न_N_NN पुरस्कार_N_NN के_PSP लिए_PSP सिफारिश_N_NN की_PSP है_N_NN ।</s>
+<s>एटलेटिको_N_NNP ने_PSP रीयल_N_NN मैड्रिड_N_NN को_PSP रौंदा,_N_NNP कोस्टा_N_NNP के_PSP चार_QT_QTC गोल_N_NN की_PSP मदद_N_NN से_PSP 7-3_QT_QTC से_PSP जीता_V_VM मुकाबला_N_NN | </s>
+<s>एटलेटिको_N_NNP मैड्रिड_N_NNP ने_PSP अपने_PR_PRF चिर_N_NN प्रतिद्वंद्वी_N_NN रीयल_N_NN मैड्रिड_N_NN को_PSP मेटलाइफ_N_NN स्टेडियम_N_NN में_PSP खेले_V_VM गए_V_VAUX एक_QT_QTC दोस्ताना_N_NN मुकाबले_N_NN में_PSP 7-3_QT_QTC से_PSP करारी_N_NN शिकस्त_N_NN दी_N_NN ।</s>
+<s>आर्सेनल_N_NN पर_PSP रीयल_N_NN की_PSP जीत_N_NN में_PSP बेल_N_NN ने_PSP दागा_N_NN गोल,_N_NN पेनाल्टी_N_NN शूटआउट_N_NN में_PSP 3-2_QT_QTC से_PSP जीता_JJ रीयल_N_NN मैड्रिड_N_NN | </s>
+<s>रीयल_N_NN मैड्रिड_N_NN में_PSP अपने_PR_PRF भविष्य_N_NN को_PSP लेकर_V_VM अधर_N_NN में_PSP लटके_V_VM गेरेथ_N_NNP बेल_N_NN ने_PSP आर्सेनल_N_NNP के_PSP ऊपर_N_NST अपनी_PR_PRF टीम_N_NN को_PSP जीत_N_NN दिलाने_N_NN में_PSP अहम_JJ भूमिका_N_NN निभाई_V_VM ।</s>
+<s>मैनचेस्टर_N_NNP युनाइटेड_N_NNP और_CC_CCD इंग्लैंड_N_NNP के_PSP लिए_PSP खेलना_V_VM सपना_N_NN सच_N_NN होने_V_VM जैसा_PSP :_RD_PUNC मार्कस_N_NNP रशफोर्ड_N_NN | </s>P
+<s>इस_N_NN आक्रामक_JJ खिलाड़ी_N_NN ने_PSP अभी_N_NST से_PSP ही_RP_RPD स्टार_N_NN बनने_V_VM के_PSP संकेत_N_NN दे_V_VM दिए_V_VAUX हैं_V_VAUX ।</s>
+<s>साल_N_NN बाद_N_NST अल्जीरिया_N_NNP ने_PSP जीता_V_VM अफ्रीका_N_NNP कप_N_NNP ऑफ_N_NNP नेशंस_N_NNP का_PSP खिताब_N_NN | </s>
+<s>एवर्टन_N_NNP से_PSP जुड़े_JJ मैनचेस्टर_N_NNP सिटी_N_NNP के_PSP मिडफील्डर_N_NN फैबियन_N_NN डेल्फ_N_NN | </s>
+<s>एवर्टन_N_NNP ने_PSP बताया_V_VM कि_CC_CCS उसने_PR_PRP डेल्फ_N_NN के_PSP साथ_PSP तीन_QT_QTC साल_N_NN का_PSP करार_N_NN किया_N_NN ।</s>
+<s>कोसिल्नी_N_NNP के_PSP विद्रोह_N_NN ने_PSP आर्सेनल_N_NNP की_PSP मुश्किलें_N_NN बढ़ाई,_V_VM क्लब_N_NN के_PSP प्री_N_NN सीजन_N_NN में_PSP भाग_N_NN लेने_V_VM से_PSP किया_V_VM इन्कार_V_VAUX | </s>
+<s>लॉरेंट_N_NN कोसिल्नी_N_NN द्वारा_PSP करार_N_NN संबंधी_N_NN विवादों_N_NN के_PSP चलते_V_VM क्लब_N_NN के_PSP प्री_N_NN सीजन_N_NN के_PSP बहिष्कार_N_NN करने_V_VM के_PSP फैसले_N_NN ने_PSP इस_DM_DMD इंग्लिश_N_NNP फुटबॉल_N_NN क्लब_N_NN के_PSP सामने_N_NST नई_JJ मुश्किलें_N_NN खड़ी_V_VM कर_V_VAUX दी_V_VAUX हैं_V_VAUX ।</s>
+<s>छठी_N_NN बार_N_NN एआइएफएफ_N_NNP के_PSP साल_N_NN के_PSP सर्वश्रेष्ठ_JJ खिलाड़ी_N_NN चुने_V_VM गए_V_VAUX सुनील_N_NN छेत्री_N_NN | </s>
+<s>सुनील_N_NN छेत्री_N_NN को_PSP रिकॉर्ड_N_NN छठी_QT_QTC बार_N_NN वर्ष_N_NN का_PSP एआइएफएफ_N_NNP का_PSP सर्वश्रेष्ठ_JJ भारतीय_JJ फुटबॉलर_N_NN चुना_V_VM गया_V_VAUX ।</s>
+<s>नेमार_N_NNP के_PSP खिलाफ_N_NN कार्रवाई_N_NN करेगा_V_VM पीएसजी,_V_VAUX ये_DM_DMD है_V_VAUX वजह_N_NN | </s>
+<s>पीएसजी_N_NNP के_PSP बयान_N_NN के_PSP मुताबिक_N_NN सोमवार_N_NN आठ_QT_QTC जुलाई_N_NN को_PSP प्री_N_NN सीजन_N_NN कार्यक्रम_N_NN में_PSP भाग_N_NN लेने_V_VM के_PSP लिए_PSP नेमार_N_NNP क्लब_N_NN से_PSP नहीं_RP_NEG जुड़_V_VM सके_V_VAUX ।</s>
+<s>पीएसजी_N_NNP ने_PSP कहा-_N_NNP नेमार_N_NNP क्लब_N_NN छोड़ने_V_VM के_PSP लिए_PSP स्वतंत्र_N_NN | </s>
+<s>पीएसजी_N_NNP के_PSP स्पोर्टिग_N_NN डायरेक्टर_N_NN लियोनार्डो_N_NNP ने_PSP कहा_V_VM है_V_VAUX कि_CC_CCS नेमार_N_NNP क्लब_N_NN को_PSP छोड़कर_V_VM जाने_V_VAUX के_PSP लिए_PSP स्वतंत्र_N_NN हैं_N_NN ।</s>
+<s>नीदरलैंड्स_N_NN के_PSP पूर्व_N_NST स्ट्राइकर_N_NN अर्जेन_N_NNP रॉबेन_N_NNP ने_PSP फुटबॉल_N_NN से_PSP लिया_V_VM संन्यास_N_NN | </s>
+<s>सालों_N_NN बाद_N_NST डेविस_N_NNP कप_N_NN के_PSP लिए_PSP पाकिस्तान_N_NN जाएगी_N_NN भारतीय_JJ टेनिस_N_NN टीम_N_NN | </s>
+<s>भारतीय_JJ टेनिस_N_NN टीम_N_NN प्रतिष्ठित_N_NN डेविस_N_NN कप_N_NN में_PSP खेलने_V_VM के_PSP लिए_PSP 55_QT_QTC साल_N_NN बाद_N_NST पहली_QT_QTO पहली_QT_QTO बार_N_NN पाकिस्तान_N_NNP जाएगी_N_NN ।</s>
+<s>ज्वेरेव_N_NN को_PSP हराकर_V_VM यूरोपियन_N_NN ओपन_N_NN के_PSP फाइनल_N_NN में_PSP पहुंचे_V_VM निकोलज_N_NN | </s>
+<s>अटलांटा_N_NNP ओपन:_N_NNP ओपेलका_N_NNP ने_PSP जॉन_N_NNP इस्नर_N_NN को_PSP किया_V_VM टूर्नामेंट_N_NN से_PSP बाहर_N_NN | </s>
+<s>वाशिंगटन_N_NN ओपन_N_NN में_PSP भाई_N_NN के_PSP साथ_PSP जोड़ी_N_NN बनाएंगे_V_VM एंडी_N_NN मरे_N_NN | </s>
+<s>एंडी_N_NN फिलहाल_N_NN सिंगल्स_N_NN में_PSP खेलने_V_VM के_PSP लिए_PSP तैयार_N_NN नहीं_RP_NEG हैं_V_VM ।</s>
+<s>हॉल_N_NNP ऑफ_N_NNP फेम_N_NNP चैंपियनशिप_N_NNP के_PSP सेमीफाइनल_N_NN में_PSP हारे_JJ लिएंडर_N_NN पेस_N_NN | </s>
+<s>लिएंडर_N_NN पेस_N_NN और_CC_CCD मार्कस_N_NNP डेनियल_N_NNP की_PSP जोड़ी_N_NN को_PSP एटीपी_N_NNP हॉल_N_NNP ऑफ_N_NNP फेम_N_NNP टेनिस_N_NN टूर्नामेंट_N_NN के_PSP सेमीफाइनल_N_NN में_PSP हार_N_NN का_PSP सामना_N_NN करना_V_VM पड़ा_N_NN ।</s>
+<s>46_N_NNP की_PSP उम्र_N_NN में_PSP हॉल_N_NN ऑफ_PSP फेम_N_NNP चैंपियनशिप_N_NNP के_PSP सेमीफाइनल_N_NN में_PSP पहुंचे_V_VM पेस_N_NN | </s>
+<s>46_QT_QTC साल_N_NN की_PSP उम्र_N_NN में_PSP भारत_N_NNP के_PSP दिग्गज_N_NN टेनिस_N_NN खिलाड़ी_N_NN लिएंडर_N_NN पेस_N_NN का_PSP शानदार_JJ सफर_N_NN जारी_V_VM है_V_VAUX ।</s>
+<s>सिमोना_N_NNP हालेप_N_NN को_PSP मिला_V_VM रोमानिया_N_NN का_PSP विशिष्ठता_N_NN सम्मान_N_NN | </s>
+<s>विंबलडन_N_NNP चैंपियन_N_NNP सिमोना_N_NNP हालेप_N_NN को_PSP रोमानिया_N_NNP के_PSP सर्वश्रेष्ठ_JJ विशिष्ठता_N_NN सम्मान_N_NN देने_V_VM की_PSP घोषणा_N_NN की_N_NN ।</s>
+<s>रोमांचक_N_NN विंबलडन_N_NN फाइनल_N_NN में_PSP जीते_V_VM जोकोविक,_V_VAUX फेडरर_N_NN को_PSP मिली_V_VM हार_V_VAUX | </s>
+<s>जोकोविक_N_NNP ने_PSP विंबलडन_N_NNP का_PSP खिताब_N_NN फेडरर_N_NN को_PSP हराकर_V_VM जीता_V_VAUX ।</s>
+<s>सेरेना_N_NN को_PSP मिली_V_VM हार,_V_VAUX विंबलडन_N_NNP की_PSP नई_JJ क्वीन_N_NN बनीं_V_VM सिमोना_N_NNP हालेप_N_NN | </s>
+<s>सिमोना_N_NNP हालेप_N_NNP ने_PSP महिला_N_NN सिंगल्स_N_NN फाइनल_N_NN मुकाबले_N_NN में_PSP सेरेना_N_NN विलियम्स_N_NN को_PSP हराकर_V_VM खिताब_N_NN अपने_PR_PRF नाम_N_NN किया_N_NN ।</s>
+<s>राफेल_N_NNP नडाल_N_NNP को_PSP हराकर_V_VM विंबलडन_N_NNP के_PSP फाइनल_N_NN में_PSP पहुंचे_V_VM रोजर_N_NNP फेडरर_N_NN | </s>
+<s>सेमीफाइनल_N_NNP में_PSP फेडरर_N_NN और_CC_CCD नडाल_N_NN होंगे_V_VM आमने-सामने_V_VAUX | </s>
+<s>विंबलडन_N_NNP के_PSP सेमीफाइनल_N_NN में_PSP स्विट्जरलैंड_N_NNP के_PSP दिग्गज_N_NN खिलाड़ी_N_NN रोजर_N_NNP फेडरर_N_NNP का_PSP सामना_N_NN उनके_PR_PRP चिर_N_NN प्रतिद्वंद्वी_N_NN स्पेन_N_NNP के_PSP राफेल_N_NN नडाल_N_NN से_PSP होगा_N_NN ।</s>
+<s>सेरेना_N_NN और_CC_CCD हालेप_N_NN सेमीफाइनल_N_NN में_PSP जगह_N_NN बनाई_V_VM | </s>
+<s>सेरेना_N_NNP विलियम्स_N_NNP और_CC_CCD रोमानिया_N_NNP की_PSP सिमोना_N_NNP हालेप_N_NNP ने_PSP अपने-अपने_N_NN क्वार्टर_N_NN फाइनल_N_NN मुकाबले_N_NN जीतकर_V_VM विम्बल्डन_N_NNP के_PSP सेमीफाइनल_N_NN में_PSP जगह_N_NN बनाई_V_VM ।</s>
+<s>भारत_N_NN में_PSP जन्मीं_N_NN डॉक्टर_N_NN भाषा_N_NN मुखर्जी_N_NN बनीं_V_VM मिस_N_NN इंग्लैंड,_N_NN पदक_N_NN जीतने_V_VM के_PSP बाद_N_NST ये_DM_DMD करना_V_VM था_V_VAUX काम_N_NN | </s>
+<s>भारतवंशी_N_NN डॉक्टर_N_NN भाषा_N_NN मुखर्जी_N_NNP ने_PSP दर्जनों_QT_QTF प्रतिभागियों_N_NN को_PSP पीछे_N_NST छोड़ते_V_VM हुए_V_VAUX मिस_N_NNP इंग्लैंड_N_NNP का_PSP ताज_N_NN अपने_PR_PRF नाम_N_NN कर_V_VM लिया।_V_VAUX </s>
+<s>डर्बी_N_NN की_PSP रहने_V_VM वाली_PSP 23_QT_QTC वर्षीय_N_NN भाषा_N_NN के_PSP पास_N_NST स्नातक_N_NN की_PSP दो_QT_QTC डिग्री_N_NN हैं_N_NN ।</s>
+<s>राज्य_N_NN के_PSP एकमात्र_N_NN चंदोला_N_NNP होम्योपैथिक_N_NNP मेडिकल_N_NN कॉलेज_N_NN में_PSP प्रवेश_N_NN का_PSP रास्ता_N_NN साफ_JJ हो_V_VM गया_V_VAUX है।_V_VAUX </s>
+<s>हाई_N_NNP कोर्ट_N_NNP ने_PSP इस_DM_DMD मामले_N_NN में_PSP केंद्रीय_N_NN आयुष_N_NN विभाग_N_NN के_PSP आदेश_N_NN पर_PSP रोक_N_NN लगा_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>सुप्रीम_N_NN कोर्ट_N_NN छह_QT_QTC अगस्त_N_NN से_PSP करेगा_V_VM रोजाना_N_NN सुनवाई,_JJ मध्यस्थता_N_NN फेल_N_NN | </s>
+<s>रॉबर्ट_N_NNP एफ_N_NNP केनेडी_N_NNP अमेरिका_N_NNP के_PSP पूर्व_N_NST राष्ट्रपति_N_NN जॉन_N_NNP एफ_N_NNP केनेडी_N_NNP के_PSP भाई_N_NN हैं।_RD_PUNC बताया_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX कि_CC_CCS उनकी_PR_PRP पोती_N_NN की_PSP दवाओं_N_NN के_PSP ओवरडोज_N_NN से_PSP हुई_V_VM है_V_VAUX ।</s>
+<s>विराट_N_NNP कोहली_N_NNP को_PSP टी20_N_NN सीरीज_N_NN में_PSP इन_DM_DMD दो_QT_QTC गेंदबाजों_N_NN की_PSP खलेगी_JJ कमी,_N_NN कमजोर_JJ है_V_VAUX टीम_N_NN की_PSP गेंदबाजी_N_NN आक्रमण_N_NN | </s>
+<s>विराट_N_NNP कोहली_N_NNP की_PSP टीम_N_NN टी20_N_NN मुकाबलों_N_NN में_PSP वेस्टइंडीज_N_NN को_PSP कमजोर_JJ समझने_V_VM की_PSP गलती_N_NN ना_RP_NEG करे_V_VM ।</s>
+<s>विराट_N_NNP व_CC_CCD सचिन_N_NN को_PSP पीछे_N_NST छोड़ा_V_VM स्टीव_N_NN स्मिथ_N_NNP ने,_N_NN लगा_V_VM दी_V_VAUX रिकॉर्ड्स_N_NN की_PSP झड़ी_N_NN | </s>
+<s>विराट_N_NNP कोहली_N_NNP और_CC_CCD सचिन_N_NN को_PSP पीछे_N_NST छोड़कर_N_NN स्टीम_N_NN स्मिथ_N_NNP ने_PSP टेस्ट_N_NN में_PSP ये_DM_DMD खास_JJ मुकाम_N_NN हासिल_N_NN किया_N_NN ।</s>
+<s>हर_N_NN रियलिटी_N_NN शोज़_N_NN में_PSP एक_QT_QTC होस्ट_N_NNP जरूर_N_NN होता_V_VM है_V_VAUX जो|P खूबसूरत_JJ जजों_N_NN से_PSP फ्लर्ट_N_NN करने_V_VM से_PSP बाज_N_NN नही_RP_NEG आता_V_VM है_V_VAUX ।</s>
+<s>बच्चन_N_NN पांडे_N_NN और_CC_CCD लाल_N_NNP सिंह_N_NNP चड्ढा_N_NNP के_PSP क्लैश_N_NN पर_PSP अक्षय_N_NNP कुमार_N_NNP का_PSP जवाब,_N_NN ये_DM_DMD तो_RP_RPD खुशी_N_NN की_PSP बात_N_NN है_N_NN | </s>
+<s>अगर_N_NNP आप_PR_PRP अपनी_PR_PRF बहन_N_NN को_PSP गिफ्ट_N_NN में_PSP कपड़े_N_NN देना_V_VM चाहते_V_VAUX हैं_V_VAUX तो_CC_CCS हम_PR_PRP आपको_PR_PRP कुछ_QT_QTF आकर्षक_JJ कुर्तों_N_NN की_PSP जानकारी_N_NN दे_V_VM रहे_V_VAUX हैं_V_VAUX जो|P आपको_PR_PRP 500_QT_QTC रुपये_N_NN से_PSP कम_QT_QTF कीमत_N_NN में_PSP मिल_V_VM सकते_V_VAUX हैं_N_NN | </s>
+<s>वॉशिंग_N_NN मशीन्स_N_NN के_PSP कई_QT_QTF शानदार_JJ ऑप्शन्स_N_NN उपलब्ध_V_VM हैं_V_VAUX ।</s>
+<s>अमेजन_N_NN कई_QT_QTF शानदार_JJ डील्स_N_NN भी_RP_RPD उपलब्ध_N_NN करा_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>जिन्हें_N_NN देखकर_V_VM आपका_PR_PRP मन_N_NN उन्हें_PR_PRP खरीदने_V_VM का_PSP हो_V_VM जाएगा_V_VAUX | </s>
+<s>मिशन_N_NN टोक्यो_N_NN के_PSP लिए_PSP भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN देगी_N_NN ये_DM_DMD 'कुर्बानी'_N_NN | </s>
+<s>ओलंपिक_N_NN 2020_QT_QTC मिशन_N_NN टोक्यो_N_NN के_PSP लिए_PSP भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN का_PSP जायका_N_NN बदल_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>अपनी_N_NN नर्सरी_N_NN में_PSP हॉकी_N_NN खिलाडि़यों_N_NN को_PSP तराश_V_VM रहे_V_VAUX पूर्व_N_NST ओलंपियन_N_NNP सैयद_N_NNP अली_N_NN | </s>P
+<s>सैयद_N_NNP अली_N_NNP की_PSP नर्सरी_N_NN से_PSP कई_QT_QTF खिलाड़ी_N_NN देश_N_NN के_PSP लिए_PSP खेल_N_NN भी_RP_RPD चुके_N_NN हैं_N_NN ।</s>
+<s>33_QT_QTC साल_N_NN से_PSP अनवरत_N_NN जारी_N_NN उनका_PR_PRP प्रयास_N_NN देश_N_NN की_PSP निस्वार्थ_N_NN सेवा_N_NN का_PSP अप्रतिम_JJ उदाहरण_N_NN है_N_NN ।</s>
+<s>खेल_N_NNP मंत्री_N_NN ने_PSP महिला_N_NN हॉकी_N_NN टीम_N_NN को_PSP दिया_N_NN मदद_N_NN का_PSP आश्वासन_N_NN | </s>
+<s>किरण_N_NN रिजिजू_N_NN ने_PSP भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN से_PSP मुलाकात_N_NN की_PSP और_CC_CCD उन्हें_PR_PRP ओलंपिक_N_NN क्वालीफायर_N_NN के_PSP लिए_PSP हर_QT_QTF संभव_N_NN का_PSP आश्वासन_N_NN दिया_V_VM है।/</s>
+<s>भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN बनी_V_VM चैंपियन,_V_VAUX जापान_N_NNP को_PSP दी_V_VM करारी_V_VAUX शिकस्त_N_NN | </s>
+<s>भारत_N_NNP ने_PSP जापान_N_NNP को_PSP हराकर_V_VM एफआइएच_V_VAUX सीरीज_N_NN फाइनल्स_N_NN का_PSP खिताब_N_NN जीत_N_NN लिया_V_VM है।_V_VAUX इस_DM_DMD मुकाबले_N_NN में_PSP गुरजीत_N_NNP ने_PSP दो_QT_QTC गोल_N_NN दागे_N_NN ।</s>
+<s>एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स:_N_NNP जापान_N_NNP को_PSP हरा_JJ फाइनल_N_NN में_PSP पहुंचा_N_NN भारत_N_NN | </s>
+<s>भारतीय_JJ हॉकी_N_NN टीम_N_NN ने_PSP एशियन_N_NNP गेम्स_N_NNP के_PSP चैंपियन_N_NNP जापान_N_NNP को_PSP 7-2_QT_QTC से_PSP हराकर_N_NN को_PSP एफआइएच_N_NN सीरीज_N_NN फाइनल्स_N_NN के_PSP फाइनल_N_NN में_PSP जगह_N_NN बनाई_V_VM ।</s>
+<s>एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स_N_NN के_PSP सेमीफाइनल_N_NN भारत_N_NNP के_PSP सामने_N_NST जापान_N_NNP की_PSP कड़ी_JJ चुनौती_N_NN | </s>
+<s>जापान_N_NN जैसी_JJ टीम_N_NN एफआइएच_N_NN सीरीज_N_NN फाइनल्स_N_NN हॉकी_N_NN टूर्नामेंट_N_NN में_PSP शुक्रवार_N_NN को_PSP यहां_N_NNP भारत_N_NNP को_PSP कड़ी_JJ चुनौती_N_NN देगी_V_VM | </s>
+<s>एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स_N_NN हॉकी_N_NN टूर्नामेंट:_N_NN भारतीय_N_NN हॉकी_N_NN टीम_N_NN ने_PSP रूस_N_NNP को_PSP 10-0_QT_QTC से_PSP रौंदा_N_NN | </s>
+<s>भारत_N_NNP ने_PSP एफआइएच_N_NNP सीरीज_N_NNP फाइनल्स_N_NN हॉकी_N_NN टूर्नामेंट_N_NN के_PSP अपने_PR_PRF शुरुआती_JJ मैच_N_NN में_PSP कमजोर_JJ रूस_N_NNP को_PSP 10-0_QT_QTC से_PSP हरा_JJ दिया_N_NN ।</s>
+<s>भारतीय_JJ हॉकी_N_NN टीम_N_NN में_PSP गुरजीत_N_NNP कौर_N_NNP व_CC_CCD निशा_N_NN वारसी_N_NN का_PSP चयन_N_NN | </s>
+<s>गुरजीत_N_NN पहले_N_NST भी_RP_RPD अंतरराष्ट्रीय_N_NN प्रतियोगिताओं_N_NN में_PSP भारतीय_JJ टीम_N_NN का_PSP हिस्सा_N_NN रही_V_VM हैं_V_VAUX जबकि_CC_CCS निशा_N_NN पहली_QT_QTO बार_N_NN भारतीय_N_NNP टीम_N_NN का_PSP हिस्सा_N_NN बनीं_V_VM हैं_V_VAUX ।</s>
+<s>स्ट्राइकर_N_NN रमनदीप_N_NN की_PSP वापसी,_N_NN एफआईएच_N_NN सीरीज_N_NN में_PSP दिखेगा_V_VM जलवा_N_NN | </s>
+<s>हॉकी_N_NNP इंडिया_N_NNP ने_PSP 18_QT_QTC सदस्यीय_N_NN टीम_N_NN का_PSP ऐलान_N_NN कर_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN ने_PSP कोरिया_N_NNP को_PSP 2-1_QT_QTC से_PSP हराकर_V_VM जीती_RB सीरीज_N_NN | </s>
+<s>तीन_N_NN मैचों_N_NN की_PSP सीरीज_N_NN में_PSP भारतीय_JJ महिला_N_NN हॉकी_N_NN टीम_N_NN ने_PSP 2-0_QT_QTC की_PSP अपराजेय_N_NN बढ़त_N_NN हासिल_N_NN कर_V_VM ली_V_VAUX है_V_VAUX ।</s>
+<s>हार_N_NN के_PSP साथ_PSP खत्म_V_VM हुआ_V_VAUX भारत_N_NNP का_PSP ऑस्ट्रेलिया_N_NNP दौरा,_N_NN आखिरी_JJ मैच_N_NN में_PSP मेजबान_N_NNP टीम_N_NN ने_PSP 5-2_QT_QTC से_PSP हराया_N_NN | </s>
+<s>भारत_N_NN के_PSP लिए_PSP नीलकांत_N_NNP शर्मा_N_NNP और_CC_CCD रुपिंदरपाल_N_NNP सिंह_N_NNP ने_PSP गोल_N_NN दागे_N_NN ।</s>
+<s>ऑस्ट्रेलिया_N_NNP से_PSP हारी_N_NNP भारतीय_N_NNP हॉकी_N_NN टीम,_N_NN 0-4_N_NN से_PSP मिली_V_VM हार_V_VAUX | </s>
+<s>भारत_N_NN की_PSP पुरुष_N_NN हॉकी_N_NN टीम_N_NN को_PSP आस्ट्रेलिया_N_NNP के_PSP खिलाफ_N_NN 0-4_QT_QTC से_PSP करारी_N_NN शिकस्त_N_NN झेलनी_N_NN पड़ी_N_NN ।</s>
+<s>खेल_N_NNP रत्न_N_NN के_PSP लिए_PSP श्रीजेश_N_NNP के_PSP नाम_N_NN की_PSP सिफारिश,_N_NN हॉकी_N_NNP इंडिया_N_NNP ने_PSP भारतीय_N_NNP गोलकीपर_N_NN के_PSP नाम_N_NN पर_PSP लगाई_V_VM मुहर_N_NN | </s>
+<s>हॉकी_N_NNP इंडिया_N_NNP ने_PSP भारत_N_NNP के_PSP शीर्ष_N_NN गोलकीपर_N_NN पीआर_N_NNP श्रीजेश_N_NNP की_PSP प्रतिष्ठित_N_NN राजीव_N_NNP गांधी_N_NNP खेल_N_NN रत्न_N_NN पुरस्कार_N_NN के_PSP लिए_PSP सिफारिश_N_NN की_PSP है_N_NN ।</s>
+<s>नेमार_N_NN पर_PSP लगे_V_VM दुष्कर्म_N_NN के_PSP आरोपों_N_NN की_PSP जांच_N_NN सबूतों_N_NN के_PSP अभाव_N_NN में_PSP बंद_N_NN | </s>
+<s>एटलेटिको_N_NNP ने_PSP रीयल_N_NN मैड्रिड_N_NN को_PSP रौंदा,_N_NNP कोस्टा_N_NNP के_PSP चार_QT_QTC गोल_N_NN की_PSP मदद_N_NN से_PSP 7-3_QT_QTC से_PSP जीता_V_VM मुकाबला_N_NN | </s>
+<s>एटलेटिको_N_NNP मैड्रिड_N_NNP ने_PSP अपने_PR_PRF चिर_N_NN प्रतिद्वंद्वी_N_NN रीयल_N_NN मैड्रिड_N_NN को_PSP मेटलाइफ_N_NN स्टेडियम_N_NN में_PSP खेले_V_VM गए_V_VAUX एक_QT_QTC दोस्ताना_N_NN मुकाबले_N_NN में_PSP 7-3_QT_QTC से_PSP करारी_N_NN शिकस्त_N_NN दी_N_NN ।</s>
+<s>आर्सेनल_N_NN पर_PSP रीयल_N_NN की_PSP जीत_N_NN में_PSP बेल_N_NN ने_PSP दागा_N_NN गोल,_N_NN पेनाल्टी_N_NN शूटआउट_N_NN में_PSP 3-2_QT_QTC से_PSP जीता_JJ रीयल_N_NN मैड्रिड_N_NN | </s>
+<s>रीयल_N_NN मैड्रिड_N_NN में_PSP अपने_PR_PRF भविष्य_N_NN को_PSP लेकर_V_VM अधर_N_NN में_PSP लटके_V_VM गेरेथ_N_NNP बेल_N_NN ने_PSP आर्सेनल_N_NNP के_PSP ऊपर_N_NST अपनी_PR_PRF टीम_N_NN को_PSP जीत_N_NN दिलाने_N_NN में_PSP अहम_JJ भूमिका_N_NN निभाई_V_VM ।</s>
+<s>मैनचेस्टर_N_NNP युनाइटेड_N_NNP और_CC_CCD इंग्लैंड_N_NNP के_PSP लिए_PSP खेलना_V_VM सपना_N_NN सच_N_NN होने_V_VM जैसा_PSP :_RD_PUNC मार्कस_N_NNP रशफोर्ड_N_NN | </s>P
+<s>इस_N_NN आक्रामक_JJ खिलाड़ी_N_NN ने_PSP अभी_N_NST से_PSP ही_RP_RPD स्टार_N_NN बनने_V_VM के_PSP संकेत_N_NN दे_V_VM दिए_V_VAUX हैं_V_VAUX ।</s>
+<s>29_QT_QTC साल_N_NN बाद_N_NST अल्जीरिया_N_NNP ने_PSP जीता_V_VM अफ्रीका_N_NNP कप_N_NNP ऑफ_N_NNP नेशंस_N_NNP का_PSP खिताब_N_NN | </s>
+<s>1990_N_NN के_PSP बाद_N_NST यह_DM_DMD उसका_PR_PRP पहला_QT_QTO खिताब_N_NN है_V_VM और_CC_CCD इस_DM_DMD ट्रॉफी_N_NN को_PSP जीतने_V_VM के_PSP लिए_PSP टीम_N_NN को_PSP 29_QT_QTC साल_N_NN तक_PSP इंतजार_N_NN करना_V_VM पड़ा_N_NN ।</s>
+<s>एवर्टन_N_NNP से_PSP जुड़े_JJ मैनचेस्टर_N_NNP सिटी_N_NNP के_PSP मिडफील्डर_N_NN फैबियन_N_NN डेल्फ_N_NN | </s>
+<s>एवर्टन_N_NNP ने_PSP बताया_V_VM कि_CC_CCS उसने_PR_PRP डेल्फ_N_NN के_PSP साथ_PSP तीन_QT_QTC साल_N_NN का_PSP करार_N_NN किया_N_NN ।</s>
+<s>कोसिल्नी_N_NNP के_PSP विद्रोह_N_NN ने_PSP आर्सेनल_N_NNP की_PSP मुश्किलें_N_NN बढ़ाई,_V_VM क्लब_N_NN के_PSP प्री_N_NN सीजन_N_NN में_PSP भाग_N_NN लेने_V_VM से_PSP किया_V_VM इन्कार_V_VAUX | </s>
+<s>लॉरेंट_N_NN कोसिल्नी_N_NN द्वारा_PSP करार_N_NN संबंधी_N_NN विवादों_N_NN के_PSP चलते_V_VM क्लब_N_NN के_PSP प्री_N_NN सीजन_N_NN के_PSP बहिष्कार_N_NN करने_V_VM के_PSP फैसले_N_NN ने_PSP इस_DM_DMD इंग्लिश_N_NNP फुटबॉल_N_NN क्लब_N_NN के_PSP सामने_N_NST नई_JJ मुश्किलें_N_NN खड़ी_V_VM कर_V_VAUX दी_V_VAUX हैं_V_VAUX ।</s>
+<s>छठी_N_NN बार_N_NN एआइएफएफ_N_NNP के_PSP साल_N_NN के_PSP सर्वश्रेष्ठ_JJ खिलाड़ी_N_NN चुने_V_VM गए_V_VAUX सुनील_N_NN छेत्री_N_NN | </s>
+<s>सुनील_N_NN छेत्री_N_NN को_PSP रिकॉर्ड_N_NN छठी_QT_QTC बार_N_NN वर्ष_N_NN का_PSP एआइएफएफ_N_NNP का_PSP सर्वश्रेष्ठ_JJ भारतीय_JJ फुटबॉलर_N_NN चुना_V_VM गया_V_VAUX ।</s>
+<s>35_QT_QTC वर्षीय_N_NN रॉबेन_N_NN ने_PSP अपने_PR_PRF क्लब_N_NN और_CC_CCD देश_N_NN के_PSP लिए_PSP 500_QT_QTC से_PSP भी_RP_RPD ज्यादा_QT_QTF मैच_N_NN खेले_N_NN ।</s>
+<s>फिर_N_NN टूटा_V_VM मेसी_N_NN के_PSP खिताब_N_NN जीतने_N_NN का_PSP सपना,_N_NN कोपा_N_NNP अमेरिका_N_NNP के_PSP सेमीफाइनल_N_NN में_PSP ब्राजील_N_NNP ने_PSP अर्जेंटीना_N_NNP को_PSP 2-0_QT_QTC से_PSP हराया_N_NN | </s>
+<s>ब्राजील_N_NNP ने_PSP अपने_PR_PRF चिर_N_NN प्रतिद्वंद्वी_N_NN अर्जेटीना_N_NNP को_PSP 2-0_QT_QTC से_PSP हराकर_V_VM कोपा_N_NNP अमेरिका_N_NNP के_PSP फाइनल_N_NN में_PSP जगह_N_NN बनाई_V_VM | </s>
+<s>कोपा_N_NNP अमेरिका_N_NNP के_PSP सेमीफाइनल_N_NN में_PSP पहुंचा_N_NN पेरू,_N_NN क्वार्टर_N_NN फाइनल_N_NN में_PSP पेनाल्टी_JJ शूटआउट_N_NN में_PSP उरुग्वे_N_NN को_PSP 5-4_QT_QTC से_PSP हराया_N_NN | </s>
+<s>पेरू_N_NNP ने_PSP उरुग्वे_N_NN को_PSP पेनाल्टी_JJ शूटआउट_N_NN में_PSP 5-4_QT_QTC से_PSP हराकर_V_VM कोपा_N_NNP अमेरिका_N_NNP के_PSP सेमीफाइनल_N_NN में_PSP जगह_N_NN बनाई_V_VM जहां|P उसका_PR_PRP सामना_N_NN गत_N_NN चैंपियन_N_NNP चिली_N_NNP से_PSP होगा_N_NN ।</s>
+<s>सुपर_N_NN 130_QT_QTC करोड़_QT_QTC के_PSP बाद_N_NST ऐसी_DM_DMD है_V_VM रफ्तार,_N_NN इस_DM_DMD वीकेंड_N_NN से_PSP उम्मीदें_V_VM | </s>
+<s>केरल_N_NNP के_PSP निलंबित_N_NN डीजीपी_N_NNP जैकब_N_NNP थॉमस_N_NNP ने_PSP जय_N_NNP श्रीराम_N_NNP के_PSP नारे_N_NN को_PSP लेकर_V_VM कहा_V_VM है_V_VAUX कि_CC_CCS देश_N_NN में_PSP इस|P नारे_N_NN को_PSP और_CC_CCD ज्यादा_QT_QTF बढञाने_V_VM की_PSP जरूरत_N_NN है_N_NN ।</s>
+<s>आतंकवाद_N_NN पर_PSP शिकंजा_N_NN कसते_V_VM हुए_V_VAUX गृह_N_NN मंत्री_N_NN ने_PSP यूएपीए_N_NNP संशोधन_N_NNP विधेयक_N_NNP का_PSP पुरजोर_N_NN समर्थन_N_NN किया_N_NN। </s>
+<s>उन्होंने_N_NN कहा_V_VM आतंकवाद_N_NN के_PSP खिलाफ_N_NN कड़े_JJ कानून_N_NN का_PSP समर्थन_N_NN होना_V_VM चाहिए_V_VAUX ।</s>
+<s>केरल_N_NNP के_PSP निलंबित_N_NN डीजीपी_N_NN 'जय_N_NN श्रीराम'_N_NN का_PSP नारा_N_NN लगाकर_V_VM बोले-_V_VAUX इसे_DM_DMD और_CC_CCD बढ़ाने_V_VM की_PSP जरूरत_N_NN | </s>
+<s>सऊदी_N_NNP अरब_N_NNP में_PSP पिता_N_NN और_CC_CCD पति_N_NN से_PSP छिन_V_VM गया_V_VAUX ये_DM_DMD हक,_N_NN जाने-_N_NN किस_PR_PRQ मामले_N_NN में_PSP स्वतंत्र_N_NN हुईं_V_VM महिलाएं_N_NN | </s>
+<s>इन_N_NNP नियम_N_NN के_PSP मुताबिक_N_NN अब_N_NST 21_QT_QTC साल_N_NN से_PSP अधिक_QT_QTF उम्र_N_NN की_PSP महिलाओं_N_NN को_PSP पासपोर्ट_N_NN हासिल_V_VM करने_V_VAUX और_CC_CCD अभिभावक_N_NN की_PSP सहमति_N_NN हासिल_N_NN किए_V_VM बिना_PSP देश_N_NN छोड़ने_V_VM की_PSP इजाजत_N_NN होगी_N_NN | </s>
+<s>मौसम_N_NN का_PSP हाल_N_NN बताने_V_VM वाली_PSP निजी_JJ एजेंसी_N_NN स्काई_N_NN मेट_N_NN वेदर_N_NNP ने_PSP शुक्रवार_N_NNP को_PSP मुंबई_N_NNP और_CC_CCD राजस्थान_N_NNP में_PSP भारी_JJ बारिश_N_NN का_PSP पूर्वानुमान_N_NN जारी_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>कुलभूषण_N_NN जाधव_N_NN के_PSP कांसुलर_N_NN एक्सेस_N_NN पर_PSP भारत_N_NNP ने_PSP नहीं_RP_NEG मानी_V_VM पाकिस्तान_N_NN की_PSP शर्त,_N_NN रखी_V_VM ये_DM_DMD मांग_N_NN | </s>
+<s>पाक_N_NN की_PSP जेल_N_NN में_PSP बंद_N_NN भारतीय_JJ नागरिक_N_NN कुलभूषण_N_NN जाधव_N_NN के_PSP कांसुलर_N_NN एक्सेस_N_NN पर_PSP पाकिस्तान_N_NNP की_PSP शर्त_N_NN को_PSP भारत_N_NNP ने_PSP ठुकराने_V_VM हुए_V_VAUX अपनी_PR_PRF मांग_N_NN रखी_V_VM है_V_VAUX ।</s>
+<s>330_N_NNP दिनों_N_NN में_PSP होगा_V_VM दिवालिया_N_NNP प्रक्रिया_N_NN का_PSP निपटान,_N_NN दोनों_QT_QTC सदनों_N_NN में_PSP पारित_V_VM हुआ_V_VAUX विधेयक_N_NN | </s>
+<s>बता_V_VM दें_V_VAUX कि_CC_CCS नए_JJ कानून_N_NN के_PSP तहत_N_NN दिवालिया_N_NN हो_V_VM चुकी_V_VAUX कंपनियों_N_NN का_PSP मामला_N_NN 330_QT_QTC दिनों_N_NN में_PSP निपटाना_N_NN होगा।_N_NN अभी_N_NST इसके_PR_PRP लिए_PSP 270_QT_QTC दिन_N_NN का_PSP वक्त_N_NN मिलता_V_VM है_V_VAUX ।</s>
+<s>बॉलीवुड_N_NN एक्ट्रेस_N_NN दिया_N_NN मिर्जा_N_NNP ने_PSP गुरुवार_N_NNP को_PSP अपनी_PR_PRF जिंदगी_N_NN से_PSP जुड़ा_N_NN एक_QT_QTC ऐलान_N_NN कर_N_NN के_PSP खलबली_N_NN मचा_V_VM दी_V_VAUX है_V_VAUX ।</s>
+<s>त्रिपुरा_N_NNP पंचायत_N_NN चुनावों_N_NN में_PSP भाजपा_N_NNP की_PSP प्रचंड_N_NN जीत,_N_NN पीएम_N_NNP मोदी_N_NNP ने_PSP विकास_N_NN की_PSP राजनीति_N_NN को_PSP दिया_V_VM श्रेय_V_VAUX | </s>
+<s>प्रधानमंत्री_N_NN नरेंद्र_N_NNP मोदी_N_NNP ने_PSP त्रिपुरा_N_NNP पंचायत_N_NN चुनाव_N_NN में_PSP भाजपा_N_NNP की_PSP प्रचंड_N_NN जीत_N_NN के_PSP लिए_PSP पार्टी_N_NN की_PSP स्थानीय_JJ इकाई_N_NN के_PSP प्रयासों_N_NN की_PSP सराहना_N_NN की_N_NN ।</s>
+<s>शाहरुख_N_NNP खान_N_NNP इन_DM_DMD दिनों_N_NN अपने_PR_PRF परिवार_N_NN के_PSP साथ_PSP मालदीव_N_NNP वेकेशन_N_NNP पर_PSP गए_V_VM हुए_V_VAUX हैं_V_VAUX जहां|P से_PSP उनकी_PR_PRP लगातार_N_NN मस्तीभरी_N_NN फोटोज_N_NN और_CC_CCD वीडियोज़_N_NN सामनें_N_NN आ_V_VM रही_V_VAUX हैं_V_VAUX ।</s>
+<s>रोहित_N_NNP शर्मा_N_NNP बन_V_VM सकते_V_VAUX हैं_V_VAUX टी20_N_NN क्रिकेट_N_NN के_PSP सिक्सर_N_NNP किंग,_N_NNP वेस्टइंडीज_N_NNP के_PSP खिलाफ_N_NN लगाने_V_VM हैं_V_VAUX बस_N_NN इतने_N_NN छक्के_N_NN | </s>
+<s>रोहित_N_NNP शर्मा_N_NNP वेस्टइंडीज_N_NNP के_PSP खिलाफ_N_NN तीन_QT_QTC मैचों_N_NN की_PSP टी_N_NN 20_QT_QTC सीरीज_N_NN के_PSP दौरान_N_NN एक_QT_QTC नया_JJ कीर्तिमान_N_NN अपने_PR_PRF नाम_N_NN कर_V_VM सकते_V_VAUX हैं_V_VAUX ।</s>
+<s>राज्य_N_NN के_PSP एकमात्र_N_NN चंदोला_N_NNP होम्योपैथिक_N_NNP मेडिकल_N_NN कॉलेज_N_NN में_PSP प्रवेश_N_NN का_PSP रास्ता_N_NN साफ_JJ हो_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>हाई_N_NNP कोर्ट_N_NNP ने_PSP इस_DM_DMD मामले_N_NN में_PSP केंद्रीय_N_NN आयुष_N_NN विभाग_N_NN के_PSP आदेश_N_NN पर_PSP रोक_N_NN लगा_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>देश_N_NN भर_N_NN में_PSP हड़ताल_N_NN पर_PSP तीन_QT_QTC लाख_N_NN डॉक्टर,_N_NN जानें_N_NN क्यों_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX नए_JJ मेडिकल_N_NN बिल_N_NN का_PSP विरोध_N_NN | </s>
+<s>देशभर_N_NN में_PSP डॉक्टर_N_NN आज_N_NN हड़ताल_N_NN पर_PSP है_N_NN ।</s>
+<s>उनका_N_NN विरोध_N_NN लोकसभा_N_NN में_PSP पास_N_NST हुए_V_VM नए_JJ मेडिकल_N_NN बिल_N_NN के_PSP खिलाफ_N_NN है_N_NN ।</s>
+<s>जानें_N_NN नए_JJ मेडिकल_N_NN बिल_N_NN में_PSP क्या_PR_PRQ बदलाव_N_NN किए_V_VM गए_V_VAUX हैं_V_VAUX ।</s>
+<s>मच्छर_N_NN के_PSP साथ_PSP इन_DM_DMD कीड़ों_N_NN से_PSP भी_RP_RPD बचना_V_VM ज़रूरी,_V_VAUX बारिश_N_NN में_PSP ऐसे_DM_DMD रखें_V_VM घर_N_NN को_PSP सुरक्षित_N_NN | </s>
+<s>ये_N_NN कीड़े_N_NN उन_PR_PRP घरों_N_NN में_PSP खासकर_N_NN पाए_V_VM जाते_V_VAUX हैं_V_VAUX जहां|P रोज़ाना_N_NN ठीक_N_NN से_PSP साफ-सफाई_N_NN नहीं_RP_NEG हो_V_VM पाती_V_VAUX है_V_VAUX ।</s>
+<s>तो_N_NN आइए_V_VM जानते_V_VAUX हैं_V_VAUX कि_CC_CCS सेहत_N_NN के_PSP दुश्मन_N_NN इन_DM_DMD कीड़ों-मकोड़ों_N_NN से_PSP कैसे_DM_DMQ बचा_V_VM जाए_V_VAUX ।</s>
+<s>अगस्त_N_NN में_PSP घूमने_V_VM जाने_V_VAUX वाली_PSP जगहों_N_NN की_PSP कर_V_VM रहे_V_VAUX हैं_V_VAUX तलाश?_N_NN तो_RP_RPD ऐसी_DM_DMD जगह_N_NN का_PSP बनाएं_N_NN प्लान_N_NN जहां|P घूमने_V_VM के_PSP साथ_N_NN ही_RP_RPD यहां_N_NN मनाए_V_VM जाने_V_VAUX वाले_PSP त्यौहारों_N_NN का_PSP भी_RP_RPD उठा_V_VM सकें_V_VAUX लुत्फ_N_NN ।</s>
+<s>पाकिस्तानी_JJ समाचार_N_NN चैनल_N_NN जीटीवी_N_NN के_PSP लिए_PSP काम_N_NN करने_V_VM वाले_PSP आजाद_N_NN हुसैन_N_NNP बाढ़_N_NN को_PSP कवर_N_NN करने_V_VM पहुंचे_V_VAUX थे_N_NN ।</s>
+<s>इस_N_NNP पाकिस्तानी_N_NNP रिपोर्टर_N_NNP ने_PSP चांद_N_NNP नवाब_N_NN को_PSP भी_RP_RPD किया_V_VM फेल,_V_VAUX वीडियो_N_NN हो_V_VM रहा_V_VAUX वायरल_N_NN | </s>
+<s>सिर्फ_N_NNP नाग_N_NNP पंचमी_N_NNP को_PSP खुलता_V_VM है_V_VAUX यह_DM_DMD मंदिर,_N_NN पूजा_N_NN के_PSP समय_N_NN स्वयं_PR_PRF उपस्थित_V_VM रहते_V_VAUX हैं_V_VAUX नागराज_N_NNP तक्षक_N_NN | </s>
+<s>देशभर_N_NN में_PSP नागों_N_NN के_PSP कई_QT_QTF मंदिर_N_NN स्थापित_V_VM हैं_V_VAUX उनमें_PR_PRP से_PSP ही_RP_RPD एक_QT_QTC है_V_VAUX नागचंद्रेश्वर_N_NNP मंदिर_N_NN ।</s>
+<s>यह_N_NNP मंदिर_N_NN सिर्फ_QT_QTF नाग_N_NNP पंचमी_N_NNP को_PSP खुलता_V_VM है_V_VAUX ।</s>
+<s>आयुर्वेद_N_NNP में_PSP चिकनगुनिया_N_NNP के_PSP लक्षणों_N_NN को_PSP लेकर_V_VM कई_QT_QTF ऐसे_DM_DMD नुस्खे_N_NN मौजूद_N_NN हैं_V_VAUX जिसके|P माध्यम_N_NN से_PSP मरीज_N_NN को_PSP होने_V_VM वाले_PSP जॉइंट_N_NN पेन_N_NN को_PSP कम_QT_QTF करने_V_VM में_PSP मदद_N_NN मिलती_V_VM है_V_VAUX ।</s>
+<s>‘बड़े_N_NN अच्छे_JJ लगते_V_VM हैं’_V_VAUX शो_N_NN फेम_N_NNP एक्ट्रेस_N_NN चाहत_N_NN खन्ना_N_NNP ने_PSP बताया_V_VM सिंगल_N_NN मदर_N_NN होने_V_VM का_PSP दुख_N_NN | </s>
+<s>पहली_N_NN शादी_N_NN के_PSP नाकाम_N_NN होने_V_VM के_PSP बाद_N_NST 2013_QT_QTC में_PSP चाहत_N_NN नें_N_NN फरहान_N_NN मिर्जा_N_NNP से_PSP दूसरी_QT_QTO शादी_N_NN की_PSP थी_N_NN ।</s>
+<s>इस_N_NN शादी_N_NN से_PSP चाहत_N_NN को_PSP दो_QT_QTC बेटियां_N_NN जोहरा_N_NNP और_CC_CCD अमायरा_N_NNP हैं_N_NN ।</s>
+<s>केरल_N_NNP के_PSP त्रिशूर_N_NNP जिले_N_NN में_PSP आठ_QT_QTC लोगों_N_NN के_PSP हमले_N_NN में_PSP यूथ_N_NN कांग्रेस_N_NNP के_PSP कार्यकर्ता_N_NN की_PSP मौत_N_NN | </s>
+<s>केरल_N_NNP में_PSP मंगलवार_N_NN रात_N_NN को_PSP यूथ_N_NN कांग्रेस_N_NNP के_PSP एक_QT_QTC कार्यकर्ता_N_NN की_PSP एक_QT_QTC आठ_QT_QTC लोगों_N_NN के_PSP एक_QT_QTC समूह_N_NN ने_PSP हत्या_V_VM कर_V_VAUX दी_N_NN ।</s>
+<s>बिल_N_NN के_PSP तहत_N_NN 3.5_QT_QTC लाख_N_NN नॉन_N_NN मेडिकल_N_NN लोगों_N_NN को_PSP लाइसेंस_N_NN देकर_V_VM दवाइयां_N_NN लिखने_V_VM और_CC_CCD इलाज_N_NN करने_V_VM का_PSP कानूनी_N_NN अधिकार_N_NN दिया_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>रणवीर_N_NNP सिंह_N_NNP अपनी_PR_PRF आगामी_N_NN फिल्म_N_NN के_PSP किरदार_N_NN के_PSP लिए_PSP एक_QT_QTC डाईट_N_NN चार्ट_N_NN फॉलो_N_NN किया_V_VM था_V_VAUX जिसकी|P चुटकी_N_NN लेते_V_VM हुए_V_VAUX उन्होनें_PR_PRP अपनी_PR_PRF शर्टलेस_N_NN फोटो_N_NN के_PSP साथ_PSP मजेदार_N_NN कैप्शन_N_NN डाला_V_VM है_V_VAUX ।</s>
+<s>अगर_N_NNP लागू_N_NN हुआ_V_VM मोदी_N_NNP सरकार_N_NN का_PSP यह_DM_DMD प्रस्ताव,_N_NN तो_RP_RPD वाहन_N_NN खरीदना_V_VM हो_V_VAUX जाएगा_V_VAUX और_CC_CCD महंगा_N_NN | </s>
+<s>श्रीलंकाई_N_NN टीम_N_NN ने_PSP इस_DM_DMD मेहमान_N_NN टीम_N_NN का_PSP किया_V_VM सूपड़ा_JJ साफ,_N_NN 3-0_QT_QTC से_PSP जीती_RB वनडे_N_NN सीरीज_N_NN | </s>
+<s>श्रीलंकाई_N_NN टीम_N_NN ने_PSP इस_DM_DMD मेहमान_N_NN टीम_N_NN को_PSP 3_QT_QTC मैचों_N_NN की_PSP वनडे_N_NN सीरीज_N_NN में_PSP से_PSP एक_QT_QTC भी_RP_RPD मुकाबला_N_NN नहीं_RP_NEG जीतने_V_VM दिया_V_VAUX है_V_VAUX ।</s>
+<s>ट्रिपल_N_NNP तलाक_N_NN पर_PSP बना_V_VM कानून,_V_VAUX तलाक..तलाक..तलाक_N_NN कहने_V_VM पर_PSP जाना_V_VM होगा_V_VAUX जेल;_N_NN भरना_V_VM होगा_V_VAUX जुर्माना_N_NN | </s>
+<s>लोकसभा_N_NN राज्यसभा_N_NN में_PSP तीन_QT_QTC तलाक_N_NN बिल_N_NN पास_N_NST होने_V_VM के_PSP बाद_N_NST राष्ट्रपति_N_NN कोविंद_N_NNP ने_PSP भी_RP_RPD इसे_DM_DMD मंजूरी_N_NN दे_V_VM दी_V_VAUX है_V_VAUX ।</s>
+<s>अब_N_NN यह_DM_DMD कानून_N_NN की_PSP शक्ल_N_NN ले_V_VM चुका_V_VAUX है_V_VAUX ।</s>
+<s>अंतरराष्ट्रीय_JJ बाजार_N_NN में_PSP कीमतें_N_NN नरम_N_NN होने_V_VM से_PSP दाम_N_NN कम_QT_QTF किए_V_VM गए_V_VAUX हैं।_V_VAUX इंडियन_N_NN ऑइल_N_NN कॉर्पोरेशन_N_NN (IOC)_N_NN ने_PSP कहा_V_VM कि_CC_CCS बिना_RP_NEG सब्सिडी_N_NN या_CC_CCD बाजार_N_NN कीमत_N_NN वाले_PSP एलपीजी_N_NN की_PSP कीमत_N_NN 574.50_QT_QTC रुपये_N_NN प्रति_QT_QTF सिलेंडर_N_NN होगी_N_NN ।</s>
+<s>नाग_N_NNP पंचमी_N_NNP को_PSP क्यों_N_NN करते_V_VM हैं_V_VAUX नागों_N_NN की_PSP पूजा?_N_NN नागमाता_N_NN कद्रू_N_NN के_PSP शाप_N_NN से_PSP जुड़ी_N_NN है_V_VAUX कथा_N_NN | </s>
+<s>श्रावण_N_NNP मास_N_NN के_PSP शुक्ल_N_NNP पक्ष_N_NN की_PSP पंचमी_N_NNP तिथि_N_NN को_PSP नागों_N_NN की_PSP पूजा_N_NN के_PSP संदर्भ_N_NN में_PSP एक_QT_QTC कथा_N_NN हैं_V_VM जिसमें|P नागों_N_NN की_PSP पूजा_N_NN के_PSP कारण_N_NN का_PSP उल्लेख_N_NN मिलता_V_VM है_V_VAUX ।</s>
+<s>उम्मीदवार_N_NN आवेदन_N_NN संख्या_N_NN और_CC_CCD पासवर्ड_N_NN का_PSP उपयोग_N_NN करके_V_VM अपने_PR_PRF स्कोर_N_NN की_PSP रिपोर्ट_N_NN लॉग-इन_N_NN करके_V_VM चेक_N_NN कर_V_VM सकते_V_VAUX हैं_V_VAUX ।</s>
+<s>बाघों_N_NN की_PSP गिनती_N_NN के_PSP लिए_PSP डेढ़_QT_QTC वर्ष_N_NN में_PSP खींची_V_VM गईं_V_VAUX साढ़े_QT_QTC तीन_QT_QTC करोड़_N_NN तस्वीरें_N_NN | </s>
+<s>हाथ_N_NNP या_CC_CCD पैर_N_NN का_PSP सुन्न_JJ पड़_V_VM जाना_V_VAUX अमूमन_N_NN आम_JJ समस्या_N_NN है_V_VAUX जो|P अक्सर_N_NN स्वस्थ_JJ लोगों_N_NN को_PSP भी_RP_RPD हो_V_VM जाता_V_VAUX है_V_VAUX ।</s>
+<s>हालांकि_N_NN ये_DM_DMD कुछ_QT_QTF गंभीर_JJ और_CC_CCD जानलेवा_N_NN बीमारियों_N_NN का_PSP भी_RP_RPD संकेत_N_NN है_N_NN ।</s>
+<s>भारत_N_NN में_PSP इस_DM_DMD वजह_N_NN से_PSP वर्ष_N_NN के_PSP अंत_N_NN में_PSP बढ़_V_VM जाता_V_VAUX है_V_VAUX वायु_N_NN प्रदूषण,_N_NN नासा_N_NN की_PSP रिपोर्ट_N_NN से_PSP हुआ_V_VM खुलासा_N_NN | </s>
+<s>भाई-बहन_N_NN का_PSP त्योहार_N_NN रक्षाबंधन_N_NNP भगवान_N_NNP श्रीकृष्ण_N_NNP की_PSP जन्माष्टमी_N_NN और_CC_CCD ईद-उल-जुहा_N_NNP यानी_N_NN बकरीद_N_NN भी_RP_RPD अगस्त_N_NNP माह_N_NN में_PSP आने_V_VM वाले_V_VAUX हैं_V_VAUX ।</s>
+<s>जम्मू_N_NNP कश्मीर:_N_NNP शोपियां_N_NNP मुठभेड़_N_NNP में_PSP एक_QT_QTC आतंकी_N_NN मारा_V_VM गया,_V_VAUX सेना_N_NN का_PSP एक_QT_QTC जवान_N_NN शहीद,_N_NN एक_QT_QTC अन्य_JJ घायल;_N_NN ऑपरेशन_N_NN जारी_N_NN | </s>
+<s>जम्मू_N_NNP कश्मीर_N_NNP के_PSP शोपियां_N_NN में_PSP सुरक्षाबलों_N_NN और_CC_CCD आतंकियों_N_NN के_PSP बीच_N_NST जारी_N_NN मुठभेड़_N_NN में_PSP सेना_N_NN का_PSP एक_QT_QTC जवान_N_NN शहीद_N_NN हो_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>ऑपरेशन_N_NN फिलहाल_N_NN जारी_V_VM है_V_VAUX ।</s>
+<s>क्रेडिट_N_NN कार्ड_N_NN का_PSP इस्तेमाल_N_NN आज_N_NN के_PSP समय_N_NN में_PSP आम_JJ बात_N_NN हो_V_VM गई_V_VAUX है_N_NN ।</s>
+<s>जानिए_N_NN उन_PR_PRP तीन_QT_QTC गलतियों_N_NN के_PSP बारे_N_NN में_PSP जो|P किसी_DM_DMI भी_RP_RPD क्रेडिट_N_NN कार्ड_N_NN धारक_N_NN को_PSP नहीं_RP_NEG करनी_V_VM चाहिए_V_VAUX ।</s>
+<s>धोनी_N_NN को_PSP वर्ल्ड_N_NN कप_N_NN सेमीफाइनल_N_NN में_PSP 7वें_QT_QTC नंबर_N_NN पर_PSP भेजने_V_VM का_PSP फैसला_N_NN किसका_PR_PRQ था,_V_VAUX कोच_N_NN संजय_N_NNP बांगड़_N_NNP ने_PSP किया_V_VM खुलासा_V_VAUX | </s>
+<s>धोनी_N_NN को_PSP सेमीफाइनल_N_NN में_PSP नंबर_N_NN सात_QT_QTC पर_PSP बल्लेबाजी_N_NN के_PSP लिए_PSP भेजने_V_VM के_PSP फैसले_N_NN पर_PSP संजय_N_NNP बांगड़_N_NNP ने_PSP अपनी_PR_PRF सफाई_N_NN दी_V_VM है_V_VAUX ।</s>
+<s>मोदी_N_NNP सरकार_N_NN ने_PSP 28_QT_QTC हजार_N_NN अतिरिक्त_N_NN जवान_N_NN कश्मीर_N_NNP भेजे,_N_NNP हाई_N_NN ऑपरेशनल_N_NN अलर्ट_N_NN पर_PSP आर्मी-एयरफोर्स_N_NN | </s>
+<s>10_QT_QTC हजार_N_NN अतिरिक्त_N_NN सुरक्षाबलों_N_NN की_PSP तैनाती_N_NN के_PSP फैसले_N_NN के_PSP हफ्ते_N_NN के_PSP भीतर_N_NST मोदी_N_NNP सरकार_N_NN कश्मीर_N_NNP घाटी_N_NNP में_PSP 28_QT_QTC हजार_N_NN और_CC_CCD जवानों_N_NN को_PSP भेज_V_VM रही_V_VAUX है_V_VAUX ।</s>
+<s>पाकिस्तानी_N_NNP आर्मी_N_NNP कश्मीर_N_NNP में_PSP आतंकवाद_N_NN में_PSP शामिल,_N_NN इसे_DM_DMD बर्दाश्त_N_NN नहीं_RP_NEG किया_V_VM जाएगा,_V_VAUX सेना_N_NN का_PSP करारा_N_NN जवाब_N_NN | </s>
+<s>नियंत्रण_N_NN रेखा(एलओसी)_N_NN पर_PSP तनाव_N_NN के_PSP बीच_N_NST भारतीय_N_NNP सेना_N_NN ने_PSP पाकिस्तानी_N_NNP आर्मी_N_NNP के_PSP कश्मीर_N_NNP में_PSP आतंकवाद_N_NN में_PSP शामिल_N_NN होने_V_VM की_PSP बात_N_NN कही_V_VM है_V_VAUX ।</s>
+<s>त्रिशाला_N_NN न्यूयॉर्क_N_NNP में_PSP अपने_PR_PRF नाना-नानी_N_NN के_PSP पास_N_NST रहती_V_VM हैं_N_NN ।</s>
+<s>बॉलीवुड_N_NN निर्देशक_N_NN करण_N_NN जौहर_N_NNP की_PSP हाउस_N_NN पार्टी_N_NN मामले_N_NN में_PSP विधायक_N_NN मनजिंदर_N_NNP सिंह_N_NNP सिरसा_N_NN ने_PSP मुंबई_N_NNP पुलिस_N_NN ने_PSP सेलेब्स_N_NN पर_PSP एफआईआर_N_NN दर्ज_N_NN करने_V_VM की_PSP मांग_N_NN की_PSP है_N_NN ।</s>
+<s>कहीं_V_VM हुआ_V_VAUX बुर्का_N_NN बैन_RB तो_RP_RPD कहीं_DM_DMI मिली_N_NN मुस्लिम_JJ महिलाओं_N_NN को_PSP और_CC_CCD आजादी,_N_NN जानें,_N_NN कहां_V_VM हुआ_V_VAUX ये_DM_DMD सब_N_NN | </s>
+<s>यूरोप_N_NN के_PSP बाद_N_NST अब_N_NST नीदरलैंड_N_NNP ने_PSP भी_RP_RPD अपने_PR_PRF यहां_N_NN मुस्लिम_N_NN महिलाओं_N_NN के_PSP बुर्का_N_NN पहनने_V_VM पर_PSP रोक_N_NN लगा_V_VM दी_V_VAUX है_V_VAUX ।</s>
+<s>सार्वजनिक_JJ जगहों_N_NN पर_PSP महिलाएं_N_NN अपने_PR_PRF चेहरे_N_NN को_PSP ढककर_V_VM नहीं_RP_NEG जा_V_VM पाएंगी_V_VAUX ।</s>
+<s>आपने_N_NN सांप_N_NN के_PSP इंसानों_N_NN के_PSP काटने_V_VM की_PSP घटना_N_NN सुनी_V_VM होगी_V_VAUX लेकिन_CC_CCS किसी_DM_DMI इंसान_N_NN के_PSP पलटकर_N_NN सांप_N_NN को_PSP दांतों_N_NN से_PSP काटकर_V_VM उसे_PR_PRP टुकड़े_N_NN कर_V_VM देनी_V_VAUX की_PSP घटना_N_NN कम_QT_QTF ही_RP_RPD सुनी_V_VM होगी_V_VAUX ।</s>
+<s>तेलंगाना_N_NN में_PSP वाहनों_N_NN की_PSP जांच_N_NN के_PSP दौरान_N_NN गाड़ी_N_NN में_PSP सवार_N_NN माओवादियों_N_NN ने_PSP पुलिस_N_NN को_PSP देख_V_VM भागने_V_VM की_PSP कोशिश_N_NN की_PSP जिसके_N_NN बाद_N_NST पुलिस_N_NN ने_PSP पीछा_N_NN कर_V_VM इन_DM_DMD लोगों_N_NN को_PSP पकड़ा_N_NN ।</s>
+<s>देश_N_NN सेवा_N_NN का_PSP ऐसा_DM_DMD जुनून,_N_NN इन_DM_DMD पांच_QT_QTC भाइयों_N_NN ने_PSP एक_QT_QTC साथ_N_NN लड़ी_V_VM थी_V_VAUX कारगिल_N_NNP की_PSP लड़ाई_N_NN | </s>
+<s>देश_N_NN सेवा_N_NN का_PSP जज्बा_N_NN ऐसा_DM_DMD कि_CC_CCS इनमें_DM_DMD से_PSP एक_QT_QTC की_PSP शहादत_N_NN के_PSP बाद_N_NST मां_N_NN ने_PSP फौज_N_NN में_PSP भेज_V_VM दिया_V_VAUX छठवें_QT_QTO बेटे_N_NN को_PSP भी_RP_RPD झुंझुनू_N_NNP जिले_N_NN के_PSP सिंह_N_NNP परिवार_N_NN की_PSP कहानी_N_NN ।</s>
+<s>प्रतापगढ़_N_NNP निवासी_N_NN रहमान_N_NNP पिछले_N_NNP छह_QT_QTC साल_N_NN से_PSP अपने_PR_PRF हिंदू_N_NN दोस्तों_N_NN संग_N_NN बैजनाथ_N_NNP धाम_N_NN की_PSP कांवड़_N_NN यात्रा_N_NN पर_PSP जाते_V_VM हैं_V_VAUX ।</s>
+<s>मजहब_N_NN के_PSP नाम_N_NN पर_PSP नफरत_N_NN फैलाने_V_VM वाले_PSP लोग_N_NN यहां_N_NNP आकर_V_VM देखें,_V_VAUX कांवड़िया_N_NNP बन_N_NNP शिव_N_NNP का_PSP जलाभिषेक_N_NN करता_V_VM रहमान_V_VAUX | </s>
+<s>कारगिल_N_NN विजय_N_NN दिवस_N_NN के_PSP मौके_N_NN पर_PSP द्रास_N_NNP में_PSP एक_QT_QTC कार्यक्रम_N_NN के_PSP दौरान_N_NN सेना_N_NN प्रमुख_JJ बिपिन_N_NN रावत_N_NNP ने_PSP कहा_V_VM कि_CC_CCS वह_PR_PRP पाकिस्तान_N_NN से_PSP इतना_QT_QTF कहना_V_VM चाहेंगे_V_VAUX की_PSP वह_PR_PRP निश्चित_JJ रहे_N_NN सेना_N_NN हमेशा_N_NN उनकी_PR_PRP सुरक्षा_N_NN करेगी_V_VM ।</s>
+<s>सेना_N_NN प्रमुख_N_NN की_PSP पाकिस्तान_N_NN को_PSP चेतावनी,_JJ कहा-_N_NN अगली_N_NN बार_N_NN मिलेगा_V_VM मुहंतोड़_N_NN जवाब_N_NN | </s>
+<s>ब्लड_N_NN डोनेशन_N_NN की_PSP बात_N_NN इंसानों_N_NN के_PSP आमतौर_RB पर_PSP इंसानों_N_NN के_PSP बीच_N_NST ही_RP_RPD होती_V_VM है_V_VAUX लेकिन_CC_CCS यहां_N_NN एक_QT_QTC डॉग_N_NNP ने_PSP दूसरे_QT_QTO डॉग_N_NNP को_PSP अपना_PR_PRF ब्लड_N_NN दिया_V_VM और_CC_CCD बचा_N_NN ली_V_VM जान_V_VAUX ।</s>
+<s>'ग्रीन_N_NN इंडिया'_N_NN का_PSP संदेश_N_NN लेकर_V_VM आए_V_VAUX प्रधानमंत्री_N_NN मोदी,_N_NNP संसद_N_NNP में_PSP लगाए_V_VM गए_V_VAUX पेड़_N_NN | </s>
+<s>अनोखा_N_NN मामला:_N_NN ब्लड_N_NN देकर_V_VM एक_QT_QTC एनीमिक_N_NNP डॉग_N_NNP की_PSP जान_N_NN बचाने_V_VM आगे_N_NST आया_V_VM दूसरा_QT_QTO डॉग_N_NN | </s>
+<s>सिंदूर_N_NN हुआ_V_VM अमर,_V_VAUX अब_N_NST बेटे_N_NN को_PSP फौज_N_NN में_PSP भेज_V_VM कहा-_V_VAUX तू_N_NN कोख_N_NN धन्य_JJ कर_V_VM देना_V_VAUX | </s>
+<s>कारिगल_N_NNP युद्ध_N_NNP में_PSP पाकिस्तान_N_NN को_PSP भारत_N_NNP ने_PSP पीछे_N_NST भागने_V_VM पर_PSP मजबूर_N_NN तो_RP_RPD किया_V_VM ही_RP_RPD पूरी_JJ दुनिया_N_NN में_PSP उसकी_PR_PRP पोल_N_NN भी_RP_RPD खोल_N_NN दी।_N_NN जानिए_V_VM गैंग्स_N_NNP ऑफ_N_NNP फोर_N_NNP की_PSP प्लानिंग_N_NN में_PSP PM_N_NN नवाज_N_NN शरीफ_N_NN की_PSP क्या_PR_PRQ थी_V_VAUX भूमिका_V_VAUX ।</s>
+<s>कारगिल_N_NNP युद्ध_N_NN में_PSP पाक_N_NNP सेना_N_NN की_PSP घुसपैठ_N_NN रोकने_V_VM के_PSP लिए_PSP 3_QT_QTC ग्रेनेडियर्स_N_NN बटालियन_N_NN को_PSP भेजा_V_VM गया_V_VAUX था_N_NN ।</s>
+<s>इसमें_N_NN यूपी_N_NN के_PSP जिला_N_NN मैनपुरी_N_NNP के_PSP गांव_N_NN टिकरई_N_NN निवासी_N_NN नागेंद्र_N_NNP सिंह_N_NNP चौहान_N_NNP भी_RP_RPD शामिल_N_NN थे_N_NN ।</s>
+<s>प्रधानमंत्री_N_NN नरेंद्र_N_NNP मोदी_N_NNP ने_PSP आज_N_NST संसद_N_NN में_PSP वृक्षारोपण_N_NN अभियान_N_NN के_PSP तहत_N_NN पेड़_N_NN लगाया_N_NN ।</s>
+<s>मोदी_N_NNP सरकार_N_NN में_PSP हो_V_VM रही_V_VAUX भीड़_N_NN हिंसा_N_NN को_PSP लेकर_V_VM प्रधानमंत्री_N_NN को_PSP लिखे_N_NN खत_N_NN के_PSP विरोध_N_NN में_PSP 62_QT_QTC हस्तियों_N_NN ने_PSP एक_QT_QTC खुला_N_NN पत्र_N_NN लिखा_V_VM है_V_VAUX ।</s>
+<s>जिनमें_N_NN अभिनेत्री_N_NN कंगना_N_NN रनौत_N_NN गीतकार_N_NN प्रसून_N_NN जोशी_N_NNP भी_RP_RPD शामिल_N_NN हैं_N_NN ।</s>
+<s>भीड़_N_NN की_PSP हिंसा_N_NN पर_PSP PM_N_NN को_PSP खुला_V_VM पत्र_N_NN लिखने_V_VM वालों_V_VAUX पर_PSP कंगना_N_NN समेत_N_NN 62_QT_QTC हस्तियों_N_NN का_PSP पलटवार_N_NN | </s>
+<s>चीन_N_NNP ने_PSP भारतीय_N_NNP अंतरिक्ष_N_NN अनुसंधन_N_NN संगठन_N_NN की_PSP मांग_N_NN पर_PSP बाढ़_N_NN राहत_N_NN कार्यों_N_NN में_PSP मदद_N_NN के_PSP लिए_PSP भारत_N_NNP को_PSP बाढ़ग्रस्त_JJ क्षेत्रों_N_NN का_PSP उपग्रह_N_NN से_PSP प्राप्त_N_NN डेटा_N_NNP मुहैया_N_NN कराया_V_VM है_V_VAUX ।</s>
+<s>देश_N_NN में_PSP बाढ़_N_NN से_PSP त्राहिमाम,_N_NN इसरो_N_NN की_PSP मांग_N_NN पर_PSP चीन_N_NNP ने_PSP प्रभावित_JJ इलाकों_N_NN का_PSP सेटेलाइट_N_NN डाटा_N_NN भेजा_V_VM | </s>
+<s>धरती_N_NNP के_PSP अपनी_PR_PRF धुरी_N_NN पर_PSP घूमने_V_VM की_PSP रफ्तार_N_NN धीमी_N_NN हो_V_VM रही_V_VAUX है_V_VAUX जिससे|P चंद्रमा_N_NN इससे_DM_DMD दूर_N_NN होता_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>यह_N_NN घटना_N_NN बड़े_JJ भूकंपों_N_NN की_PSP वजह_N_NN बन_V_VM सकती_V_VAUX है_N_NN ।</s>
+<s>अधिकारियों_N_NN का_PSP कहना_V_VM था_V_VAUX कि_CC_CCS एसआई_N_NNP के_PSP विरुद्ध_N_NN कार्रवाई_N_NN जरूरी_N_NN है_V_VM क्योंकि_CC_CCS वे_PR_PRP वर्दी_N_NN में_PSP थे_N_NN ।</s>
+<s>बताया_V_VM गया_V_VAUX कि_CC_CCS यह_DM_DMD वीडियो_N_NN थाने_N_NN में_PSP ही_RP_RPD शूट_N_NN किया_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>क्राइम_N_NN ब्रांच_N_NN एसआई_N_NNP अरुण_N_NNP मिश्रा_N_NNP का_PSP वर्दी_N_NN में_PSP वीडियो_N_NN वायरल,_N_NN अभिनेताओं_N_NN को_PSP दे_V_VM रहे_V_VAUX हैं_V_VAUX टक्कर_N_NN | </s>
+<s>भारी_N_NN जुर्माना_N_NN व_CC_CCD जेल_N_NN की_PSP सजा_N_NN तक_PSP का_PSP सख्त_JJ प्रावधान_N_NN ।</s>
+<s>उपभोक्ता_N_NN संरक्षण_N_NN विधेयक_N_NN के_PSP संसद_N_NN में_PSP पारित_N_NN होने_V_VM का_PSP इंतजार_N_NN ।</s>
+<s>भटकाने_V_VM वाले_PSP प्रचार_N_NN कर_V_VM रही_V_VAUX हस्तियों_N_NN पर_PSP कसेगा_V_VM शिकंजा_N_NN | </s>
+<s>मॉब_N_NN लिंचिंग_N_NN पर_PSP सुप्रीम_N_NN कोर्ट_N_NN ने_PSP केंद्र_N_NN व_CC_CCD दस_N_NN राज्यों_N_NN को_PSP नोटिस_N_NN जारी_V_VM कर_V_VAUX मांगा_N_NNP जवाब_N_NN | </s>
+<s>मॉब_N_NN लिंचिंग_N_NN की_PSP याचिका_N_NN पर_PSP सुनवाई_N_NN करते_V_VM हुए_V_VAUX सुप्रीम_N_NN कोर्ट_N_NN ने_PSP केंद्र_N_NN सरकार_N_NN और_CC_CCD दस_QT_QTC राज्य_N_NN सरकारों_N_NN को_PSP नोटिस_N_NN जारी_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>सचिव_N_NNP सुभाष_N_NNP चंद्र_N_NNP गर्ग_N_NNP ने_PSP शुक्रवार_N_NN को_PSP साफ_JJ किया_V_VM कि_CC_CCS उनके_PR_PRP ट्रांसफर_N_NN और_CC_CCD स्वैच्छिक_JJ सेवानिवृत्ति_N_NN की_PSP पेशकश_N_NN के_PSP बीच_N_NST कोई_DM_DMI संबंध_N_NN नहीं_RP_NEG है_V_VM ।</s>
+<s>तबादले_N_NN के_PSP बाद_N_NST वीआरएस_N_NN पर_PSP सचिव_N_NN सुभाष_N_NNP चंद्र_N_NNP गर्ग_N_NNP ने_PSP क्या_PR_PRQ दी_V_VM सफाई_N_NN | </s>
+<s>पुलिस_N_NNP के_PSP हत्थे_N_NN लगा_V_VM सूट-बूट_N_NNP गिरोह,_N_NNP होंडा_N_NNP सिटी_N_NNP कार_N_NN में_PSP आकर_V_VM करते_V_VAUX थे_V_VAUX सूने_V_VM फ्लैटों_N_NN की_PSP चोरी_N_NN | </s>
+<s>पुलिस_N_NNP के_PSP हत्थे_N_NN लगे_V_VM सूट-बूट_N_NN गिरोह_N_NN के_PSP चोर_N_NN सूट-बूट_N_NN पहनकर_N_NN होंडा_N_NN सिटी_N_NN कार_N_NN में_PSP सवार_N_NN होकर_V_VM पॉश_N_NN कालोनियों_N_NN में_PSP घूम-घूमकर_RB सूने_V_VM फ्लैट_N_NN पर_PSP चोरी_N_NN करते_V_VM थे_V_VAUX ।</s>
+<s>डीआरडीअो_N_NNP प्रमुख_JJ का_PSP बड़ा_JJ बयान,_N_NN मौत_N_NN से_PSP पहले_N_NST पूर्व_N_NST राष्ट्रपति_N_NN कलाम_N_NNP ने_PSP दिया_V_VM था_V_VAUX मिसाइल_N_NNP प्लान_N_NN | </s>
+<s>डीआरडीअो_N_NNP प्रमुख_N_NN ने_PSP कहा_V_VM कि_CC_CCS पूर्व_N_NST राष्ट्रपति_N_NN एपीजे_N_NN अब्दुल_N_NNP कलाम_N_NNP ने_PSP देश_N_NN में_PSP दोबारा_N_NN इस्तेमाल_RB होने_V_VM वाली_PSP मिसाइल_N_NN के_PSP विकास_N_NN का_PSP सुझाव_N_NN दिया_V_VM था_V_VAUX ।</s>
+<s>यूपी_N_NN सहायक_N_NN शिक्षक_N_NN मामलें_N_NN में_PSP सुप्रीम_N_NN कोर्ट_N_NN ने_PSP बेसिक_N_NN शिक्षा_N_NN विभाग_N_NN से_PSP मांगा_N_NNP भर्ती_N_NN का_PSP ब्योरा_N_NN | </s>
+<s>मॉब_N_NN लिंचिंग_N_NN की_PSP याचिका_N_NN पर_PSP सुनवाई_N_NN करते_V_VM हुए_V_VAUX सुप्रीम_N_NN कोर्ट_N_NN ने_PSP केंद्र_N_NN सरकार_N_NN और_CC_CCD दस_QT_QTC राज्य_N_NN सरकारों_N_NN को_PSP नोटिस_N_NN जारी_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>मुंबई_N_NNP में_PSP भारी_JJ बारिश_N_NN से_PSP जनजीवन_N_NN अस्त-व्यस्त,_N_NN ट्रैफिक_N_NN बुरी_JJ तरह_N_NN प्रभावित_N_NN | </s>
+<s>छत्रपति_N_NNP शिवाजी_N_NNP इंटरनैशनल_N_NN एयरपोर्ट_N_NN मुंबई_N_NNP के_PSP पीआरओ_N_NNP ने_PSP बताया_V_VM कि_CC_CCS बीते_JJ 2_QT_QTC घंटे_N_NN से_PSP हो_V_VM रही_V_VAUX भारी_JJ बारिश_N_NN की_PSP वजह_N_NN से_PSP उड़ानों_N_NN में_PSP औसतन_N_NN आधे_QT_QTC घंटे_N_NN की_PSP देरी_N_NN हो_V_VM रही_V_VAUX है_V_VAUX ।</s>
+<s>तमिलनाडु_N_NNP में_PSP बड़ा_JJ सड़क_N_NN हादसा,_N_NN एक_QT_QTC महिला_N_NN समेत_N_NN पांच_QT_QTC लोगों_N_NN की_PSP मौत_N_NN | </s>
+<s>तमिलनाडु_N_NNP के_PSP कोयंबटूर_N_NNP में_PSP एक_QT_QTC बड़ा_JJ सड़क_N_NN हादसा_N_NN हुआ_V_VM है।_N_NN इस_DM_DMD हादसे_N_NN में_PSP एक_QT_QTC महिला_N_NN समेत_N_NN पांच_QT_QTC लोगों_N_NN की_PSP मौत_N_NN हो_V_VM गई_V_VAUX है_N_NN ।</s>
+<s>भ्रामक_N_NN या_CC_CCD गुमराह_N_NN करने_V_VM वाले_PSP विज्ञापन_N_NN किए_V_VM तो_RP_RPD सितारों_N_NN को_PSP जमीन_N_NN पर_PSP आना_V_VM पड़ेगा,_V_VAUX कसेगा_V_VAUX शिकंजा_N_NN | </s>
+<s>विज्ञापनों_N_NN में_PSP उत्पादों_N_NN की_PSP तमाम_N_NN खूबियां_N_NN गिनाई_V_VM जाती_V_VAUX हैं_V_VAUX जबकि_CC_CCS गुणवत्ता_N_NN के_PSP लिहाज_N_NN से_PSP वह_PR_PRP वास्तविकता_N_NN से_PSP परे_N_NN होती_V_VM हैं_V_VAUX ।</s>
+<s>सावधान!_N_NN सुविधाओं_N_NN ही_RP_RPD नहीं_RP_NEG बीमारियों_N_NN का_PSP भी_RP_RPD पिटारा_N_NN है_V_VAUX स्मार्टफोन,_N_NN मोटापे_N_NN से_PSP लेकर_V_VM कैंसर_N_NN तक_PSP है_V_VM खतरा_N_NN | </s>
+<s>ये_N_NN आंकड़े_N_NN हम_PR_PRP आपको_PR_PRP इसलिए_RB बता_V_VM रहे_V_VAUX हैं_V_VAUX ताकि_CC_CCS आप_PR_PRP समझ_V_VM सकें_V_VAUX कि_CC_CCS मोबाइल_N_NN फोन_N_NN से_PSP होने_V_VM वाले_PSP खतरों_N_NN से_PSP एक_QT_QTC साथ_N_NN कितनी_QT_QTF बड़ी_JJ जनसंख्या_N_NN और_CC_CCD कितना_N_NN बड़ा_JJ वर्ग_N_NN प्रभावित_N_NN हो_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>अदालत_N_NNP ने_PSP सतीश_N_NNP बाबू_N_NNP सना_N_NNP को_PSP पांच_QT_QTC दिन_N_NN की_PSP र्इडी_N_NN हिरासत_N_NN में_PSP भेजा_V_VM | </s>
+<s>भारत_N_NNP पहुंचा_N_NNP दुनिया_N_NN का_PSP सबसे_RP_INTF घातक_JJ अपाचे_N_NN हेलीकॉप्टर,_N_NN पाक-चीन_N_NN सीमा_N_NN पर_PSP होगा_V_VM तैनात_N_NN | </s>
+<s>बोइंग_N_NN एएच-64_N_NN ई_N_NN अपाचे_N_NN को_PSP गाजियाबाद_N_NNP के_PSP हिंडन_N_NN एयरबेस_N_NN से_PSP पंजाब_N_NNP के_PSP पठानकोट_N_NNP एयरबेस_N_NNP को_PSP रवाना_V_VM किया_V_VAUX जाएगा।_N_NN माना_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX कि_CC_CCS इसे_DM_DMD चीन_N_NNP और_CC_CCD पाकिस्तानी_N_NNP सीमा_N_NN पर_PSP तैनात_N_NN किया_V_VM जाएगा_V_VAUX ।</s>
+<s>मध्य_N_NNP प्रदेश_N_NNP के_PSP बैतूल_N_NN में_PSP बच्चा_N_NN चोर_N_NN समझकर_V_VM कांग्रेस_N_NNP नेताओं_N_NN को_PSP पीटा,_N_NN किसी_DM_DMI तरह_N_NN बचाई_V_VM जान_V_VAUX | </s>
+<s>बैतूल_N_NNP जिले_N_NN के_PSP केसिया_N_NNP गांव_N_NNP में_PSP अपने_PR_PRF घर_N_NN लौट_V_VM रहे_V_VAUX दो_QT_QTC कांग्रेसी_N_NN नेताओं_N_NN को_PSP गांव_N_NN वालों_PSP ने_PSP बच्चा_N_NN चोर_JJ समझकर_N_NN बेरहमी_N_NN से_PSP पीट_N_NN दिया_N_NN ।</s>
+<s>कांग्रेस_N_NN नेता_N_NN किसी_DM_DMI तरह_N_NN अपनी_PR_PRF जान_N_NN बचा_V_VM पाने_V_VAUX में_PSP कामयाब_N_NN हुए_N_NN ।</s>
+<s>रेलवे_N_NN ने_PSP दी_V_VM सफाई,_V_VAUX नौकरियों_N_NN में_PSP कटौती_N_NN की_PSP कोई_DM_DMI योजना_N_NN नहीं_N_NN | </s>
+<s>रेलवे_N_NN ने_PSP जोनल_N_NN कार्यालयों_N_NN को_PSP कर्मचारियों_N_NN के_PSP प्रदर्शन_N_NN की_PSP समीक्षा_N_NN के_PSP लिए_PSP भेजे_V_VM गए_V_VAUX पत्र_N_NN के_PSP संबंध_N_NN में_PSP मंगलवार_N_NNP को_PSP सफाई_N_NN दी_N_NN ।</s>
+<s>मुंशी_N_NNP प्रेमचंद_N_NNP हिंदी_N_NNP कथा_N_NN साहित्य_N_NN के_PSP महान_JJ साहित्यकार_N_NN माने_V_VM जाते_V_VAUX हैं_V_VAUX ।</s>
+<s>उन्होंने_N_NN कहानी_N_NN के_PSP साथ-_N_NN साथ_PSP उपन्यास_N_NN लेखन_N_NN किया_N_NN ।</s>
+<s>उनकी_N_NN प्रसिद्धि_N_NN को_PSP आलम_N_NN यह_DM_DMD है_V_VAUX कि_CC_CCS उन्हें_PR_PRP उपन्यास_N_NN सम्राट_N_NN कहा_V_VM जाता_V_VAUX है_V_VAUX ।</s>
+<s>एक_N_NN करोड़_N_NN की_PSP फिरौती_N_NN देकर_V_VM छूटा_V_VM हैदराबाद_N_NNP का_PSP व्यापारी,_N_NN तीन_QT_QTC आरोपी_N_NN गिरफ्तार,_N_NN दो_QT_QTC की_PSP तलाश_N_NN जारी_N_NN | </s>
+<s>हैदराबाद_N_NNP में_PSP बदमाशों_N_NN द्वारा_PSP अगवा_N_NN किए_V_VM गए_V_VAUX व्यापारी_N_NN को_PSP एक_QT_QTC करोड़_QT_QTC रुपये_N_NN की_PSP फिरौती_N_NN लेकर_V_VM छोड़ने_V_VM का_PSP मामला_N_NN सामने_N_NST आया_V_VM है_V_VAUX ।</s>
+<s>पुलिस_N_NNP ने_PSP मामले_N_NN में_PSP तीन_QT_QTC लोगों_N_NN को_PSP गिरफ्तार_N_NN भी_RP_RPD किया_V_VM है_V_VAUX ।</s>
+<s>ट्रेनों_N_NN में_PSP सुनाई_N_NN नहीं_RP_NEG देगी_N_NN चाय-चाय_N_NN की_PSP आवाज,_N_NN यात्रियों_N_NN को_PSP सुखद_JJ होगा<s>_N_NN यह_DM_DMD बड़ा_JJ बदलाव_N_NN | </s>
+<s>इंडियन_N_NNP रेलवे_N_NN कैटरिंग_N_NN एंड_N_NNP टूरिज्म_N_NNP कारपोरेशन_N_NNP (आइआरसीटीसी)_N_NNP ट्रेनों_N_NN में_PSP काम_N_NN करने_V_VM वाले_PSP वेंडरों_N_NN को_PSP इसके_PR_PRP लिए_PSP विशेष_JJ प्रशिक्षण_N_NN देने_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>बुलेट_N_NN ट्रेन_N_NN के_PSP रखरखाव_N_NN में_PSP पानी_N_NN की_PSP जरूरतें_N_NN पूरी_N_NN करने_V_VM के_PSP लिए_PSP रेलवे_N_NN उसके_PR_PRP तीनों_QT_QTC डिपो_N_NN में_PSP बारिश_N_NN के_PSP पानी_N_NN का_PSP संचयन_N_NN करने_V_VM के_PSP लिए_PSP जलाशयों_N_NN का_PSP निर्माण_N_NN कराएगा_N_NN ।</s>
+<s>बुलेट_N_NN ट्रेन_N_NN के_PSP रखरखाव_N_NN और_CC_CCD जल_N_NN संरक्षण_N_NN के_PSP लिए_PSP डिपो_N_NN में_PSP होगा_V_VM जलाशयों_N_NN का_PSP निर्माण_N_NN | </s>
+<s>कैफे_N_NN कॉफी_N_NN डे_N_NN के_PSP संस्थापक_N_NN वीजी_N_NNP सिद्धार्थ_N_NNP सोमवार_N_NNP रात_N_NN से_PSP लापता_N_NN है_N_NN ।</s>
+<s>अब_N_NN उनका_PR_PRP आखिरी_N_NN पत्र_N_NN सामने_N_NST आया_V_VM है।_V_VAUX जिसके|P सामने_N_NST आने_V_VM से_PSP कई_QT_QTF खुलासे_JJ हुए_V_VM हैं_V_VAUX ।</s>
+<s>अमेरिका_N_NN के_PSP विभिन्न_JJ हिस्सों_N_NN में_PSP लोगों_N_NN को_PSP भीषण_JJ गर्मी_N_NN का_PSP सामना_N_NN करना_V_VM पड़_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>विश्व_N_NN मौसम_N_NN विज्ञान_N_NN संगठन_N_NN ने_PSP भी_RP_RPD जुलाई_N_NNP माह_N_NN को_PSP अब_N_NST तक_PSP का_PSP सबसे_RP_INTF गर्म_JJ माह_N_NN घोषित_V_VM किया_V_VAUX है_V_VAUX ।</s>
+<s>गुतेरस_N_NNP ने_PSP गुरुवार_N_NNP को_PSP कहा_V_VM कि_CC_CCS जून_N_NNP माह_N_NN सबसे_RP_INTF गर्म_JJ रहा,_N_NN लेकिन_CC_CCD जुलाई_N_NNP ने_PSP तो_RP_RPD जून_N_NNP का_PSP भी_RP_RPD रिकार्ड_N_NN तोड़_V_VM दिया_V_VAUX ।</s>
+<s>इसने_N_NN इतिहास_N_NN के_PSP सबसे_RP_INTF गर्म_JJ माह_N_NN का_PSP रिकॉर्ड_N_NN चाहे_V_VM न_RP_NEG तोड़ा_V_VM हो,_V_VAUX लेकिन_CC_CCS वह_PR_PRP उसके_PR_PRP बराबर_N_NN जरूर_N_NN रहा_V_VM ।</s>
+<s>जलवायु_N_NN परिवर्तन_N_NN पर_PSP दुनिया_N_NN को_PSP एकजुट_N_NN होने_V_VM का_PSP आह्वान_N_NN करते_V_VM हुए_V_VAUX गुतेरस_N_NNP ने_PSP चेताया_V_VM कि_CC_CCS जलवायु_N_NN परिवर्तन_N_NN से_PSP निपटने_V_VM के_PSP लिए_PSP अगर_CC_CCS दुनिया_N_NN एकजुट_N_NN नहीं_RP_NEG हुई_V_VM तो_CC_CCS हमें_PR_PRP आने_V_VM वाले_PSP वर्षो_N_NN में_PSP और_CC_CCD भी_RP_RPD भीषण_JJ गर्मी_N_NN का_PSP सामना_N_NN करना_V_VM पड़_V_VAUX सकता_V_VAUX है_V_VAUX ।</s>
+<s>संयुक्त_JJ राष्ट्र_N_NN प्रमुख_N_NN ने_PSP कहा_V_VM कि_CC_CCS यह_DM_DMD और_CC_CCD भी_RP_RPD महत्वपूर्ण_JJ है,_V_VAUX क्योंकि_CC_CCS पिछला_N_NST सबसे_RP_INTF गर्म_JJ महीना,_N_NN जुलाई_N_NN 2016_V_VM था,_V_VAUX जो|P सबसे_RP_INTF मजबूत_JJ अल_N_NNP नीनो_N_NNP के_PSP दौरान_N_NN गर्म_JJ रहा,_N_NN लेकिन_CC_CCD इस_DM_DMD वर्ष_N_NN तो_RP_RPD अल_N_NNP नीनो_N_NNP भी_RP_RPD नहीं_RP_NEG था_V_VM ।</s>
+<s>अल_N_NNP नीनो_N_NNP वायुमंडल_N_NN के_PSP संपर्क_N_NN में_PSP आने_V_VM के_PSP बाद_N_NST पृथ्वी_N_NN को_PSP गर्म_N_NN करता_V_VM है_V_VAUX ।</s>
+<s>यह_N_NN वर्षा_N_NN और_CC_CCD तापमान_N_NN के_PSP पैटर्न_N_NN को_PSP बदल_V_VM देता_V_VAUX है,_V_VAUX जिससे|P कहीं_DM_DMI ज्यादा_QT_QTF बारिश_N_NN होती_V_VM है_V_VAUX तो_RP_RPD कहीं_DM_DMI सूखा_JJ पड़ता_V_VM है_V_VAUX ।</s>
+<s>रिजर्व_N_NNP बैंक_N_NNP ने_PSP चालू_N_NN खाता_V_VM खोलने_N_NN के_PSP मानदंडों_N_NN का_PSP उल्लंघन_N_NN करने_V_VM पर_PSP सार्वजनिक_JJ क्षेत्र_N_NN के_PSP सात_QT_QTC बैंकों_N_NN पर_PSP 11_QT_QTC करोड़_QT_QTC रुपये_N_NN का_PSP सामूहिक_N_NN जुर्माना_N_NN लगाया_V_VM है_V_VAUX ।</s>
+<s>बैंक_N_NNP ने_PSP शुक्रवार_N_NN को_PSP इसकी_DM_DMD जानकारी_N_NN दी_N_NN ।</s>
+<s>शीर्ष_N_NNP बैंक_N_NNP ने_PSP कहा_V_VM कि_CC_CCS उसने_PR_PRP एक_QT_QTC समूह_N_NN की_PSP कंपनियों_N_NN के_PSP खातों_N_NN की_PSP जांच_N_NN की_PSP और_CC_CCD यह_DM_DMD देखा_V_VM गया_V_VAUX कि_CC_CCS बैंक_N_NN उसके_PR_PRP द्वारा_PSP जारी_N_NN किए_V_VM गए_V_VAUX एक_QT_QTC या_CC_CCD अधिक_QT_QTF निर्देशों_N_NN के_PSP प्रावधानों_N_NN का_PSP पालन_N_NN करने_V_VM में_PSP विफल_N_NN रहे_V_VM हैं_V_VAUX ।</s>
+<s>जांच_N_NN के_PSP निष्कर्षों_N_NN के_PSP आधार_N_NN पर_PSP बैंकों_N_NN को_PSP नोटिस_N_NN जारी_N_NN किए_V_VM गए_V_VAUX कि_CC_CCS वे_DM_DMD यह_DM_DMD बताएं_V_VM कि_CC_CCS निर्देशों_N_NN का_PSP पालन_N_NN न_RP_NEG करने_V_VM के_PSP लिए_PSP जुर्माना_N_NN क्यों_N_NN नहीं_RP_NEG लगाया_V_VM जाना_V_VAUX चाहिए_N_NN ।</s>
+<s>आरबीआई_N_NNP ने_PSP एक_QT_QTC अलग_JJ रिलीज_N_NN में_PSP कहा_V_VM कि_CC_CCS इसने_V_VM बैंकों_N_NN के_PSP लिए_PSP साइबर_N_NN सुरक्षा_N_NN ढांचे_V_VM से_PSP संबंधित_N_NN मानदंडों_N_NN का_PSP पालन_N_NN न_RP_NEG करने_V_VM और_CC_CCD धोखाधड़ी_N_NN और_CC_CCD वर्गीकरण_N_NN और_CC_CCD रिपोर्टिंग_N_NN के_PSP लिए_PSP कॉर्पोरेशन_N_NN बैंक_N_NN पर_PSP 1_QT_QTC करोड़_QT_QTC रुपये_N_NN का_PSP जुर्माना_N_NN लगाया_V_VM है_V_VAUX ।</s>
+<s>जिससे_N_NN वजह_N_NN से_PSP मुश्किलें_N_NN बढ़ती_V_VM गईं_V_VAUX और_CC_CCD दिल_N_NN का_PSP दौरा_N_NN पड़ने_V_VM से_PSP उसकी_PR_PRP मौत_N_NN हो_V_VM गई_N_NN ।</s>
+<s>डेंगू,_N_NNP मलेरिया_N_NNP और_CC_CCD चिकनगुनिया_N_NNP की_PSP तरह_N_NN वेस्ट_N_NN नाइल_N_NN वायरस_N_NN भी_RP_RPD मच्छर_N_NN से_PSP ही_RP_RPD फैलता_V_VM है।_V_VAUX ये_DM_DMD क्यूलेक्स_N_NNP मच्छर_N_NN गर्मियों_N_NN में_PSP ज़्यादा_JJ सक्रिय_N_NN होता_V_VM है_V_VAUX ।</s>
+<s>गर्मियों_N_NN में_PSP वेस्ट_N_NN नाइल_N_NN बुखार_N_NN से_PSP मच्छर-जनित_JJ संक्रमणों_N_NN का_PSP खतरा_N_NN बढ़_V_VM जाता_V_VAUX है,_V_VAUX इसलिए_CC_CCS सावधानी_N_NN बरतनी_V_VM चाहिए।_V_VAUX मच्छरों_N_NN के_PSP काटने_V_VM से_PSP इंसानों_N_NN इसके_PR_PRP शिकार_N_NN होते_V_VM हैं_V_VAUX ।</s>
+<s>वायरस_N_NNP अन्य_JJ संक्रमित_JJ जानवरों,_N_NN उनके_PR_PRP रक्त_N_NN या_CC_CCD अन्य_N_NN ऊतकों_N_NN के_PSP संपर्क_N_NN के_PSP माध्यम_N_NN से_PSP भी_RP_RPD फैल_V_VM सकता_V_VAUX है_V_VAUX ।</s>
+<s>यह_JJ अंग_N_NN प्रत्यारोपण,_N_NN रक्त_N_NN आधान_N_NN यानी_N_NN ट्रांसफ्यूजन_N_NN और_CC_CCD स्तन_N_NN के_PSP दूध_N_NN के_PSP माध्यम_N_NN से_PSP भी_RP_RPD हो_V_VM सकता_V_VAUX है_V_VAUX ।</s>
+<s>वेस्ट_N_NN नाइल_N_NN फीवर_N_NN प्रारंभिक_JJ लक्षणों_N_NN में_PSP बुखार,_N_NN सिरदर्द,_N_NN थकान,_N_NN शरीर_N_NN में_PSP दर्द,_JJ मितली,_N_NN उल्टी,_N_NN त्वचा_N_NN पर_PSP चकत्ते_N_NN (सिर्फ_N_NN कभी-कभी)_N_NN और_CC_CCD लिम्फ_N_NNP ग्रंथियों_N_NN में_PSP सूजन_N_NN शामिल_N_NN है_N_NN | </s>
+<s>जैसे_N_NN ही_RP_RPD स्थिति_N_NN गंभीर_JJ हो_V_VM जाती_V_VAUX है,_V_VAUX गर्दन_N_NN की_PSP जकड़न,_N_NN भटकाव,_N_NN कोमा,_N_NN कंपकंपी,_N_NN मांसपेशियों_N_NN में_PSP कमजोरी_N_NN और_CC_CCD पक्षाघात_N_NN हो_V_VM सकता_V_VAUX है_V_VAUX ।</s>
+<s>संक्रमण_N_NN को_PSP रोकने_V_VM का_PSP सबसे_RP_INTF प्रभावी_JJ तरीका_N_NN मच्छरों_N_NN के_PSP काटने_V_VM से_PSP बचना_V_VM है_V_VAUX ।</s>
+<s>इन_N_NN कीटों_N_NN से_PSP बचाने_V_VM वाली_PSP क्रीम_N_NN का_PSP उपयोग_N_NN करें,_N_NN लंबी_JJ बाजू_N_NN की_PSP शर्ट_N_NN और_CC_CCD पैंट_N_NN पहनें_V_VM और_CC_CCD घर_N_NN के_PSP अंदर-बाहर_N_NST मच्छरों_N_NN को_PSP नियंत्रित_N_NN करने_V_VM के_PSP लिए_PSP सभी_QT_QTF कदम_N_NN उठाएं_V_VM ।</s>
+<s>मच्छर_N_NN मनी_N_NN प्लांट_N_NN के_PSP गमले_N_NN में_PSP या_CC_CCD छत_N_NN पर_PSP पानी_N_NN की_PSP टंकियों_N_NN में_PSP अंडे_N_NN दे_V_VM सकते_V_VAUX हैं,_V_VAUX अगर_CC_CCS वे_PR_PRP ठीक_N_NN से_PSP ढके_V_VM न_RP_NEG हों_N_NN ।</s>
+<s>यदि_N_NN छतों_N_NN पर_PSP रखे_V_VM गए_V_VAUX पक्षियों_N_NN के_PSP पानी_N_NN के_PSP बर्तन_N_NN को_PSP हर_QT_QTF हफ्ते_N_NN साफ_JJ करें,_N_NN नहीं_RP_NEG तो_RP_RPD मच्छर_N_NN उनमें_PR_PRP भी_RP_RPD अंडे_N_NN दे_V_VM सकते_V_VAUX हैं_N_NN ।</s>
+<s>मच्छरदानी_N_NN या_CC_CCD मॉस्क्यूटो_N_NN रेपेलेंट_N_NN का_PSP उपयोग_N_NN करने_V_VM का_PSP प्रयास_N_NN करें_V_VM ।</s>
+<s>फिल्म_N_NN या_CC_CCD सीरियल_N_NNP के_PSP कुछ_QT_QTF किरदार_JJ इतने_N_NN महत्वपूर्ण_JJ होते_V_VM हैं_V_VAUX कि_CC_CCS उन्हें_PR_PRP निभाने_V_VM वाले_PSP कलाकार_N_NN हमेशा_JJ याद_N_NN रहते_V_VM हैं_V_VAUX ।</s>
+<s>एक_N_NN ऐसा_DM_DMD ही_RP_RPD किरदार_N_NNP रामायण_N_NNP की_PSP सीता_N_NNP का_PSP है_V_VM जो|P अभिनेत्री_N_NN दीपिका_N_NN चिखलिया_N_NNP ने_PSP निभाया_V_VM था_V_VAUX ।</s>
+<s>दीपिका_N_NN चिखलिया_N_NN भी_RP_RPD इन_DM_DMD दिनों_N_NN बाकी_N_NN सेलेब्स_N_NN की_PSP तरह_N_NN सोशल_JJ मीडिया_N_NN पर_PSP एक्टिव_N_NN हैं_V_VM और_CC_CCD अपनी_PR_PRF तस्वीरों_N_NN को_PSP सोशल_JJ मीडिया_N_NN पर_PSP शेयर_N_NN करती_V_VM रहती_V_VAUX हैं_N_NN ।</s>
+<s>आइए_N_NN आपको_PR_PRP दिखाते_V_VM हैं_V_VAUX दीपिका_N_NN की_PSP कुछ_QT_QTF लेटेस्ट_JJ तस्वीरें_N_NN ।</s>
+<s>दीपिका_N_NN चिखलिया_N_NN को_PSP बेहद_RP_INTF कम_JJ उम्र_N_NN में_PSP ही_RP_RPD बड़ी_JJ कामयाबी_N_NN मिली_V_VM और_CC_CCD रामायण_N_NNP में_PSP सीता_N_NNP का_PSP किरदार_N_NNP निभाने_V_VM के_PSP लिए_PSP वो_N_NN आज_N_NN भी_RP_RPD याद_N_NN की_PSP जाती_V_VM हैं_V_VAUX ।</s>
+<s>करीब_N_NN 32_QT_QTC साल_N_NN पहले_QT_QTC छोटे_JJ पर्दे_N_NN के_PSP सीरियल_N_NNP रामायण_N_NNP के_PSP प्रसारण_N_NN के_PSP दौरान_N_NN अपने_PR_PRF सीता_N_NNP के_PSP किरदार_N_NNP के_PSP चलते_N_NN कई_QT_QTF घरों_N_NN में_PSP पूजी_V_VM जाने_V_VAUX वाली_PSP दीपिका_N_NN चिखलिया_N_NN इन_DM_DMD दिनों_N_NN सोशल_JJ मीडिया_N_NN पर_PSP खूब_QT_QTF एक्टिव_N_NN हैं_N_NN ।</s>
+<s>और_N_NN आज_N_NN भी_RP_RPD वे_DM_DMD काफी_QT_QTF खूबसूरत_JJ नजर_N_NN आती_V_VM हैं_V_VAUX ।</s>
+<s>इस_N_NN तस्वीर_N_NN को_PSP दीपिका_N_NN ने_PSP हाल_N_NN ही_RP_RPD में_PSP इंस्टाग्राम_N_NN पर_PSP शेयर_N_NN किया_V_VM है_V_VAUX ।</s>
+<s>एक_N_NN वीडियो_N_NN भी_RP_RPD दीपिका_N_NN ने_PSP शेयर_N_NN किया_V_VM था_V_VAUX जिसमें|P वे_PR_PRP बच्चों_N_NN की_PSP तरह_N_NN एक्ट_N_NNP करती_V_VM नजर_N_NN आ_V_VM रही_V_VAUX थीं_N_NN ।</s>
+<s>मानसून_N_NN की_PSP बारिश_N_NN अब_N_NST बिहार_N_NNP को_PSP बदहाल_N_NN करने_V_VM लगी_V_VAUX है_V_VAUX ।</s>
+<s>रही-सही_JJ कसर_N_NN अब_N_NST बाढ़_N_NN पूरी_N_NN करने_V_VM में_PSP लग_V_VM गयी_V_VAUX है_V_VAUX ।</s>
+<s>बाढ़-बारिश_N_NN से_PSP खासकर_JJ उत्तर_N_NN बिहार_N_NNP त्राहिमाम_N_NN कर_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>दरभंगा_N_NNP के_PSP आसपास_N_NST अभी_N_NST भी_RP_RPD जगह-जगह_N_NN पानी_N_NN भरा_V_VM हुआ_V_VAUX है_N_NN ।</s>
+<s>सरकारी_JJ भवन_N_NN में_PSP लोग_N_NN अपनी_PR_PRF जान_N_NN रिस्क_N_NN पर_PSP लेकर_V_VM चौकीदारी_N_NN कर_V_VM रहे_V_VAUX है_V_VAUX ।</s>
+<s>बच्चे_N_NN स्कूल_N_NN भी_RP_RPD नहीं_RP_NEG जा_V_VM पा_V_VAUX रहे_N_NN ।</s>
+<s>सड़क_N_NN हादसों_N_NN पर_PSP लगाम_N_NN लगाने_V_VM के_PSP लिए_PSP मोटर_N_NN व्हीक्ल_N_NN अमेंडमेंट_N_NN बिल_N_NN सख्त_N_NN प्रावधानों_N_NN के_PSP साथ_PSP राज्यसभा_N_NN में_PSP पास_N_NST हो_V_VM गया_V_VAUX ।</s>
+<s>मोटर_N_NN व्हीकल_N_NN बिल_N_NN के_PSP पक्ष_N_NN में_PSP 108_QT_QTC वोट_N_NN पड़े_V_VM वहीं_DM_DMD विपक्ष_N_NN में_PSP 13|</s>
+<s>राज्यसभा_N_NN में_PSP इस_DM_DMD बिल_N_NN के_PSP पारित_N_NN होने_V_VM से_PSP 30_QT_QTC साल_N_NN पुराने_JJ कानून_N_NN में_PSP सुधार_N_NN हुआ_V_VM है_V_VAUX ।</s>
+<s>जिसमें_N_NN आपने_PR_PRP गाड़ी_N_NN चलाते_V_VM हुए_V_VAUX लापहरवाही_N_NN की_PSP तो_RP_RPD चालान_N_NN भी_RP_RPD ज्यादा_N_NN देना_V_VM पड़ेगा_N_NN ।</s>
+<s>माना_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX कि_CC_CCS अगले_N_NN दो-तीन_QT_QTC दिन_N_NN में_PSP वे_DM_DMD भाजपा_N_NN में_PSP शामिल_N_NN हो_V_VM जाएंगे_V_VAUX ।</s>
+<s>इससे_N_NN न_RP_NEG केवल_QT_QTF सपा_N_NN का_PSP गौतमबुद्ध_JJ नगर_N_NN में_PSP अस्तित्व_N_NN समाप्त_N_NN होने_V_VM के_PSP कगार_N_NN पर_PSP पहुंच_V_VM गया_V_VAUX है,_V_VAUX बल्कि_CC_CCD पश्चिमी_N_NNP उत्तर_N_NNP प्रदेश_N_NNP में_PSP सपा_N_NNP के_PSP लिए_PSP संकट_N_NN गहरा_JJ सकता_V_VM है_V_VAUX ।</s>
+<s>कई_N_NNP और_CC_CCD बड़े_JJ नेता_N_NN हो_V_VM सकते_V_VAUX हैं_V_VAUX भाजपा_N_NNP में_PSP शामिल_N_NN | </s>
+<s>गौरतलब_N_NN है_V_VAUX कि_CC_CCS पश्चिमी_N_NNP उत्तर_N_NNP प्रदेश_N_NNP में_PSP जाट_N_NN और_CC_CCD गुर्जर_N_NNP मतदाताओं_N_NN की_PSP बड़ी_JJ संख्या_N_NN है_N_NN ।</s>
+<s>बताया_V_VM जा_V_VAUX रहा_V_VAUX है_V_VAUX कि_CC_CCS उनके_PR_PRP साथ_PSP पश्चिमी_N_NNP उत्तर_N_NNP प्रदेश_N_NNP और_CC_CCD गौतमबुद्ध_N_NNP नगर_N_NN के_PSP कई_QT_QTF और_CC_CCD सपा_N_NN नेता_N_NN भाजपा_N_NN में_PSP शामिल_N_NN हो_V_VM सकते_V_VAUX हैं_N_NN ।</s>
+<s>सुरेंद्र_N_NNP नागर_N_NNP का_PSP गुर्जरों_N_NN में_PSP काफी_QT_QTF वजूद_N_NN माना_V_VM जाता_V_VAUX है_V_VAUX ।</s>
+<s>इससे_JJ भाजपा_N_NN को_PSP दिल्ली_N_NNP और_CC_CCD हरियाणा_N_NNP में_PSP भी_RP_RPD फायदा_N_NN होगा।_N_NN। </s>
+<s>इन_N_NN दोनों_QT_QTC राज्यों_N_NN में_PSP भी_RP_RPD गुर्जर_N_NNP काफी_QT_QTF संख्या_N_NN में_PSP हैं_N_NN ।</s>
+<s>सुरेंद्र_N_NNP नागर_N_NNP 2016_QT_QTC में_PSP सपा_N_NN से_PSP राज्यसभा_N_NN सदस्य_N_NN बने_V_VM थे_N_NN ।</s>
+<s>उनका_N_NN अभी_N_NST तीन_QT_QTC वर्ष_N_NN का_PSP कार्यकाल_N_NN बाकी_N_NN था_N_NN ।</s>
+<s>बताया_V_VM जाता_V_VAUX है_V_VAUX कि_CC_CCS पिछले_N_NST करीब_N_NN 15_QT_QTC दिन_N_NN से_PSP भाजपाई_N_NN उनसे_PR_PRP संपर्क_N_NN कर_V_VM रहे_V_VAUX थे_N_NN ।</s>
+<s>भाजपा_N_NNP हाईकमान_N_NN के_PSP साथ_PSP कई_QT_QTF बार_N_NN की_PSP बैठक_N_NN के_PSP बाद_N_NST शुक्रवार_N_NN को_PSP उन्होंने_PR_PRP सपा_N_NN को_PSP बड़ा_JJ झटका_N_NN दे_V_VM दिया।_V_VAUX </s>
+<s>लोकसभा_N_NN चुनाव_N_NN के_PSP समय_N_NN से_PSP ही_RP_RPD सुरेंद्र_N_NNP नागर_N_NNP के_PSP भाजपा_N_NN में_PSP शामिल_N_NN होने_V_VM की_PSP अटकलें_N_NN लगाई_V_VM जाने_V_VAUX लगी_V_VAUX थीं_N_NN ।</s>
+<s>इसके_N_NN बाद_N_NST उन्होंने_PR_PRP सपा_N_NNP का_PSP दामन_N_NN थाम_V_VM लिया_V_VAUX। </s>
+<s>उस_N_NN समय_N_NN सपा_N_NN में_PSP नरेंद्र_N_NNP भाटी_N_NNP का_PSP एकछत्र_N_NN राज_N_NN चलता_V_VM था_V_VAUX। </s>
+<s>सुरेंद्र_N_NNP नागर_N_NNP के_PSP सपा_N_NN में_PSP आ_V_VM जाने_V_VAUX से_PSP गौतमबुद्ध_JJ नगर_N_NN व_CC_CCD बुलंदशहर_N_NNP में_PSP सपा_N_NN की_PSP राजनीति_N_NN इन्हीं_N_NN दोनों_QT_QTC के_PSP इर्द-गिर्द_N_NST घूमने_V_VM लगी।_V_VAUX। </s>
+<s>इससे_N_NNP अखिलेश_N_NNP यादव_N_NNP के_PSP लिए_PSP मुसीबत_N_NN बढ़ने_V_VM जा_V_VAUX रही_V_VAUX है_N_NN ।</s>
+<s>लोकसभा_N_NN चुनाव_N_NN के_PSP दौरान_N_NN नरेंद्र_N_NNP भाटी_N_NNP के_PSP भी_RP_RPD भाजपा_N_NNP में_PSP शामिल_N_NN होने_V_VM की_PSP चर्चाएं_N_NN हुई_V_VM थीं_V_VAUX। </s>
+<s>उनके_N_NN छोटे_JJ भाई_N_NN व_CC_CCD पूर्व_N_NST जिला_N_NN पंचायत_N_NN अध्यक्ष_N_NN बिजेंद्र_N_NNP भाटी_N_NNP समेत_N_NN कई_QT_QTF अन्य_N_NN नेता_N_NN पार्टी_N_NN छोड़कर_N_NN भाजपा_N_NN में_PSP शामिल_N_NN हो_V_VM गए_V_VAUX थे,_V_VAUX लेकिन_CC_CCD नरेंद्र_N_NNP भाटी_N_NNP भाजपा_N_NNP में_PSP शामिल_N_NN नहीं_RP_NEG हुए_V_VM थे_N_NN ।</s>
+<s>हालांकि,_N_NN उनके_PR_PRP परिवार_N_NN के_PSP लोग_N_NN भाजपा_N_NNP में_PSP शामिल_N_NN हो_V_VM गए_V_VAUX ।</s>
+<s>लोकसभा_N_NN चुनाव_N_NN में_PSP बसपा-सपा_N_NNP प्रत्याशी_N_NNP का_PSP उन्होंने_PR_PRP विरोध_N_NN किया_N_NN ।</s>
+<s>अमेरिका_N_NN की_PSP कॉर्नेल_N_NN यूनिवर्सिटी_N_NN की_PSP असिस्टेंट_JJ प्रोफेसर_N_NN और_CC_CCD टीईएसएस_N_NNP विज्ञान_N_NN टीम_N_NN की_PSP सदस्य_N_NN लिजा_N_NNP कलटेनेगर_N_NNP ने_PSP कहा,_N_NN यह_DM_DMD उत्साहजनक_N_NN है_V_VAUX कि_CC_CCS समीप_N_NN में_PSP पहला_QT_QTO सुपर_N_NN अर्थ_N_NN मिला_V_VM है_V_VAUX ।</s>
+<s>इस_N_NN पर_PSP जीवन_N_NN की_PSP संभावना_N_NN हो_V_VM सकती_V_VAUX है_N_NN ।</s>
+<s>यह_N_NN आकार_N_NN में_PSP हमारी_PR_PRP धरती_N_NN से_PSP बड़ा_JJ है_N_NN ।</s>
+<s>इस_N_NN पर_PSP घना_JJ वातावरण_N_NN देखने_V_VM को_PSP मिला_V_VM है_V_VAUX ।</s>
+<s>जीजे_N_NN 357-डी_N_NN पर_PSP अगर_CC_CCS जीवन_N_NN का_PSP कोई_DM_DMI संकेत_N_NN मिलता_V_VM है_V_VAUX तो_RP_RPD यहां_N_NN पर_PSP हर_QT_QTF किसी_N_NN की_PSP आने_N_NN की_PSP चाहत_N_NN होगी_N_NN ।</s>
+<s>इससे_N_NN इतर_N_NN वैज्ञानिकों_N_NN ने_PSP एक_QT_QTC नए_JJ अध्ययन_N_NN में_PSP दावा_N_NN किया_V_VM है_V_VAUX कि_CC_CCS पृथ्वी_N_NN के_PSP आकार_N_NN वाले_PSP बर्फीले_JJ ग्रहों_N_NN पर_PSP भी_RP_RPD कुछ_QT_QTF क्षेत्र_N_NN रहने_V_VM योग्य_JJ हो_V_VM सकते_V_VAUX हैं_N_NN ।</s>
+<s>वैज्ञानिक_N_NN यह_DM_DMD सोचते_V_VM आए_V_VAUX हैं_V_VAUX कि_CC_CCS पृथ्वी_N_NN जैसे_JJ आकार_N_NN वाले_PSP जमे_V_VM हुए_V_VAUX ग्रहों_N_NN पर_PSP जीवन_N_NN मुमकिन_N_NN ही_RP_RPD नहीं_RP_NEG हो_V_VM सकता_V_VAUX है_V_VAUX क्योंकि_CC_CCD इन|P ग्रहों_N_NN पर_PSP मौजूद_N_NN महासागर_N_NN जमे_V_VM हुए_V_VAUX हैं_V_VAUX और_CC_CCD अत्यधिक_QT_QTF ठंड_N_NN जीवन_N_NN की_PSP संभावनाओं_N_NN को_PSP खत्म_N_NN कर_V_VM देती_V_VAUX है।_V_VAUX </s>
+<s>नया_N_NN अध्ययन_N_NN पुरानी_JJ सोच_N_NN को_PSP चुनौती_N_NN देता_V_VM है_V_VAUX जिसमें|P हमें_PR_PRP यह_DM_DMD लगता_V_VM है_V_VAUX कि_CC_CCS अत्यधिक_RP_INTF ठंडे_JJ और_CC_CCD गर्म_JJ ग्रहों_N_NN में_PSP जीवन_N_NN संभव_N_NN ही_RP_RPD नहीं_RP_NEG हो_V_VM सकता_V_VAUX ।</s>
+<s>जियोफिजिकल_N_NN रिसर्च_N_NN जर्नल_N_NNP में_PSP प्रकाशित_V_VM हुए_V_VAUX नए_JJ अध्ययन_N_NN के_PSP अनुसार,_N_NN बर्फीले_JJ ग्रहों_N_NN की_PSP भूमध्य_JJ रेखाओं_N_NN के_PSP पास_N_NST के_PSP क्षेत्रों_N_NN में_PSP रहने_V_VM योग्य_JJ तापमान_N_NN भी_RP_RPD मौजूद_N_NN हो_V_VM सकता_V_VAUX है_V_VAUX ।</s>
+<s>हर_N_NN साल_N_NN मानसून_N_NN का_PSP मौसम_N_NN शुरू_N_NN होते_V_VM ही_RP_RPD डेंगू,_N_NNP मलेरिया_N_NNP और_CC_CCD चिकनगुनिया_N_NNP जैसी_CC_CCS बीमारी_N_NN अपना_PR_PRF कहर_N_NN बरपाना_V_VM शुरू_N_NN कर_V_VM देती_V_VAUX हैं।_V_VAUX </s>
+<s>खासकर_N_NNP उत्तर_N_NNP भारत_N_NNP में_PSP इन_DM_DMD बीमारियों_N_NN का_PSP प्रकोप_N_NN ज़्यादा_QT_QTF देखा_V_VM गया_V_VAUX है।_V_VAUX </s>
+<s>साल_N_NN दर_N_NN साल_N_NN लाखों_QT_QTC लोग_N_NN मच्छर_N_NN की_PSP वजह_N_NN से_PSP होने_V_VM वाली_PSP इन_DM_DMD बीमारियों_N_NN की_PSP वजह_N_NN अपनी_PR_PRF जान_N_NN गंवा_N_NN बैठते_V_VM हैं_V_VAUX ।</s>
+<s>हालांकि_N_NNP हाल_N_NN ही_RP_RPD की_PSP रिपोर्ट्स_N_NN की_PSP माने_N_NN तो_RP_RPD मच्छर_N_NN से_PSP होने_V_VM वाली_PSP जानलेवा_N_NN बीमारियों_N_NN का_PSP अंत_N_NN अब_N_NST दूर_N_NST नहीं_RP_NEG है।_N_NN </s>
+<s>इसका_N_NN मतलब_N_NN जल्द_N_NN ही_RP_RPD ऐसा_DM_DMD वक्त_N_NN आएगा_V_VM जब|P किसी_DM_DMI को_PSP भी_RP_RPD डेंगू,_N_NNP मलेरिया_N_NNP जैसी_N_NN बीमारियां_N_NN नही_RP_NEG होंगी।_V_VM </s>
+<s>इस_N_NN समय_N_NN भारत_N_NNP और_CC_CCD खासकर_N_NN दिल्ली_N_NNP और_CC_CCD उसके_PR_PRP आसपास_N_NST बरसात_N_NN का_PSP मौसम_N_NN चल_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>बारिश_N_NN का_PSP मौसम_N_NN गर्मी_N_NN से_PSP राहत_N_NN के_PSP साथ_PSP डेंगू_N_NNP और_CC_CCD मलेरिया_N_NNP जैसी_N_NN खतरनाक_JJ बीमारियों_N_NN भी_RP_RPD लेकर_V_VM आता_V_VM है_V_VAUX ।</s>
+<s>डेंगू_N_NNP का_PSP मच्छर_N_NN मानसून_N_NN में_PSP ही_RP_RPD पैदा_N_NN होता_V_VM है_V_VAUX। </s>
+<s>इस_N_NN मौसम_N_NN में_PSP खासकर_JJ डॉक्टरों_N_NN से_PSP लेकर_V_VM नगर_N_NN निगम_N_NN सभी_QT_QTF को_PSP मच्छरों_N_NN को_PSP दूर_N_NN रखने_V_VM और_CC_CCD उससे_PR_PRP होने_V_VM वाली_PSP बीमारियों_N_NN से_PSP बचने_V_VM की_PSP सलाह_N_NN देते_V_VM हैं_V_VAUX। </s>
+<s>इस_DM_DMD मौसम_N_NN के_PSP साथ_PSP एक_QT_QTC खबर_N_NN बड़ी_JJ तेज़ी_N_NN से_PSP वायरल_N_NN होना_V_VM शुरू_N_NN हुई_N_NN। </s>
+<s>वह_N_NN यह_DM_DMD कि_CC_CCS अब_N_NST देश_N_NN से_PSP डेंगू_N_NNP मच्छर_N_NN का_PSP नामो_N_NN निशान_N_NN ही_RP_RPD मिट_V_VM जाएगा_V_VAUX। </s>
+<s>इस_N_NN खबर_N_NN को_PSP सुनकर_V_VM लोगों_N_NN को_PSP सुकून_N_NN ज़रूर_JJ पहुंचा_V_VM होगा_V_VAUX क्योंकि_CC_CCS मच्छर_N_NN से_PSP होने_V_VM वाली_PSP इन_DM_DMD बीमारियों_N_NN के_PSP लिए_PSP कोई_DM_DMI खास_JJ दवा_N_NN नहीं_RP_NEG है_V_VAUX और_CC_CCD न_RP_NEG ही_RP_RPD किसी_DM_DMI तरह_N_NN का_PSP टीका।_N_NN </s>
+<s>इलाज_N_NN के_PSP दौरान_N_NN अगर_CC_CCS जेब_N_NN खाली_JJ हो_V_VM जाती_V_VAUX है_V_VAUX तो_RP_RPD जान_N_NN पर_PSP भी_RP_RPD बन_V_VM सकती_V_VAUX है_N_NN। </s>
+<s>अगले_N_NN 60_QT_QTC साल_N_NN में_PSP ऐसा_DM_DMD मुमकिन_N_NN है_V_VAUX कि_CC_CCS डेंगू_N_NNP के_PSP मच्छर_N_NN ग्लोबल_N_NN वॉर्मिंग_N_NN की_PSP वजह_N_NN से_PSP भारत_N_NNP की_PSP गर्मी_N_NN बर्दाश्त_N_NN ही_RP_RPD न_RP_NEG कर_V_VM पाएं_V_VAUX और_CC_CCD खत्म_N_NN हो_V_VM जाएं_V_VAUX। </s>
+<s>दरअसल,_N_NNP डेंगू_N_NNP वायरस_N_NN फैलाने_N_NN वाले_PSP एडिस_N_NN मच्छर_N_NN भारत_N_NNP की_PSP गर्मी_N_NN ही_RP_RPD नहीं_RP_NEG झेल_N_NN पाएंगे_N_NN। </s>
+<s>भारत_N_NN का_PSP मौसम_N_NN इतना_QT_QTF खराब_JJ हो_V_VM जाएगा_V_VAUX कि_CC_CCS इन_DM_DMD मच्छरों_N_NN की_PSP पैदावार_N_NN रूक_N_NN जाएगी_N_NN ।</s>
+<s>अक्षरा_N_NNP और_CC_CCD पवन_N_NN रील_N_NN लाइफ_N_NN के_PSP अलावा_N_NN रियल_N_NN लाइफ_N_NN में_PSP भी_RP_RPD कपल_N_NN रह_V_VM चुके_V_VAUX |</s>
+<s>पवन_N_NNP सिंह_N_NNP ने_PSP जब|P शादी_N_NN की_PSP तब_N_NN दोनों_N_NN का_PSP रिश्ता_N_NN खत्म_N_NN हो_V_VM गया_V_VAUX |</s>
+<s>अक्षरा_N_NNP ने_PSP अब_N_NST अपने_PR_PRF रिलेशनशिप_N_NN के_PSP बारे_N_NN में_PSP बताने_N_NN का_PSP मन_N_NN बनाया_V_VM है_V_VAUX | </s>
+<s>अक्षरा_N_NNP सिंह_N_NNP ने_PSP यह_DM_DMD भी_RP_RPD कहा_V_VM कि_CC_CCS उन्होंने_PR_PRP पवन_N_NN सिंह_N_NN का_PSP बुरे_JJ समय_N_NN में_PSP बहुत_QT_QTF साथ_N_NN दिया_V_VM है_V_VAUX|</s>
+<s>एयरपोर्ट_N_NN पर_PSP पवन_N_NN सिंह_N_NN का_PSP बैग_N_NN वह_PR_PRP उठाती_V_VM थी_V_VAUX और_CC_CCD पुलिस_N_NN के_PSP सामने_N_NST रोती_V_VM थी_V_VAUX ताकि_CC_CCS उन्हें_PR_PRP जाने_V_VM दिया_V_VAUX जाएl_V_VAUX पवन_N_NN सिंह_N_NN के_PSP साथ_PSP जब|P वह_PR_PRP रिश्ते_N_NN में_PSP थी_V_VAUX तब_CC_CCS उन्होंने_PR_PRP बहुत_RP_INTF खराब_JJ परिस्थितियों_N_NN का_PSP सामना_N_NN किया_V_VM है_V_VAUX | </s>
+<s>अक्षरा_N_NNP सिंह_N_NNP ने_PSP आगे_N_NST बताते_V_VM हुए_V_VAUX यह_DM_DMD भी_RP_RPD कहा_V_VM कि_CC_CCS उनका_PR_PRP और_CC_CCD पवन_N_NN सिंह_N_NN का_PSP रिश्ता_N_NN बहुत_RP_INTF ही_RP_RPD खराब_JJ नोट_N_NN पर_PSP समाप्त_N_NN हुआ_V_VM है_V_VAUX | </s>
+<s>ब्रेकअप_N_NN के_PSP दौरान_N_NN पवन_N_NN सिंह_N_NN ने_PSP उन्हें_PR_PRP जान_N_NN से_PSP मारने_V_VM की_PSP धमकी_N_NN दी_V_VM थी_V_VAUX और_CC_CCD यह_DM_DMD भी_RP_RPD कहा_V_VM था_V_VAUX कि_CC_CCS उन्हें_PR_PRP भोजपुरी_N_NNP फिल्म_N_NN में_PSP काम_N_NN नहीं_RP_NEG मिलेगा_V_VM | </s>
+<s>द_N_NNP लॉयन_N_NNP किंग_N_NNP हॉलीवुड_N_NNP एनिमेशन_N_NNP फिल्म_N_NN है_V_VAUX जो|P लगातार_RB अच्छा_JJ प्रदर्शन_N_NN करती_V_VM हुई_V_VAUX आगे_N_NST बढ़_V_VM रही_V_VAUX है_N_NN। </s>
+<s>गुरुवार_N_NN को_PSP फिल्म_N_NN ने_PSP लगभग_QT_QTF 5_QT_QTC करोड़_QT_QTC रुपये_N_NN की_PSP और_CC_CCD कमाई_N_NN कर_V_VM ली_V_VAUX है_V_VAUX ।</s>
+<s>अब_N_NN फिल्म_N_NN ने_PSP कलेक्शन_N_NN करीब_N_NN 135_QT_QTC करोड़_QT_QTC रुपये_N_NN हासिल_N_NN कर_V_VM लिया_V_VAUX है_V_VAUX ।</s>
+<s>10_N_NN दिनों_N_NN में_PSP 100_QT_QTC करोड़_N_NN का_PSP आंकड़ा_JJ पार_N_NN करने_V_VM वाली_PSP फिल्म_N_NN द_N_NNP लॉयन_N_NNP किंग_N_NNP की_PSP रफ्तार_N_NN अच्छी_JJ बनी_V_VM हुई_V_VAUX है_N_NN ।</s>
+<s>यह_N_NN सप्ताह_N_NN भी_RP_RPD फिल्म_N_NN के_PSP लिए_PSP अच्छा_JJ रहा_N_NN ।</s>
+<s>अब_N_NN वीकेंड_N_NN पर_PSP फिल्म_N_NN के_PSP अच्छे_JJ प्रदर्शन_N_NN के_PSP कयास_N_NN लगाये_V_VM जा_V_VAUX रहे_V_VAUX हैं_N_NN ।</s>
+<s>फिल्म_N_NNP द_N_NNP लॉयन_N_NNP किंग_N_NNP 2019_QT_QTC बॉक्स_N_NN ऑफिस_N_NN पर_PSP दूसरी_QT_QTO सबसे_RP_INTF ज्यादा_QT_QTF कमाई_N_NN करने_V_VM वाली_PSP हॉलीवुड_N_NN फिल्म_N_NN बन_V_VM गई_V_VAUX है_N_NN ।</s>
+<s>इससे_N_NN आगे_N_NST एवेंजर्स_N_NNP एंडगेम_N_NNP ही_RP_RPD है,_V_VAUX जिसने|P भारतीय_JJ बॉक्स_N_NN ऑफ़िस_N_NN पर_PSP कमाई_N_NN का_PSP नया_JJ रिकॉर्ड_N_NN कायम_N_NN किया_N_NN ।</s>
+<s>फिल्म_N_NNP ने_PSP 11.06_QT_QTC करोड़_N_NN की_PSP ओपनिंग_N_NN ली_V_VM थी_V_VAUX ।</s>
+<s>फिल्म_N_NNP द_N_NNP लॉयन_N_NNP किंग_N_NNP ने_PSP पहले_QT_QTC सप्ताह_N_NN में_PSP 81.57_QT_QTC करोड़_QT_QTC रुपये_N_NN और_CC_CCD दूसरे_QT_QTO सप्ताह_N_NN में_PSP 32.70_QT_QTC करोड़_QT_QTC रुपये_N_NN की_PSP कमाई_N_NN की_PSP थी_N_NN ।</s>
+<s>आपको_N_NN बता_V_VM दें_V_VAUX कि_CC_CCS इस_DM_DMD लाइव_N_NN एनीमेशन_N_NN फिल्म_N_NN में_PSP शाहरुख_N_NNP खान_N_NNP और_CC_CCD उनके_PR_PRP बेटे_N_NN आर्यन_N_NNP खान_N_NNP ने_PSP मुख्य_JJ किरदारों_N_NN मुफासा_N_NNP और_CC_CCD सिम्बा_N_NN को_PSP आवाज_N_NN दी_V_VM है_V_VAUX ।</s>
+<s>फिल्म_N_NNP द_N_NNP लॉयन_N_NNP किंग_N_NNP के_PSP अलावा_N_NN हॉलीवुड_N_NNP फिल्म_N_NNP स्पाइडरमैन_N_NNP फार_N_NNP फ्रॉम_N_NNP होम_N_NNP सिनेमाघरों_N_NN में_PSP है_N_NN ।</s>
+<s>इसके_N_NN साथ_PSP बॉलीवुड_N_NN फिल्में_N_NN जजमेंटल_N_NN है_V_VM क्या,_N_NN खानदानी_N_NN शफाखाना_N_NN और_CC_CCD अर्जुन_N_NNP पटियाला_N_NNP भी_RP_RPD सिनेमाघरों_N_NN में_PSP हैं।_V_VAUX ऐसे_DM_DMD में_PSP दर्शकों_N_NN के_PSP पास_N_NST कई_QT_QTF ऑप्शंस_N_NN अवेलेवल_N_NN हैं_V_VAUX। </s>
+<s>करना_V_VM चाहते_V_VAUX हैं_V_VAUX हवाई_N_NN सफर_N_NN तो_RP_RPD आपके_PR_PRP लिए_PSP अच्छी_JJ खबर_N_NN है_N_NN। </s>
+<s>जनाब_N_NN अब_N_NST आप_PR_PRP ट्रेन_N_NN के_PSP टिकट_N_NN से_PSP भी_RP_RPD कम_QT_QTF दाम_N_NN में_PSP हवाई_N_NN टिकट_N_NN ले_V_VM सकते_V_VAUX हैं_V_VAUX। </s>
+<s>इसकी_JJ जानकारी_N_NN खुद_PR_PRF एयर_N_NN इंडिया_N_NN की_PSP क्षेत्रीय_N_NN इकाई_N_NN एलायंस_N_NNP एयर_N_NNP ने_PSP दी_V_VM है_V_VAUX ।</s>
+<s>एलायंस_N_NNP एयर_N_NNP ने_PSP हवाई_N_NN टिकट_N_NN की_PSP कीमतें_N_NN 990_QT_QTC रूपये_N_NN से_PSP शुरू_N_NN की_PSP हैं_N_NN ।</s>
+<s>ध्यान_N_NN देने_V_VM वाली_PSP बात_N_NN यह_DM_DMD है_V_VAUX कि_CC_CCS ये_DM_DMD स्कीम_N_NN सीमित_JJ समय_N_NN के_PSP लिए_PSP है_N_NN ।</s>
+<s>स्वतंत्रता_N_NN दिवस_N_NN के_PSP मौके_N_NN पर_PSP एलायंस_N_NNP एयर_N_NNP ने_PSP ये_DM_DMD स्कीम_N_NN जारी_N_NN की_PSP है_N_NN ।</s>
+<s>एलायंस_N_NNP एयर_N_NNP ने_PSP खुद_PR_PRF एक_QT_QTC बयान_N_NN में_PSP कहा_V_VM है_V_VAUX कि_CC_CCS स्वतंत्रता_N_NN दिवस_N_NN सेल_N_NN कार्निवाल_N_NN के_PSP तहत_N_NN ट्रेन_N_NN के_PSP किराये_N_NN से_PSP भी_RP_RPD कम_QT_QTF दाम_N_NN पर_PSP एयर_N_NN टिकट_N_NN उपलब्ध_N_NN कराए_V_VM जा_V_VAUX रहे_V_VAUX हैं_N_NN ।</s>
+<s>इसका_N_NN लाभ_N_NN वह_PR_PRP यात्री_N_NN भी_RP_RPD उठा_V_VM सकेंगे_V_VAUX जो|P ट्रेन_N_NN से_PSP सफर_N_NN करते_V_VM हैं_V_VAUX ।</s>
+<s>एयर_N_NN लाइन_N_NN ने_PSP बताया_V_VM कि_CC_CCS ये_DM_DMD स्कीम_N_NN महज_N_NN सात_QT_QTC दिन_N_NN के_PSP लिए_PSP है_N_NN ।</s>
+<s>जिसमें_N_NN आप_PR_PRP तीन_QT_QTC अगस्त_N_NN से_PSP नौ_QT_QTC अगस्त_N_NNP तक_PSP टिकट_N_NN बुक_V_VM कर_V_VAUX सकते_V_VAUX हैं।_V_VAUX इसके|P बाद_N_NST आप_PR_PRP 3_QT_QTC अगस्त_N_NN से_PSP लेकर_V_VM 30_QT_QTC सितंबर_N_NN के_PSP बीच_N_NST कभी_N_NST भी_RP_RPD यात्रा_N_NN कर_V_VM सकते_V_VAUX हैं_V_VAUX। </s>
+<s>जानकारी_N_NN के_PSP लिए_PSP बता_V_VM दें_V_VAUX कि_CC_CCS एलायंस_N_NN अभी_N_NST रोजाना_N_NN 53_QT_QTC गंतव्यों_N_NN के_PSP लिए_PSP 110_QT_QTC फ्लाइट_N_NN ऑपरेट_N_NN करती_V_VM है_V_VAUX। <s/>
+<s>इनमें_N_NN शिमला,_N_NN कोल्हापुर,_N_NNP पंतनगर,_N_NNP बठिंडा,_N_NNP लुधियाना,_N_NNP ग्वालियर,_N_NNP बीकानेर_N_NNP के_PSP अलावा_CC_CCD कुल्लू,_N_NNP कोचिन,_N_NNP मैसूर,_N_NNP दियू_N_NNP आदी_N_NNP जगह_N_NN शामिल_N_NN हैं_V_VAUX। </s>
+<s>ऐसा_N_NNP पहली_QT_QTO बार_N_NN नहीं_RP_NEG है_V_VAUX जब|P इस_DM_DMD तरह_N_NN की_PSP स्कीम_N_NN किसी_DM_DMI एयरलाइंस_N_NN ने_PSP जारी_N_NN की_PSP हो_N_NN। </s>
+<s>इससे_N_NN पहले_N_NST भी_RP_RPD देश_N_NN की_PSP सबसे_RP_INTF बड़ी_JJ एयरलाइन_N_NN कंपनी_N_NN इंडिगो_N_NNP ने_PSP सस्ते_JJ हवाई_N_NN किराये_N_NN वाली_PSP स्कीम_N_NN का_PSP एलान_N_NN किया_V_VM था_V_VAUX ।</s>
+<s>कंपनी_N_NN के_PSP ऑफर_N_NN के_PSP मुताबिक_N_NN तब_CC_CCS उन्होंने_PR_PRP घरेलू_N_NN हवाई_N_NN सफर_N_NN का_PSP शुरुआती_N_NN किराया_N_NN 999_QT_QTC रुपये_N_NN है_N_NN ।</s>
+<s>सात_N_NN ही_RP_RPD कंपनी_N_NN ने_PSP अंतरराष्ट्रीय_N_NN रूट_N_NN के_PSP लिए_PSP किराये_N_NN की_PSP कीमतें_N_NN 3,499_QT_QTC रुपये_N_NN रखी_V_VM गई_V_VAUX है_V_VAUX। </s>
+<s>एनिवर्सरी_N_NN सेल_N_NN के_PSP तहत_N_NN टिक_JJ बुकिंग_N_NN 31_QT_QTC जुलाई_N_NNP से_PSP लेकर_V_VM 4_QT_QTC अगस्त_N_NNP 2019_QT_QTC तक_PSP कराई_V_VM जा_V_VAUX सकती_V_VAUX है_N_NN ।</s>
+<s>इसके_N_NN बाद_N_NST आप_PR_PRP 15_QT_QTC अगस्त_N_NNP से_PSP लेकर_V_VM 28_QT_QTC मार्च_N_NN 2020_QT_QTC के_PSP बीच_N_NST यात्रा_N_NN कर_V_VM सकते_V_VAUX है_V_VAUX ।</s>
+<s>बॉलीवडु_N_NNP एक्ट्रेस_N_NNP मलाइका_N_NNP अरोड़ा_N_NNP अपनी_PR_PRF फिटनेस_N_NN और_CC_CCD अर्जुन_N_NNP कपूर_N_NNP से_PSP रिश्ते_N_NN को_PSP लेकर_V_VM अक्सर_N_NN चर्चा_N_NN में_PSP रहती_V_VM हैं_V_VAUX। </s>
+<s>हालांकि_CC_CCS उन्हें_PR_PRP सोशल_JJ मीडिया_N_NN पर_PSP इसी_DM_DMD वजह_N_NN से_PSP काफी_QT_QTF ट्रोल_N_NN भी_RP_RPD किया_V_VM जाता_V_VAUX है,_V_VAUX लेकिन_CC_CCS एक्ट्रेस_N_NN को_PSP इस_DM_DMD बात_N_NN से_PSP कोई_DM_DMI फर्क_N_NN नहीं_RP_NEG पड़ता_N_NN ।</s>
+<s>इंस्टाग्राम_N_NN पर_PSP मलाइका_N_NN काफी_QT_QTF एक्टिव_N_NN हैं_N_NN ।</s>
+<s>अपनी_N_NN फोटोज_N_NN और_CC_CCD वीडियो_N_NN वो_N_NN अक्सर_N_NN इंस्टाग्राम_N_NN पर_PSP शेयर_N_NN करती_V_VM रहती_V_VAUX हैं_N_NN ।</s>
+<s>अब_N_NN मलाइका_N_NN की_PSP नई_JJ तस्वीरों_N_NN ने_PSP सोशल_N_NNP मीडिया_N_NN पर_PSP आग_N_NN लगा_V_VM दी_V_VAUX है_V_VAUX। </s>
+<s>इस_N_NN नए_JJ फोटोशूट_N_NN में_PSP मलाइका_N_NN काफी_QT_QTF फिट_N_NN और_CC_CCD हॉट_N_NN लग_V_VM रही_V_VAUX हैं।_V_VAUX </s>
+<s>फैंस_N_NN भी_RP_RPD उनके_PR_PRP इस_DM_DMD अंदाज_N_NN की_PSP काफी_QT_QTF तारीफ_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX ।</s>
+<s>फोटो_N_NNP में_PSP मलाइका_N_NN समंदर_N_NN किनारे_N_NN बैठी_V_VM हैं_V_VAUX ।</s>
+<s>उन्होंने_N_NN ब्लैक_N_NN कलर_N_NN की_PSP ड्रैस_N_NN पहनी_V_VM हुई_V_VAUX है_N_NN ।</s>
+<s>मलाइका_N_NNP अरोड़ा_N_NNP की_PSP फोटोज_N_NN आए_V_VM दिन_N_NN सोशल_N_NN मीडिया_N_NN पर_PSP वायरल_N_NN होती_V_VM रहती_V_VAUX हैं_N_NN ।</s>
+<s>कुछ_QT_QTF दिन_N_NN पहले_N_NST मालदीव_N_NNP से_PSP उनकी_PR_PRP तस्वीरें_N_NN वायरल_N_NN हुई_V_VM थीं_V_VAUX जिनमें|P वो_PR_PRP समंदर_N_NN किनारे_N_NN आराम_N_NN वरमाती_JJ नजर_N_NN आ_V_VM रही_V_VAUX थीं।_N_NN </s>
+<s>इसके_N_NN अलावा_N_NN मलाइका_N_NN फिलहाल_N_NN करण_N_NN जौहर_N_NNP की_PSP पार्टी_N_NN को_PSP लेकर_V_VM भी_RP_RPD चर्चा_N_NN में_PSP हैं।_V_VAUX </s>
+<s>कुछ_QT_QTF दिन_N_NN पहले_N_NST करण_N_NN ने_PSP अपने_PR_PRF इंस्टाग्राम_N_NN पर_PSP एक_QT_QTC वीडियो_N_NN शेयर_N_NN किया_V_VM था_V_VAUX जिसमें|P मलाइका,_N_NNP अर्जुन_N_NNP कपूर,_N_NNP दीपिका_N_NNP पादुकोण,_N_NNP शाहिद_N_NNP कपूर,_N_NNP समेत_N_NN कई_QT_QTF स्टार्स_N_NN नजर_N_NN आ_V_VM रहे_V_VAUX थे_N_NN ।</s>
+<s>जम्मू-कश्मीर_N_NNP के_PSP त्राल_N_NN में_PSP बादल_N_NN फट_V_VM गया_V_VAUX ।</s>
+<s>इससे_JJ इलाके_N_NN के_PSP स्कूल_N_NN और_CC_CCD घरों_N_NN को_PSP भारी_JJ नुकसान_N_NN हुआ_V_VM है।_V_VAUX </s>
+<s>बादल_N_NN फटने_V_VM से_PSP बिजली_N_NN और_CC_CCD पानी_N_NN की_PSP सेवाएं_N_NN भी_RP_RPD प्रभावित_N_NN हुई_V_VM हैं।_V_VAUX </s>
+<s>जानकारी_N_NN के_PSP अनुसार_N_NN कश्मीर_N_NNP के_PSP जिला_N_NN बांडीपोरा_N_NNP के_PSP हाजिननाढ़_N_NN इलाके_N_NN में_PSP सुबह_N_NN बादल_N_NN फटने_V_VM से_PSP स्कूल_N_NN की_PSP इमारत,_N_NN एक_QT_QTC मकान_N_NN ध्वस्त_N_NN हुआ_V_VM है।_V_VAUX </s>
+<s>यह_N_NN मकान_N_NN बशीर_N_NNP अहमद_N_NNP का_PSP है_V_VAUX जो|P पूरी_JJ तरह_N_NN से_PSP ध्वस्त_N_NN हो_V_VM गया_V_VAUX है।_V_VAUX </s>
+<s>इसके_N_NN अलावा_CC_CCD इस_DM_DMD गांव_N_NN की_PSP ओर_N_NN जाने_V_VM वाली_PSP सड़क_N_NN भी_RP_RPD एक_QT_QTC ओर_N_NN से_PSP बह_V_VM गई_V_VAUX है_V_VAUX ।</s>
+<s>जानकारी_N_NN हो_V_VM कि_CC_CCS जम्मू-कश्मीर_N_NNP के_PSP त्राल_N_NN में_PSP बादल_N_NN फट_V_VM गया।_V_VAUX </s>
+<s>इससे_JJ इलाके_N_NN के_PSP स्कूल_N_NN और_CC_CCD घरों_N_NN को_PSP भारी_JJ नुकसान_N_NN हुआ_V_VM है।_V_VAUX </s>
+<s>बादल_N_NN फटने_V_VM से_PSP बिजली_N_NN और_CC_CCD पानी_N_NN की_PSP सेवाएं_N_NN भी_RP_RPD प्रभावित_N_NN हुई_V_VM हैं,_V_VAUX साथ_PSP ही_RP_RPD आम_JJ जनजीवन_N_NN अस्त-व्यस्त_JJ हो_V_VM गया_V_VAUX है_V_VAUX ।</s>
+<s>बादल_N_NN फटने_V_VM की_PSP वजह_N_NN से_PSP हाजिननाढ़_N_NN गांव_N_NN सबसे_RP_INTF ज्यादा_QT_QTF प्रभावित_N_NN हुआ_V_VM है।_V_VAUX </s>
+<s>दक्षिण_N_NNP पुलवामा_N_NNP के_PSP त्राल_N_NN में_PSP हुए_V_VM इस_DM_DMD प्राकृतिक_JJ आपदा_N_NN की_PSP वजह_N_NN से_PSP लोगों_N_NN को_PSP खासी_JJ दिक्कतों_N_NN का_PSP सामना_N_NN करना_V_VM पड़_V_VAUX रहा_V_VAUX है_V_VAUX ।</s>
+<s>दुनिया_N_NNP में_PSP सैकड़ों_N_NN ऐसे_DM_DMD लोग_N_NN हैं_V_VAUX जो|P अपने_PR_PRF बढ़ते_JJ वजन_N_NN से_PSP परेशान_N_NN हैं।_V_VAUX </s>
+<s>मोटापे_N_NN से_PSP छुटकारा_N_NN पाने_V_VM के_PSP लिए_PSP इंसान_N_NN क्या_PR_PRQ कुछ_QT_QTF नहीं_RP_NEG करता|डॉक्टर_N_NN की_PSP दवाइयों_N_NN से_PSP लेकर_V_VM आयुर्वेदिक_N_NN और_CC_CCD वर्कआउट_N_NN को_PSP अपनाता_V_VM है।_V_VAUX </s>
+<s>अदरक_N_NN में_PSP फैट_N_NN कम_QT_QTF करने_V_VM की_PSP गज़ब_N_NN की_PSP शक्ति_N_NN है।_N_NN </s>
+<s>अदरक_N_NN ब्लड_N_NN शुगर_N_NN में_PSP अचानक_JJ बढ़ोतरी_V_VM को_PSP रोकने_V_VM में_PSP मदद_N_NN करता_V_VM है,_V_VAUX और_CC_CCD इससे|P शरीर_N_NN के_PSP वजन_N_NN के_PSP साथ_PSP ही_RP_RPD पेट_N_NN की_PSP चर्बी_N_NN भी_RP_RPD कम_QT_QTF होती_V_VM है_V_VAUX ।</s>
+<s>खाने_N_NN में_PSP लहसुन_N_NN से_PSP स्वाद_N_NN और_CC_CCD भी_RP_RPD ज्यादा_QT_QTF बढ़_V_VM जाता_V_VAUX है_V_VAUX ।</s>
+<s>साथ_N_NN ही_RP_RPD लहसुन_N_NN शरीर_N_NN में_PSP जमा_JJ फैट_N_NN को_PSP भी_RP_RPD कम_QT_QTF करता_V_VM है_V_VAUX ।</s>
+<s>साथ_N_NN ही_RP_RPD लहसुन_N_NN शरीर_N_NN के_PSP तापमान_N_NN को_PSP बढ़ाकर_V_VM फैट_N_NN तेज़ी_N_NN से_PSP घटाता_V_VM है_V_VAUX ।</s>
+<s>लहसुन_N_NNP ब्लड_N_NN प्रेशर,_N_NN सीने_N_NN में_PSP जलन,_N_NN हृदय_N_NN रोग_N_NN और_CC_CCD ऑस्टियो_N_NN अर्थराइटिस_N_NN जैसी_N_NN बीमारियों_N_NN से_PSP भी_RP_RPD बचाता_V_VM है_V_VAUX ।</s>
+<s>वैसे_N_NN तो_RP_RPD जीरे_N_NN में_PSP कई_QT_QTF गुण_N_NN हैं,_V_VAUX लेकिन_CC_CCS क्या_PR_PRQ आप_PR_PRP जानते_V_VM हैं_V_VAUX कि_CC_CCS एक_QT_QTC चम्मच_N_NN जीरे_N_NN में_PSP शरीर_N_NN के_PSP तीन_QT_QTC गुना_N_NN फैट_N_NN को_PSP बर्न_N_NN करने_V_VM की_PSP क्षमता_N_NN होती_V_VM है_V_VAUX ।</s>
+<s>जीरा_N_NN हमारे_PR_PRP शरीर_N_NN के_PSP मैटाबॉलिज्म_N_NN सिस्टम_N_NN को_PSP भी_RP_RPD सही_N_NN बनाए_V_VM रखता_V_VAUX है_V_VAUX ।</s>
+<s>अगर_N_NN हम_PR_PRP बेवक्त_JJ और_CC_CCD बेहिसाब_N_NN खाने_V_VM को_PSP कंट्रोल_N_NN कर_V_VM लें_V_VAUX तो_CC_CCS भी_RP_RPD काफी_QT_QTF हद_N_NN तक_PSP वजन_N_NN कम_JJ किया_V_VM जा_V_VAUX सकता_V_VAUX है।_N_NN </s>
+<s>मेथी_N_NN के_PSP बीज_N_NN आपकी_PR_PRP इस_DM_DMD समस्या_N_NN का_PSP इलाज_N_NN हैं।_V_VAUX </s>
+<s>अगर_N_NN आपको_PR_PRP अपनी_PR_PRF भूख_N_NN को_PSP शांत_JJ करने_V_VM में_PSP मुश्किल_N_NN आ_V_VM रही_V_VAUX है_V_VAUX तो_RP_RPD आपको_PR_PRP मेथी_N_NN के_PSP बीज_N_NN का_PSP उपयोग_N_NN ज़रूर_N_NN करना_V_VM चाहिए_V_VAUX ।</s>
+<s>मच्छरों_N_NN को_PSP भगाने_V_VM के_PSP लिए_PSP नींबू_N_NN और_CC_CCD नीलगिरी_N_NNP के_PSP तेल_N_NN को_PSP बराबर_JJ मात्रा_N_NN में_PSP मिलाएं_V_VM और_CC_CCD साथ_N_NN ही_RP_RPD जैतून,_N_NN नारयिल,_N_NN ऐवोकाडो_N_NN या_CC_CCD रोज़मैरी_JJ तेल_N_NN मिलाकर_V_VM एक_QT_QTC स्प्रे_N_NN वाली_PSP शीशी_N_NN में_PSP भर_V_VM लें_V_VAUX ।</s>
+<s>अब_N_NN इसे_DM_DMD अपने_PR_PRF ऊपर_N_NST स्प्रे_N_NN कर_V_VM लें।_V_VAUX इससे_DM_DMD मच्छर_N_NN आपसे_PR_PRP दूर_N_NN ही_RP_RPD रहेंगे_N_NN ।</s>
+<s>मच्छरों_N_NN को_PSP भगाने_V_VM के_PSP लिए_PSP नारियल_N_NN के_PSP तेल_N_NN में_PSP पुदीना_N_NN मिलाकर_V_VM एक_QT_QTC स्प्रे_N_NN बोटल_N_NN में_PSP भर_V_VM लें_V_VAUX ।</s>
+<s>पुदीने_N_NN का_PSP तेल_N_NN मच्छरों_N_NN को_PSP भगाने_V_VM में_PSP बेहद_RP_INTF असरदार_JJ साबित_N_NN होता_V_VM है_V_VAUX ।</s>
+<s>डेविड_N_NN धवन_N_NN के_PSP बेटे_N_NN वरुण_N_NN धवन_N_NN को_PSP कौन_PR_PRQ नहीं_RP_NEG जानता_V_VM ।</s>
+<s>फिल्मों_N_NN में_PSP बेहतरीन_JJ अभिनय_N_NN करके_V_VM वरुण_N_NN ने_PSP बड़ी_JJ फैन_N_NN फॉलोविंग_N_NN क्रिएट_N_NN कर_V_VM ली_V_VAUX है_V_VAUX और_CC_CCD उनकी_PR_PRP फिल्मों_N_NN को_PSP दर्शकों_N_NN का_PSP खूब_JJ प्यार_N_NN मिलता_V_VM है।_V_VAUX </s>
+<s>वरुण_N_NN की_PSP पर्सनॉलिटी_N_NN भी_RP_RPD किसी_DM_DMI से_PSP कम_QT_QTF नहीं_RP_NEG है।_N_NN लेकिन_CC_CCS क्या_PR_PRQ आपको_PR_PRP पता_N_NN है_V_VAUX वरुण_N_NN धवन_N_NN के_PSP भाई_N_NN भी_RP_RPD किसी_DM_DMI से_PSP कम_QT_QTF नहीं_RP_NEG हैं_V_VM ।</s>
+<s>हम_N_NN बात_N_NN कर_V_VM रहे_V_VAUX हैं_V_VAUX डेविड_N_NNP धवन_N_NNP के_PSP बेटे_N_NN और_CC_CCD वरुण_N_NN धवन_N_NN के_PSP भाई_N_NN रोहित_JJ धवन_N_NN की।_N_NN </s>
+<s>भले_N_NN ही_RP_RPD मीडिया_N_NN के_PSP सामने_N_NST रोहित_N_NN कम_QT_QTF आते_V_VM हों_V_VAUX या_CC_CCD लाइम_N_NN लाइट_N_NN में_PSP कम_QT_QTF रहते_V_VM हैं_V_VAUX लेकिन_CC_CCS उनकी_PR_PRP तस्वीरों_N_NN को_PSP देखकर_V_VM लगेगा_V_VAUX कि_CC_CCS वे_DM_DMD फिटनेस_N_NN फ्रीक_N_NN हैं_V_VM और_CC_CCD उतने_PR_PRP ही_RP_RPD स्मार्ट_N_NN और_CC_CCD डैशिंग_N_NN हैं_V_VM जितने|P कि_CC_CCS उनकी_PR_PRP भाई_N_NN वरुण_N_NN धवन_N_NN ।</s>
+<s>दरअसल_N_NNP हाल_N_NN ही_RP_RPD में_PSP मुंबई_N_NNP के_PSP जुहू_N_NNP इलाके_N_NN में_PSP रोहित_N_NN धवन_N_NN पत्नी_N_NN संग_N_NN स्पॉट_N_NN किए_V_VM गए।_N_NN दोनों_QT_QTC ने_PSP व्हाइट_N_NN और_CC_CCD ब्लू_N_NN कलर_N_NN कॉम्पीटिशन_N_NN में_PSP ड्रेसअप_N_NN किया_V_VM हुआ_V_VAUX था।_N_NN </s>
+<s>फिल्मी_N_NN दुनिया_N_NN की_PSP बात_N_NN करें_V_VM तो_RP_RPD रोहित_N_NN ने_PSP देसी_JJ वॉयज_N_NN फिल्म_N_NN को_PSP डायरेक्ट_JJ किया_V_VM था_V_VAUX ।</s>
+<s>यह_N_NN उनकी_PR_PRP पहली_QT_QTO डेब्यू_N_NNP डायरेक्शनल_N_NNP फिल्म_N_NN थी_N_NN ।</s>
+<s>इस_N_NN फिल्म_N_NN में_PSP अक्षय_N_NNP कुमार_N_NNP और_CC_CCD जॉन_N_NNP एब्राहम_N_NNP की_PSP अहम_JJ भूमिका_N_NN थी_V_VM ।</s>
+<s>इसके_N_NN साथ_N_NN वे_DM_DMD सलमान_N_NN खान_N_NN और_CC_CCD गोविंदा_N_NNP स्टारर_N_NNP फिल्म_N_NN पार्टनर_N_NN के_PSP राइटर_N_NN भी_RP_RPD रहे_V_VM हैं_V_VAUX ।</s>
+<s>आपको_N_NN बता_V_VM दें_V_VAUX कि_CC_CCS गोविंदा_N_NNP ने_PSP हाल_N_NN ही_RP_RPD में_PSP इंडिया_N_NN टीवी_N_NN के_PSP शो_N_NN आप_PR_PRP की_PSP अदालत_N_NN में_PSP डेविड_N_NNP धवन_N_NNP से_PSP दूरियों_N_NN को_PSP लेकर_V_VM अपनी_PR_PRF बात_N_NN सामने_N_NST रखी_V_VM थी_N_NN ।</s>
+<s>उन्होंने_N_NNP डेविड_N_NNP के_PSP साथ_PSP 17_QT_QTC फिल्में_N_NN की_PSP हैं_V_VM लेकिन_CC_CCD आज_N_NN दोनों_QT_QTC बात_N_NN नहीं_RP_NEG करते।_V_VM </s>
+<s>इसको_N_NN लेकर_V_VM जब|P सवाल_N_NN किया_V_VM गया_V_VAUX तो_RP_RPD गोविंदा_N_NNP ने_PSP यह_DM_DMD कहा_V_VM था_V_VAUX कि_CC_CCS मैंने_PR_PRP तो_RP_RPD डेविड_N_NNP के_PSP साथ_PSP 17_QT_QTC फिल्में_N_NN की_PSP हैं_V_VM लेकिन_CC_CCS उनका_PR_PRP बेटा_N_NN भी_RP_RPD उनके_PR_PRP साथ_PSP 17_QT_QTC फिल्में_N_NN नहीं_RP_NEG कर_V_VM सकता_V_VAUX ।</s>
+<s>खतरों_N_NN के_PSP खिलाड़ी_N_NN के_PSP 10वे_QT_QTC सीज़न_N_NN की_PSP शूटिंग_N_NN जल्द_N_NN ही_RP_RPD बुल्गारिया_N_NNP में_PSP शुरु_V_VM होने_V_VAUX वाली_PSP है।_N_NN </s>
+<s>शो_N_NN के_PSP लिए_PSP सभी_QT_QTF कंटेस्टेंट_N_NN अपने_PR_PRF सामान_N_NN उठा_V_VM कर_V_VAUX बुल्गारिया_N_NNP रवाना_V_VM हो_V_VAUX चुके_V_VAUX हैं।_V_VAUX </s>
+<s>लेकिन_N_NNP एक_QT_QTC कंटेस्टेंट_N_NN ऐसी_DM_DMD भी_RP_RPD हैं_V_VAUX जिनके|P इस_DM_DMR सफर_N_NN की_PSP शुरूआत_N_NN आसान_N_NN नही_RP_NEG रही_V_VM थी_V_VAUX ये_DM_DMD कंटेस्टेंट_N_NN कोई_DM_DMI और_CC_CCD नही_RP_NEG बल्कि_CC_CCD करिश्मा_N_NN तन्ना_V_VM हैं_V_VAUX ।</s>
+<s>बुल्गारिया_N_NNP के_PSP लिए_PSP सभी_QT_QTF कंटेस्टेंट_N_NN ने_PSP मुंबई_N_NNP से_PSP बुल्गारिया_N_NNP के_PSP लिए_PSP उड़ान_N_NN भरी_V_VM थी_V_VAUX मगर_CC_CCS करिश्मा_N_NN तन्ना_N_NN को_PSP इससे_DM_DMR पहले_N_NST ही_RP_RPD एयरपोर्ट_N_NN स्टाफ_N_NN द्वारा_PSP रोक_V_VM लिया_V_VAUX गया_V_VAUX था_N_NN ।</s>
+<s>करिश्मा_N_NN के_PSP बैग_N_NN में_PSP निर्धारित_N_NN वेट_N_NN से_PSP 22_QT_QTC किलो_N_NN का_PSP अतिरिक्त_N_NN सामान_N_NN था_V_VM ।</s>
+<s>करिश्मा_N_NNP ने_PSP इस_DM_DMD मामले_N_NN के_PSP लिए_PSP एयरपोर्ट_N_NN में_PSP मौजूद_N_NN अपने_PR_PRF अन्य_JJ साथियों_N_NN से_PSP मदद_N_NN मांगी_V_VM और_CC_CCD अपना_PR_PRF 22_N_NN किलो_N_NN का_PSP एकस्ट्रा_N_NN सामान_N_NN अपने_PR_PRF को-कंटेस्टेंट्स_N_NN के_PSP बैग_N_NN में_PSP रखवा_V_VM दिया_V_VAUX ।</s>
+<s>किसी_N_NN के_PSP बैग_N_NN में_PSP करिश्मा_N_NN के_PSP जूते_N_NN गए_V_VM तो_CC_CCS किसी_DM_DMI में_PSP कपड़े_N_NN ।</s>
+<s>फिलहाल_N_NN करिश्मा_N_NN बिना_PSP 40_QT_QTC हजार_N_NN का_PSP जुर्माना_N_NN भरे_V_VM अपने_PR_PRF सामान_N_NN के_PSP साथ_PSP बुल्गारिया_N_NNP पहुंच_V_VM कर_V_VAUX मजे_N_NN करती_V_VM नज़र_N_NN आ_V_VM रही_V_VAUX हैं_V_VAUX ।</s>
+<s>जिसकी_N_NN तस्वीरें_N_NN खुद_PR_PRF उन्होनें_PR_PRP अपने_PR_PRF इंस्टाग्राम_N_NN अकाउंट_N_NN की_PSP स्टोरी_N_NNP में_PSP पोस्ट_N_NN की_PSP है_N_NN ।</s>
+<s>टेलीविजन_N_NN के_PSP खतरों_N_NN से_PSP भरे_JJ रियलिटी_N_NN शो_N_NN ‘खतरों_N_NN के_PSP खिलाड़ी_N_NN 10’_QT_QTC को_PSP हर_QT_QTF साल_N_NN की_PSP ही_RP_RPD तरह_N_NN इस_DM_DMD साल_N_NN भी_RP_RPD रोहित_N_NN शेट्टी_N_NN अपने_PR_PRF अलग_JJ अंदाज_N_NN मे_PSP करने_V_VM वाले_PSP हैं।_V_VAUX </s>
+<s>इस_N_NN शो_N_NN को_PSP बिग_N_NNP बॉस_N_NN 13_QT_QTC के_PSP खत्म_N_NN होने_V_VM के_PSP बाद_N_NST ऑनएयर_N_NN किया_V_VM जाएगा_V_VAUX ।</s>
+<s>अमेरिका_N_NN के_PSP राष्ट्रपति_N_NN डोनाल्ड_N_NNP ट्रंप_N_NN की_PSP कारोबारी_N_NN नीतियों_N_NN के_PSP कारण_N_NN अब_N_NST अमेरिकी_JJ कंपनियों_N_NN में_PSP असंतोष_N_NN पैदा_N_NN हो_V_VM रहा_V_VAUX है_V_VAUX ।</s>
+<s>ट्रंप_N_NN द्वारा_PSP अपनी_PR_PRF मनमर्जी_N_NN से_PSP शुल्कों_N_NN का_PSP उपयोग_N_NN किया_V_VM जा_V_VAUX रहा_V_VAUX है,_V_VAUX जिससे|P अमेरिका_N_NNP के_PSP कारोबार_N_NNP जगत_N_NNP में_PSP चिंता_N_NN बढ़ती_V_VM जा_V_VAUX रही_V_VAUX है_N_NN ।</s>
+<s>पिछले_JJ सप्ताह_N_NN ही_RP_RPD ट्रंप_N_NN ने_PSP पड़ोसी_JJ देश_N_NN मेक्सिको_N_NNP से_PSP अमेरिका_N_NNP में_PSP आने_V_VM वाले_PSP लोगों_N_NN को_PSP रोकने_V_VM की_PSP कोशिश_N_NN के_PSP तहत_N_NN उस_PR_PRP पर_PSP अचानक_JJ शुल्क_N_NN लगाने_V_VM की_PSP घोषणा_N_NN कर_V_VM दी_V_VAUX थी।_V_VAUX </s>
+<s>दोनों_N_NN पक्षों_N_NN ने_PSP शनिवार_N_NNP को_PSP इस_DM_DMD मुद्दे_N_NN पर_PSP सुलह_N_NN कर_V_VM ली।_V_VAUX </s>
+<s>सोमवार_N_NN को_PSP ट्रंप_N_NN ने_PSP फिर_RB से_PSP धमकी_N_NN दे_V_VM डाली_V_VAUX कि_CC_CCS मेक्सिको_N_NNP यदि_CC_CCS अपने_PR_PRF वादे_N_NN पर_PSP अमल_N_NN नहीं_RP_NEG करता_V_VM है,_V_VAUX तो_CC_CCS वह_PR_PRP उस_PR_PRP पर_PSP शुल्क_N_NN लगाया_V_VM जाएगा_V_VAUX ।</s>

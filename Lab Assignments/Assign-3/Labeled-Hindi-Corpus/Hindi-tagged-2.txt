@@ -1,0 +1,1009 @@
+<s>फिल्म_N_NN भुज_N_NNP द_N_NNP प्राइड_N_NNP ऑफ_N_NNP इन्डिया_N_NNP पर_IN काम_V_VB कर_V_VB रहे_V_VB अजय_N_NNP देवगन_N_NNP इस_DT फिल्म_N_NN का_IN निर्माण_V_VB भी_CC कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> वहीं_DT अब_RB_RBS अजय_N_NNP के_IN अगले_JJ_JJR प्रोडक्शन_FW वेंचर_FW का_DT खुलासा_N_NN भी_CC हो_V_VB चुका_V_VB है_V_VB </s>
+<s> सूत्रों_N_NN के_IN मुताबिक_RB_RBS अजय_N_NNP के_IN_DT प्रोडक्शन_FW हाउस_FW द्वारा_IN प्रोड्यूस_FW की_V_VB जा_V_VB रही_V_VB यह_DT फिल्म_N_NN साल_N_NN १९९०_CD से_IN साल_N_NN २०००_CD के_IN बीच_IN घटी_N_NN सच्ची_RB_RBS घटनाओं_N_NN पर_IN आधारित_V_VB होगी_V_VB, जिनके_DT कारण_N_NN भारत_N_NNP की_IN फाइनैंशियल_FW कंडीशन_FW में_IN बड़ा_RB_RBS बदलाव_V_VBG आया_V_VB था_V_VBD </s>
+<s> खास_RB_RBS बात_V_VB यह_DT है_V_VB कि_CC इस_DT फिल्म_N_NN में_IN एक_JJ_JJS बार_N_NN फिर_RB_RBS अजय_N_NNP के_IN साथ_RB_RBS जूनियर_FW बच्चन_N_NNP यानी_DT अभिषेक_N_NNP बच्चन_N_NNP भी_RB_RBS नजर_V_VBZ आएंगे_V_VB </s>
+<s> बताया_V_VBN जा_V_VB रहा_V_VB है_V_VB कि_CC इस_DT फिल्म_N_NN का_IN निर्देशन_N_NN कूकी_N_NNP गुलाटी_N_NNP करेंगे_V_VB जो_WDT इंद्र_N_NNP कुमार_N_NNP की_IN फिल्म_N_NN टोटल_N_NNP धमाल_N_NNP के_IN क्रिएटिव_FW डायरेक्टर_FW भी_RB_RBS रह_V_VB चुके_V_VBN हैं_V_VB </s>
+<s> अभी_RB_RBS इस_DT फिल्म_N_NN के_IN प्री_FW प्रॉडक्शन_FW पर_IN काम_V_VB चल_V_VB रहा_V_VB है_V_VB </s>
+<s> सूत्र_N_NN बताते_V_VBD हैं_V_VB कि_CC अजय_N_NNP को_IN यह विषय काफी_RB_RBS अच्छा लगा और_CC उन्होंने तुरंत इसके_DT लिए_IN हां कह दी_V_VBD </s>
+<s> वहीं आगे_JJ_JJS खबर यह भी_RB_RBS है_V_VB की_IN अजय_N_NNP के_IN साथ_RB_RBS इस_DT फिल्म_N_NN में_IN इलियाना_N_NNP ड_N_NNP क्रूज_N_NNP भी_RB_RBS अहम_JJ_JJS भूमिका_N_NN में_IN नजर_V_VB आएंगी_V_VB </s>
+<s> इलियाना_N_NNP का_IN फिल्म_N_NN में_IN बहुत_JJ_JJS मजबूत_JJ_JJS रोल_N_NN है_V_VB लेकिन_CC वह_DT अभिषेक_N_NNP के_IN साथ_RB_RBS जोड़ी_N_NN में_IN नजर_V_VB नहीं_RB_RBS आएंगी_V_VB </s>
+<s> अभी_RB_RBS अभिषेक_N_NNP के_IN साथ_RB_RBS जोड़ी_N_NN के_IN लिए_IN हिरोइन_N_NNP की_IN तलाश_V_VBN की_IN जा_V_VB रही_V_VB है_V_VB </s>
+<s> साल_N_NN के_IN अंत_N_NN तक_IN इस_DT फिल्म_N_NN की_IN शूटिंग_FW शुरू_V_VB हो_V_VB सकती_V_VB है_V_VB </s>
+<s> बता_V_VB दें_V_VB कि_CC अभिषेक_N_NNP बच्चन_N_NNP और_CC अजय_N_NNP देवगन_N_NNP सात_JJ_JJS साल_N_NN पहले_RB_RBS आई_N_NNP फिल्म_N_NN बोल_N_NNP बच्चन_N_NNP में_IN एक_JJ_JJS साथ_RB_RBS नजर_V_VB आए_V_VBD थे_V_VBD </s>
+<s> दोनों_PDT की_IN इस_DT जोड़ी_N_NN को_DT काफी_RB_RBS पंसद_JJ_JJS भी_RB_RBS किया_V_VBD गया_V_VBD था_V_VBD </s>
+<s> वहीं_IN दोनों_PDT ने_V_VBZ एक_JJ_JJS साथ_RB_RBS सबसे_PDT पहले_RB_RBS फिल्म_N_NN जमीन_N_NNP में_IN काम_V_VB किया_V_VBD था_V_VBD </s>
+<s> इसके_DT बाद_JJ_JJS इसके_DT जोड़ी_N_NN मणिरत्नम_N_NNP की_IN फिल्म_N_NN युवा_N_NNP में_IN भी_RB_RBS दिखाई_V_VBD दी_V_VBD थी_V_VBD जिसके_WDT  लिए_IN अभिषेक_N_NNP बच्चन_N_NNP को_IN फिल्मफेयर_FW अवॉर्ड_FW मिला_V_VB था_V_VBD </s>
+<s> जम्मू_N_NNP कश्मीर_N_NNP में_IN अनुच्छेद ३७०_CD हटाने_V_VB के_IN बाद_IN बॉलीवुड_N_NN के_IN कई_JJ_JJS सेलिब्रिटीज_FW ने_V_VBZ इसका_IN स्वागत_N_NN किया_V_VBD है_V_VB </s>
+<s> बॉलीवुड_N_NN और_CC जम्मू_N_NNP कश्मीर_N_NNP का_IN हमेशा_RB_RBS से_IN गहरा_RB_RBS नाता_V_VBD रहा_V_VB है_V_VB </s>
+<s> कश्मीर_N_NNP की_IN खूबसूरत_JJ_JJS वादियां _N_NN हो_V_VB या_CC यहां_IN के_IN मुद्दे_N_NN हो_V_VBZ फिल्मकारों_N_NN को_IN ओर_PDT ओर_N_NN खूब_JJ_JJS खींचा_V_VB है_V_VB </s>
+<s> तो_CC चलिए_V_VB आगे_JJ_JJS की_IN स्लाइड_FW में_IN उन_PRPS फिल्मों_N_NN के_IN बारे में_IN बताते_V_VBD हैं_V_VB जिसमें_IN कश्मीर_N_NNP के_IN हालात_N_NN से_IN रूबरू_V_VBN करवाने_VBZ की_IN कोशिश_V_VB की_IN गई_V_VB </s>
+<s> राज_N_NNP कपूर_N_NNP को_IN हिंदी_N_NN सिनेमा_N_NN का_IN शो_FW मैन_FW कहा_V_VBD जाता_V_VBD है_V_VB </s>
+<s> बेटे_N_NN ऋषि_N_NNP कपूर_N_NNP को_IN राजकपूर_N_NNP ने_V_VBZ बॉबी_N_NNP से_IN लांच_FW किया_V_VBD था_V_VBD </s>
+<s> फिल्म_N_NN में_IN उनके_PRP साथ_N_NN १६_CD साल_N_NN की_IN डिंपल_N_NNP कपाड़िया_N_NNP थीं_N_NN </s>
+<s> फिल्म_N_NN जबरदस्त_JJ_JJS हिट_N_NN हुई_V_VB और_CC राजकपूर_N_NNP के_IN दिन_N_NN फिर_CC गए_N_NN </s>
+<s> इसका_DT निर्माण_N_NN और_CC निर्देशन_N_NN खुद_PRPS किया_N_NN </s>
+<s> इस_DT फिल्म_N_NN ने_IN बॉक्स_N_NN ऑफिस_N_NN पर_IN सारे_JJ_JJS रिकॉर्ड_N_NN तोड़_V_VB कर_V_VB रख_V_VB दिए_V_VB </s>
+<s> रातों-रात_N_NN डिंपल_N_NN सुपरस्टार_N_NN बन_V_VB गईं_V_VB </s>
+<s> लड़के_N_NN डिंपल_N_NN के_IN दीवाने_N_NN हो_V_VB गए_V_VB </s>
+<s> बॉबी_N_NN के_IN लिए_IN डिंपल_N_NN को_IN फिल्म_N_NN फेयर_N_NNP अवॉर्ड_N_NN मिला_V_VB था_V_VB </s>
+<s>P बाहुबली_N_NNP फेम_N_NNP राणा_N_NNP दग्गुबाती_N_NNP को_IN लेकर_V_VB हाल_N_NN ही_RB_RBS में_IN खबर_N_NN आई_V_VB थी_V_VB कि_CC उनकी_PRP किडनी_N_NN ट्रांसप्लांट_N_NN हुई_V_VB है_V_VB </s>
+<s> इतना_JJ_JJS ही_RB_RBS नहीं_RB_RBR खबर_N_NN ये_DT भी_RB_RBS आई_V_VB कि_CC राणा_N_NNP दग्गुबाती_N_NNP की_IN मां_N_NN लक्ष्मी_N_NN ने_IN उन्हें_PRP किडनी_N_NN दान_N_NN की_IN है_V_VB </s>
+<s> रिपोर्ट्स_N_NN में_IN कहा_V_VB गया_V_VB कि_CC राणा_N_NNP का_IN ऑपरेशन_N_NN सफलतापूर्वक_RB_RBS हो_V_VB गया_V_VB है_V_VB </s>
+<s> ये_DT खबर_N_NN देखते_V_VB ही_RB_RBS देखते_V_VB वायल_N_NN हो_V_VB गई_V_VB </s>
+<s> अब_IN इस_DT मामले_N_NN में_IN राणा_N_NNP का_IN बयान_N_NN आया_V_VB है_V_VB </s>
+<s> राणा_N_NNP दग्गुबाती_N_NNP ने_IN कहा_V_VB कि_CC ये_DT खबर_N_NN सिर्फ_JJ_JJS अफवाह_N_NN है_V_VB </s>
+<s> उनकी_PRP सेहत_N_NN को_IN कुछ_JJ_JJS नहीं_RB_RBR हुआ_V_VB है_V_VB </s>
+<s> उन्होंने_PRP कहा,_N_NN ये_V_VB न्यूज_N_NN पूरी_JJ_JJS तरह_N_NN से_IN बेबुनियाद_N_NN है_V_VB </s>
+<s> मैं_PRP इसकी_DT सफाई_N_NN दे_N_NN देकर_V_VB थक_V_VB गया_V_VB हूं_V_VB </s>
+<s> मैं_PRP बिल्कुल_JJ_JJS फिट_N_NN और_CC फाइन_N_NN हूं_V_VB </s>
+<s> मेरे_PRP ख्याल_N_NN से_IN मेरी_N_NN तबीयत_N_NN खराब_JJ_JJS होने_V_VB का_IN टॉपिक_N_NN बहुत_JJ_JJS बोरिंग_JJ_JJS है_V_VB </s>
+<s> लेकिन_CC मुझे_PRP खुशी_N_NN है_V_VB कि_CC लोग_N_NN मुझे_PRP इतना_JJ_JJS प्यार_N_NN करते_V_VB हैं_V_VB </s>
+<s> उन्हें_PRP मेरी_PRP फिक्र_N_NN है_V_VB </s>
+<s> करीना_N_NNP कपूर_N_NNP खान_N_NNP और_CC सैफ_N_NNP अली_N_NNP खान_N_NNP के_IN लाडले_N_NN बेटे_N_NN तैमूर_N_NNP अली_N_NNP खान_N_NNP महज_N_NN दो_CD साल_N_NN की_IN उम्र_N_NN में_IN स्टार_N_NN बन_V_VB चुके_V_VB हैं._V_VB पैपराजी_N_NN उनकी_PRP फोटोज_N_NN क्लिक_N_NN करने_V_VB के_IN लिए_IN बेसब्र_N_NN रहते_V_VB हैं._V_VB वहीं_DT लोग_N_NN भी_RB_RBS मंचकिन_N_NNP तैमूर_N_NNP की_IN नई-नई_JJ_JJS फोटोज_N_NN का_IN इंतजार_N_NN करते_V_VB हैं._V_VB तैमूर_N_NN इन_DT दिनों_N_NN लंदन_N_NNP में_IN हैं._V_VB हाल_N_NN ही_RB_RBS में_IN डांस_N_NNP इंडिया_N_NNP डांस_N_NNP के_IN सेट_N_NN पर_IN करीना_N_NNP ने_IN बताया_V_VB कि_CC वो_PRP तैमूर_N_NNP को_IN क्या_WDT बनाना_V_VB चाहती_V_VB हैं_V_VB </s>
+<s>P डांस_N_NNP इंडिया_N_NNP डांस_N_NNP के_IN मंच_N_NN पर_IN करीना_N_NNP ने_IN कहा_V_VB कि_CC वो_DT दादाजी_N_NNP मंसूर_N_NNP अली_N_NNP खान_N_NNP पटौदी_N_NNP की_IN तरह_N_NN तैमूर_N_NNP को_IN क्रिकेटर_N_NN बनाना_V_VB चाहती_V_VB हैं._V_VB डांस_N_NNP इंडिया_N_NNP डांस_N_NNP के_IN मंच_N_NN पर_IN भारतीय_JJ_JJS टीम_N_NN के_IN पूर्व_IN कप्तान_N_NNP कपिल_N_NNP देव_N_NNP ने_IN शिरकत_N_NN की._N_NN करीना_N_NNP ने_IN कपिल_N_NNP देव_N_NNP से_IN तैमूर_N_NN के_IN लिए_IN एक_CD बैट_N_NN पर_IN उनका_PRP ऑटोग्राफ_N_NN लिए_V_VB </s>
+<s> इस_DT दौरान_N_NN वो_DT काफी_JJ_JJS एक्साइटेड_N_NN नजर_N_NN आईं_N_NN </s>
+<s> शो_N_NN में_IN करीना_N_NNP कपूर_N_NNP ने_IN अपने_PRPS फोन_N_NN में_IN तैमूर_N_NNP की_IN फोटो_N_NN भी_RB_RBS दिखाई_V_VB </s>
+<s> तैमूर_N_NN की_IN ये_DT तस्वीर_N_NN लंदन_N_NNP की_IN है._N_NN फोटो_N_NN में_IN तैमूर_N_NNP ब्लू_N_NNP जैकेट_N_NN और_CC हेलमेट_N_NN पहनकर_N_NN हॉर्स_N_NN राइडिंग_N_NN सीखते_V_VB नजर_N_NN आ_V_VB रहे_V_VB हैं_V_VB </s>
+<s> फोटो_N_NN में_IN करीना_N_NNP भी_RB_RBS तैमूर_N_NNP के_IN साथ_IN हैं._V_VB करीना_N_NNP संग_N_NN तैमूर_N_NN की_IN बॉन्डिंग_N_NN फोटो_N_NN में_IN साफ_JJ_JJS नजर_N_NN आ_V_VB रही_V_VB है_V_VB </s>
+<s> बंगाली_N_NNP एक्ट्रेस_N_NNP और_CC टीएमसी_N_NN सांसद_N_NN नुसरत_N_NN जहां_WDT कुछ_JJ_JJS दिन_N_NN पहले_IN पति_N_NN निखिल_N_NNP जैन_N_NNP के_IN साथ_IN हनीमून_N_NN मनाने_V_VB मॉरीशस_N_NN गई_V_VB थीं_V_VB </s>
+<s> अब_IN नुसरत_N_NNP ने_IN हनीमून_N_NN की_IN कुछ_JJ_JJS खूबसूरत_JJ_JJS तस्वीरें_N_NN साेशल_N_NN मीडिया_N_NN पर_IN शेयर_N_NN की_IN हैं_V_VB </s>
+<s> तस्वीरों_N_NN में_IN नुसरत_N_NN अलग-अलग_N_NN ड्रेस_N_NN में_IN नजर_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s> नुसरत_N_NN की_IN इन_DT तस्वीरों_N_NN को_IN फैंस_N_NN बहुत_JJ_JJS पसंद_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> एक_CD फोटो_N_NN में_IN नुसरत_N_NN बोट_N_NN पर_IN पोज_N_NN देती_V_VB दिखीं_V_VB </s>
+<s> वहीं_DT दूसरी_JJ_JJS फोटो_N_NN में_IN नुसरत_N_NNP व्हाइट_N_NNP टॉप_N_NNP के_IN साथ_IN शॉर्ट्स_N_NN पहने_V_VB नजर_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s> साथ_N_NN ही_RB_RBS उन्होंने_PRP चूड़ा_N_NN पहन_V_VB रखा_V_VB है_V_VB </s>
+<s> एक_CD फोटो_N_NN में_IN नुसरत_N_NNP सनसेट_N_NNP का_IN मजा_N_NN लेती_V_VB दिख_V_VB रही_V_VB हैं_V_VB </s>
+<s> एक_CD और_CC तस्वीर_N_NN में_IN नुसरत_N_NNP समुद्र_N_NN का_IN नजारा_N_NN देखती_V_VB नजर_N_NN आईं_V_VB </s>
+<s> कुछ_JJ_JJS फैंस_N_NN ने_IN नुसरत_N_NN को_IN ट्रोल_N_NN भी_RB_RBS किया_V_VB </s>
+<s> एक_CD यूजर_N_NNP ने_IN लिखा,_N_NNP संसद_N_NNP में_IN चर्चा_N_NN के_IN बजाय_N_NN पिकनिक_N_NN हो_V_VB रही_V_VB है_V_VB </s> <s>  वहीं_DT एक_CD दूसरे_JJ_JJS यूजर_N_NN ने_IN लिखा,_N_NNP संसद_N_NNP में_IN धारा_N_NN ३७०_CD जैसे_N_NN गंभीर_JJ_JJS मामलों_N_NN पर_IN बात_N_NN की_IN जा_V_VB रही_V_VB है_V_VB और_CC तुम_PRP गायब_N_NN हो_V_VB </s>
+<s> तुम्हें_PRP संसद_N_NN की_IN सदस्यता_N_NN से_IN इस्तीफा_N_NN दे_V_VB देना_V_VB चाहिए_N_NN </s>_N_NN
+<s> खैर_N_NN ऐसे_DT ट्रोलर्स_N_NN से_IN सेलेब्रिटीज_N_NN को_IN हर_JJ_JJS रोज_N_NN दो-चार_CD होना_V_VB पड़ता_V_VB है_V_VB </s>
+<s> ट्रोलर्स_N_NN की_IN बातें_N_NN नुसरत_N_NN को_IN प्रभावित_N_NN नहीं_RB_RBR करतीं_V_VB </s>
+<s> नुसरत_N_NN अपनी_PRPS शादीशुदा_JJ_JJS जिंदगी_N_NN में_IN बेहद_JJ_JJS खुश_N_NN हैं_V_VB </s>
+<s> नुसरत_N_NN ने_IN १९_CD जून_N_NNP को_IN कोलकाता_N_NNP के_IN बिजनेसमैन_N_NNP निखिल_N_NNP जैन_N_NNP से_IN शादी_N_NN की_IN थी_V_VB </s>
+<s> यह_DT शादी_N_NN तुर्की_N_NN के_IN शहर_N_NN इंस्तानबुल_N_NN में_IN दो_CD तरह_N_NN के_IN रीति-रिवाजों_N_NN के_IN साथ_IN पूरी_JJ_JJS हुई_V_VB थी_V_VB </s>
+<s> पहले_IN उन्होंने_PRP हिंदू_N_NN रीति_N_NN रिवाज_N_NN से_IN शादी_N_NN की_IN और_CC फिर_RB_RBS क्रिश्चियन_N_NN रीति_N_NN से_IN एक-दूसरे_N_NN को_IN हमसफर_N_NN बनाया_V_VB </s>
+<s> शादी_N_NN के_IN बाद_IN से_IN ही_RB_RBS नुसरत_N_NN लगातार_RB_RBS सुर्खियों_N_NN में_IN हैं_V_VB </s>
+<s>P नुसरत_N_NNP ने_IN कुछ_JJ_JJS दिन_N_NN पहले_IN ही_RB_RBS पति_N_NN के_IN साथ_IN अपना_PRPS पहला_JJ_JJS सिंधारा_N_NN भी_RB_RBS सेलिब्रेट_N_NN किया_V_VB था_V_VB </s>
+<s>P नुसरत_N_NNP ने_IN सिंधारा_N_NNP सेलिब्रेशन_N_NN की_IN तस्वीरें_N_NN शेयर_N_NN की_IN थीं_N_NN </s>
+<s> भारतीय_JJ_JJS जनता_N_NN पार्टी_N_NN की_IN नेता_N_NN सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN से_IN देश_N_NN भर_RB_RBS में_IN शोक_N_NN है_N_NN </s>
+<s> बॉलीवुड_N_NN सितारों_N_NN की_IN बात_N_NN करें_V_VB तो_RB_RBS अमिताभ_N_NNP बच्चन_N_NNP से_IN लेकर_V_VB लता_N_NNP मंगेशकर_N_NNP तक_IN ने_IN दुख_N_NN जताया_N_NN </s>
+<s> एक्टर_N_NN रितेश_N_NN देशमुख_N_NN ने_IN सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN पर_IN शोक_N_NN व्यक्त_N_NN किया_V_VB और_CC एक_CD पुराना_JJ_JJS किस्सा_N_NN भी_RB_RBS शेयर_N_NN किया_N_NN </s>
+<s> रितेश_N_NN देशमुख_N_NN ने_IN बताया_V_VB कि_CC साल_N_NN २००१_CD में_IN उन्हें_PRP उस_PRP वक्त_N_NN सूचना_N_NN प्रसारण_N_NN मंत्री_N_NN रहीं_V_VB सुषमा_N_NN स्वराज_N_NN से_IN मिलने_V_VB का_IN मौका_N_NN मिला_V_VB था_V_VB </s>
+<s> रितेश_N_NN लिखते_V_VB हैं_V_VB कि_CC यह_N_NN मेरा_PRP सौभाग्य_N_NN था_V_VB कि_CC साल_N_NN २००१_CD में_IN मैं_PRP उनसे_PRP मिला_V_VB </s>
+<s> वो_DT रामोजी_N_NNP फिल्म_N_NNP सिटी_N_NNP आई_V_VB थीं_V_VB जहां_WDT मैं_PRP और_CC जेनेलिया_N_NNP अपनी_PRPS डेब्यू_N_NN फिल्म_N_NN तुझे_N_NN मेरी_PRP कसम_N_NN की_IN शूटिंग_N_NN कर_V_VB रहे_V_VB थे_N_NN </s>
+<s> उन्होंने_PRP हमें_PRP आशीर्वाद_N_NN दिया_V_VB और_CC सफलता_N_NN की_IN कामना_N_NN की_N_NN </s>
+<s> हम_PRP उस_PRP वक्त_N_NN युवा_N_NN थे_V_VB और_CC उन्होंने_PRP हमें_PRP प्रेरित_N_NN करने_V_VB का_IN काम_N_NN किया_V_VB था_V_VB </s>
+<s> शुक्रिया_N_NN मैम_N_NN </s>_N_NN
+<s> राणा_N_NNP दग्गुबाती_N_NNP ने_IN कहा_V_VB कि_CC ये_DT खबर_N_NN सिर्फ_JJ_JJS अफवाह_N_NN है_V_VB </s>
+<s> उनकी_PRP सेहत_N_NN को_IN कुछ_JJ_JJS नहीं_RB_RBR हुआ_V_VB है_V_VB </s>
+<s> उन्होंने_PRP कहा,_N_NN ये_V_VB न्यूज_N_NN पूरी_JJ_JJS तरह_N_NN से_IN बेबुनियाद_N_NN है_V_VB </s>
+<s> मैं_PRP इसकी_DT सफाई_N_NN दे_N_NN देकर_V_VB थक_V_VB गया_V_VB हूं_V_VB </s>
+<s> मैं_PRP बिल्कुल_JJ_JJS फिट_N_NN और_CC फाइन_N_NN हूं_V_VB </s>
+<s> मेरे_PRP ख्याल_N_NN से_IN मेरी_N_NN तबीयत_N_NN खराब_JJ_JJS होने_V_VB का_IN टॉपिक_N_NN बहुत_JJ_JJS बोरिंग_JJ_JJS है_V_VB </s>
+<s> लेकिन_CC मुझे_PRP खुशी_N_NN है_V_VB कि_CC लोग_N_NN मुझे_PRP इतना_JJ_JJS प्यार_N_NN करते_V_VB हैं_V_VB </s>
+<s> उन्हें_PRP मेरी_PRP फिक्र_N_NN है_V_VB </s>_N_NN
+<s>P राणा_N_NNP ने_IN ये_DT भी_RB_RBS बताया_V_VB कि_CC वो_PRP इन_DT दिनों_N_NN यूएस_N_NN में_IN हैं_V_VB </s>
+<s> वहां_N_NN वाे_N_NN अपनी_PRPS बिग_N_NNP बजट_N_NN फिल्म_N_NN के_IN प्री_N_NN प्रोडक्शन_N_NN का_IN काम_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN का_IN नाम_N_NN हिरण्यकश्यप_V_VB है_V_VB </s>
+<s> यह_DT एक_CD धार्मिक_JJ_JJS फिल्म_N_NN है_V_VB </s>
+<s> इस_DT फिल्म_N_NN को_IN बड़े_JJ_JJS स्तर_N_NN पर_IN बनाया_V_VB गया_V_VB है_V_VB </s>
+<s> राणा_N_NNP वहां_N_NNP वीएफएक्स_N_NNP कंपनी_N_NN के_IN साथ_IN मिलकर_V_VB प्री_N_NN प्रोडक्शन_N_NN का_IN काम_N_NN करने_V_VB में_IN व्यस्त_V_VB हैं_V_VB </s>
+<s> इस_DT समय_N_NN राणा_N_NNP के_IN पास_IN कई_JJ_JJS फिल्में_N_NN हैं_V_VB </s>
+<s> फिल्म_N_NN विराटपर्वम_N_NN में_IN राणा_N_NNP लीड_N_NN रोल_N_NN प्ले_N_NN करते_V_VB नजर_N_NN आएंगे_V_VB </s>
+<s> साथ_N_NN ही_RB_RBS वो_DT श्रीलंका_N_NNP के_IN बॉलर_N_NN Muthaiah_N_NN Muralitharan_N_NN की_IN बायोपिक_N_NN को_IN भी_RB_RBS प्रोड्यूस_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN में_IN विजय_N_NN सेतुपथी_N_NN लीड_N_NN रोल_N_NN करते_V_VB नजर_N_NN आएंगे_V_VB </s>
+<s>P विजय_N_NNP ने_IN फिल्म_N_NN के_IN लिए_IN ट्रोनिंग_N_NN लेनी_V_VB शुरू_N_NN कर_V_VB दी_V_VB है_V_VB </s>
+<s> फिल्म_N_NN को_IN लेकर_V_VB राणा_N_NNP ने_IN कहा,_N_NN इसकी_N_NN कहानी_N_NN फिल्म_N_NN डर_N_NN के_IN लेखक_N_NN और_CC डायरेक्टर_N_NNP श्रीपति_N_NNP रंगासामी_N_NNP ने_IN लिखी_V_VB है_V_VB </s>
+<s> ये_DT फिल्म_N_NN दर्शकों_N_NN को_IN प्रेरित_N_NN करेगी_V_VB </s>
+<s> फिल्म_N_NN से_IN लोग_N_NN इमोशनली_N_NN भी_RB_RBS जुड़_V_VB पाएंगे_V_VB </s>
+<s> मुझे_PRP लगता_V_VB है_V_VB कि_CC विजय_N_NN फिल्म_N_NN में_IN अपनी_PRPS एक्टिंग_N_NN से_IN जान_N_NN डाल_V_VB देंगे_V_VB </s>_N_NN
+<s> आर्टिकल_N_NN ३७०_N_NN के_IN हटते_V_VB ही_RB_RBS पूरे_JJ_JJS देश_N_NN में_IN एक_CD अजब_JJ_JJS सी_N_NN लहर_N_NN उठ_V_VB चुकी_V_VB है_V_VB </s>
+<s> हर_JJ_JJS तरफ_N_NN बस_N_NN इसी_N_NN का_IN बोलबाला_N_NN है_N_NN </s>
+<s> यहां_N_NN तक_IN कि_CC फिल्म_N_NN इंडस्ट्री_N_NN में_IN भी_RB_RBS इस_DT नई_JJ_JJS पहल_N_NN का_IN दबदबा_N_NN कायम_N_NN हो_V_VB चुका_V_VB है_V_VB </s>
+<s> फिल्म_N_NN उरी_N_NN :_WDTUNC द_N_NNP सर्जिकल_JJ_JJS स्ट्राइक_N_NN के_IN हिट_N_NN होने_V_VB के_IN बाद_IN से_IN ही_RB_RBS कई_JJ_JJS फिल्मकार_N_NN सरकार_N_NN द्वारा_IN की_V_VB गई_V_VB और_CC भारत_N_NNP में_IN हुई_V_VB ऐसी_DT ही_RB_RBS ऐतिहासिक_JJ_JJS घटनाओं_N_NN को_IN लेकर_V_VB फिल्में_N_NN बनाने_V_VB का_IN विचार_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> इसी_DT के_IN चलते_V_VB अब_IN आर्टिकल_N_NN ३७०_CD के_IN हटने_V_VB के_IN बाद_IN फिल्मकारों_N_NN के_IN बीच_IN इसी_DT नाम_N_NN की_IN रजिस्ट्री_N_NN करने_V_VB के_IN पीछे_IN होड़_N_NN मच_V_VB चुकी_V_VB है_V_VB </s>
+<s> आयुष्मान_N_NN खुराना_V_VB की_IN फिल्म_N_NN आर्टिकल_N_NN १५_CD की_IN सफलता_N_NN के_IN बाद_IN से_IN ही_RB_RBS हर_JJ_JJS फिल्मकार_N_NN ऐसी_DT ही_RB_RBS कहानियों_N_NN को_IN तलाश_V_VB रहे_V_VB हैं_V_VB </s>
+<s> ऐसे_DT में_IN कई_JJ_JJS फिल्मकार_N_NN अब_IN आर्टिकल_N_NN ३७०_CD के_IN नाम_N_NN के_IN पीछे_IN हाथ_N_NN धो_V_VB कर_V_VB पड़_V_VB गए_V_VB हैं_V_VB </s>
+<s> शीर्षकों_N_NN की_IN मांग_N_NN में_IN आर्टिकल_N_NN ३७०,_CD आर्टिकल_N_NN ३७०_CD स्क्रैप्ड,_N_NN आर्टिकल_N_NN ३५_CD ए_N_NNP स्क्रैप्ड,_N_NNP आर्टिकल_N_NNP ३७०_CD एबोलिश्ड,_N_NN आर्टिकल_N_NN ३५_CD ए_N_NNP स्क्रैप्ड,_N_NNP कश्मीर_N_NNP में_IN तिरंगा,_N_NNP कश्मीर_N_NNP हमारा_PRP है_V_VB और_CC ३७०_CD आर्टिकल,_N_NN जैसे_N_NN नाम_N_NN शामिल_V_VB हैं_V_VB </s>
+<s> हालांकि_CC ऐसा_DT पहली_JJ_JJS बार_N_NN नहीं_RB_RBR है_V_VB जब_WDT फिल्मकार_N_NN ऐसी_DT कहानियों_N_NN के_IN जरिए_N_NN पैसा_N_NN कमाने_N_NN की_IN सोच_N_NN रहे_V_VB हैं_V_VB </s>
+<s> कुछ_JJ_JJS ही_RB_RBS वक्त_N_NN पहले_JJ_JJS पुलवामा_N_NNP में_IN हुए_V_VB हमलों_N_NN के_IN बाद_IN भी_RB_RBS कुछ_JJ_JJS ऐसा_DT ही_RB_RBS हुआ_V_VB था_N_NN </s>
+<s> लेकिन_CC किसी_WP भी_RB_RBS फिल्मकार_N_NN ने_IN पुलवामा_N_NNP की_IN कहानी_N_NN पर_IN फिल्म_N_NN बनाने_V_VB को_IN लेकर_V_VB कोई_WP आधिकारिक_JJ_JJS घोषणा_N_NN नहीं_RB_RBR की_V_VB </s>
+<s> बीते_JJ_JJS कुछ_JJ_JJS वक्त_N_NN में_IN ऐसी_DT राष्ट्रवादी_N_NN कहानियां_N_NN फिल्मकारों_N_NN के_IN लिए_IN काफी_JJ_JJS फायदेमंद_N_NN साबित_N_NN हुई_V_VB हैं_V_VB </s>
+<s> पिछले_IN साल_N_NN आई_N_NN फिल्म_N_NN राजी_N_NN ने_IN १२२.३९_CD करोड़_CD रुपये_N_NN का_IN व्यापार_N_NN किया,_V_VB इसके_WDT बाद_IN फिल्म_N_NN केसरी_N_NNP ने_IN १५१.८७_CD करोड़_N_NN का_IN व्यापार_N_NN किया_N_NN </s>
+<s> वहीं_DT साल_N_NN की_IN शुरूआत_N_NN करने_V_VB वाली_IN फिल्म_N_NN उरी_N_NN ने_IN २४४_CD करोड़_CD रुपये_N_NN कमाकर_N_NN ऐसी_DT राष्ट्रवादी_N_NN कहानियां_N_NN को_IN फिल्मी_N_NN दुनिया_N_NN में_IN एक_CD नया_JJ_JJS जन्म_N_NN दिया_V_VB </s>
+<s> जम्मू-कश्मीर_N_NNP से_IN अनुच्छेद_N_NN ३७०_CD हटा_N_NN दिया_V_VB गया_V_VB है_N_NN </s> सरकार_N_NN के_IN इस_DT ऐतिहासिक_JJ_JJS फैसले_N_NN को_IN कुछ_JJ_JJS ने_IN सराहा_N_NN तो_RB_RBS कुछ_JJ_JJS ने_IN विरोध_N_NN भी_RB_RBS किया_N_NN </s> सोशल_N_NN मीडिया_N_NN पर_IN यूजर्स_N_NN अलग-अलग_JJ_JJS तरह_N_NN से_IN अपनी_PRPS प्रतिक्रिया_N_NN जाहिर_V_VB रहे_V_VB हैं_V_VB </s> अनुच्छेद_N_NN ३७०_CD से_IN जोड़कर_V_VB अक्षय_N_NNP कुमार_N_NNP को_IN लेकर_V_VB कुछ_JJ_JJS मीम्स_N_NN बनाए_V_VB गए_V_VB हैं_V_VB </s>
+<s> अक्षय_N_NNP कुमार_N_NNP देश_N_NN में_IN चल_V_VB रहे_V_VB मुद्दों_N_NN पर_IN खूब_JJ_JJS फिल्म_N_NN बनाते_V_VB हैं_V_VB </s>
+<s> जो_WDT सुपरहिट_N_NN भी_RB_RBS होती_V_VB हैं_V_VB </s>
+<s> अब_IN यूजर्स_N_NNP कह_V_VB रहे_V_VB हैं_V_VB कि_CC अक्षय_N_NN इस_DT मुद्दे_N_NN को_IN भी_RB_RBS नहीं_RB_RBR छोड़ेंग_V_VB और_CC जल्द_JJ_JJS फिल्म_N_NN बनाएंगे_V_VB </s>
+<s> कुछ_JJ_JJS मीम्स_N_NN देखकर_V_VB तो_RB_RBS आपको_PRP वाकई_N_NN में_IN हंसी_N_NNP आ_V_VB जाएगी_V_VB </s>
+<s> देखें_V_VB अक्षय_N_NNP कुमार_N_NNP और_CC अनुच्छेद_JJ_JJS ३७०_CD से_IN जुड़े_N_NN कुछ_JJ_JJS मीम्स_N_NN </s>
+<s> मशहूर_JJ_JJS निर्माता-निर्देशक_N_NN और_CC ऋतिक_JJ_JJS रोशन_N_NN के_IN नाना_N_NN जे_N_NNP ओम_N_NNP प्रकाश_N_NN का_IN बुधवार_N_NN सुबह_N_NN निधन_N_NN हो_V_VB गया_V_VB </s>
+<s>P जे_N_NNP ओम_N_NNP प्रकाश_N_NN ९३_CD साल_N_NN के_IN थे_N_NN </s>
+<s> उनकी_PRP प्रमुख_JJ_JJS फिल्मों_N_NN में_IN आप_N_NN की_IN कसम_N_NN (१९७४),_N_NN आखिर_N_NN क्यों?_N_NN (१९८५),_N_NN अपना_N_NN बना_V_VB लो_N_NN (१९८२),_N_NN अपनापन_N_NN (१९७७),_N_NN आशा_N_NN (१९८०),_N_NN अर्पण_N_NN (१९८३),_N_NN आदमी_N_NN खिलौना_N_NN है_N_NN (१९९३)_N_NN रहीं_N_NN </s>
+<s> उन्होंने_PRP राजेश_N_NNP खन्ना_N_NNP और_CC जीतेंद्र_N_NNP जैसे_N_NN कई_JJ_JJS बड़े_JJ_JJS सितारों_N_NN के_IN साथ_IN काम_N_NN किया_N_NN </s>
+<s>P जे_N_NNP ओम_N_NNP प्रकाश_N_NNP ने_IN कई_JJ_JJS हिट_N_NN फिल्में_N_NN प्रोड्यूस_N_NN भी_RB_RBS कीं_N_NN </s>
+<s> इनमें_DT आई_N_NN मिलन_N_NN की_IN बेला_N_NN १९६४_CD आस_N_NN का_IN पंछी_N_NN (१९६१),_N_NN आए_V_VB दिन_N_NN बहार_N_NN के_N_NN (१९६६),_N_NN आंखों_N_NN आंखों_N_NN में,_N_NN आया_N_NN सावन_N_NNP झूम_N_NN के_N_NN (१९६९)_N_NN और_CC आखिर_N_NN क्यों_N_NN मुख्य_JJ_JJS हैं_V_VB </s>
+<s> बता_V_VB दें_V_VB कि_CC जे_N_NNP ओम_N_NNP प्रकाश_N_NN की_IN बेटी_N_NN पिंकी_N_NN की_IN शादी_N_NN राकेश_N_NNP रोशन_N_NN से_IN हुई_V_VB है,_V_VB जो_WDT अभिनेता_N_NN ऋतिक_N_NN के_IN पिता_N_NN हैं_V_VB </s>
+<s> सिर्फ_JJ_JJS चार_CD फिल्मों_N_NN की_IN रिलीज_N_NN के_IN साथ_IN ही_RB_RBS हिंदी_N_NNP सिनेमा_N_NN की_IN सबसे_JJ_JJS व्यस्त_JJ_JJS अभिनेत्रियों_N_NN में_IN शुमार_N_NN हो_V_VB चुकीं_V_VB भूमि_N_NN पेडनेकर_V_VB अब_IN अपना_PRPS ग्लैमरस_N_NN अवतार_N_NN दिखाने_V_VB के_IN लिए_IN पूरी_JJ_JJS तैयारी_N_NN कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> अगले_N_NN एक_CD साल_N_NN में_IN उनकी_PRP छह_N_NN फिल्में_N_NN रिलीज_N_NN होने_V_VB वाली_V_VB हैं_V_VB और_CC अपनी_PRPS हर_JJ_JJS फिल्म_N_NN में_IN वह_PRP कुछ_JJ_JJS अलग_N_NN करके_V_VB दिखाने_N_NN के_IN लिए_IN इन_DT दिनों_N_NN दिन_N_NN रात_N_NN मेहनत_N_NN भी_RB_RBS कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> किसी_WP फिल्म_N_NN का_IN चयन_N_NN करने_V_VB से_IN पहले_IN भूमि_N_NN उसमें_PRP क्या_WDT देखती_V_VB हैं,_V_VB ये_DT पूछे_V_VB जाने_V_VB पर_IN भूमि_N_NN कहती_V_VB हैं,_V_VB “एक_N_NN कलाकार_N_NN के_IN रूप_N_NN में_IN मैं_PRP लगातार_RB_RBS अच्छी_JJ_JJS स्क्रिप्ट_N_NN की_IN तलाश_N_NN में_IN रहती_V_VB हूं_V_VB </s>
+<s> मुझे_PRP किसी_WP भी_RB_RBS फिल्म_N_NN में_IN दूसरी_JJ_JJS किसी_WP चीज_N_NN की_IN तरफ_N_NN नजर_N_NN घुमाने_V_VB से_IN पहले_IN इसकी_PRP कहानी_N_NN दमदार_JJ_JJS चाहिए_V_VB होती_V_VB है_V_VB </s>
+<s> मैं_PRP हमेशा_IN कंटेंट_N_NN के_IN पीछे_IN भागती_N_NNP रही_V_VB हूं_V_VB और_CC सौभाग्य_N_NN से_IN मुझे_PRP देश_N_NN के_IN कुछ_JJ_JJS सर्वश्रेष्ठ_JJ_JJS फिल्म_N_NN निर्माताओं_N_NN का_IN विश्वास_N_NN भी_RB_RBS इसके_PRP लिए_IN प्राप्त_N_NN हुआ_N_NN </s>
+<s> मेरी_PRP अगली_N_NN हर_JJ_JJS फिल्म_N_NN एक_CD अलग_JJ_JJS कहानी_N_NN है_N_NN </s>
+<s> इनमें_N_NN से_IN हर_JJ_JJS एक_CD फिल्म_N_NN में_IN दर्शकों_N_NN का_IN मेरा_PRP एक_CD अलग_JJ_JJS रंग_N_NN रूप_N_NN नजर_N_NN आएगा_N_NN </s>
+<s> एक_CD कलाकार_N_NN की_IN संतुष्टि_N_NN इसी_DT बात_N_NN में_IN है_V_VB कि_CC इस_DT एक_CD जीवन_N_NN में_IN वह_PRP अभिनेता_N_NN होने_V_VB के_IN चलते_N_NN कितने_N_NN किरदार_N_NN जी_V_VB सकता_V_VB है।”_V_VB </s>
+अपनी_PRPS पहली_JJ_JJS ही_RB_RBS फिल्म_N_NN दम_N_NNP लगाके_N_NNP हईशा_N_NNP से_IN अपने_PRPS शरीर_N_NN के_IN साथ_IN किरदारों_N_NN में_IN ढलने_V_VB के_IN प्रयोग_N_NN करती_V_VB रहीं_V_VB भूमि_N_NN कहती_V_VB हैं,_V_VB “दर्शकों_N_NN के_IN लिए_IN सिनेमा_N_NN का_IN ये_DT बेहतरीन_JJ_JJS समय_N_NN है_N_NN </s>
+<s> वे_DT अच्छे_JJ_JJS सिनेमा_N_NN का_IN आनंद_N_NN उठा_V_VB रहे_V_VB हैं_V_VB और_CC एक_CD कलाकार_N_NN के_IN लिए_IN भी_RB_RBS सिनेमा_N_NN का_IN यह_DT काफी_JJ_JJS अच्छा_JJ_JJS समय_N_NN है_N_NN </s>
+<s> अपनी_PRPS पहली_JJ_JJS फिल्म_N_NN से_IN मैंने_PRP ऐसे_DT किरदार_JJ_JJS किएजो_N_NN मजबूत_JJ_JJS हैं_V_VB और_CC फिल्म_N_NN की_IN कहानी_N_NN पर_IN एक_CD असर_N_NN डालते_V_VB हैं_V_VB </s>
+<s> मैं_PRP अपने_PRPS करियर_N_NN के_IN बेहतरीन_JJ_JJS दौर_N_NN में_IN हूँ_V_VB और_CC मैं_PRP अपनी_PRPS हर_JJ_JJS एक_CD फिल्म_N_NN में_IN अपना_PRPS सर्वश्रेष्ठ_JJ_JJS देते_V_VB रहना_V_VB चाहती_V_VB हूं।”_V_VB </s>
+भूमि_N_NN की_IN आने_V_VB वाली_IN फिल्मों_N_NN में_IN बाला_N_NN समय_N_NN से_IN पहले_IN गंजे_N_NN हो_V_VB जाने_V_VB पर_IN एक_CD सामाजिक_JJ_JJS व्यंग्य_N_NN है,_V_VB डॉली_N_NNP किटी_N_NNP और_CC वो_DT चमकाते_V_VB सितारे_N_NN महिलाओं_N_NN के_IN सपनों_N_NN और_CC आकांक्षाओं_N_NN के_IN बारे_N_NN में_IN एक_CD ड्रामा_N_NNP है,_V_VB सांड_N_NN की_IN आंख_N_NN एक_CD बायोपिक_N_NN है_V_VB जिसमें_WDT वह_PRP दुनिया_N_NN की_IN सबसे_JJ_JJS वृद्ध_JJ_JJS शार्पशूटर_N_NN की_IN भूमिका_N_NN निभा_V_VB रही_V_VB हैं,_V_VB पती_JJ_JJS पत्नी_N_NN और_CC वो_DT एक_CD रोमांटिक_JJ_JJS कॉमेडी_JJ_JJS है_V_VB और_CC इसके_DT बाद_IN बारी_N_NN आती_V_VB है_V_VB मल्टीस्टारर_N_NN फिल्म_N_NN तख्त_N_NN की_IN जिसमें_WDT उन्हें_PRP करण_N_NN जौहर_N_NNP निर्देशित_N_NN करेंगे_N_NN </s>
+<s> पिछले_IN साल_N_NN मी_N_NN टू_N_NN मूवमेंट_N_NN ने_IN पूरे_JJ_JJS देश_N_NN को_IN हिला_V_VB दिया_V_VB था_V_VB </s>
+<s> खासकर_N_NN भारतीय_JJ_JJS फिल्म_N_NN इंडस्ट्री_N_NN में_IN महिलाएं_N_NN आगे_IN आईं_V_VB और_CC आपबीती_N_NNP बताईं_N_NNP </s>
+<s> इस_DT दौरान_N_NN बॉलीवुड_N_NN के_IN कई_JJ_JJS बड़े_JJ_JJS नामों_N_NN पर_IN आरोप_N_NN भी_RB_RBS लगे_V_VB </s>
+<s> अब_IN इस_DT पर_IN एक्ट्रेस_N_NN तापसी_N_NNP पन्नू_N_NNP ने_IN अपनी_PRPS राय_N_NN रखी_V_VB है_V_VB </s>
+<s> एशियन_N_NNP एज_N_NN के_IN मुताबिक_N_NN तापसी_N_NNP पन्नू_N_NNP ने_IN इंटरव्यू_N_NNP में_IN मी_N_NN टू_N_NN मूवमेंट_N_NN पर_IN कहा_V_VB कि_CC उस_N_NN समय_N_NN इंडस्ट्री_N_NN मी_N_NN टू_N_NN मूवमेंट_N_NN के_IN लिए_IN तैयार_N_NN नहीं_RB_RBR थी_V_VB तभी_CC ये_DT विस्फोट_N_NN हो_V_VB गया_V_VB </s>
+<s> यह_DT रातोंरात_N_NN नहीं_RB_RBR बदल_V_VB सकता_V_VB है,_V_VB लेकिन_CC क्या_WDT इसका_DT मतलब_N_NN है_V_VB कि_CC हमें_PRP इसे_DT छोड़_V_VB देना_V_VB चाहिए?_V_VB नहीं,_V_VB क्योंकि_CC तब_IN आने_V_VB वाली_IN पीढ़ियां_N_NN भी_RB_RBS इससे_WDT गुजरती_JJ_JJS रहेंगी।_N_NN </s>
+तापसी_N_NNP ने_IN कहा_V_VB कि_CC ऐसा_JJ_JJS समय_N_NN भी_RB_RBS होगा_V_VB जब_WDT आप_PRP बुरी_JJ_JJS तरह_N_NN असफल_N_NN होंगे_V_VB लेकिन_CC अगर_CC आप_PRP हार_N_NN नहीं_RB_RBR मानते_V_VB हैं_V_VB तो_RB_RBS यह_DT बेकार_N_NN नहीं_RB_RBR जा_V_VB रहा_V_VB है_V_VB </s>
+<s> एक_CD दिन_N_NN इसका_PRP परिणाम_N_NN अच्छा_JJ_JJS होगा_N_NN </s>
+<s> फिर_CC हमारी_PRP आने_V_VB वाली_IN पीढ़ी_N_NN को_IN इसका_DT सामना_N_NN नहीं_RB_RBR करना_V_VB पड़ेगा_N_NN </s>
+<s> इस_DT वजह_N_NN से_IN हमें_PRP मजबूत_JJ_JJS होना_V_VB होगा।_V_VB </s>
+तापसी_N_NN की_IN आने_V_VB वाली_IN फिल्म_N_NN मिशन_N_NN मंगल_N_NN है_N_NN </s>
+<s> फिल्म_N_NN में_IN अक्षय_N_NNP कुमार,_N_NNP विद्या_N_NNP बालन,_N_NNP सोनाक्षी_N_NNP सिन्हा,_N_NNP नित्या_N_NNP मेनन,_N_NNP कीर्ति_N_NNP कुल्हारी_N_NNP और_CC शरमन_N_NN जोशी_N_NNP जैसे_N_NN कलाकार_N_NN मुख्य_JJ_JJS भूमिका_N_NN में_IN हैं_V_VB </s>
+<s> बीते_JJ_JJS दिनों_N_NN फिल्म_N_NN का_IN ट्रेलर_N_NN रिलीज_N_NN हुआ_V_VB जिसे_WDT दर्शकों_N_NN ने_IN काफी_JJ_JJS पसंद_N_NN किया_N_NN </s>
+<s> फिल्म_N_NN १५_CD अगस्त_N_NNP को_IN बॉक्स_N_NN ऑफिस_N_NN पर_IN दस्तक_N_NN देगी_V_VB </s>
+<s> एक्टिंग_N_NN में_IN आने_V_VB से_IN पहले_IN तापसी_N_NNP पन्नू_N_NNP ने_IN काफी_JJ_JJS समय_N_NN तक_IN मॉडलिंग_N_NN किया_N_NN </s>
+<s> तापसी_N_NN ने_IN साल_N_NN २०१३_CD में_IN बॉलीवुड_N_NN फिल्म_N_NN चश्मेबद्दूर_N_NNP से_IN डेब्यू_N_NNP किया_N_NNP </s>
+<s> फिल्म_N_NN तो_RB_RBS बॉक्स_N_NN ऑफिस_N_NN पर_IN कुछ_JJ_JJS खास_JJ_JJS कमाल_N_NN नहीं_RB_RBR कर_V_VB पाई_V_VB लेकिन_CC तापसी_N_NN को_IN हर_JJ_JJS किसी_WP ने_IN नोटिस_N_NN किया_N_NN </s>
+<s> पूर्व_N_NN विदेश_N_NN मंत्री_N_NN सुषमा_N_NN स्वराज_N_NN ने_IN मंगलवार_N_NN रात_N_NN आखिरी_JJ_JJS सांस_N_NN ली_V_VB </s>
+<s> सुषमा_N_NN स्वराज_N_NN का_IN निधन_N_NN कार्डिएक_N_NN अरेस्ट_N_NN की_IN वजह_N_NN से_IN हुआ_N_NN </s>
+<s> वह_PRP ६७_CD साल_N_NN की_IN थीं_N_NN </s>
+<s> सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN से_IN देश_N_NN भर_RB_RBS में_IN शोक_N_NN की_IN लहर_N_NN है_N_NN </s>
+<s> पीएम_N_NNP मोदी_N_NNP समेत_N_NN लगभग_N_NN हर_JJ_JJS राजनीतिक_N_NN पार्टी_N_NN से_IN संबंधित_N_NN नेताओं_N_NN ने_IN सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN पर_IN शोक_N_NN व्यक्त_N_NN किया_V_VB है_V_VB </s>
+<s> बॉलीवुड_N_NN ने_IN भी_RB_RBS उनके_PRP निधन_N_NN पर_IN दुख_N_NN जता_V_VB रहे_V_VB हैं_V_VB </s>
+<s> कुछ_JJ_JJS घंटे_N_NN पहले_IN धर्मेंद्र_N_NNP ने_IN भी_RB_RBS ट्वीट_N_NN कर_V_VB उन्हें_PRP श्रद्धांजलि_N_NN दी_V_VB है_V_VB </s>
+<s>P धर्मेंद्र_N_NNP ने_IN लिखा-_V_VB अनाड़ी_JJ_JJS सियासत_N_NN दान_N_NN कह_V_VB कर_V_VB सीने_N_NN से_IN लगा_V_VB लेती_V_VB थीं_V_VB मुझे_N_NN </s>
+<s> सुषमा_N_NN जी,_N_NN दुनियां_N_NN भर_N_NN की_IN चहेती,_N_NN भारत_N_NNP की_IN महान_JJ_JJS नेता_N_NN मेरी_PRP छोटी_JJ_JJS बहन_N_NN बहुत_JJ_JJS याद_N_NN आएंगी_JJ_JJS आप!!!_N_NN भगवान_N_NN आप_PRP की_IN आत्मा_N_NN को_IN शान्ति_N_NN दे_V_VB </s>
+<s> धर्मेंद्र_N_NN के_IN बेटे_N_NN और_CC भाजपा_N_NNP नेता_N_NN सनी_V_VB देओल_N_NNP ने_IN भी_RB_RBS ट्वीट_N_NN किया-_N_NN सुषमा_N_NN स्वराज_N_NN जी_N_NN के_IN निधन_N_NN पर_IN मेरी_PRP संवेदना।_JJ_JJS </s>
+<s> हमारे_PRP देश_N_NN के_IN बेहतरीन_JJ_JJS नेताओं_N_NN में_IN से_IN एक_CD थीं_N_NN </s>
+<s> वह_PRP विशेष_JJ_JJS थीं_N_NN और_CC हम_PRP उन्हें_PRP याद_N_NN करेंगे_V_VB </s>
+<s> परिवार_N_NN और_CC दोस्तों_N_NN के_IN लिए_IN मेरी_PRP प्रार्थना।_N_NN </s>
+अमिताभ_N_NNP बच्चन_N_NNP ने_IN कई_JJ_JJS ट्वीट_N_NN कर_V_VB उन्हें_PRP श्रद्धांजलि_N_NN दी_N_NN </s>
+<s> एक_CD ट्वीट_N_NN में_IN उन्होंने_PRP लिखा-_V_VB मृदुभाषी,_V_VB सम्मोहक_JJ_JJS वक्ता,_N_NN मिलनसार,_N_NN दुखहर्ता_N_NN </s>
+<s> सुषमा_N_NN जी_N_NN जैसों_N_NN का_IN रिक्त_N_NN स्थान_N_NN कभी_IN नहीं_RB_RBR भरता_V_VB </s>
+<s>P बिग_N_NNP बी_N_NNP के_IN अलावा_N_NN बॉलीवुड_N_NNP के_IN लगभग_N_NN सभी_JJ_JJS सेलेब्स_N_NN ने_IN अपनी_PRPS अपनी_PRPS भावनाएं_N_NN व्यक्त_N_NN की_IN हैं_V_VB </s>
+<s> पूर्व_N_NN विदेश_N_NN मंत्री_N_NN सुषमा_N_NN स्वराज_N_NN ने_IN मंगलवार_N_NN रात_N_NN आखिरी_JJ_JJS सांस_N_NN ली_V_VB </s>
+<s> सुषमा_N_NN स्वराज_N_NN का_IN निधन_N_NN कार्डिएक_N_NN अरेस्ट_N_NN की_IN वजह_N_NN से_IN हुआ_N_NN </s>
+<s> दिल्ली_N_NNP में_IN अपने_PRPS घर_N_NN पर_IN कार्डिएक_N_NN अरेस्ट_N_NN के_IN बाद_IN सुषमा_N_NN स्वराज_N_NN को_IN एम्स_N_NN अस्पताल_N_NN ले_V_VB जाया_V_VB गया_V_VB लेकिन_CC सुषमा_N_NN को_IN बचाया_V_VB नहीं_RB_RBR जा_V_VB सका_V_VB </s>
+<s> मौत_N_NN से_IN कुछ_JJ_JJS घंटे_N_NN पहले_IN सुषमा_N_NN स्वराज_N_NN का_IN शाम_N_NN साढ़े_CD सात_CD बजे_N_NN किया_V_VB ट्वीट_N_NN सोशल_N_NN मीडिया_N_NN पर_IN वायरल_N_NN हो_V_VB रहा_V_VB है_V_VB </s>
+<s> बुधवार_N_NN शाम_N_NN पूरे_JJ_JJS राजकीय_N_NN सम्मान_N_NN के_IN साथ_IN उनका_PRP अंतिम_JJ_JJS संस्कार_N_NN किया_V_VB जाएगा_V_VB </s>
+<s> फिल्म_N_NN दंगल_N_NN के_IN लिए_IN फोगट_N_NN बहनों_N_NN के_IN गांव_N_NN की_IN खाक_N_NN छानने_V_VB वाले_IN निर्देशक_N_NN नितेश_N_NN तिवारी_N_NNP ने_IN अपनी_PRPS अगली_JJ_JJS फिल्म_N_NN छिछोरे_N_NN की_IN कहानी_N_NN को_IN भी_RB_RBS हकीकत_N_NN के_IN करीब_N_NN रखने_V_VB की_IN कोशिश_N_NN की_IN है_N_NN </s>
+<s> अपनी_PRPS इस_DT फिल्म_N_NN में_IN नितेश_N_NN ने_IN ऐसे_DT तमाम_N_NN किरदार_N_NN बुने_V_VB हैं,_V_VB जिनसे_WDT उनका_PRP अपनी_PRPS निजी_JJ_JJS जिंदगी_N_NN में_IN भी_RB_RBS साबका_N_NN पड़ा_V_VB है_V_VB </s>
+<s> ऐसा_DT ही_RB_RBS एक_CD किरदार_N_NN है_V_VB आईआईटी_N_NNP मुंबई_N_NNP के_IN एक_CD खिलाड़ी_N_NN का_IN किरदार,_N_NN जिसे_WDT फिल्म_N_NN छिछोरे_N_NN में_IN मशहूर_JJ_JJS अभिनेता_N_NN ताहिर_N_NN राज_N_NN भसीन_N_NN निभा_V_VB रहे_V_VB हैं_V_VB </s>
+<s> कबीर_N_NNP खान_N_NNP के_IN निर्देशन_N_NN में_IN क्रिकेट_N_NN वर्ल्ड_N_NN कप_N_NN में_IN भारत_N_NNP की_IN पहली_JJ_JJS जीत_N_NN पर_IN बन_V_VB रही_V_VB फिल्म_N_NN ८३_CD में_IN लिटिल_N_NNP मास्टर_N_NN के_IN नाम_N_NN से_IN मशहूर_JJ_JJS क्रिकेट_N_NN खिलाड़ी_N_NN सुनील_JJ_JJS गावस्कर_N_NN की_IN भूमिका_N_NN निभा_V_VB रहे_V_VB ताहिर_N_NN को_IN फिल्म_N_NN छिछोरे_N_NN में_IN भी_RB_RBS एक_CD खिलाड़ी_N_NN का_IN किरदार_N_NN मिला_V_VB है_V_VB </s>
+<s> इस_DT किरदार_N_NN की_IN तैयारी_N_NN के_IN लिए_IN नितेश_N_NN ताहिर_N_NN को_IN अपने_PRPS कैंपस_N_NN भी_RB_RBS खासतौर_N_NN से_IN ले_V_VB गए_V_VB </s>
+<s> नितेश_N_NN आईआईटी_N_NNP मुंबई_N_NNP के_IN स्नातक_N_NN हैं_V_VB और_CC ताहिर_N_NN का_IN किरदार_N_NN उनके_PRP अपने_PRPS एक_CD सीनियर_JJ_JJS से_IN प्रेरित_N_NN बताया_V_VB जाता_V_VB है_V_VB </s>
+<s> नितेश_N_NN ने_IN १९९६_CD में_IN इंडियन_N_NNP इंस्टीट्यूट_N_NNP ऑफ_N_NNP टेक्नोलॉजी_N_NNP बॉम्बे_N_NNP (आईआईटी-बी)_N_NNP से_IN मेटलर्जी_N_NNP एंड_N_NNP मेटेरियल_N_NNP साइंस_N_NNP इंजीनियरिंग_N_NNP में_IN स्नातक_N_NN की_IN डिग्री_N_NN हासिल_N_NN की_IN है_N_NN </s>
+<s> फिल्म_N_NN छिछोरे_N_NN से_IN जुड़े_JJ_JJS लोगों_N_NN की_IN मानें_V_VB तो_RB_RBS छिछोरे_N_NN में_IN ताहिर_N_NN का_IN किरदार_JJ_JJS नितेश_N_NN के_IN सीनियर_JJ_JJS डेरेक_N_NN से_IN प्रेरित_N_NN है_N_NN </s>
+<s>P डेरेक_N_NNP ने_IN अपने_PRPS खेल_N_NN और_CC अपने_PRPS जोश_N_NN से_IN हमेशा_IN अपने_PRPS हॉस्टल_N_NN और_CC कॉलेज_N_NN को_IN तमाम_JJ_JJS प्रतियोगिताओं_N_NN में_IN जीत_N_NN भी_RB_RBS दिलाई_N_NN </s>
+<s> इस_DT संबंध_N_NN में_IN पूछने_V_VB पर_IN ताहिर_N_NN कहते_V_VB हैं,_V_VB “यह_N_NN सच_N_NN है_V_VB कि_CC छिछोरे_N_NN में_IN मेरा_PRP किरदार_N_NNP नितेश_N_NNP के_IN वास्तविक_JJ_JJS जीवन_N_NN के_IN सीनियर_JJ_JJS पर_IN आधारित_N_NN है_N_NN </s>
+<s> वह_PRP एक_CD दिन_N_NN मुझे_PRP आईआईटी_N_NN मुंबई_N_NNP ले_V_VB गए_V_VB </s>
+<s> वहां_N_NN घूमने_V_VB के_IN दौरान_N_NN ही_RB_RBS मुझे_PRP इस_DT किरदार_N_NN की_IN शख्सीयत_N_NN का_IN अंदाजा_N_NN हुआ_N_NN </s>
+<s> डेरेक_N_NN की_IN शैली_N_NN आज_IN भी_RB_RBS हॉस्टल_N_NN के_IN गलियारों_N_NN में_IN एक_CD शहरी_JJ_JJS किंवदंती_N_NN है।”_V_VB </s>
+सितारे_N_NN भी_RB_RBS कमाल_N_NN करते_V_VB हैं_V_VB और_CC ये_DT कमाल_N_NN कई_JJ_JJS बार_N_NN छोटी_JJ_JJS मोटी_JJ_JJS शैतानियों_N_NN और_CC शरारतों_N_NN की_IN शक्ल_N_NN में_IN भी_RB_RBS सामने_IN आते_V_VB हैं_V_VB </s>
+<s> ताजा_JJ_JJS मामला_N_NN दबंग_N_NN गर्ल_N_NN सोनाक्षी_N_NNP सिन्हा_N_NNP का_IN है,_V_VB जिन्होंने_WDT अपने_PRPS चाहने_N_NN वालों_IN के_IN साथ_IN मंगलवार_N_NN को_IN एक_CD शरारत_N_NN की_IN और_CC इसकी_DT असलियत_N_NN खुली_JJ_JJS अगले_N_NN दिन_N_NN बुधवार_N_NN को_N_NN </s>
+<s> मंगलवार_N_NN को_IN पूरे_JJ_JJS दिन_N_NN एक_CD वीडियो_N_NN सोशल_N_NN मीडिया_N_NN पर_IN वायरल_N_NN होता_V_VB रहा,_V_VB जिसमें_WDT उनके_PRP हाथों_N_NN में_IN हथकड़ी_N_NN लगी_V_VB हुई_V_VB है_V_VB </s>
+<s> सूत्र_N_NN बताते_V_VB हैं_V_VB कि_CC इस_DT वीडियो_N_NN को_IN जानबूझकर_V_VB वायरल_N_NN कराया_V_VB गया_V_VB और_CC मामला_N_NN हद_N_NN से_IN बढ़ते_N_NN देख_V_VB सोनाक्षी_N_NNP ने_IN अपने_PRPS इंस्टाग्राम_N_NN अकाउंट_N_NN पर_IN इस_DT बवाल_N_NN को_IN थामने_V_VB की_IN कोशिश_N_NN भी_RB_RBS की_N_NN </s>
+<s>P सोनाक्षी_N_NNP ने_IN अपनी_PRPS पोस्ट_N_NN में_IN लिखा,_V_VB ‘मुझे_V_VB पता_N_NN चला_V_VB है_V_VB कि_CC सोशल_JJ_JJS मीडिया_N_NN पर_IN मेरे_PRP कुछ_JJ_JJS वीडियो_N_NN प्रसारित_N_NN हो_V_VB रहे_V_VB हैं_V_VB </s>
+<s> ये_DT मैं_N_NN तो_RB_RBS हूं_N_NN लेकिन_CC जो_WDT दिख_V_VB रहा_V_VB है_V_VB वह_PRP पूरा_JJ_JJS सच_N_NN नहीं_RB_RBR हैं_V_VB </s>
+<s> मैं_PRP इस_DT वीडियो_N_NN का_IN विवरण_N_NN जल्द_N_NN ही_RB_RBS साझा_N_NN करूंगी।’_N_NN </s>
+वीडियो_N_NN वायरल_N_NN होने_V_VB के_IN बाद_IN से_IN चल_V_VB रही_V_VB छानबीन_N_NN में_IN ये_DT पता_N_NN चला_V_VB है_V_VB कि_CC यह_DT वीडियो_N_NN तो_RB_RBS असली_JJ_JJS है_V_VB लेकिन_CC जो_WDT इसमें_PRP दिख_V_VB रहा_V_VB है_V_VB वह_PRP एक_CD ब्यूटी_N_NN प्रोडक्ट_N_NN के_IN कमर्शियल_N_NN की_IN शूटिंग_N_NN का_IN हिस्सा_N_NN है_N_NN </s>
+<s> इस_DT कमर्शियल_N_NN में_IN सोनाक्षी_N_NNP सिन्हा_N_NNP को_IN जरूरत_N_NN से_IN ज्यादा_JJ_JJS खूबसूरत_JJ_JJS दिखने_V_VB के_IN चलते_V_VB गिरफ्तार_N_NN किया_V_VB जाता_V_VB दिखाया_V_VB गया_V_VB है_V_VB और_CC वह_PRP सफाई_N_NN देती_V_VB दिख_V_VB रही_V_VB हैं_V_VB कि_CC उन्होंने_PRP कुछ_JJ_JJS गलत_N_NN तो_RB_RBS नहीं_RB_RBR किया_V_VB </s>
+<s> इस_DT कैंपेन_N_NN के_IN बारे_N_NN में_IN सोनाक्षी_N_NNP ने_IN ही_RB_RBS खुलासा_N_NN किया_V_VB है_V_VB </s>
+<s> हाल_N_NN ही_RB_RBS में_IN फिल्म_N_NN खानदानी_N_NN शफाखाना_N_NN में_IN नजर_N_NN आईं_N_NN सोनाक्षी_N_NNP सिन्हा_N_NNP की_IN अगली_JJ_JJS फिल्म_N_NN मिशन_N_NN मंगल_N_NN १५_CD अगस्त_N_NNP को_IN रिलीज_N_NN हो_V_VB रही_V_VB है_N_NN </s>
+<s> इसके_DT अलावा_CC वह_PRP इन_WDT दिनों_N_NN अपनी_PRPS दो_CD और_CC फिल्मों_N_NN दबंग_N_NN ३_CD और_CC भुज-_N_NN द_N_NNP प्राइड_N_NNP ऑफ_N_NNP इंडिया_N_NNP की_IN शूटिंग_N_NN में_IN भी_RB_RBS व्यस्त_V_VB हैं_V_VB </s>
+<s> भारत_N_NNP सरकार_N_NN ने_IN जब_WDT से_IN जम्मू-कश्मीर_N_NNP को_IN विशेष_JJ_JJS अधिकार_N_NN देने_V_VB वाले_IN अनुच्छेद_N_NN ३७०_CD को_IN खत्म_N_NN किया_V_VB तब_CC से_IN इसकी_DT चर्चा_N_NN भारत_N_NNP ही_RB_RBS नहीं_RB_RBR दुनियाभर_N_NN में_IN हो_V_VB रही_V_VB है_N_NN </s>
+<s> सरकार_N_NN के_IN इस_DT फैसले_N_NN में_IN हर_JJ_JJS कोई_WP अपनी_PRPS प्रतिक्रिया_N_NN दे_V_VB रहे_V_VB हैं_V_VB </s>
+<s> वहीं_DT भारत_N_NNP सरकार_N_NN के_IN इस_DT फैसले_N_NN का_IN असर_N_NN पड़ोसी_JJ_JJS मुल्क_N_NN पाकिस्तान_N_NN में_IN भी_RB_RBS देखने_V_VB को_IN मिल_V_VB रहा_V_VB है_V_VB </s>
+<s> यहां_N_NN की_IN कई_JJ_JJS फिल्मी_N_NN सितारों_N_NN ने_IN अनुच्छेद_N_NN ३७०_CD हटने_V_VB पर_IN अपनी_PRPS प्रतिक्रिया_N_NN दी_N_NN </s>
+<s> हाल_N_NN ही_RB_RBS में_IN कश्मीर_N_NNP और_CC अनुच्छेद_JJ_JJS ३७०_CD को_IN लेकर_V_VB पाकिस्तानी_N_NNP एक्ट्रेस_N_NNP मावरा_N_NNP होकेन_N_NNP ने_IN अपना_PRPS गुस्सा_N_NN जाहिर_N_NN किया_V_VB है_V_VB </s>
+<s>P मावरा_N_NNP ने_IN एक_CD के_IN बाद_IN एक_CD कई_JJ_JJS ट्वीट_N_NN करके_V_VB भारत_N_NNP सरकार_N_NN के_IN फैसले_N_NN को_IN मानवता_N_NN के_IN खिलाफ_N_NN बताया_V_VB है_V_VB </s>
+<s> उन्होंने_PRP अपने_PRPS ट्वीट_N_NN में_IN लिखा-_N_NN आज_N_NN की_IN रात_N_NN मैं_PRP सो_V_VB नहीं_RB_RBR पाऊंगी_V_VB </s>
+<s> हम_PRP इस_DT दुनिया_N_NN को_IN क्या_WDT बना_V_VB रहे_V_VB हैं?_V_VB हम_PRP लोग_N_NN एक-दूसरे_N_NN को_IN क्यों_WDT मार_V_VB रहे_V_VB हैं?_V_VB हमें_PRP क्या_WDT चाहिए?_N_NN क्या_WDT मानवता_N_NN के_IN लिए_IN पॉवर_N_NN इतनी_JJ_JJS जरूरी_N_NN है?_N_NN ईश्वर_N_NN हमारी_PRP मदद_N_NN करे_N_NN </s>
+<s>P मावरा_N_NNP ने_IN आगे_IN लिखा_V_VB UNHRC_N_NNP कहां_N_NNP है?_N_NNP कश्मीर_N_NNP में_IN जो_WDT हो_V_VB रहा_V_VB है,_V_VB वो_DT मानवता_N_NN के_IN खिलाफ_N_NN है_N_NN </s>
+<s> क्या_WDT हम_PRP इतने_JJ_JJS अंधकार_N_NN के_IN दौर_N_NN में_IN रह_V_VB रहे_V_VB हैं?_V_VB मानव_N_NN जीवन_N_NN को_IN बचाने_V_VB के_IN लिए_IN किताबों_N_NN में_IN जो_WDT कायदे-कानून_N_NN हमें_PRP पढ़ाए_V_VB गये,_V_VB उनका_PRP क्या?_N_NN क्या_WDT उनका_PRP कोई_WP मतलब_N_NN है?_N_NN लोगों_N_NN को_IN जीने_V_VB दीजिए_V_VB </s>
+<s> इन_DT ट्वीट_N_NN के_IN बाद_IN मावरा_N_NNP होकेन_N_NNP सोशल_N_NNP मीडिया_N_NN पर_IN जमकर_N_NN ट्रोल_N_NN हो_V_VB रही_V_VB हैं_V_VB </s>
+<s>P Yunus_N_NNP नाम_N_NN के_IN ट्विटर_N_NN हैंडल_N_NN ने_IN उनके_PRP ट्वीट_N_NN पर_IN कमेंट_N_NN करते_V_VB हुए_V_VB लिखा_V_VB कश्मीर_N_NNP भारत_N_NNP के_IN साथ_N_NN सुरक्षित_JJ_JJS है_N_NN </s>
+<s> भारत_N_NNP में_IN इसका_WDT भविष्य_N_NN है_N_NN </s>
+<s> अल्लाह_N_NN मेरे_PRP कश्मीरी_N_NN भाइयों_N_NN के_IN बाकी_N_NN काम_N_NN करेगा!_N_NN </s>
+<s> वहीं_DT Dhaval_N_NN Shah_N_NN ने_IN लिखा-_V_VB आप_PRP भारत_N_NNP की_IN फिक्र_N_NN ना_RB_RBR करें,कश्मीर_N_NN की_IN फिक्र_N_NN करने_V_VB के_IN लिए_IN भारतीय_JJ_JJS हैं_V_VB </s>
+<s> Amit_N_NN ने_IN ट्वीट_N_NNP किया-_N_NNP औकात_N_NN दिखा_V_VB दी_V_VB इसलिए_CC आपको_PRP एंट्री_N_NN नहीं_RB_RBR देते_V_VB हैं_V_VB </s>
+<s> Nytion_N_NN empire_N_NN bty_N_NN ने_IN लिखा_V_VB जोक_N_NNP ऑफ_N_NNP द_N_NNP डे_N_NNP </s>
+<s> इसके_DT अलावा_CC मावरा_N_NNP होकेन_N_NNP की_IN ट्वीट_N_NN पर_IN कई_JJ_JJS भद्दे_N_NN कमेंट_N_NN भी_RB_RBS किए_V_VB गए_V_VB हैं_V_VB </s>
+<s> आपको_PRP बता_V_VB दें_V_VB कि_CC मावरा_N_NNP से_IN पहले_IN पाकिस्तान_N_NNP की_IN जानी_N_NN मानी_V_VB फिल्म_N_NN और_CC टीवी_N_NN अदाकारा_N_NN माहिरा_N_NNP खान_N_NNP ने_IN भी_RB_RBS ट्वीट_N_NN किया_V_VB था_V_VB </s>
+<s> माहिरा_N_NNP ने_IN लिखा_V_VB था_V_VB क्या_WDT हमने_PRP पूरी_JJ_JJS तरह_N_NN उन_PRP चीजों_N_NN को_IN भुला_V_VB दिया_V_VB है_V_VB जिनके_WDT बारे_N_NN में_IN हम_PRP बात_N_NN नहीं_RB_RBR करना_V_VB चाहते_V_VB हैं_V_VB </s>
+<s> लेकिन_CC ये_DT सिर्फ_JJ_JJS रेत_N_NN पर_IN खिंची_N_NN लकीरें_N_NN नहीं_RB_RBR है,_V_VB ये_DT मासूम_N_NN लोगों_N_NN के_IN मारे_N_NN जाने_V_VB का_IN सवाल_N_NN है_N_NN </s>
+<s> जन्नत(कश्मीर)_N_NN जल_N_NN रही_V_VB है_V_VB और_CC हम_PRP खामोशी_N_NN से_IN रो_V_VB रहे_V_VB हैं_V_VB </s>
+<s> अभिनेत्री_N_NN परिणीति_N_NN चोपड़ा_N_NN इन_DT दिनों_N_NN अपनी_PRPS आने_V_VB वाली_IN फिल्म_N_NN जबरिया_N_NNP जोड़ी_N_NNP के_IN प्रमोशन_N_NN में_IN लगी_V_VB हुई_V_VB हैं_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN उनके_PRP साथ_N_NN अभिनेता_N_NN सिद्धार्थ_N_NNP मल्होत्रा_N_NNP मुख्य_JJ_JJS भूमिका_N_NN में_IN हैं_V_VB </s>
+<s> फिल्म_N_NN के_IN प्रमोशन_N_NN के_IN दौरान_N_NN परिणीति_N_NNP चोपड़ा_N_NNP अपनी_PRPS निजी_JJ_JJS जिंदगी_N_NN के_IN बारे_N_NN में_IN भी_RB_RBS ढेरों_JJ_JJS खुलासे_N_NN कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> उन्होंने_PRP अपनी_PRPS जिंदगी_N_NN के_IN उस_PRP दौर_N_NN का_IN खुलासा_N_NN किया_V_VB जब_WDT वह_PRP पैसों_N_NN की_IN तंगी_N_NN के_IN अलावा_N_NN बीमारी_N_NN और_CC बहुत_JJ_JJS बुरे_JJ_JJS हालातों_N_NN से_IN गुजर_V_VB रही_V_VB थीं_N_NN </s>
+<s> परिणीति_N_NN चोपड़ा_N_NNP हाल_N_NN ही_RB_RBS में_IN अभिनेता_N_NN सिद्धार्थ_N_NNP मल्होत्रा_N_NNP के_IN साथ_IN टॉक_N_NN शो_N_NN Tapecast_N_NN में_IN पहुंची_N_NN </s>
+<s> यहां_N_NN उन्होंने_PRP अपने_PRPS फिल्मी_N_NN करियर_N_NN और_CC जिंदगी_N_NN को_IN लेकर_V_VB कई_JJ_JJS खुलासे_JJ_JJS किए_N_NN </s>
+<s> परिणीति_N_NNP चोपड़ा_N_NNP ने_IN कहा-_N_NN साल_N_NN २०१४_CD से_IN लेकर_V_VB २०१५_CD का_IN दौर_N_NN मेरी_PRP जिंदगी_N_NN का_IN सबसे_JJ_JJS बुरा_JJ_JJS समय_N_NN था_V_VB </s>
+<s> ये_DT करीब_N_NN डेढ़_CD साल_N_NN तक_IN ऐसा_DT रहा_N_NN </s>
+<s> मेरी_PRP दो_CD फिल्में_N_NN दावत-ए-इश्क_N_NNP और_CC किल_N_NN दिल_V_VB अच्छा_JJ_JJS काम_N_NN नहीं_RB_RBR कर_V_VB सकीं_V_VB </s>
+<s> ये_DT मेरे_PRP लिए_IN सबसे_JJ_JJS बड़ी_JJ_JJS नाकामयाबी_N_NN थी_V_VB </s>
+<s> फिर_RB_RBS एक_CD दम_N_NN से_IN मेरे_PRP पास_IN रुपए_N_NN भी_RB_RBS नहीं_RB_RBR बचे_V_VB थे।_V_VB </s>
+परिणीति_N_NNP ने_IN आगे_IN कहा-_N_NN मैंने_V_VB एक_CD घर_N_NN खरीदा_V_VB था_V_VB इसके_DT बाद_IN मेरी_PRP जिंदगी_N_NN और_CC भी_RB_RBS बुरे_JJ_JJS हालात_N_NN से_IN गुजरने_V_VB ली_V_VB </s>
+<s> ऐसा_DT लगने_V_VB लगा_V_VB जैसे_CC मेरी_PRP जिंदगी_N_NN के_IN सभी_JJ_JJS रास्ते_N_NN बंद_N_NN हो_V_VB गए_V_VB हों_V_VB और_CC आगे_IN कुछ_JJ_JJS अच्छा_JJ_JJS होने_V_VB की_IN उम्मीद_N_NN नहीं_RB_RBR थी_V_VB </s>
+<s> इसका_DT नतीजा_N_NN ये_DT हुए_V_VB कि_CC मैंने_PRP खाना_N_NN खाना_N_NN और_CC सोना_N_NN बंद_N_NN कर_V_VB दिया_V_VB </s>
+<s> उस_PRP समय_N_NN मेरा_PRP कोई_WP दोस्त_N_NN नहीं_RB_RBR था_V_VB </s>
+<s> मैंने_PRP लोगों_N_NN से_IN मिलना_V_VB छोड़_V_VB दिया_V_VB </s>
+<s> मैंने_PRP अपने_PRPS परिवार_N_NN तक_IN से_IN संपर्क_N_NN खत्म_N_NN कर_V_VB लिया_V_VB था_V_VB </s>
+<s> मैं_PRP बस_N_NN रूम_N_NN में_IN बैठकर_V_VB टीवी_N_NN देखती_V_VB और_CC सोती_V_VB रहती_V_VB थीं_N_NN </s>
+<s> मैं_PRP बिल्कुल_JJ_JJS जोंबी_N_NN बन_V_VB गई_V_VB थी।_N_NN </s>
+परिणीति_N_NNP ने_IN आगे_IN कहा-_N_NN मैंने_V_VB एक_CD घर_N_NN खरीदा_V_VB था_V_VB इसके_DT बाद_IN मेरी_PRP जिंदगी_N_NN और_CC भी_RB_RBS बुरे_JJ_JJS हालात_N_NN से_IN गुजरने_V_VB ली_V_VB </s>
+<s> ऐसा_DT लगने_V_VB लगा_V_VB जैसे_CC मेरी_PRP जिंदगी_N_NN के_IN सभी_JJ_JJS रास्ते_N_NN बंद_N_NN हो_V_VB गए_V_VB हों_V_VB और_CC आगे_IN कुछ_JJ_JJS अच्छा_JJ_JJS होने_V_VB की_IN उम्मीद_N_NN नहीं_RB_RBR थी_V_VB </s>
+<s> इसका_DT नतीजा_N_NN ये_DT हुए_V_VB कि_CC मैंने_PRP खाना_N_NN खाना_N_NN और_CC सोना_N_NN बंद_N_NN कर_V_VB दिया_V_VB </s>
+<s> उस_PRP समय_N_NN मेरा_PRP कोई_WP दोस्त_N_NN नहीं_RB_RBR था_V_VB </s>
+<s> मैंने_PRP लोगों_N_NN से_IN मिलना_V_VB छोड़_V_VB दिया_V_VB </s>
+<s> मैंने_PRP अपने_PRPS परिवार_N_NN तक_IN से_IN संपर्क_N_NN खत्म_N_NN कर_V_VB लिया_V_VB था_V_VB </s>
+<s> मैं_PRP बस_N_NN रूम_N_NN में_IN बैठकर_V_VB टीवी_N_NN देखती_V_VB और_CC सोती_V_VB रहती_V_VB थीं_N_NN </s>
+<s> मैं_PRP बिल्कुल_JJ_JJS जोंबी_N_NN बन_V_VB गई_V_VB थी।_N_NN </s>
+परिणीति_N_NNP के_IN अनुसार-_N_NN मैं_N_NN बहुत_JJ_JJS बुरी_JJ_JJS तरह_N_NN से_IN डिप्रेशन_N_NN में_IN थी_V_VB </s>
+<s> हर_JJ_JJS समय_N_NN बीमार_N_NN रहने_V_VB लगी_V_VB थी_V_VB </s>
+<s> मैं_PRP करीब_JJ_JJS ६_CD महीने_N_NN तक_IN मीडिया_N_NN से_IN भी_RB_RBS मुखातिब_N_NN नहीं_RB_RBR हुई_V_VB थी।_N_NN इस_DT बुरे_JJ_JJS दौर_N_NN से_IN निकलने_V_VB में_IN परिणीति_N_NN के_IN भाई_N_NN सहज_JJ_JJS चोपड़ा_N_NNP और_CC दोस्त_N_NN संजना_N_NN ने_IN काफी_JJ_JJS साथ_N_NN दिया_V_VB </s>
+<s> इन_DT दोनों_CD के_IN बारे_N_NN में_IN बात_N_NN करते_V_VB हुए_V_VB परिणीति_N_NNP ने_IN कहा-_N_NN सहज_N_NN और_CC संजना_N_NN ने_IN मेरी_PRP बहुत_JJ_JJS सहायता_N_NN की_IN है_N_NN </s>
+<s> सजह_N_NN मुझसे_PRP हमेशा_JJ_JJS बात_N_NN करता_V_VB था_V_VB मेरा_PRP साथ_N_NN रहता_V_VB था_V_VB मुझे_PRP हिम्मात_N_NN देता_V_VB था_V_VB </s>
+<s> वहीं_DT संजना_N_NN और_CC मैं_PRP बहुत_JJ_JJS बात_N_NN करते_V_VB थे_V_VB </s>
+<s> वह_PRP मेरी_PRP बहुत_JJ_JJS सहायता_N_NN करती_V_VB थीं।_V_VB </s>
+परिणीति_N_NNP ने_IN आगे_IN कहा-_N_NN संजना_N_NN दिन_N_NN में_IN करीब_N_NN १०_CD बार_N_NN मेरे_PRP साथ_IN रोती_V_VB थी_V_VB </s>
+<s> मैं_PRP हमेशा_IN परेशान_N_NN और_CC रोती_N_NN रहती_V_VB थी_V_VB </s>
+<s> ये_DT सब_JJ_JJS करीब_JJ_JJS डेढ़_CD साल_N_NN तक_IN चलता_V_VB रहा_V_VB </s>
+<s> इसके_DT बाद_IN साल_N_NN २०१६_CD की_IN शुरुआत_N_NN मेरे_PRP लिए_IN बहुत_JJ_JJS हद_N_NN तक_IN बेहतर_JJ_JJS रही_N_NN </s>
+<s> मैंने_PRP गोलमाल_N_NN ४_CD और_CC मेरी_PRP प्यारी_JJ_JJS बिंदु_N_NN फिल्म_N_NN साइन_N_NN की_IN और_CC मैं_PRP फिर_CC अपने_PRPS नए_JJ_JJS घर_N_NN में_IN पहुंची_N_NN </s>
+<s> इस_WDT दौरान_N_NN अपनी_PRPS जिंदगी_N_NN से_IN मैंने_PRP बहुत_JJ_JJS कुछ_JJ_JJS सिखा।_N_NN आपको_PRP बता_V_VB दें_V_VB कि_CC परिणीति_N_NNP चोपड़ा_N_NNP फिल्म_N_NNP जबरिया_N_NNP जोड़ी_N_NNP ९_CD अगस्त_N_NN को_IN सिनेमाघरों_N_NN में_IN रिलीज_N_NN होगी_N_NN </s>
+<s> भारत_N_NNP सरकार_N_NN ने_IN जम्मू-कश्मीर_N_NNP को_IN विशेष_JJ_JJS राज्य_N_NN का_IN दर्जा_N_NN देने_V_VB वाले_IN संवैधानिक_JJ_JJS अनुच्छेद_N_NN ३७०_CD के_IN प्रावधानों_N_NN को_IN हटाने_V_VB का_IN बड़ा_JJ_JJS फैसला_N_NN किया_V_VB है_V_VB </s>
+<s> कश्मीर_N_NNP को_IN लेकर_V_VB पाकिस्तानी_N_NNP एक्ट्रेस_N_NNP मावरा_N_NNP होकेन_N_NNP ने_IN अपना_PRPS गुस्सा_N_NN जाहिर_N_NN किया_V_VB है_V_VB </s>
+<s>P मावरा_N_NNP ने_IN एक_CD के_IN बाद_IN एक_CD कई_JJ_JJS ट्वीट_N_NN कर_V_VB धारा_N_NN ३७०_CD पर_IN अपनी_PRPS प्रतिक्रिया_N_NN जाहिर_N_NN की_IN है_N_NN </s>
+<s>P मावरा_N_NNP ने_IN लिखा_V_VB -_WDTUNC आज_N_NN की_IN रात_N_NN मैं_PRP सो_V_VB नहीं_RB_RBR पाऊंगी_V_VB </s>
+<s> हम_PRP इस_DT दुनिया_N_NN को_IN क्या_WDT बना_V_VB रहे_V_VB हैं?_V_VB हम_PRP लोग_N_NN एक-दूसरे_N_NN को_IN क्यों_WDT मार_V_VB रहे_V_VB हैं?_V_VB हमें_PRP क्या_WDT चाहिए?_N_NN क्या_WDT मानवता_N_NN के_IN लिए_IN पॉवर_N_NN इतनी_JJ_JJS जरूरी_N_NN है?_N_NN ईश्वर_N_NN हमारी_PRP मदद_N_NN करे_N_NN </s>
+<s>P मावरा_N_NNP ने_IN आगे_IN लिखा_V_VB UNHRC_N_NNP कहां_N_NNP है?_N_NNP कश्मीर_N_NNP में_IN जो_WDT हो_V_VB रहा_V_VB है,_V_VB वो_DT मानवता_N_NN के_IN खिलाफ_N_NN है_N_NN </s>
+<s> क्या_WDT हम_PRP इतने_JJ_JJS अंधकार_N_NN के_IN दौर_N_NN में_IN रह_V_VB रहे_V_VB हैं?_V_VB मानव_N_NN जीवन_N_NN को_IN बचाने_V_VB के_IN लिए_IN किताबों_N_NN में_IN जो_WDT कायदे-कानून_N_NN हमें_PRP पढ़ाए_V_VB गये,_V_VB उनका_PRP क्या?_N_NN क्या_WDT उनका_PRP कोई_WP मतलब_N_NN है?_N_NN लोगों_N_NN को_IN जीने_V_VB दीजिए_V_VB </s>
+<s> हालांकि_CC अपने_PRPS इस_DT ट्टीट_N_NN के_IN कारण_N_NN मावरा_N_NN को_IN ट्रोल_N_NN भी_RB_RBS होना_V_VB पड़_V_VB रहा_V_VB है_V_VB </s>
+<s> यूजर्स_N_NN मावरा_N_NN को_IN पाकिस्तान_N_NN में_IN ध्यान_N_NN लगाने_V_VB की_IN सलाह_N_NN दे_V_VB रहे_V_VB हैं_V_VB </s>
+<s> कुछ_JJ_JJS ने_IN कहा_V_VB कि_CC आप_PRP फिक्र_N_NN ना_RB_RBR करें_V_VB </s>
+<s> कश्मीर_N_NNP की_IN फिक्र_N_NN करने_V_VB के_IN लिए_IN भारतीय_JJ_JJS हैं_V_VB </s>
+<s> मावरा_N_NN से_IN पहले_IN पाकिस्तान_N_NNP की_IN जानी_N_NN मानी_V_VB फिल्म_N_NN और_CC टीवी_N_NN अदाकारा_N_NN माहिरा_N_NNP खान_N_NNP ने_IN भी_RB_RBS ट्वीट_N_NN किया_V_VB था_V_VB </s>
+<s> माहिरा_N_NNP ने_IN लिखा_V_VB था_V_VB क्या_WDT हमने_PRP पूरी_JJ_JJS तरह_N_NN उन_PRP चीजों_N_NN को_IN भुला_V_VB दिया_V_VB है_V_VB जिनके_WDT बारे_N_NN में_IN हम_PRP बात_N_NN नहीं_RB_RBR करना_V_VB चाहते_V_VB हैं_V_VB </s>
+<s> लेकिन_CC ये_DT सिर्फ_JJ_JJS रेत_N_NN पर_IN खिंची_N_NN लकीरें_N_NN नहीं_RB_RBR है,_V_VB ये_DT मासूम_N_NN लोगों_N_NN के_IN मारे_N_NN जाने_V_VB का_IN सवाल_N_NN है_N_NN </s>
+<s> जन्नत(कश्मीर)_N_NN जल_N_NN रही_V_VB है_V_VB और_CC हम_PRP खामोशी_N_NN से_IN रो_V_VB रहे_V_VB हैं_V_VB </s>
+<s> भारतीय_JJ_JJS गृहमंत्री_N_NN अमित_N_NNP शाह_N_NNP ने_IN सोमवार_N_NNP को_IN संसद_N_NN के_IN उच्च_JJ_JJS सदन_N_NN राज्यसभा_N_NN में_IN भारी_JJ_JJS शोर-शराबे_N_NN और_CC नारेबाजी_N_NN के_IN बीच_IN ये_DT ऐलान_N_NN किया_N_NN </s>
+<s> भारत_N_NNP सरकार_N_NN के_IN इस_DT बड़े_JJ_JJS फ़ैसले_N_NN पर_IN दुनिया_N_NN भर_RB_RBS से_IN प्रतिक्रियाएं_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s> पाकिस्तान_N_NN की_IN मीडिया_N_NN और_CC आम_JJ_JJS लोगों_N_NN में_IN भी_RB_RBS अनुच्छेद-३७०_N_NN खत्म_N_NN किए_V_VB जाने_V_VB को_IN लेकर_V_VB खासी_JJ_JJS हलचल_N_NN है_N_NN </s>
+<s> भाजपा_N_NNP की_IN वरिष्ठ_JJ_JJS नेता_N_NN और_CC पूर्व_IN विदेश_N_NN मंत्री_N_NN सुषमा_N_NN स्वराज_N_NN का_IN मंगलवार_N_NN रात_N_NN को_IN निधन_N_NN हो_V_VB गया_V_VB </s>
+<s> सीने_N_NN में_IN दर्द_N_NN की_IN शिकायत_N_NN के_IN बाद_IN उन्हें_PRP दिल्ली_N_NNP के_IN एम्स_N_NNP में_IN भर्ती_N_NN कराया_V_VB गया_V_VB था_N_NN </s>
+<s> वे_DT पिछले_N_NN काफी_JJ_JJS समय_N_NN से_IN अस्वस्थ_N_NN चल_V_VB रही_V_VB थीं_N_NN </s>
+<s> वह_PRP ६७_CD साल_N_NN की_IN थीं_N_NN </s>
+<s> उनके_PRP निधन_N_NN पर_IN बॉलीवुड_N_NN एक्टर_N_NN अनुपम_JJ_JJS खेर_N_NN ने_IN दुख_N_NN जाहिर_N_NN किया_N_NN </s>
+<s> इस_DT समय_N_NN अनुपम_JJ_JJS खेर_N_NN न्यूयॉर्क_N_NNP में_IN हैं_V_VB </s>
+<s> सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN की_IN खबर_N_NN मिलते_V_VB ही_RB_RBS अनुपम_JJ_JJS खेर_N_NN ने_IN ट्विटर_N_NN पर_IN वीडियो_N_NN शेयर_N_NN कर_V_VB सुषमा_N_NN स्वराज_N_NN को_IN श्रद्धांजलि_N_NN दी_V_VB </s>
+<s> अनुपम_JJ_JJS खेर_N_NN के_IN अलावा_N_NN एक्टर_N_NN बोमन_N_NNP ईरानी_N_NNP ने_IN भी_RB_RBS ट्वीट_N_NN कर_V_VB सुषमा_N_NN स्वराज_N_NN को_IN श्रद्धांजलि_N_NN दी_V_VB है_V_VB </s>
+<s> जम्मू_N_NNP कश्मीर_N_NNP में_IN धारा_N_NN ३७०_CD हटाए_V_VB जाने_V_VB पर_IN अब_IN राखी_N_NNP सावंत_N_NNP का_IN बयान_N_NN सामने_IN आया_V_VB है_V_VB </s>
+<s>P राखी_N_NNP ने_IN एक_CD वीडियो_N_NN शेयर_N_NN कर_V_VB पीएम_N_NNP मोदी_N_NNP की_IN जमकर_N_NN तारीफ_N_NN की_IN है_N_NN </s>
+<s> इतना_JJ_JJS ही_RB_RBS नहीं_RB_RBR राखी_N_NN ने_IN वीडियो_N_NN में_IN ये_DT भी_RB_RBS कहा_V_VB कि_CC वो_DT इस_DT फैसले_N_NN से_IN बेहद_JJ_JJS खुश_N_NN हैं_V_VB </s>
+<s>P राखी_N_NNP ने_IN कहा-_N_NN हमें_PRP आप_PRP पर_IN गर्व_N_NN है_V_VB मोदी_N_NNP जी_N_NNP </s>
+<s> आप_PRP जैसा_JJ_JJS कोई_WP नहीं_RB_RBR है_N_NN </s>
+<s> इतना_JJ_JJS ही_RB_RBS नहीं_RB_RBR राखी_N_NN ने_IN पीएम_N_NNP मोदी_N_NNP जिंदाबाद_N_NNP के_IN नारे_N_NN भी_RB_RBS लगाए_V_VB </s>
+<s>P राखी_N_NNP ने_IN कहा-_N_NN मैं_PRP अपनी_PRPS फिल्म_N_NN धारा_N_NN ३७०_CD के_IN लिए_IN मुझे_PRP कास्ट_N_NN करने_V_VB के_IN लिए_IN अपने_PRPS डायरेक्टर_N_NN प्रोड्यूसर_N_NN को_IN धन्यवाद_N_NN देती_V_VB हूं_V_VB </s>
+<s> सबसे_JJ_JJS पहले_JJ_JJS हमने_PRP धारा_N_NN ३७०_CD का_IN मुद्दा_N_NN उठाया_V_VB </s>
+<s> मोदी_N_NNP जी_N_NNP आपका_PRP शुक्रिया_N_NN आपने_N_NN मेरी_PRP बात_N_NN सुनी_V_VB और_CC कानून_N_NN लागू_N_NN कर_V_VB दिया_V_VB </s>
+<s>P राखी_N_NNP ने_IN आगे_IN कहा-_V_VB अब_IN कश्मीर_N_NNP हमारा_PRP हो_V_VB गया_V_VB है_V_VB </s>
+<s> हालांकि_CC इस_DT वीडियो_N_NN की_IN वजह_N_NN से_IN राखी_N_NN ट्रोल_N_NN भी_RB_RBS हो_V_VB गईं_V_VB </s>
+<s> भारत_N_NNP सरकार_N_NN ने_IN जम्मू-कश्मीर_N_NNP को_IN विशेष_JJ_JJS राज्य_N_NN का_IN दर्जा_N_NN देने_V_VB वाले_IN संवैधानिक_JJ_JJS अनुच्छेद_N_NN ३७०_CD के_IN प्रावधानों_N_NN को_IN हटाने_V_VB का_IN बड़ा_JJ_JJS फैसला_N_NN किया_V_VB है_V_VB </s>
+<s> कश्मीर_N_NNP को_IN लेकर_V_VB पाकिस्तानी_N_NNP एक्ट्रेस_N_NNP मावरा_N_NNP होकेन_N_NNP ने_IN अपना_PRPS गुस्सा_N_NN जाहिर_N_NN किया_V_VB है_V_VB </s>
+<s>P मावरा_N_NNP ने_IN एक_CD के_IN बाद_IN एक_CD कई_JJ_JJS ट्वीट_N_NN कर_V_VB धारा_N_NN ३७०_CD पर_IN अपनी_PRPS प्रतिक्रिया_N_NN जाहिर_N_NN की_IN है_N_NN </s>
+<s>P मावरा_N_NNP ने_IN लिखा_V_VB -_WDTUNC आज_N_NN की_IN रात_N_NN मैं_PRP सो_V_VB नहीं_RB_RBR पाऊंगी_V_VB </s>
+<s> अभिनेत्री_N_NN परिणीति_N_NN चोपड़ा_N_NN इन_DT दिनों_N_NN अपनी_PRPS आने_V_VB वाली_IN फिल्म_N_NN जबरिया_N_NNP जोड़ी_N_NNP के_IN प्रमोशन_N_NN में_IN लगी_V_VB हुई_V_VB हैं_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN उनके_PRP साथ_N_NN अभिनेता_N_NN सिद्धार्थ_N_NNP मल्होत्रा_N_NNP मुख्य_JJ_JJS भूमिका_N_NN में_IN हैं_V_VB </s>
+<s> फिल्म_N_NN के_IN प्रमोशन_N_NN के_IN दौरान_N_NN परिणीति_N_NNP चोपड़ा_N_NNP अपनी_PRPS निजी_JJ_JJS जिंदगी_N_NN के_IN बारे_N_NN में_IN भी_RB_RBS ढेरों_JJ_JJS खुलासे_N_NN कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> उन्होंने_PRP अपनी_PRPS जिंदगी_N_NN के_IN उस_PRP दौर_N_NN का_IN खुलासा_N_NN किया_V_VB जब_WDT वह_PRP पैसों_N_NN की_IN तंगी_N_NN के_IN अलावा_N_NN बीमारी_N_NN और_CC बहुत_JJ_JJS बुरे_JJ_JJS हालातों_N_NN से_IN गुजर_V_VB रही_V_VB थीं_N_NN </s>
+<s> भारत_N_NNP सरकार_N_NN द्वारा_IN कश्मीर_N_NNP से_IN अनुच्छेद_N_NN ३७०_CD हटने_V_VB के_IN बाद_IN देशभर_N_NN में_IN हर_JJ_JJS ओर_N_NN से_IN लोगों_N_NN की_IN प्रतिक्रिया_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s> राजनेता_N_NN से_IN लेकर_V_VB फिल्मी_N_NN सितारे_N_NN भी_RB_RBS प्रतिक्रिया_N_NN देने_V_VB में_IN पीछे_IN नहीं_RB_RBR हट_V_VB रहे_V_VB हैं_V_VB </s>
+<s> तमाम_N_NN सितारों_N_NN के_IN बीच_IN अब_IN अभिनेत्री_N_NN गुल_N_NN पनाग_N_NN ने_IN सरकार_N_NN के_IN फैसले_N_NN पर_IN अपनी_PRPS प्रतिक्रिया_N_NN दी_V_VB है_V_VB </s>
+<s> उन्होंने_PRP अनुच्छेद_N_NN ३७०_CD को_IN हटाने_V_VB को_IN दमदार_JJ_JJS फैसला_N_NN बताया_V_VB </s>
+<s> साथ_IN ही_RB_RBS कहा_V_VB है_V_VB कि_CC मोदी_N_NNP सरकार_N_NN के_IN लिए_IN असली_JJ_JJS परीक्षा_N_NN अब_N_NN शुरू_N_NN होने_V_VB जा_V_VB रहा_V_VB है_V_VB </s>
+<s> जम्मू-कश्मीर_N_NNP से_IN अनुच्छेद_N_NN ३७०_CD हटाने_V_VB को_IN लेकर_V_VB इस_DT वक्त_N_NN पूरी_JJ_JJS दुनिया_N_NN की_IN निगाहें_N_NN टिकी_V_VB हुई_V_VB हैं_V_VB </s>
+<s> बॉलीवुड_N_NN और_CC टीवी_N_NN के_IN कई_JJ_JJS सेलिब्रिटीज_N_NN ने_IN इस_DT मुद्दे_N_NN को_IN लेकर_V_VB अपना_PRPS रिएक्शन_N_NN दिया_V_VB है_V_VB </s>
+<s> ऐसे_DT में_IN चलिए_V_VB हम_PRP आपको_PRP बताते_V_VB हैं_V_VB कि_CC आखिर_N_NN ऐसे_DT कौन_WDT से_IN वो_N_NN ५_CD सेलिब्रिटीज_N_NN हैं_V_VB जिनका_WDT संबंध_N_NN जम्मू-कश्मीर_N_NNP से_IN है_N_NN </s>
+<s> सीरियल_N_NN मेरे_PRP अंगने_N_NN में_IN फेम_N_NNP एक्ट्रेस_N_NNP एकता_N_NN कौल_N_NN एक_CD कश्मीरी_N_NN हैं,_N_NN उन्होंने_PRP नॉन_N_NN कश्मीरी_N_NN एक्टर_N_NN सुमीत_N_NNP व्यास_N_NNP से_IN शादी_N_NN की_IN है_V_VB जिसके_WDT बाद_IN से_IN उन्हें_PRP नॉन_N_NN कश्मीरी_N_NN घोषित_V_VB कर_V_VB दिया_V_VB गया_V_VB </s>
+<s> अनुच्छेद_N_NN ३७०_CD हटाए_V_VB जाने_V_VB के_IN बाद_IN एकता_N_NN ने_IN एक_CD इंटरव्यू_N_NN में_IN बताया,_N_NN मुझे_N_NN पापा_N_NN ने_IN सुबह_N_NN उठाया_V_VB और_CC कहा,_N_NN जल्दी_JJ_JJS टीवी_N_NN देखो_V_VB </s>
+<s> मैं_N_NN ये_DT देखकर_V_VB बहुत_JJ_JJS खुश_JJ_JJS हूं,_N_NN एक_CD बार_N_NN फिर_RB_RBS ये_DT मेरा_PRP राज्य_N_NN है_N_NN </s>
+<s> सरकार_N_NN के_IN फैसले_N_NN के_IN बाद_IN हम_PRP जश्न_N_NN मना_V_VB रहे_V_VB हैं।_V_VB </s>
+फिल्म_N_NN प्यार_N_NN में_IN कभी-कभी_N_NN से_IN बॉलीवुड_N_NN में_IN डेब्यू_N_NN करने_V_VB वाले_IN संजय_N_NNP सूरी_N_NNP का_IN जन्म_N_NN श्रीनगर_N_NNP में_IN हुआ_V_VB था_N_NN </s>
+<s> उन्होंने_PRP अपनी_PRPS जिंदगी_N_NN के_IN १९_CD साल_N_NN वहीं_DT बिताएं_V_VB </s>
+<s> संजय_N_NNP के_IN पिता_N_NN की_IN मौत_N_NN एक_CD आतंकी_JJ_JJS हमले_N_NN में_IN हो_V_VB गई_V_VB थी_V_VB जिसके_WDT बाद_IN उनका_PRP परिवार_N_NN दिल्ली_N_NNP आ_V_VB गया_V_VB था_N_NN </s>
+<s> संजय_N_NNP सूरी_N_NNP ने_IN सॉरी_N_NN भाई,_N_NN होम_N_NN डिलीवरी,_N_NN इंसाफ,_N_NN पिंजर,_N_NN दिल_N_NN विल_N_NN प्यार_N_NN व्यार_N_NN और_CC तेरा_N_NNP जादू_N_NN चल_V_VB गया_V_VB जैसी_N_NN फिल्में_N_NN की_IN हैं_V_VB </s>
+<s> पटौदी_N_NNP खानदान_N_NN के_IN दामाद_N_NN कुणाल_N_NNP खेमू_N_NNP का_IN जन्म_N_NN श्रीनगर_N_NNP में_IN हुआ_N_NN </s>
+<s> बतौर_JJ_JJS चाइल्ड_N_NN आर्टिस्ट_N_NN बॉलीवुड_N_NN में_IN एंट्री_N_NN करने_V_VB वाले_IN कुणाल_N_NN का_IN फिल्मी_N_NN करियर_N_NN ज्यादा_JJ_JJS ऊंचाई_N_NN तक_IN नहीं_RB_RBR पहुंच_V_VB पाया_V_VB </s>
+<s>P कुणाल_N_NNP ने_IN साल_N_NN २०१५_CD में_IN शर्मिला_N_NNP टैगोर_N_NNP की_IN बेटी_N_NN और_CC सैफ_N_NNP अली_N_NNP खान_N_NNP की_IN बहन_N_NN सोहा_N_NNP अली_N_NNP खान_N_NNP से_IN २०१५_CD में_IN शादी_N_NN की_IN थीं_N_NN </s>
+<s> अनुपम_JJ_JJS खेर_N_NN एक_CD कश्मीरी_N_NN पंडित_N_NN हैं_V_VB </s>
+<s> अनुच्छेद_N_NN ३७०_CD हटाने_V_VB के_IN बाद_IN अनुपम_JJ_JJS खेर_N_NN ने_IN कहा,_N_NN आज_N_NN का_IN दिन_N_NN हमारे_PRP भारत_N_NNP के_IN इतिहास_N_NN में_IN जाना_V_VB जाएगा_V_VB </s>
+<s> अनुच्छेद_N_NN ३७०_CD को_IN जम्मू-कश्मीर_N_NNP से_IN मोदी_N_NNP सरकार_N_NN द्वारा_IN हटा_V_VB दिया_V_VB गया_V_VB है_V_VB </s>
+<s> एक_CD कश्मीरी_N_NN होने_V_VB के_IN नाते_N_NN अपनी_PRPS आंखों_N_NN के_IN सामने_IN ऐसा_DT होते_V_VB देखना_V_VB मेरे_PRP लिए_IN इमोशनल_N_NN और_CC पावरफुल_N_NNP है_N_NN </s>
+<s> ३७०_CD एक_CD कैंसर_N_NN था,_V_VB जिसका_WDT अब_IN जाकर_V_VB इलाज_N_NN किया_V_VB गया।_V_VB </s>
+एक्टर,_N_NN डायरेक्टर_N_NN मानव_N_NN कौल_N_NN का_IN जन्म_N_NN कश्मीर_N_NNP के_IN बारामुला_N_NNP में_IN हुआ_V_VB था_N_NN </s>
+<s> मानव_N_NN कौल_JJ_JJS कश्मीरी_N_NN पंडित_N_NN हैं_V_VB </s>
+<s> उन्होंने_PRP वजीर,_N_NNP हैदर,_N_NNP बदला,_N_NNP तुम्हारी_N_NNP सुलू_N_NNP जैसी_N_NN फिल्में_N_NN कर_V_VB चुके_V_VB हैं_V_VB </s>
+<s> इसके_DT अलावा_CC वो_DT नेटफ्लिक्स_N_NN की_IN फिल्म_N_NN म्यूजिक_JJ_JJS टीचर_N_NN में_IN भी_RB_RBS नजर_N_NN आ_V_VB चुके_V_VB हैं_V_VB </s>
+<s> बॉलीवुड_N_NN एक्ट्रेस_N_NN दीपिका_N_NN पादुकोण_N_NN अक्सर_N_NN उन_PRP मुद्दों_N_NN पर_IN अपनी_PRPS बात_N_NN रखती_V_VB हैं_V_VB जो_WDT समाज_N_NN से_IN जुड़ी_N_NN होती_V_VB हैं_V_VB </s>
+<s> हाल_N_NN ही_RB_RBS में_IN दीपिका_N_NN ने_IN यौन_JJ_JJS शोषण_N_NN के_IN आरोप_N_NN लगे_V_VB लोगों_N_NN के_IN साथ_IN काम_N_NN करने_V_VB से_IN इनकार_N_NN कर_V_VB दिया_V_VB था_V_VB </s>
+<s> इसके_DT बाद_IN अब_IN दीपिका_N_NN ने_IN डिप्रेशन_N_NN को_IN लेकर_V_VB मन_N_NN की_IN बात_N_NN कही_V_VB है_V_VB </s>
+<s> हालांकि_CC इस_DT बार_N_NN उन्होंने_PRP सलमान_N_NNP खान_N_NNP पर_IN कटाक्ष_N_NN भी_RB_RBS किया_V_VB है_V_VB </s>
+<s> दरअसल_N_NN दीपिका_N_NN एक_CD वक्त_N_NN में_IN डिप्रेशन_N_NN का_IN शिकार_N_NN रह_V_VB चुकी_V_VB हैं_V_VB </s>
+<s> ऐसे_DT में_IN अक्सर_N_NN दीपिका_N_NN इस_DT बारे_N_NN में_IN बात_N_NN करती_V_VB रहती_V_VB हैं_V_VB </s>
+<s>_CD साल_N_NN २०१५_CD में_IN दीपिका_N_NN ने_IN पहली_JJ_JJS बार_N_NN इस_DT बारे_N_NN में_IN सार्वजनिक_JJ_JJS तौर_N_NN पर_IN दीपिका_N_NN ने_IN बात_N_NN की_IN थी_V_VB और_CC डिप्रेशन_N_NN के_IN बारे_N_NN में_IN जागरुकता_N_NN पैदा_N_NN करने_V_VB की_IN कोशिश_N_NN की_IN थी_V_VB </s>
+<s> ऐसे_DT में_IN एक_CD बार_N_NN फिर_RB_RBS दीपिका_N_NN ने_IN डिप्रेशन_N_NN के_IN बारे_N_NN में_IN बात_N_NN करते_V_VB हुए_V_VB कहा-_N_NN उस_PRP वक्त,_N_NN हर_JJ_JJS एक_CD सेकेंड_N_NN एक_CD संघर्ष_N_NN था_N_NN </s>
+<s> अगर_CC कोई_WP एक_CD शब्द_N_NN मेरे_PRP डिप्रेशन_N_NN का_IN बखान_N_NN कर_V_VB सकता_V_VB है_V_VB तो_RB_RBS वो_DT हैं-_V_VB संघर्ष_N_NN </s>
+<s> इसके_DT बाद_IN दीपिका_N_NN ने_IN कहा-_N_NN मैं_N_NN हर_JJ_JJS समय_N_NN कमोजर_N_NN महसूस_N_NN करती_V_VB थी_V_VB </s>
+<s> लोग_N_NN इसे_DT थोड़ा_JJ_JJS दुखी_N_NN होने_V_VB के_IN साथ_IN भ्रमित_N_NN करते_V_VB हैं_V_VB </s>
+<s> एक_CD मेल_N_NN स्टार_N_NN ने_IN कहा_V_VB था_V_VB कि_CC उनके_PRP पास_IN डिप्रेश_N_NN होने_V_VB की_IN लग्जरी_N_NN नहीं_RB_RBR है_N_NN </s>
+<s> मानो_N_NN डिप्रेशन_N_NN एक_CD च्वॉइस_N_NN है।_N_NN </s>
+गौरतलब_N_NN है_V_VB कि_CC पिछले_IN साल_N_NN सलमान_N_NNP खान_N_NNP ने_IN एक_CD इवेंट_N_NN में_IN कहा_V_VB था-_V_VB मैं_V_VB आसपास_IN बहुत_JJ_JJS सारे_JJ_JJS लोगों_N_NN को_IN देख_V_VB रहा_V_VB है_V_VB जो_WDT डिप्रेश_N_NN और_CC इमोशनल_N_NN हो_V_VB रहे_V_VB हैं_V_VB </s>
+<s> चाहें_V_VB मैं_PRP किसी_WP भी_RB_RBS स्थिति_N_NN से_IN गुजर_V_VB रहा_V_VB हूं_V_VB मैं_PRP डिप्रेश_N_NN होना_V_VB अफोर्ड_N_NN नहीं_RB_RBR कर_V_VB सकता_V_VB </s>
+<s> ये_DT मेरे_PRP खिलाफ_N_NN काम_N_NN करता_V_VB है।_V_VB </s>
+बता_V_VB दें_V_VB कि_CC २०१४_CD में_IN दीपिका_N_NN डिप्रेशन_N_NN में_IN चली_V_VB गई_V_VB थीं_N_NN </s>
+<s> इसको_WDT याद_N_NN करते_V_VB हुए_V_VB दीपिका_N_NN ने_IN कहा-_N_NN हमेशा_N_NN एक_CD डर_N_NN सा_N_NN बना_V_VB रहता_V_VB था_V_VB </s>
+<s> उनका_PRP मन_N_NN हमेशा_JJ_JJS विचलित_N_NN रहता_V_VB था_V_VB </s>
+<s> उन्हें_PRP लगता_V_VB था_V_VB कि_CC इन_DT सब_JJ_JJS से_IN बाहर_IN निकलने_V_VB का_IN बेहतर_JJ_JJS रास्ता_N_NN ज्यादा_JJ_JJS से_IN ज्यादा_JJ_JJS सोना_N_NN ही_RB_RBS है_N_NN </s>
+<s> मुझे_PRP पता_V_VB था_V_VB कि_CC मैं_PRP कैसा_WDT फील_N_NN कर_V_VB रही_V_VB हूं,_V_VB मगर_CC मैं_PRP इसे_DT किसी_WP से_IN शेयर_N_NN नहीं_RB_RBR कर_V_VB पाती_V_VB थी।_V_VB </s>
+सिर्फ_JJ_JJS चार_CD फिल्मों_N_NN की_IN रिलीज_N_NN के_IN साथ_IN ही_RB_RBS हिंदी_N_NNP सिनेमा_N_NN की_IN सबसे_JJ_JJS व्यस्त_JJ_JJS अभिनेत्रियों_N_NN में_IN शुमार_N_NN हो_V_VB चुकीं_V_VB भूमि_N_NN पेडनेकर_V_VB अब_IN अपना_PRPS ग्लैमरस_N_NN अवतार_N_NN दिखाने_V_VB के_IN लिए_IN पूरी_JJ_JJS तैयारी_N_NN कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> अगले_N_NN एक_CD साल_N_NN में_IN उनकी_PRP छह_N_NN फिल्में_N_NN रिलीज_N_NN होने_V_VB वाली_V_VB हैं_V_VB और_CC अपनी_PRPS हर_JJ_JJS फिल्म_N_NN में_IN वह_PRP कुछ_JJ_JJS अलग_N_NN करके_V_VB दिखाने_N_NN के_IN लिए_IN इन_DT दिनों_N_NN दिन_N_NN रात_N_NN मेहनत_N_NN भी_RB_RBS कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> किसी_WP फिल्म_N_NN का_IN चयन_N_NN करने_V_VB से_IN पहले_IN भूमि_N_NN उसमें_PRP क्या_WDT देखती_V_VB हैं,_V_VB ये_DT पूछे_V_VB जाने_V_VB पर_IN भूमि_N_NN कहती_V_VB हैं,_V_VB “एक_N_NN कलाकार_N_NN के_IN रूप_N_NN में_IN मैं_PRP लगातार_RB_RBS अच्छी_JJ_JJS स्क्रिप्ट_N_NN की_IN तलाश_N_NN में_IN रहती_V_VB हूं_V_VB </s>
+<s> मुझे_PRP किसी_WP भी_RB_RBS फिल्म_N_NN में_IN दूसरी_JJ_JJS किसी_WP चीज_N_NN की_IN तरफ_N_NN नजर_N_NN घुमाने_V_VB से_IN पहले_IN इसकी_PRP कहानी_N_NN दमदार_JJ_JJS चाहिए_V_VB होती_V_VB है_V_VB </s>
+<s> मैं_PRP हमेशा_IN कंटेंट_N_NN के_IN पीछे_IN भागती_N_NNP रही_V_VB हूं_V_VB और_CC सौभाग्य_N_NN से_IN मुझे_PRP देश_N_NN के_IN कुछ_JJ_JJS सर्वश्रेष्ठ_JJ_JJS फिल्म_N_NN निर्माताओं_N_NN का_IN विश्वास_N_NN भी_RB_RBS इसके_PRP लिए_IN प्राप्त_N_NN हुआ_N_NN </s>
+<s> मेरी_PRP अगली_N_NN हर_JJ_JJS फिल्म_N_NN एक_CD अलग_JJ_JJS कहानी_N_NN है_N_NN </s>
+<s> इनमें_N_NN से_IN हर_JJ_JJS एक_CD फिल्म_N_NN में_IN दर्शकों_N_NN का_IN मेरा_PRP एक_CD अलग_JJ_JJS रंग_N_NN रूप_N_NN नजर_N_NN आएगा_N_NN </s>
+<s> एक_CD कलाकार_N_NN की_IN संतुष्टि_N_NN इसी_DT बात_N_NN में_IN है_V_VB कि_CC इस_DT एक_CD जीवन_N_NN में_IN वह_PRP अभिनेता_N_NN होने_V_VB के_IN चलते_N_NN कितने_N_NN किरदार_N_NN जी_V_VB सकता_V_VB है।”_V_VB </s>
+अपनी_PRPS पहली_JJ_JJS ही_RB_RBS फिल्म_N_NN दम_N_NNP लगाके_N_NNP हईशा_N_NNP से_IN अपने_PRPS शरीर_N_NN के_IN साथ_IN किरदारों_N_NN में_IN ढलने_V_VB के_IN प्रयोग_N_NN करती_V_VB रहीं_V_VB भूमि_N_NN कहती_V_VB हैं,_V_VB “दर्शकों_N_NN के_IN लिए_IN सिनेमा_N_NN का_IN ये_DT बेहतरीन_JJ_JJS समय_N_NN है_N_NN </s>
+<s> वे_DT अच्छे_JJ_JJS सिनेमा_N_NN का_IN आनंद_N_NN उठा_V_VB रहे_V_VB हैं_V_VB और_CC एक_CD कलाकार_N_NN के_IN लिए_IN भी_RB_RBS सिनेमा_N_NN का_IN यह_DT काफी_JJ_JJS अच्छा_JJ_JJS समय_N_NN है_N_NN </s>
+<s> अपनी_PRPS पहली_JJ_JJS फिल्म_N_NN से_IN मैंने_PRP ऐसे_DT किरदार_JJ_JJS किएजो_N_NN मजबूत_JJ_JJS हैं_V_VB और_CC फिल्म_N_NN की_IN कहानी_N_NN पर_IN एक_CD असर_N_NN डालते_V_VB हैं_V_VB </s>
+<s> मैं_PRP अपने_PRPS करियर_N_NN के_IN बेहतरीन_JJ_JJS दौर_N_NN में_IN हूँ_V_VB और_CC मैं_PRP अपनी_PRPS हर_JJ_JJS एक_CD फिल्म_N_NN में_IN अपना_PRPS सर्वश्रेष्ठ_JJ_JJS देते_V_VB रहना_V_VB चाहती_V_VB हूं।”_V_VB </s>
+भूमि_N_NN की_IN आने_V_VB वाली_IN फिल्मों_N_NN में_IN बाला_N_NN समय_N_NN से_IN पहले_IN गंजे_N_NN हो_V_VB जाने_V_VB पर_IN एक_CD सामाजिक_JJ_JJS व्यंग्य_N_NN है,_V_VB डॉली_N_NNP किटी_N_NNP और_CC वो_DT चमकाते_V_VB सितारे_N_NN महिलाओं_N_NN के_IN सपनों_N_NN और_CC आकांक्षाओं_N_NN के_IN बारे_N_NN में_IN एक_CD ड्रामा_N_NNP है,_V_VB सांड_N_NN की_IN आंख_N_NN एक_CD बायोपिक_N_NN है_V_VB जिसमें_WDT वह_PRP दुनिया_N_NN की_IN सबसे_JJ_JJS वृद्ध_JJ_JJS शार्पशूटर_N_NN की_IN भूमिका_N_NN निभा_V_VB रही_V_VB हैं,_V_VB पती_JJ_JJS पत्नी_N_NN और_CC वो_DT एक_CD रोमांटिक_JJ_JJS कॉमेडी_JJ_JJS है_V_VB और_CC इसके_DT बाद_IN बारी_N_NN आती_V_VB है_V_VB मल्टीस्टारर_N_NN फिल्म_N_NN तख्त_N_NN की_IN जिसमें_WDT उन्हें_PRP करण_N_NN जौहर_N_NNP निर्देशित_N_NN करेंगे_N_NN </s>
+<s> भाजपा_N_NNP की_IN वरिष्ठ_JJ_JJS नेता_N_NN और_CC पूर्व_IN विदेश_N_NN मंत्री_N_NN सुषमा_N_NN स्वराज_N_NN का_IN मंगलवार_N_NN रात_N_NN ६७_CD साल_N_NN की_IN आयु_N_NN में_IN निधन_N_NN हो_V_VB गया_V_VB </s>
+<s> सीने_N_NN में_IN दर्द_N_NN की_IN शिकायत_N_NN के_IN बाद_IN उन्हें_PRP दिल्ली_N_NNP के_IN एम्स_N_NNP में_IN भर्ती_N_NN कराया_V_VB गया_V_VB था_N_NN </s>
+<s> वे_DT पिछले_N_NN काफी_JJ_JJS समय_N_NN से_IN अस्वस्थ_N_NN चल_V_VB रही_V_VB थीं_N_NN </s>
+<s> राजनेता_N_NN सहित_N_NN बॉलीवुड_N_NN सितारों_N_NN के_IN बीच_IN शोक_N_NN का_IN माहौल_N_NN है_N_NN </s>
+<s> कई_JJ_JJS बॉलीवुड_N_NN सितारों_N_NN ने_IN सुषमा_N_NN स्वराज_N_NN ने_IN निधन_N_NN पर_IN सोशल_JJ_JJS मीडिया_N_NN के_IN जरिए_N_NN दुख_N_NN प्रकट_N_NN किया_V_VB है_V_VB </s>
+<s> बॉलीवुड_N_NN एक्टर_N_NN अनुपम_JJ_JJS खेर_N_NN इन_DT दिनों_N_NN न्यूयॉर्क_N_NNP में_IN समय_N_NN बिता_V_VB रहे_V_VB हैं_V_VB </s>
+<s> सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN की_IN खबर_N_NN सुनते_V_VB ही_RB_RBS उन्होंने_PRP अपने_PRPS ट्विटर_N_NN अकाउंट_N_NN पर_IN एक_CD वीडियो_N_NN शेयर_N_NN किया_N_NN </s>
+<s> इस_DT वीडियो_N_NN में_IN अनुपम_JJ_JJS खेर_N_NN एक_CD कैब_N_NN में_IN बैठे_V_VB दिखाई_V_VB दिए_V_VB </s>
+<s> वीडियो_N_NN में_IN उन्होंने_PRP सुषमा_N_NN स्वराज_N_NN को_IN श्रद्धांजलि_N_NN दी_V_VB </s>
+<s> अनुपम_JJ_JJS खेर_N_NN के_IN अलावा_N_NN अभिनेत्री_N_NN रवीना_N_NNP टंडन_N_NNP ने_IN भी_RB_RBS सुषमा_N_NN स्वराज_N_NN को_IN श्रद्धांजलि_N_NN दी_V_VB है_V_VB </s>
+<s> रवीना_N_NNP टंडन_N_NNP ने_IN ट्विटर_N_NN पर_IN लिखा-_V_VB सुषमा_N_NN स्वराज_N_NN जी_N_NN के_IN बारे_N_NN में_IN खबर_N_NN सुनकर_V_VB हैरान_N_NN हूं,_V_VB वह_PRP बहुत_JJ_JJS अच्छी_JJ_JJS राजनेता_N_NN के_IN साथ_IN बेहद_JJ_JJS दयालु_JJ_JJS इंसान_N_NN थीं_N_NN </s>
+<s> उनके_PRP परिवार_N_NN और_CC चाहने_N_NN वालों_IN के_IN लिए_IN दिल_N_NN से_IN संवेदनाएं_N_NN </s>
+<s> उनकी_PRP आत्मा_N_NN को_IN शांति_N_NN मिले,_V_VB ओम_N_NN शांति_N_NN </s>
+<s> रवीना_N_NNP टंडन_N_NNP के_IN अलावा_N_NN अभिनेता_N_NN बोमन_N_NNP ईरानी_N_NNP ने_IN भी_RB_RBS ट्वीट_N_NN करते_V_VB हुए_V_VB सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN को_IN राष्ट्रीय_N_NN क्षति_N_NN बताया_V_VB </s>
+<s> फिल्म_N_NN प्रोड्यूसर_N_NN एकता_N_NN कपूर_N_NN ने_IN भी_RB_RBS सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN पर_IN दुख_N_NN प्रकट_N_NN किया_V_VB है_V_VB </s>
+<s> एकता_N_NN कपूर_N_NN ने_IN लिखा-_N_NN अपने_V_VB शुरुआती_JJ_JJS साल_N_NN में_IN मुझे_PRP सुषमा_N_NN स्वराज_N_NN का_IN काफी_JJ_JJS सपोर्ट_N_NN मिला_V_VB था_V_VB </s>
+<s> मेरे_PRP पास_IN अभी_IN तक_IN वो_DT पहली_JJ_JJS तस्वीर_N_NN है_V_VB जब_WDT उन्होंने_PRP मुझे_PRP पहला_JJ_JJS अवॉर्ड_N_NN दिया_V_VB था_V_VB </s>
+<s> उनके_PRP निधन_N_NN पर_IN काफी_JJ_JJS दुखी_N_NN हूं_N_NN जिन्होंने_N_NN मुझे_PRP जिंदगी_N_NN का_IN पाठ_N_NN सिखाया_V_VB </s>
+<s>_JJ_JJS महिला_N_NN ही_RB_RBS महिला_N_NN की_IN सहायता_N_NN करती_V_VB है।_V_VB </s>
+आपको_PRP बता_V_VB दें_V_VB कि_CC सुषमा_N_NN स्वराज_N_NN का_IN जन्म_N_NN १४_CD फरवरी_N_NNP १९५२_CD को_IN हरियाणा_N_NNP के_IN अंबाला_N_NNP में_IN हुआ_V_VB था_N_NN </s>
+<s> उन्होंने_PRP अंबाला_N_NNP छावनी_N_NN के_IN एसडी_N_NN कॉलेज_N_NN से_IN स्नातक_N_NN की_IN डिग्री_N_NN हासिल_N_NN की_N_NN </s>
+<s> इसके_DT बाद_IN पंजाब_N_NNP विश्वविद्यालय_N_NN से_IN एलएलबी_N_NNP की_IN डिग्री_N_NN ली_N_NN </s>
+<s> वह_PRP भाषण_N_NN और_CC वाद-विवाद_N_NN में_IN हमेशा_IN से_RB_RBS आगे_IN रहीं_V_VB </s>
+<s> उन्होंने_PRP ऐसी_DT कई_JJ_JJS प्रतियोगिताओं_N_NN में_IN पुरस्कार_N_NN भी_RB_RBS हासिल_N_NN किए_N_NN </s>
+<s> बॉलीवुड_N_NN के_IN किंग_N_NNP खान_N_NNP अपने_PRPS अनोखे_JJ_JJS स्टाइल_N_NN के_IN लिए_IN जाने_V_VB जाते_V_VB हैं_V_VB </s>
+<s> ऐसे_DT में_IN न_RB_RBR सिर्फ_JJ_JJS शाहरुख_N_NN बल्कि_CC उनका_PRP घर_N_NN मन्नत_N_NN भी_RB_RBS अक्सर_N_NN सुर्खियों_N_NN में_IN रहता_V_VB हैं_V_VB </s>
+<s> अब_IN शाहरुख_N_NN की_IN पत्नी_N_NNP गौरी_N_NNP ने_IN मन्नत_N_NN के_IN कुछ_JJ_JJS फोटोज_N_NN शेयर_N_NN किए_V_VB हैं_V_VB </s>
+<s> जिन्हें_WDT खुद_PRPS उन्होंने_PRP डिजाइन_N_NN किया_V_VB है_V_VB </s>
+<s> दरअसल_N_NN शाहरुख_N_NNP खान_N_NNP की_IN पत्नी_N_NNP गौरी_N_NNP खान_N_NNP पेशे_N_NNP से_IN इंटीरियर_N_NN डिजाइनर_N_NN हैं_V_VB </s>
+<s>P गौरी_N_NNP ने_IN खुद_PRPS अपना_PRPS घर_N_NN मन्नत_N_NN सजाया_V_VB है_V_VB और_CC उसको_PRP कुछ_JJ_JJS फोटोज_N_NN सोशल_N_NN मीडिया_N_NN पर_IN सामने_IN आए_V_VB हैं_V_VB </s>
+<s> बता_V_VB दें_V_VB कि_CC ये_DT तस्वीरें_N_NN वोग_N_NN मैगजीन_N_NN ने_IN प्रकाशित_N_NN की_IN हैं_V_VB </s>
+<s> वोग_N_NN ने_IN इनमें_DT से_IN कुछ_JJ_JJS तस्वीरों_N_NN को_IN इंस्टाग्राम_N_NN पर_IN शेयर_N_NN किया_V_VB है_V_VB </s>
+<s> तस्वीरों_N_NN में_IN मन्नत_N_NN के_IN साथ-साथ_N_NN गौरी_N_NNP खान_N_NN भी_RB_RBS नजर_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s> बता_V_VB दें_V_VB कि_CC फोटोज_N_NN में_IN न_RB_RBR सिर्फ_JJ_JJS घर_N_NN बल्कि_CC गौरी_N_NNP खान_N_NNP भी_RB_RBS बेहद_JJ_JJS खूबसूरत_JJ_JJS नजर_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s>P गौरी_N_NNP खान_N_NNP ने_IN न_RB_RBR सिर्फ_JJ_JJS फोटोज_N_NN बल्कि_CC मन्नत_N_NN के_IN बारे_N_NN में_IN भी_RB_RBS बात_N_NN की_IN है_N_NN </s>
+<s>P गौरी_N_NNP ने_IN बताया_V_VB कि_CC बालकनी_N_NN को_IN फूलों_N_NN से_IN सजाया_V_VB गया_V_VB है_V_VB क्योंकि_CC इससे_WDT पॉजिटिव_N_NN एनर्जी_N_NN मिलती_V_VB है_V_VB </s>
+<s> वहीं_DT वार्डरोब_N_NN के_IN बारे_N_NN में_IN कहा-_N_NN परिवार_N_NN में_IN हर_JJ_JJS किसी_WP ने_IN इस_DT जगह_N_NN को_IN ख़ास_N_NN बनाने_V_VB में_IN मदद_N_NN की_IN है_N_NN </s>
+<s> मन्नत_N_NN के_IN बारे_N_NN में_IN आगे_IN बात_N_NN करते_V_VB हुए_V_VB गौरी_N_NNP ने_IN बताया-_N_NN इस_N_NN घर_N_NN के_IN कोई_WP खास_JJ_JJS नियम_N_NN नहीं_RB_RBR हैं_V_VB </s>
+<s> यहां_N_NN तक_IN की_IN खाने_N_NN के_IN वक्त_N_NN के_IN लिए_IN भी_RB_RBS कोई_WP खास_JJ_JJS नियम_N_NN नहीं_RB_RBR बनाया_V_VB गया_V_VB है_N_NN </s>
+<s> बस_N_NN मैं_PRP ये_DT कोशिश_N_NN करती_V_VB थी_V_VB कि_CC जब_WDT भी_RB_RBS बच्चे_N_NN स्कूल_N_NN से_IN घर_N_NN लौटें_V_VB तो_RB_RBS मैं_PRP उन्हें_PRP घर_N_NN पर_IN ही_RB_RBS मिलूं।_N_NN </s>
+अपनी_PRPS पिछली_IN फिल्म_N_NN सूरमा_N_NNP में_IN हॉकी_N_NN चैंपियन_N_NN के_IN भाई_N_NN के_IN किरदार_N_NNP में_IN खूब_JJ_JJS तालियां_N_NN बटोरने_V_VB वाले_IN अभिनेता_N_NN अंगद_N_NN बेदी_N_NNP अब_IN एक_CD और_CC चैंपियन_N_NNP के_IN भाई_N_NN बने_V_VB हैं_V_VB </s>
+<s> ये_DT चैंपियन_N_NN हैं_V_VB गुंजन_N_NN सक्सेना_N_NN जिनकी_N_NN बायोपिक_N_NN कारगिल_N_NNP गर्ल_N_NNP में_IN लीड_N_NN रोल_N_NN जान्हवी_N_NN कपूर_N_NN कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> कारगिल_N_NNP गर्ल_N_NNP का_IN पहला_JJ_JJS शेड्यूल_N_NN लखनऊ_N_NNP में_IN पूरा_JJ_JJS होने_V_VB के_IN बाद_IN फिल्म_N_NN की_IN पूरी_JJ_JJS टीम_N_NN अगले_N_NN शेड्यूल_N_NN के_IN लिए_IN जॉर्जिया_N_NN रवाना_V_VB होने_V_VB की_IN तैयारी_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN कारगिल_N_NNP गर्ल_N_NNP में_IN जान्हवी_N_NN औऱ_N_NN अंगद_N_NN दोनों_CD के_IN किरदार_JJ_JJS भारतीय_JJ_JJS सेना_N_NN के_IN किरदार_N_NN हैं_V_VB </s>
+<s> इस_DT किरदार_N_NN की_IN तैयारी_N_NN के_IN लिए_IN अंगद_N_NN को_IN हाल_N_NN ही_RB_RBS में_IN मुंबई_N_NNP में_IN एक_CD अंतर्राष्ट्रीय_N_NN रनिंग_N_NN कोच_N_NN से_IN प्रशिक्षण_N_NN लेते_V_VB देखा_V_VB गया_V_VB </s>
+<s> अंगद_N_NN चिंक_N_NN एक_CD आर्मी_N_NNP ऑफिसर_N_NNP की_IN भूमिका_N_NN निभा_V_VB रहे_V_VB हैं,_V_VB ऐसे_DT में_IN शारीरिक_JJ_JJS रूप_N_NN से_IN भी_RB_RBS उन्हें_PRP एक_CD सैन्य_N_NN अधिकारी_N_NN की_IN तरह_N_NN ही_RB_RBS दिखना_V_VB होगा_V_VB </s>
+<s> इसके_DT लिए_IN भी_RB_RBS अंगद_N_NN काफी_JJ_JJS मेहनत_N_NN कर_V_VB रहे_V_VB हैं_V_VB और_CC अपनी_PRPS बॉडी_N_NN को_IN फिट_N_NN और_CC दुबला_JJ_JJS दिखाने_N_NN के_IN लिए_IN लगातार_RB_RBS प्रयास_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> अंगद_N_NN ने_IN अपने_PRPS सिर_N_NN के_IN बालों_N_NN को_IN भी_RB_RBS सैन्य_N_NN अधिकारियों_N_NN की_IN तरह_N_NN ही_RB_RBS कटवाया_V_VB है_V_VB </s>
+<s>P कपिल_N_NNP शर्मा_N_NNP के_IN शो_N_NN का_IN अहम_JJ_JJS कॉमेडियन_N_NN यानी_CC कीकू_N_NNP शारदा_N_NNP व_CC अन्य_N_NN ६_CD लोगों_N_NN के_IN खिलाफ_N_NN अंबोली_N_NNP पुलिस_N_NN थाने_V_VB मे_IN आर्ट_N_NN डायरेक्टर_N_NN नितिन_N_NN कुलकर्णी_N_NNP ने_IN FIR_N_NN दर्ज_N_NN करवाई_V_VB है_V_VB </s>
+<s> यह_DT केस_N_NN नितिन_N_NN ने_IN अपने_PRPS पैसे_N_NN ना_RB_RBR मिल_V_VB पाने_V_VB के_IN लिए_IN किया_V_VB है_V_VB </s>
+<s>P द_N_NNP मुंबई_N_NNP फेस्ट_N_NNP नामक_N_NN चैरिटेबल_JJ_JJS ट्रस्ट_N_NN के_IN ५०.७०_CD लाख_CD रुपये_N_NN ना_RB_RBR दे_V_VB पाने_N_NN के_IN खिलाफ_N_NN यह_DT केस_N_NN दर्ज_N_NN हुआ_V_VB है_V_VB </s>
+<s> दरअसल_N_NN द_N_NNP मुंबई_N_NNP फेस्ट_N_NNP चैरिटेबल_JJ_JJS ट्रस्ट_N_NN को_IN नागरिकों_N_NN के_IN कल्याण_N_NN के_IN साथ-साथ_N_NN कला_N_NN और_CC संस्कृति_N_NN को_IN बढ़ावा_V_VB देने_V_VB के_IN लिए_IN स्थापित_N_NN किया_V_VB गया_V_VB था_N_NN </s>
+<s> हर_JJ_JJS साल_N_NN मुंबई_N_NNP में_IN यह_DT एक_CD खास_JJ_JJS आयोजन_N_NN करते_V_VB हैं_V_VB जो_WDT करीब_JJ_JJS तीन_CD दिन_N_NN तक_IN चलता_V_VB है_V_VB </s>
+<s> शिकायतकर्ता_N_NN नितिन_N_NN का_IN कहना_V_VB है_V_VB की_IN उन्हें_PRP पिछले_IN साल_N_NN मुंबई_N_NNP के_IN बीकेसी_N_NN के_IN एमएमआरडीए_N_NN ग्राउंड_N_NN में_IN होने_V_VB वाले_IN द_N_NN मुंबई_N_NNP फेस्ट_N_NNP आयोजन_N_NN का_IN सेट_N_NN डिजाईन_N_NN करने_V_VB का_IN काम_N_NN सौंपा_V_VB गया_V_VB था_N_NN </s>
+<s> काम_N_NN पूरा_N_NN होने_V_VB पर_IN उन्हें_PRP ५०.७०_CD लाख_CD रुपये_N_NN का_IN चेक_N_NN दिया_V_VB गया,_V_VB जो_WDT बाद_IN में_IN बाउंस_N_NN हो_V_VB गया_V_VB </s>
+<s> ट्रस्ट_N_NN के_IN वकील_N_NN अनूप_N_NN पांडे,_N_NN का_IN कहना_V_VB है_V_VB की_IN उन्होंने_PRP हर_JJ_JJS तरह_N_NN के_IN कागजात_N_NN और_CC प्रमाण_N_NN पत्र_N_NN पुलिस_N_NN थाने_N_NN में_IN जमा_V_VB कर_V_VB दिए_V_VB हैं_V_VB </s>
+<s>P कीकू_N_NNP शारदा_N_NNP के_IN पिता_N_NN इस_DT ट्रस्ट_N_NN के_IN सचिव_N_NN हैं,_N_NN लेकिन_CC कीकू_N_NNP शारदा_N_NNP का_IN इस_DT केस_N_NN से_IN कोई_WP लेना_V_VB देना_V_VB नहीं_RB_RBR है_N_NN </s>
+<s> उसके_PRP बावजूद_N_NN उनका_PRP नाम_N_NN इस_DT केस_N_NN में_IN दर्ज_N_NN करवाया_V_VB गया_V_VB है_V_VB </s>
+<s> वहीं_DT कीकू_N_NNP शारदा_N_NNP कहते_V_VB हैं_V_VB "_WDTUNC मैने_PRP इस_DT इवेंट_N_NN में_IN अन्य_JJ_JJS सेलीब्रिटीज_N_NN की_IN तरह_N_NN ही_RB_RBS पहुंचा_V_VB था,_V_VB मैं_PRP इस_DT ट्रस्ट_N_NN का_IN मेंबर_N_NN नहीं_RB_RBR हूं_V_VB </s>
+<s> हां_N_NN मेरे_PRP पिता_N_NN इस_DT ट्रस्ट_N_NN के_IN सचीव_N_NN हैं,_N_NN लेकिन_CC मेरा_PRP नाम_N_NN जबरदस्ती_N_NN इस_DT केस_N_NN में_IN घसीटा_V_VB जा_V_VB रहा_V_VB है।"_V_VB </s>
+पूर्व_IN विदेश_N_NN मंत्री_N_NN सुषमा_N_NN स्वराज_N_NN का_IN ६_CD अगस्त_N_NN को_IN निधन_N_NN हो_V_VB गया_V_VB </s>
+<s> ६७_CD साल_N_NN की_IN सुषमा_N_NN को_IN दिल_N_NN का_IN दौरा_N_NN पड़ा_V_VB था,_V_VB जिसके_WDT बाद_IN उन्हें_PRP एम्स_N_NNP अस्पताल_N_NN में_IN भर्ती_N_NN कराया_V_VB गया_V_VB </s>
+<s> यहीं_DT उन्होंने_PRP अंतिम_JJ_JJS सांस_N_NN ली_N_NN </s>
+<s> सुषमा_N_NN स्वराज_N_NN के_IN निधन_N_NN पर_IN बॉलीवुड_N_NN में_IN भी_RB_RBS शोक_N_NN की_IN लहर_N_NN है_N_NN </s>
+<s> अनुपम_JJ_JJS खेर,_N_NN एकता_N_NN कपूर,_N_NN अमिताभ_N_NNP बच्चन_N_NNP और_CC रवीना_N_NNP टंडन_N_NNP जैसे_CC बड़े_JJ_JJS सितारों_N_NN ने_IN ट्वीट_N_NN कर_V_VB सुषमा_N_NN स्वराज_N_NN को_IN श्रद्धांजलि_N_NN अर्पित_N_NN की_IN </s>
+<s> सुषमा_N_NN स्वराज_N_NN बॉलीवुड_N_NN हस्तियों_N_NN के_IN भी_RB_RBS करीब_N_NN रही_V_VB हैं_V_VB </s>
+<s> सुषमा_N_NN की_IN फिल्म_N_NN स्टार्स_N_NN के_IN साथ_IN अक्सर_N_NN तस्वीरें_N_NN सामने_IN आती_V_VB रहती_V_VB थीं_N_NN </s>
+<s> आज_N_NN उनके_PRP निधन_N_NN पर_IN एक_CD बार_N_NN फिर_RB_RBS उन_PRP तस्वीरों_N_NN को_IN देखते_V_VB हैं_V_VB </s>
+<s> साथ_N_NN ही_RB_RBS जानिए_V_VB सेलेब्रिटीज_N_NN ने_IN सुषमा_N_NN स्वराज_N_NN को_IN श्रद्धांजलि_N_NN देते_V_VB हुए_V_VB क्या_WDT कहा_V_VB </s>
+<s> बॉलीवुड_N_NN एक्ट्रेस_N_NN दीपिका_N_NN पादुकोण_N_NN अक्सर_N_NN उन_PRP मुद्दों_N_NN पर_IN अपनी_PRPS बात_N_NN रखती_V_VB हैं_V_VB जो_WDT समाज_N_NN से_IN जुड़ी_N_NN होती_V_VB हैं_V_VB </s>
+<s> हाल_N_NN ही_RB_RBS में_IN दीपिका_N_NN ने_IN यौन_JJ_JJS शोषण_N_NN के_IN आरोप_N_NN लगे_V_VB लोगों_N_NN के_IN साथ_IN काम_N_NN करने_V_VB से_IN इनकार_N_NN कर_V_VB दिया_V_VB था_V_VB </s>
+<s> इसके_DT बाद_IN अब_IN दीपिका_N_NN ने_IN डिप्रेशन_N_NN को_IN लेकर_V_VB मन_N_NN की_IN बात_N_NN कही_V_VB है_V_VB </s>
+<s> हालांकि_CC इस_DT बार_N_NN उन्होंने_PRP सलमान_N_NNP खान_N_NNP पर_IN कटाक्ष_N_NN भी_RB_RBS किया_V_VB है_V_VB </s>
+<s> महज_N_NN ४_CD साल_N_NN की_IN उम्र_N_NN में_IN आदित्य_N_NNP नारायण_N_NNP ने_IN पहली_JJ_JJS बार_N_NN गाना_N_NN गाया_V_VB था_V_VB </s>
+<s> इसके_DT बाद_IN छोटे_JJ_JJS से_IN आदित्य_N_NN ने_IN धीरे_RB_RBS धीरे_JJ_JJS फिल्मों_N_NN में_IN कैमियो_N_NN करना_V_VB शुरू_N_NN कर_V_VB दिया_V_VB </s>
+<s> आदित्य_N_NN मशहूर_JJ_JJS गायक_N_NN उदित_N_NN नारायण_N_NN के_IN बेटे_N_NN हैं_V_VB जिन्होंने_WDT बॉलीवुड_N_NN में_IN कई_JJ_JJS हिंदी_N_NN फिल्मों_N_NN के_IN सुपरहिट_N_NN गाने_V_VB गाए_V_VB हैं_V_VB </s>
+<s>P आदित्य_N_NNP नारायण_N_NNP का_IN ६_CD अगस्त_N_NN को_IN जन्मदिन_N_NN है_V_VB तो_RB_RBS चलिए_V_VB इस_DT मौके_N_NN पर_IN हम_PRP आपको_PRP आदित्य_N_NNP नारायण_N_NNP से_IN जुड़े_N_NN कुछ_JJ_JJS अनसुने_JJ_JJS किस्से_N_NN बताते_V_VB हैं_V_VB </s>
+<s>P आदित्य_N_NNP नारायण_N_NNP मशहूर_JJ_JJS गायक_N_NN उदित_N_NN नारायण_N_NN और_CC दीपा_N_NNP मेहता_N_NNP के_IN बेटे_N_NN हैं_V_VB </s>
+<s> आदित्य_N_NN ने_IN महज_N_NN ४_CD साल_N_NN की_IN उम्र_N_NN से_IN ही_RB_RBS गाना_N_NN शुरू_N_NN कर_V_VB दिया_V_VB था_V_VB </s>
+<s> आदित्य_N_NNP नारायण_N_NNP ने_IN कल्याणजी_N_NNP वीरजी_N_NNP शाह_N_NNP से_IN गायिकी_N_NN की_IN ट्रेनिंग_N_NN ली_V_VB थी_V_VB </s>
+<s> उस_PRP दौरान_N_NN आदित्य_N_NN लिटिल_N_NN वंडर्स_N_NN कॉन्सर्ट_N_NN के_IN दौरान_N_NN गाया_V_VB करते_V_VB थे_V_VB </s>
+<s> लिटिल_N_NN वंडर्स_N_NN एक_CD ऐसा_DT प्लेटफॉर्म_N_NN था_V_VB जहां_WDT पर_IN बच्चे_N_NN किसी_WP भी_RB_RBS तरह_N_NN की_IN कला_N_NN का_IN प्रदर्शन_N_NN कर_V_VB सकते_V_VB थे_N_NN </s>
+<s> आदित्य_N_NN ने_IN ३००_CD से_IN ज्यादा_JJ_JJS बार_N_NN कॉन्सर्ट_N_NN में_IN परफॉर्म_N_NN किया_V_VB था_V_VB </s>
+<s> आदित्य_N_NNP नारायण_N_NNP ने_IN पहली_JJ_JJS बार_N_NN साल_N_NN १९९२_CD में_IN बतौर_JJ_JJS प्लेबैक_N_NN सिंगर_N_NNP गाया_N_NNP था_N_NN </s>
+<s> यह_DT एक_CD नेपाली_JJ_JJS फिल्म_N_NN थी_V_VB जिसका_WDT नाम_N_NN मोहिनी_N_NN था_N_NN </s>
+<s> इसके_DT बाद_IN साल_N_NN १९९५_CD में_IN आदित्य_N_NN ने_IN पहली_JJ_JJS बार_N_NN अपने_PRPS पिता_N_NN उदित_JJ_JJS नारायण_N_NN के_IN साथ_IN अकेले_N_NN हम_PRP अकेले_JJ_JJS तुम_N_NN फिल्म_N_NN के_IN लिए_IN गाया_N_NN था_N_NN </s>
+<s> आदित्य_N_NNP नारायण_N_NNP ने_IN आशा_N_NN भोसले_N_NN के_IN गाए_V_VB गाने_V_VB रंगीला_N_NN में_IN कैमियो_N_NN भी_RB_RBS किया_V_VB था_V_VB </s>
+<s> आदित्य_N_NN ने_IN बतौर_JJ_JJS चाइल्ड_N_NN आर्टिस्ट_N_NN कई_JJ_JJS फिल्मों_N_NN में_IN काम_N_NN किया_V_VB है_V_VB </s>
+<s> कहा_V_VB जाता_V_VB है_V_VB कि_CC सुभाष_N_NNP घई_N_NNP ने_IN साल_N_NN १९९५_CD में_IN आदित्य_N_NNP नारायण_N_NNP को_IN पहली_JJ_JJS बार_N_NN देखा_V_VB था_V_VB जब_WDT वह_PRP लिटिल_N_NN वंडर्स_N_NN ग्रुप_N_NN के_IN साथ_IN परफॉर्म_N_NN कर_V_VB रहे_V_VB थे_N_NN </s>
+<s> इसके_DT बाद_IN सुभाष_N_NNP घई_N_NNP ने_IN उन्हें_PRP परदेस_N_NN फिल्म_N_NN के_IN लिए_IN साइन_N_NN कर_V_VB लिया_V_VB था_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN शाहरुख_N_NNP खान_N_NNP और_CC महिमा_N_NN चौधरी_N_NN मुख्य_JJ_JJS किरदार_N_NN में_IN थे_V_VB </s>
+<s> परदेस_N_NN फिल्म_N_NN के_IN बाद_IN आदित्य_N_NNP नारायण_N_NNP की_IN दूसरी_JJ_JJS फिल्म_N_NN जब_N_NN प्यार_N_NN किसी_WP से_IN होता_V_VB है_V_VB थी_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN सलमान_N_NNP खान_N_NNP और_CC ट्विंकल_N_NNP खन्ना_N_NNP मुख्य_JJ_JJS रोल_N_NN में_IN थे_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN आदित्य_N_NNP नारायण_N_NNP का_IN नाम_N_NN कबीर_N_NNP धनराजगीर_N_NNP था_N_NN </s>
+<s> इस_DT किरदार_N_NN के_IN लिए_IN आदित्य_N_NN को_IN बेस्ट_JJ_JJS सपोर्टिंग_N_NN एक्टर_N_NN नॉमिनेशन_N_NNP जी_N_NNP सिने_V_VB अवॉर्ड_N_NN में_IN मिला_V_VB था_V_VB </s>
+<s> बतौर_JJ_JJS चाइल्ड_N_NNP आर्टिंस्ट_N_NNP आदित्य_N_NNP नारायण_N_NNP ने_IN १००_CD से_IN ज्यादा_JJ_JJS गाना_N_NN गाए_V_VB थे_V_VB </s>
+<s> इसके_WDT साथ_IN ही_RB_RBS आदित्य_JJ_JJS नाम_N_NN से_IN एलबम_N_NN भी_RB_RBS रिलीज_N_NN की_IN थी_V_VB </s>
+<s> आदित्य_N_NN का_IN सबसे_JJ_JJS फेमस_N_NN गाना_N_NN साल_N_NN १९९६_CD में_IN आई_V_VB फिल्म_N_NN मासूम_N_NN का_IN है_N_NN </s>
+<s> इस_DT गाने_V_VB के_IN बोल_V_VB थे_V_VB -छोटा_JJ_JJS बच्चा_N_NN जान_N_NN के_N_NN है_N_NN </s>
+<s> इस_DT गाने_V_VB के_IN लिए_IN आदित्य_N_NN को_IN बेस्ट_JJ_JJS चाइल्ड_N_NN सिंगर_N_NNP क्रिटिक्स_N_NNP का_IN अवॉर्ड_N_NN मिला_V_VB था_V_VB </s>
+<s> आदित्य_N_NNP नारायण_N_NNP ने_IN साल_N_NN २००९_CD में_IN आई_V_VB फिल्म_N_NN शापित_N_NN में_IN मुख्य_JJ_JJS किरदार_N_NN निभाया_V_VB था_V_VB </s>
+<s> इस_DT फिल्म_N_NN को_IN विक्रम_N_NNP भट्ट_N_NNP ने_IN डायरेक्ट_JJ_JJS किया_V_VB था_V_VB </s>
+<s> इस_DT फिल्म_N_NN के_IN लिए_IN आदित्य_N_NN ने_IN चार_CD गाने_V_VB न_RB_RBR केवल_JJ_JJS गाए_V_VB थे_V_VB बल्कि_CC उन्हें_PRP खुद_PRPS ही_RB_RBS लिखा_V_VB था_V_VB </s>
+<s>P आदित्य_N_NNP नारायण_N_NNP १६_CD भाषाओं_N_NN में_IN गाना_N_NN गा_V_VB चुके_V_VB हैं_V_VB </s>
+<s> इस_DT वक्त_N_NN आदित्य_N_NN नारायण_N_NN रियलिटी_N_NN शो_N_NN खतरों_N_NN के_IN खिलाड़ी_N_NN सीजन_N_NN ९_N_NN की_IN शूटिंग_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> इसमें_WDT आदित्य_N_NN बतौर_RB_RBS कंटेस्टेंट_N_NN नजर_N_NN आएंगे_N_NN </s>
+<s> हाल_N_NN ही_RB_RBS में_IN आदित्य_N_NN एक_CD स्टंट_N_NN करते_V_VB हुए_V_VB घायल_N_NN भी_RB_RBS हो_V_VB गए_V_VB थे_N_NN </s>
+<s> बॉलीवुड_N_NN अभिनेता_N_NN ऋतिक_N_NN रोशन_N_NN फिल्मों_N_NN के_IN अलावा_N_NN पूर्व_N_NNP पत्नी_N_NNP सुजैन_N_NNP खान_N_NNP की_IN वजह_N_NN से_IN भी_RB_RBS सुर्खियों_N_NN में_IN रहते_V_VB हैं_V_VB </s>
+<s> ऋतिक_N_NN और_CC सुजैन_N_NN का_IN भले_N_NN ही_RB_RBS तलाक_N_NN हो_V_VB चुका_V_VB हो_V_VB लेकिन_CC इन_DT दोनों_CD की_IN बीच_N_NN अब_IN भी_RB_RBS बहुत_JJ_JJS अच्छे_JJ_JJS रिश्ते_N_NN हैं_V_VB </s>
+<s> यही_DT वजह_N_NN है_V_VB जो_WDT ऋतिक_N_NN और_CC सुजैन_N_NNP खान_N_NNP को_IN अक्सर_N_NN साथ_N_NN में_IN देखा_V_VB जाता_V_VB है_V_VB </s>
+<s> बीते_JJ_JJS दिनों_N_NN ऋतिक_JJ_JJS रोशन_N_NN की_IN फिल्म_N_NN सुपर_N_NN ३०_CD सिनेमाघरों_N_NN में_IN रिलीज_N_NN हुई_N_NN </s>
+<s> दर्शकों_N_NN सहित_N_NN समीक्षकों_N_NN ने_IN फिल्म_N_NN की_IN तारीफ_N_NN की_N_NN </s>
+<s> सुपर_N_NN ३०_N_NN की_IN शानदार_JJ_JJS सफलता_N_NN के_IN बाद_IN ऋतिक_JJ_JJS रोशन_N_NN ने_IN हाल_N_NN ही_RB_RBS में_IN डीएनए_N_NN को_IN इंटरव्यू_N_NN दिया_V_VB </s>
+<s> यहां_N_NN उन्होंने_PRP निजी_JJ_JJS जिंदगी_N_NN और_CC पत्नी_N_NNP सुजैन_N_NNP खान_N_NNP को_IN लेकर_V_VB ढेर_N_NN सारी_JJ_JJS बातें_N_NN कीं_N_NN </s>
+<s> यहां_N_NN उन्होंने_PRP ये_DT भी_RB_RBS बताया_V_VB कि_CC पूर्व_N_NN पत्नी_N_NN होने_V_VB के_IN बावजूद_N_NN वह_PRP सुजैन_N_NNP खान_N_NNP और_CC अपने_PRPS बच्चों_N_NN के_IN बीच_IN कैसे_RB_RBR रिश्ता_N_NN बनाकर_V_VB रखते_V_VB हैं_V_VB </s>
+<s> ऋतिक_N_NN रोशन_N_NN ने_IN कहा-_N_NN सुजैन_N_NN और_CC मैं_PRP एक-दूसरे_N_NN का_IN सम्मान_N_NN करते_V_VB हैं,_V_VB हम_PRP दोनों_JJ_JJS बच्चे_N_NN ऋदान_N_NN और_CC रेहान_N_NN रोशन_N_NN के_IN लिए_IN समर्पित_N_NN हैं_V_VB ये_DT एहसास_N_NN कराए_V_VB बिना_V_VB कि_CC हमारे_PRP बीच_IN कुछ_JJ_JJS गलत_JJ_JJS है_N_NN </s>
+<s> ऋतिक_N_NN रोशन_N_NN आगे_IN कहते_V_VB हैं_V_VB कि_CC यहां_N_NNP तक_IN की_IN कई_JJ_JJS लोग_N_NN मुझसे_PRP पूछते_V_VB हैं_V_VB कि_CC मैं_PRP कैसे_RB_RBR अपनी_PRPS एक्स_N_NN (पूर्व_N_NN पत्नी)_N_NN के_IN साथ_IN इतना_JJ_JJS अच्छे_JJ_JJS से_IN रह_V_VB सकता_V_VB हूं_V_VB </s>
+<s> मैं_PRP उन्हें_PRP यही_DT बताता_V_VB रहता_V_VB हूं_V_VB कि_CC पिता_N_NN के_IN तौर_N_NN पर_IN मैं_PRP दोनों_JJ_JJS बच्चों_N_NN को_IN लेकर_V_VB चल_V_VB रहा_V_VB हूं_V_VB और_CC उन_PRP दोनों_CD को_IN पता_V_VB चल_V_VB सके_V_VB कि_CC उनकी_PRP मां_N_NN को_IN प्यार_N_NN और_CC सम्मान_N_NN दिया_V_VB जाता_V_VB है_V_VB </s>
+<s> बात_N_NN को_IN आगे_IN बढ़ाते_V_VB हुए_V_VB ऋतिक_JJ_JJS रोशन_N_NN ने_IN कहा_V_VB कि,_V_VB हमारे_JJ_JJS बच्चों_N_NN को_IN भी_RB_RBS पता_V_VB चल_V_VB सके_V_VB हैं_V_VB कि_CC दो_CD लोगों_N_NN के_IN अलग_N_NN होने_V_VB के_IN बाद_IN भी_RB_RBS एक_CD परिवार_N_NN के_IN तौर_N_NN पर_IN हम_PRP हमेशा_IN साथ_N_NN है_N_NN </s>
+<s> यह_DT बहुत_JJ_JJS दुख_N_NN की_IN बात_N_NN है_V_VB कि_CC सुजैन_N_NN के_IN साथ_IN मेरा_PRP संतुलन_N_NN थोड़ा_JJ_JJS मुश्किल_V_VB है,_V_VB लेकिन_CC अपने_PRPS बच्चों_N_NN की_IN खुशी_N_NN और_CC शांति_N_NN के_IN लिए_IN हम_PRP हमेशा_N_NN कोशिश_N_NN करते_V_VB रहते_V_VB हैं।_V_VB </s>
+आपको_PRP बता_V_VB दें_V_VB कि_CC ऋतिक_JJ_JJS रोशन_N_NN और_CC सुजैन_N_NNP खान_N_NNP का_IN रिश्ता_N_NN बेहद_JJ_JJS खास_JJ_JJS है_N_NN </s>
+<s> दोनों_N_NN का_IN तलाक_N_NN हो_V_VB चुका_V_VB है_V_VB लेकिन_CC आज_IN भी_RB_RBS वे_PRP दोस्त_N_NN की_IN तरह_N_NN मिलते_V_VB हैं_V_VB </s>
+<s> अपने_PRPS बच्चों_N_NN के_IN साथ_IN समय_N_NN बिताते_V_VB हैं_V_VB </s>
+<s> मूवी_N_NN और_CC डिनर_N_NN डेट_N_NN पर_IN भी_RB_RBS साथ_N_NN जाते_V_VB हैं_V_VB </s>
+<s> इस_DT कपल_N_NN ने_IN शादी_N_NN के_IN १४_CD साल_N_NN बाद_IN २०१४_CD में_IN तलाक_N_NN ले_V_VB लिया_V_VB था_V_VB </s>
+<s> तलाक_N_NN के_IN ५_CD साल_N_NN बाद_IN भी_RB_RBS दोनों_CD के_IN रिश्ते_N_NN में_IN खास_JJ_JJS बॉन्डिंग_N_NN देखने_V_VB को_IN मिलती_V_VB है_V_VB </s>
+<s> सुजैन_N_NN और_CC ऋतिक_JJ_JJS एक-दूसरे_N_NN की_IN तस्वीरें_N_NN भी_RB_RBS सोशल_JJ_JJS मीडिया_N_NN पर_IN शेयर_N_NN करते_V_VB हैं_V_VB </s>
+<s> साहो_N_NN के_IN पहले_IN पोस्टर_N_NN के_IN साथ_IN ही_RB_RBS फिल्म_N_NN को_IN लेकर_V_VB ऑडियंस_N_NN में_IN भारी_JJ_JJS क्रेज_N_NN देखने_V_VB को_IN मिल_V_VB रहा_V_VB है_V_VB </s>
+<s> ऐसे_DT में_IN फिल्म_N_NN के_IN मेकर्स_N_NN भी_RB_RBS जनता_N_NN के_IN क्रेज_N_NN का_IN पूरा_JJ_JJS ख्याल_N_NN रख_V_VB रहे_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN रिलीज_N_NN से_IN ठीक_N_NN पहले_IN सुपरस्टार_N_NN प्रभास_N_NN अपनी_PRPS सह-कलाकार_N_NN श्रद्धा_N_NN कपूर_N_NN के_IN साथ_IN "साहो"_N_NN के_IN ट्रेलर_N_NN रिलीज़_N_NN के_IN लिए_IN पांच_CD शहरों_N_NN के_IN दौरे_N_NN पर_IN जा_V_VB रहे_V_VB हैं_V_VB </s>
+<s> अभिनेता_N_NN के_IN करीबी_JJ_JJS सूत्र_N_NN ने_IN खुलासा_N_NN करते_V_VB हुए_V_VB बताया,_V_VB “बाहुबली_JJ_JJS फ्रेंचाइजी_N_NN को_IN समाप्त_N_NN हुए_V_VB २_CD साल_N_NN हो_V_VB गए_V_VB हैं_V_VB और_CC उसके_PRP बाद_IN यह_DT पहली_JJ_JJS बार_N_NN होगा,_N_NN जब_WDT प्रभास_N_NN एक_CD मल्टी_N_NN सिटी_N_NN टूर_N_NN पर_IN जाएंगे_V_VB और_CC अपने_PRPS फैंस_N_NN से_IN मुलाक़ात_N_NN करेंगे_N_NN </s>
+<s> पांच_CD शहरों_N_NN के_IN दौरे_N_NN में_IN हैदराबाद,_N_NNP चेन्नई,_N_NNP कोच्चि,_N_NNP बैंगलोर_N_NNP और_CC मुंबई_N_NNP शामिल_N_NN हैं_V_VB </s>
+<s> यह_DT फिल्म_N_NN एक_CD बहुभाषी_JJ_JJS फिल्म_N_NN है_V_VB और_CC इसे_DT हिंदी,_N_NNP तमिल,_N_NNP तेलुगु_N_NNP और_CC मलयालम_N_NNP इन_DT चार_CD भाषाओं_N_NN में_IN रिलीज_N_NN किया_V_VB जाएगा_V_VB </s>
+<s> प्रभास_N_NN व्यक्तिगत_N_NN रूप_N_NN से_IN इन_DT शहरों_N_NN का_IN दौरा_N_NN करना_V_VB चाहते_V_VB थे_V_VB और_CC अपने_PRPS सभी_JJ_JJS प्रशंसकों_N_NN से_IN मिलकर,_N_NN साहो_N_NN का_IN ट्रेलर_N_NN उनके_PRP सामने_IN पेश_N_NN करना_V_VB चाहते_V_VB है_V_VB </s>
+<s> इस_DT दौरे_N_NN की_IN शुरुआत_N_NN मुंबई_N_NNP से_IN होगी_V_VB जहां_WDT प्रभास_N_NN प्रशंसकों_N_NN के_IN साथ_IN बातचीत_N_NN करेंगे_V_VB और_CC इंटरव्यू_N_NN करने_V_VB के_IN बाद,_N_NN हैदराबाद_N_NNP और_CC चेन्नई_N_NNP में_IN ट्रेलर_N_NN लॉन्च_N_NN करेंगे_V_VB और_CC उसके_PRP बाद_IN कोच्चि_N_NNP और_CC बैंगलोर_N_NNP का_IN रुख_N_NN करेंगे_N_NN </s>
+<s> प्रभास_N_NN के_IN लिए_IN यह_DT दो_CD सप्ताह_N_NN का_IN एक_CD व्यस्त_JJ_JJS टूर_N_NN होगा_V_VB जहाँ_WDT वे_DT प्रशंसकों_N_NN के_IN साथ_IN बातचीत_N_NN करने_V_VB से_IN ले_V_VB कर,_V_VB प्रेस_N_NN इंटरव्यू_N_NN और_CC ट्रेलर_N_NN लॉन्च_N_NN के_IN लिए_IN इन_DT पांच_CD शहरों_N_NN का_IN दौरा_N_NN करेंगे_N_NN </s>
+<s> साहो_N_NN में_IN प्रभास_N_NN और_CC श्रद्धा_N_NN कपूर_N_NN के_IN अलावा_N_NN नील_N_NNP नितिन_N_NNP मुकेश,_N_NNP जैकी_N_NNP श्रॉफ,_N_NNP मंदिरा_N_NNP बेदी,_N_NNP महेश_N_NNP मांजरेकर,_N_NNP चंकी_N_NNP पांडे,_N_NNP अरुण_N_NNP विजय_N_NN और_CC मुरली_N_NNP शर्मा_N_NNP एंटरटेनमेंट_N_NN का_IN तड़का_N_NN लगाते_V_VB हुए_V_VB नज़र_N_NN आएंगे_N_NN </s>
+<s> जम्मू_N_NNP कश्मीर_N_NNP में_IN धारा_N_NN ३७०_CD हटाए_V_VB जाने_V_VB पर_IN अब_IN राखी_N_NNP सावंत_N_NNP का_IN बयान_N_NN सामने_IN आया_V_VB है_V_VB </s>
+<s>P राखी_N_NNP ने_IN एक_CD वीडियो_N_NN शेयर_N_NN कर_V_VB पीएम_N_NNP मोदी_N_NNP की_IN जमकर_N_NN तारीफ_N_NN की_IN है_N_NN </s>
+<s> इतना_JJ_JJS ही_RB_RBS नहीं_RB_RBR राखी_N_NN ने_IN वीडियो_N_NN में_IN ये_DT भी_RB_RBS कहा_V_VB कि_CC वो_DT इस_DT फैसले_N_NN से_IN बेहद_JJ_JJS खुश_N_NN हैं_V_VB </s>
+<s>P राखी_N_NNP ने_IN कहा-_N_NN हमें_PRP आप_PRP पर_IN गर्व_N_NN है_V_VB मोदी_N_NNP जी_N_NNP </s>
+<s> आप_PRP जैसा_JJ_JJS कोई_WP नहीं_RB_RBR है_N_NN </s>
+<s> इतना_JJ_JJS ही_RB_RBS नहीं_RB_RBR राखी_N_NN ने_IN पीएम_N_NNP मोदी_N_NNP जिंदाबाद_N_NNP के_IN नारे_N_NN भी_RB_RBS लगाए_V_VB </s>
+<s>P राखी_N_NNP ने_IN कहा-_N_NN मैं_PRP अपनी_PRPS फिल्म_N_NN धारा_N_NN ३७०_CD के_IN लिए_IN मुझे_PRP कास्ट_N_NN करने_V_VB के_IN लिए_IN अपने_PRPS डायरेक्टर_N_NN प्रोड्यूसर_N_NN को_IN धन्यवाद_N_NN देती_V_VB हूं_V_VB </s>
+<s> सबसे_JJ_JJS पहले_JJ_JJS हमने_PRP धारा_N_NN ३७०_CD का_IN मुद्दा_N_NN उठाया_V_VB </s>
+<s> मोदी_N_NNP जी_N_NNP आपका_PRP शुक्रिया_N_NN आपने_N_NN मेरी_PRP बात_N_NN सुनी_V_VB और_CC कानून_N_NN लागू_N_NN कर_V_VB दिया_V_VB </s>
+<s>P राखी_N_NNP ने_IN आगे_IN कहा-_V_VB अब_IN कश्मीर_N_NNP हमारा_PRP हो_V_VB गया_V_VB है_V_VB </s>
+<s> हालांकि_CC इस_DT वीडियो_N_NN की_IN वजह_N_NN से_IN राखी_N_NN ट्रोल_N_NN भी_RB_RBS हो_V_VB गईं_V_VB </s>
+<s> एक_CD यूजर_N_NNP ने_IN राखी_N_NNP से_IN कहा-_N_NN आपको_PRP बता_V_VB दें_V_VB कि_CC कश्मीर_N_NNP पहले_IN से_IN ही_RB_RBS हमारा_PRP है_N_NN </s>
+<s> अपनी_PRPS जानकारी_N_NN सही_N_NN कर_V_VB लो_V_VB </s>
+<s> एक_CD ने_IN लिखा-_V_VB अब_IN बस_N_NN तुम_PRP ही_RB_RBS रह_V_VB गई_V_VB थी_V_VB सलाह_N_NN देने_V_VB के_IN लिए_N_NN </s>
+<s> कुछ_JJ_JJS यूजर्स_N_NN राखी_N_NN की_IN पोस्ट_N_NN पर_IN उनके_PRP पति_N_NN का_IN नाम_N_NN भी_RB_RBS पूछते_V_VB नजर_N_NN आए_V_VB </s>
+<s> कुछ_JJ_JJS महीने_N_NN पहले_IN राखी_N_NNP ने_IN धारा_N_NN ३७०_CD की_IN शूटिंग_N_NN खत्म_N_NN की_IN है_N_NN </s>
+<s> यह_DT फिल्म_N_NN भारत_N_NNP और_CC पाकिस्तान_N_NNP के_IN संबंधों_N_NN पर_IN आधारित_N_NN है_N_NN </s>
+<s> फिल्म_N_NN में_IN कश्मीरी_N_NN पंडित_N_NN और_CC कश्मीरी_N_NNP मुसलमान_N_NN लड़की_N_NN की_IN प्यार_N_NN की_IN कहानी_N_NN है_N_NN </s>
+<s> आपको_PRP बता_V_VB दें_V_VB राखी_N_NNP सावंत_N_NNP पिछले_IN कुछ_JJ_JJS दिनों_N_NN से_IN अपनी_PRPS शादी_N_NN को_IN लेकर_V_VB चर्चा_N_NN में_IN हैं_V_VB </s>
+<s> शादी_N_NN के_IN दो_CD दिन_N_NN बाद_IN राखी_N_NNP ने_IN बताया_V_VB कि_CC उन्होंने_PRP रितेश_N_NNP नाम_N_NN के_IN एक_CD NRI_N_NN से_IN शादी_N_NN कर_V_VB ली_V_VB है_V_VB </s>
+<s> हालांकि_CC इससे_WDT पहले_IN राखी_N_NNP ने_IN कहा_V_VB था_V_VB कि_CC वो_DT एक_CD फोटोशूट_N_NN था_N_NN </s>
+<s> अब_IN शादी_N_NN की_IN बात_N_NN कबूलने_V_VB के_IN बाद_IN राखी_N_NNP ने_IN ब्राइडल_N_NNP शूट_N_NNP करवाया,_N_NNP जिसकी_WDT तस्वीरें_N_NN उन्होंने_PRP खुद_PRPS सोशल_N_NN मीडिया_N_NN पर_IN शेयर_N_NN की_IN हैं_V_VB </s>
+<s> तस्वीरों_N_NN में_IN राखी_N_NNP लहंगे,_N_NNP गहने,_N_NNP बेंदा_N_NNP और_CC लाल_JJ_JJS बिंदी_N_NNP में_IN खूबसूरत_JJ_JJS दिख_V_VB रही_V_VB हैं_V_VB </s>
+<s> बता_V_VB दें_V_VB कि_CC मांग_N_NN में_IN सिंदूर_N_NN और_CC हाथों_N_NN में_IN मेहंदी_N_NN लगाए_V_VB राखी_N_NN सावंत_N_NN की_IN कई_JJ_JJS तस्वीरें_N_NN सोशल_N_NN मीडिया_N_NN पर_IN वायरल_N_NN हुई_V_VB थीं_V_VB </s>
+<s> फोटो_N_NN शेयर_N_NN कर_V_VB उन्होंने_PRP लिखा_V_VB था,_V_VB मैं_N_NN बहुत_JJ_JJS खुश_N_NN हूं_V_VB और_CC बहुत_JJ_JJS मजे_N_NN कर_V_VB रही_V_VB हूं_V_VB </s>
+<s> मेरे_PRP ईश्वर_N_NN और_CC फैन्स_N_NN को_IN शुक्रिया।_N_NN उन्होंने_PRP अपने_PRPS चूड़े_N_NN में_IN पति_N_NN रितेश_N_NN का_IN नाम_N_NN भी_RB_RBS लिखवाया_V_VB </s>
+<s>P राखी_N_NNP ने_IN बताया_V_VB कि_CC उन्होंने_PRP २०_CD जुलाई_N_NN को_IN शादी_N_NN की_IN थी_V_VB </s>
+<s> एक_CD इंटरव्यू_N_NN में_IN कहा-_N_NN मेरे_N_NN पति_N_NN का_IN नाम_N_NN रितेश_N_NNP है_N_NN </s>
+<s> कश्मीर_N_NNP मुद्दे_N_NN पर_IN ५_CD अगस्त_N_NNP का_IN दिन_N_NN देश_N_NN के_IN लोगों_N_NN के_IN लिए_IN काफी_JJ_JJS ऐतिहासिक_JJ_JJS रहा_N_NN </s>
+<s> केंद्र_N_NN सरकार_N_NN ने_IN जम्मू-कश्मीर_N_NNP के_IN उस_PRP अनुच्छेद_N_NN ३७०_CD को_IN खत्म_N_NN कर_V_VB दिया_V_VB जिसमें_WDT उसको_PRP विशेष_JJ_JJS राज्य_N_NN का_IN दर्जा_N_NN मिला_V_VB हुआ_V_VB था_N_NN </s>
+<s> सरकार_N_NN के_IN इस_DT फैसले_N_NN से_IN आम_N_NN से_IN लेकर_V_VB खास_JJ_JJS तक_IN सभी_JJ_JJS अपनी_PRPS प्रतिक्रिया_N_NN दे_V_VB रहे_V_VB हैं,_V_VB लेकिन_CC इस_DT फैसले_N_NN के_IN बाद_IN बॉलीवुड_N_NN की_IN कुछ_JJ_JJS फिल्मों_N_NN पर_IN संकट_N_NN के_IN बादल_N_NN मंडराने_V_VB लगे_V_VB हैं_V_VB </s>
+<s> अंग्रेजी_N_NN वेबसाइट_N_NN मिड_N_NN डे_N_NN की_IN खबर_N_NN के_IN अनुसार_N_NN जम्मू-कश्मीर_N_NNP में_IN आलिया_N_NNP भट्ट_N_NNP की_IN आने_V_VB वाली_IN फिल्म_N_NN सड़क_N_NN २_CD की_IN शूटिंग_N_NN शुरू_V_VB होने_V_VB वाली_IN थी,_N_NN लेकिन_CC सेना_N_NN की_IN मौजूदगी_N_NN और_CC सुरक्षा_N_NN को_IN देखते_V_VB हुए_V_VB इस_DT फिल्म_N_NN के_IN जम्मू-कश्मीर_N_NNP शेड्यूल_N_NN को_IN फिलहल_N_NN टाल_V_VB दिया_V_VB गया_V_VB है_V_VB </s>
+<s> हाल_N_NN ही_RB_RBS में_IN आलिया_N_NNP ने_IN सड़क_N_NN २_CD का_IN ऊटी_N_NNP शेड्यूल_N_NN पूरा_N_NN किया_V_VB है_V_VB </s>
+<s> सड़क_N_NN २_CD के_IN अलावा_N_NN अभिनेता_N_NN सिद्धार्थ_N_NNP मल्होत्रा_N_NNP अपनी_PRPS आने_V_VB वाली_IN फिल्म_N_NN की_IN शूटिंग_N_NN जम्मू-कश्मीर_N_NNP में_IN करने_V_VB वाले_IN थे_N_NN </s>
+<s> गौरतलब_N_NN है_V_VB कि_CC सिद्धार्थ_N_NNP मल्होत्रा_N_NNP कैप्टन_N_NNP विक्रम_N_NNP बत्रा_N_NNP की_IN बायोपिक_N_NN की_IN शूटिंग_N_NN शुरू_V_VB करने_V_VB वाले_IN थे_N_NN </s>
+<s> इस_DT फिल्म_N_NN का_IN निर्देशन_N_NN विष्णु_N_NN वर्धन_N_NN करने_V_VB वाले_IN हैं_V_VB </s>
+<s> फिलहाल_N_NN इस_DT फिल्म_N_NN के_IN मेकर्स_N_NN ने_IN भी_RB_RBS शूटिंग_N_NN को_IN टाल_V_VB दिया_V_VB है_V_VB </s>
+<s> इन_DT सबके_JJ_JJS के_IN अलावा_N_NN कई_JJ_JJS साउथ_N_NN फिल्मों_N_NN की_IN शूटिंग_N_NN को_IN भी_RB_RBS फिलहाल_N_NN टाला_V_VB गया_V_VB है_V_VB </s>
+<s> वहीं_DT मिड_N_NN डे_N_NN के_IN अनुसार_N_NN मशहूर_JJ_JJS प्रोड्यूसर_N_NNP मोहम्मद_N_NNP अब्दुल्ला_N_NNP ने_IN कहा_V_VB है_V_VB कि_CC वह_PRP जल्द_N_NN ही_RB_RBS कश्मीर_N_NNP में_IN अपनी_PRPS २_CD से_IN ३_CD बॉलीवुड_N_NN फिल्मों_N_NN के_IN अलावा_N_NN एक_CD तेलुगु_N_NNP फिल्म_N_NN की_IN शूटिंग_N_NN शुरू_V_VB करने_V_VB वाले_IN थे,_N_NN लेकिन_CC सेना_N_NN की_IN तैनाती_N_NN और_CC सुरक्षा_N_NN को_IN देखते_V_VB हुए_V_VB उन्होंने_PRP भी_RB_RBS फिलहाल_N_NN फिल्मों_N_NN की_IN शूटिंग_N_NN को_IN टाल_V_VB दिया_V_VB है_V_VB </s>
+<s> आपको_PRP बता_V_VB दें_V_VB कि_CC कश्मीर_N_NNP की_IN खूबसूरत_JJ_JJS वादियों_N_NN और_CC सिनेमा_N_NN का_IN पुराना_JJ_JJS रिश्ता_N_NN रहा_V_VB है_V_VB </s>
+<s> कश्मीर_N_NNP में_IN कई_JJ_JJS बॉलीवुड_N_NN फिल्मों_N_NN की_IN शूटिंग_N_NN हो_V_VB चुकी_V_VB हैं_V_VB </s>
+<s> बीते_JJ_JJS एक_CD साल_N_NN के_IN अंदर_IN की_IN बात_N_NN करें_V_VB तो_RB_RBS जम्मू-कश्मीर_N_NNP में_IN अभिषेक_N_NN बच्चन,_N_NN विक्की_N_NN कौशल_N_NN और_CC तापसी_N_NNP पन्नू_N_NNP की_IN फिल्म_N_NN मनमर्जियां,_N_NNP जॉन_N_NNP अब्राहम_N_NNP की_IN रोमियो_N_NN अकबर_N_NNP वोल्टर,_N_NNP अलिया_N_NNP भट्ट_N_NNP की_IN राजी_N_NN और_CC अर्जुन_N_NNP रामपाल_N_NNP की_IN फाइनल_N_NN कॉल_N_NN जैसी_N_NN फिल्मों_N_NN की_IN शूटिंग_N_NN जम्मू-कश्मीर_N_NNP में_IN हो_V_VB चुकी_V_VB है_V_VB </s>
+<s> पहले_IN १५_CD अगस्त_N_NN को_IN मिशन_N_NN मंगल,_N_NN फिर_CC अक्टूबर_N_NNP में_IN हाउसफुल_N_NNP ४_N_NN और_CC दिसंबर_N_NNP में_IN गुड_N_NN न्यूज_N_NN </s>
+<s> खिलाड़ी_N_NN कुमार_N_NN अक्षय_N_NN की_IN इस_DT साल_N_NN की_IN फिल्मों_N_NN का_IN लाइनअप_N_NN </s>
+<s> अगले_N_NN साल_N_NN की_IN शुरुआत_N_NN होगी_V_VB फिल्म_N_NN सूर्यवंशी_N_NN से_IN फिर_RB_RBS लक्ष्मी_JJ_JJS बॉम्ब_N_NN और_CC हाल_N_NN ही_RB_RBS में_IN एलान_N_NN की_V_VB गई_V_VB इक्का_N_NN व_CC बच्चन_N_NN पांडे_N_NN इनके_DT बाद_IN आएंगी_N_NN </s>
+<s> इतनी_JJ_JJS सारी_JJ_JJS फिल्मों_N_NN पर_IN काम_N_NN और_CC एलान_N_NN कर_V_VB चुके_V_VB अक्षय_N_NNP कुमार_N_NNP की_IN अब_IN एक_CD और_CC फिल्म_N_NN का_IN खुलासा_N_NN हो_V_VB चुका_V_VB है_V_VB </s>
+<s> इस_DT फिल्म_N_NN के_IN लिए_IN अक्षय_N_NNP कुमार_N_NNP एक_CD बार_N_NN फिर_RB_RBS निर्देशक_N_NN नीरज_N_NN पांडे_N_NN के_IN साथ_IN जुड़ने_V_VB वाले_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN में_IN अक्षय_N_NN राष्ट्रीय_N_NN सुरक्षा_N_NN सलाहकार_N_NN अजीत_N_NN डोभाल_N_NNP का_IN किरदार_JJ_JJS निभाएंगे_N_NN </s>
+<s> सूत्रों_N_NN की_IN मानें_V_VB तो_RB_RBS नीरज_JJ_JJS पांडे_N_NN की_IN इस_DT फिल्म_N_NN की_IN कहानी_N_NN अजीत_JJ_JJS डोभाल_N_NNP के_IN करियर_N_NN के_IN इर्द-गिर्द_IN ही_RB_RBS होगी_N_NN </s>
+<s> स्क्रिप्ट_N_NN पर_IN काम_N_NN शुरू_N_NN हो_V_VB चुका_V_VB है_V_VB और_CC रिसर्च_N_NN चल_V_VB रही_V_VB है_N_NN </s>
+<s> वहीं_DT शूटिंग_N_NN शुरू_N_NN होने_V_VB में_IN तो_RB_RBS अभी_IN काफी_JJ_JJS वक्त_N_NN है_N_NN </s>
+<s> सूत्रों_N_NN के_IN मुताबिक,_N_NN नीरज_N_NN पांडे_N_NN सबसे_JJ_JJS पहले_JJ_JJS अजय_N_NN देवगन_N_NN के_IN साथ_IN फिल्म_N_NN चाणक्य_N_NN पूरी_JJ_JJS करेंगे,_N_NN जिसकी_WDT घोषणा_N_NN उन्होंने_PRP कुछ_JJ_JJS महीने_N_NN पहले_IN की_IN थी_V_VB </s>
+<s> अक्षय_N_NN को_IN भी_RB_RBS अपने_PRPS कुछ_JJ_JJS प्रॉजेक्ट्स_N_NN पूरे_N_NN करने_V_VB हैं_V_VB </s>
+<s> इस_DT फिल्म_N_NN की_IN आधिकारिक_JJ_JJS घोषणा_N_NN करने_V_VB से_IN पहले_IN टीम_N_NN स्क्रिप्ट_N_NN को_IN फाइनल_N_NN करके_V_VB लॉक_N_NNP करना_V_VB चाहती_V_VB है_V_VB </s>
+<s> एक्टर_N_NN अक्षय_N_NNP कुमार_N_NNP और_CC नीरज_N_NN पांडे_N_NN पहले_IN भी_RB_RBS कई_JJ_JJS फिल्मों_N_NN पर_IN एक_CD साथ_N_NN काम_N_NN कर_V_VB चुके_V_VB हैं_V_VB </s>
+<s> इस_DT फिल्म_N_NN से_IN पहले_IN अक्षय_N_NNP कुमार_N_NNP और_CC नीरज_JJ_JJS पांडे_N_NN की_IN जोड़ी_N_NN स्पेशल_N_NN २६_CD और_CC बेबी_N_NN और_CC रुस्तम_N_NN जैसी_N_NN हिट_N_NN फिल्में_N_NN दे_V_VB चुकी_V_VB है_V_VB </s>
+<s> पिछले_IN दिनों_N_NN अक्षय_N_NNP कुमार_N_NNP और_CC भूषण_N_NN कुमार_N_NN के_IN बीच_IN मन-मुटाव_N_NN की_IN खबरें_N_NN आई_V_VB थीं_V_VB </s>
+<s> इसको_N_NN लेकर_V_VB फिल्म_N_NN मिशन_N_NN मंगल_N_NN के_IN प्रमोशन_N_NN के_IN दौरान_IN अक्षय_N_NNP कुमार_N_NNP ने_IN कहा_V_VB था,_V_VB "हमारे_V_VB बीच_IN कोई_WP दिक्कतें_N_NN नहीं_RB_RBR है_N_NN </s>
+<s> बल्कि_CC भूषण_N_NN जी_N_NN तो_RB_RBS खुद_PRPS कुछ_JJ_JJS दिन_N_NN पहले_IN ही_RB_RBS मेरे_PRP दफ्तर_N_NN आए_V_VB थे,_V_VB हम_PRP साथ_N_NN में_IN एक_CD फिल्म_N_NN भी_RB_RBS प्लान_N_NN कर_V_VB रहे_V_VB हैं।"_V_VB </s>
+इन_DT दिनों_N_NN देशभर_N_NN में_IN जम्मू-कश्मीर_N_NNP और_CC अनुच्छेद_JJ_JJS ३७०_CD को_IN लेकर_V_VB काफी_JJ_JJS चर्चा_N_NN है_N_NN </s>
+<s> कश्मीर_N_NNP से_IN अनुच्छेद_JJ_JJS ३७०_CD को_IN हटाए_V_VB जाने_V_VB पर_IN आम_N_NN से_IN लेकर_V_VB खास_JJ_JJS तक_IN सरकार_N_NN के_IN इस_DT फैसले_N_NN पर_IN हर_JJ_JJS कोई_WP अपनी_PRPS प्रतिक्रिया_N_NN दे_V_VB रहा_V_VB है_V_VB </s>
+<s> फिल्मी_N_NN सितारें_N_NN भी_RB_RBS इस_DT मुद्दे_N_NN पर_IN अपनी_PRPS राय_N_NN रखने_V_VB ने_IN पीछे_IN नहीं_RB_RBR हैं_V_VB </s>
+<s> मशहूर_JJ_JJS फिल्म_N_NN निर्देशक_N_NN शेखर_N_NNP कपूर_N_NNP ने_IN भी_RB_RBS भाजपा_N_NNP सरकार_N_NN के_IN इस_DT फैसले_N_NN और_CC कश्मीर_N_NNP को_IN लेकर_V_VB अपनी_PRPS प्रतिक्रिया_N_NN दी_V_VB है_V_VB </s>
+<s> शेखर_N_NNP कपूर_N_NNP सोशल_N_NNP मीडिया_N_NN पर_IN काफी_JJ_JJS एक्टिव_N_NN रहते_V_VB हैं_V_VB </s>
+<s> वह_PRP सामाजिक_JJ_JJS और_CC राजनीतिक_N_NN मुद्दों_N_NN पर_IN अपनी_PRPS राय_N_NN रखते_V_VB रहते_V_VB हैं_V_VB </s>
+<s> इस_DT बीच_IN उन्होंने_PRP कश्मीर_N_NNP के_IN विषय_N_NN पर_IN अपनी_PRPS प्रतिक्रिया_N_NN देते_V_VB हुए_V_VB ट्वीट_N_NN में_IN लिखा-जब_JJ_JJS मैं_N_NN स्कूल_N_NN में_IN था,_V_VB तभी_IN से_IN अनुच्छेद_N_NN ३७०_CD पर_IN वाद-विवाद_N_NN सुन_V_VB रहा_V_VB हूं_V_VB </s>
+<s> जब_WDT कश्मीर_N_NNP जल_N_NN रहा_V_VB था_V_VB </s>
+<s> बेगुनाह_JJ_JJS लोग_N_NN मर_V_VB रहे_V_VB थे_N_NN </s>
+<s> अनुच्छेद_N_NN ३७०_CD ने_IN कैसे_WDT मदद_N_NN की?आइए_N_NN अब_IN एकजुट_N_NN होकर_V_VB आगे_IN बढ़ते_V_VB हैं_V_VB </s>
+<s> एक_CD राष्ट्र,_N_NN आशाओं_N_NN के_IN साथ_N_NN </s>
+<s> भारत_N_NNP के_IN विकास_N_NN में_IN योगदान_N_NN के_IN लिए_IN कश्मीर_N_NNP के_IN लोगों_N_NN को_IN बराबर_N_NN का_IN मौका_N_NN देते_V_VB हैं।_V_VB </s>
+शेखर_N_NNP कपूर_N_NNP के_IN इस_DT ट्वीट_N_NN पर_IN सोशल_JJ_JJS मीडिया_N_NN यूजर्स_N_NN अपनी_PRPS प्रतिक्रिया_N_NN दे_V_VB रहे_V_VB हैं_V_VB </s>
+<s> बीते_JJ_JJS दिनों_N_NN शेखर_N_NNP कपूर_N_NNP फिल्मी_N_NN हस्तियों_N_NN द्वारा_IN भीड़_N_NN हिंसा_N_NN पर_IN प्रधानमंत्री_N_NN नरेंद्र_N_NNP मोदी_N_NNP को_IN लिखे_N_NN पत्र_N_NN पर_IN दी_V_VB अपनी_PRPS प्रतिक्रिया_N_NN की_IN वजह_N_NN से_IN सुर्खियों_N_NN में_IN हैं_V_VB </s>
+<s>_JJ_JJS प्रतिक्रिया_N_NN के_IN बाद_IN सोशल_JJ_JJS मीडिया_N_NN पर_IN शेखर_N_NNP कपूर_N_NNP और_CC गीतकार_N_NN जावेद_N_NN अख्तर_N_NN आमने-सामने_IN आ_V_VB गए_V_VB थे_N_NN </s>
+<s> शेखर_N_NNP कपूर_N_NNP ने_IN अपने_PRPS ट्वीट_N_NN में_IN लिखा_V_VB था-_V_VB बंटवारे_N_NN के_IN रिफ्यूजी_N_NN के_IN तौर_N_NN पर_IN जीवन_N_NN शुरू_N_NN किया_N_NN </s>
+<s> पैरंट्स_N_NN ने_IN अपने_PRPS बच्चों_N_NN की_IN जिंदगी_N_NN संवारने_V_VB के_IN लिए_IN सबकुछ_JJ_JJS किया_N_NN </s>
+<s> हमेशा_N_NN से_IN बुद्धिजीवियों_N_NN के_IN डर_N_NN में_IN जिया_N_NN हूं_N_NN </s>
+<s> उन्होंने_PRP हमेशा_IN मुझे_PRP तुच्छ_N_NN होने_V_VB का_IN अहसास_N_NN दिलाया_V_VB </s>
+<s> बाद_IN में_IN उन्होंने_PRP अचानक_JJ_JJS मेरी_N_NN फिल्मों_N_NN के_IN कारण_N_NN गले_N_NN लगा_V_VB लिया_V_VB </s>
+<s>_V_VB मैं_PRP अब_IN भी_RB_RBS उनसे_PRP डरता_V_VB हूं_V_VB </s>
+<s> उनका_PRP गले_N_NN लगना_V_VB सांप_N_NN के_IN डसने_N_NN जैसा_N_NN होता_V_VB है_V_VB </s>
+<s> अभी_IN भी_RB_RBS मैं_PRP एक_CD रिफ्यूजी_N_NN हूं।_N_NN </s>
+शेखर_N_NNP कपूर_N_NNP के_IN ट्वीट_N_NN को_IN देख_V_VB जावेद_V_VB अख्तर_N_NN भड़क_N_NN उठे_V_VB </s>
+<s> उन्होंने_PRP शेखर_N_NNP को_IN एक_CD के_IN बाद_IN एक_CD ट्वीट_N_NN कर_N_NN जमकर_V_VB लताड़ा_V_VB </s>
+<s> जावेद_N_NN अख्तर_N_NN ने_IN लिखा-_V_VB अभी_IN भी_RB_RBS रिफ्यूजी_N_NNP होने_V_VB से_IN आपका_PRP क्या_WDT मतलब_N_NN है_N_NN </s>
+<s> क्या_WDT इसका_PRP यह_DT मतलब_N_NN है_V_VB कि_CC आप_PRP अभी_IN भी_RB_RBS खुद_PRPS को_IN भारतीय_JJ_JJS नहीं_RB_RBR बल्कि_CC बाहर_IN का_IN महसूस_N_NN करते_V_VB हैं_V_VB और_CC आपको_PRP ऐसा_DT लगता_V_VB कि_CC यह_DT आपकी_PRP मातृभूमि_N_NN नहीं_RB_RBR है_N_NN </s>
+<s> अगर_CC आपको_PRP भारत_N_NNP में_IN भी_RB_RBS रिफ्यूजी_N_NN जैसा_JJ_JJS महसूस_N_NN होता_V_VB है_V_VB तो_CC कहां_N_NN आप_PRP खुद_PRPS को_IN रिफ्यूजी_N_NN महसूस_N_NN नहीं_RB_RBR करेंगे,_N_NN पाकिस्तान_N_NN में?_N_NN बेचारे_JJ_JJS अमीर_N_NN लेकिन_CC अकेले_JJ_JJS आदमी,_N_NN बंद_N_NN कीजिए_V_VB ये_DT ड्रामा।_N_NN </s>
+बॉलीवुड_N_NNP एक्ट्रेस_N_NNP मलाइका_N_NNP अरोड़ा_N_NNP सोशल_N_NNP मीडिया_N_NN पर_IN काफी_JJ_JJS एक्टिव_N_NN रहती_V_VB हैं_V_VB </s>
+<s> मलाइका_N_NN न_RB_RBR सिर्फ_JJ_JJS फोटोज_N_NN पोस्ट_N_NN कर_V_VB अपने_PRPS फैंस_N_NN का_IN ख्याल_N_NN रखती_V_VB हैं_V_VB जबकि_CC साथ_N_NN ही_RB_RBS साथ_N_NN अपने_PRPS परिवार_N_NN को_IN भी_RB_RBS वक्त_N_NN देती_V_VB हैं_V_VB </s>
+<s> ऐसे_DT में_IN मलाइका_N_NN अपने_PRPS परिवार_N_NN के_IN साथ_IN स्पॉटिड_JJ_JJS हुईं_N_NN </s>
+<s> दरअसल_N_NN मुंबई_N_NNP के_IN बांद्रा_N_NNP इलाके_N_NN में_IN अपने_PRPS परिवार_N_NN के_IN साथ_IN मलाइका_N_NNP अरोड़ा_N_NNP वक्त_N_NN बिताते_V_VB नजर_N_NN आईं_N_NN </s>
+<s> इस_DT दौरान_N_NN मलाइका_N_NNP के_IN माता-पिता,_N_NN बहन_N_NN और_CC बेटे_N_NN अरहान_N_NN साथ_N_NN में_IN नजर_N_NN आए_V_VB </s>
+<s> बता_V_VB दें_V_VB कि_CC मलाइका_N_NNP सोशल_N_NNP मीडिया_N_NN पर_IN न_RB_RBR सिर्फ_JJ_JJS प्रोफेशनल_N_NN बल्कि_CC पर्सनल_N_NN लाइफ_N_NN से_IN जुड़े_JJ_JJS फोटोज_N_NN भी_RB_RBS शेयर_N_NN करती_V_VB हैं_V_VB </s>
+<s> हाल_N_NN ही_RB_RBS में_IN मलाइका_N_NNP ने_IN अपनी_PRPS इंस्टा_N_NN स्टोरी_N_NNP में_IN एक_CD फोटो_N_NN शेयर_N_NN की_IN थी_V_VB </s>
+<s> इसमें_WDT उनके_PRP बेटे_N_NN अरहान_N_NN और_CC अरबाज_N_NNP के_IN बचपन_N_NN की_IN फोटो_N_NN थी_V_VB </s>
+<s> फोटो_N_NN में_IN दोनों_CD हूबहू_N_NN एक_CD जैसे_N_NN लग_V_VB रहे_V_VB थे_N_NN </s>
+<s> फोटो_N_NN शेयर_N_NN करते_V_VB हुए_V_VB मलाइका_N_NNP ने_IN लिखा,_N_NN ‘अरहान_N_NN तुम_PRP बिल्कुल_JJ_JJS अपने_PRPS पापा_N_NN की_IN कॉपी_N_NN हो’_N_NN </s>
+<s> मलाइका_N_NN की_IN ये_DT फोटो_N_NN सोशल_JJ_JJS मीडिया_N_NN पर_IN जमकर_N_NN वायरल_N_NN हो_V_VB रही_V_VB है_N_NN </s>
+<s> गौरतलब_N_NN है_V_VB कि_CC मलाइका_N_NNP अक्सर_N_NN अर्जुन_N_NNP कपूर_N_NNP के_IN साथ_IN भी_RB_RBS स्पॉट_N_NN होती_V_VB हैं_V_VB </s>
+<s> वहीं_DT अर्जुन_N_NNP के_IN साथ_IN उनका_PRP नाम_N_NN भी_RB_RBS सुर्खियों_N_NN में_IN रहता_V_VB है_V_VB </s>
+<s> अपने_PRPS विवादित_N_NN बयानों_N_NN की_IN वजह_N_NN से_IN हमेशा_IN सुर्खियों_N_NN में_IN रहने_V_VB वाले_IN बॉलीवुड_N_NN एक्टर,_N_NN प्रोड्यूसर_N_NN और_CC राइटर_N_NN कमाल_N_NN आर_N_NNP खान_N_NNP (केआरके)_N_NNP एक_CD बार_N_NN चर्चा_N_NN में_IN हैं_V_VB </s>
+<s> लेकिन_CC इस_DT बार_N_NN उन्हें_PRP ट्रोल_N_NN नहीं_RB_RBR बल्कि_CC उनकी_PRP तारीफ_N_NN की_IN जा_V_VB रही_V_VB है_N_NN </s>
+<s>P जम्मू-कश्मीर_N_NNP पर_IN केंद्र_N_NN सरकार_N_NN के_IN बड़े_JJ_JJS फैसले_N_NN के_IN बाद_IN देश_N_NN भर_RB_RBS में_IN जश्न_N_NN का_IN माहौल_N_NN है_N_NN </s>
+<s>P केआरके_N_NNP ने_IN आर्टिकल_N_NN ३७०_CD के_IN फैसले_N_NN पर_IN ट्वीट_N_NN करते_V_VB हुए_V_VB लिखा_V_VB कि_CC कोई_WP कुछ_JJ_JJS भी_RB_RBS कहे_V_VB लेकिन_CC सच_N_NN यही_DT है_V_VB कि_CC कश्मीर_N_NNP हमारा_PRP है_N_NN </s>
+<s> मैं_PRP इस_DT फैसले_N_NN में_IN सरकार_N_NN और_CC गृहमंत्री_N_NNP अमित_N_NNP शाह_N_NNP के_IN साथ_IN खड़ा_V_VB हूं_V_VB </s>
+<s> कश्मीर_N_NNP में_IN तिरंगा_N_NN फहराने_V_VB के_IN लिए_IN आर्टिकल_N_NN ३७०_CD खत्म_N_NN किया_V_VB जाना_V_VB चाहिए_V_VB था_N_NN </s>
+<s> इस_DT ट्वीट_N_NN के_IN बाद_IN केआरके_N_NNP की_IN हर_JJ_JJS तरफ_N_NN तारीफ_N_NN होने_V_VB लगी_V_VB </s>
+<s> एक_CD यूजर_N_NNP ने_IN लिखा-_V_VB भाई_N_NN आज_IN आपने_PRP सम्मान_N_NN हासिल_N_NN किया_V_VB है_V_VB </s>
+<s> माफ_N_NN करना_V_VB अगर_CC कभी_WP आपको_PRP गाली_N_NN दी_V_VB हो_V_VB तो_N_NN </s>
+<s> एक_CD ने_IN लिखा-_V_VB वहीं_DT एक_CD यूजर_N_NN का_IN कहना_V_VB था_V_VB कि_CC मां_N_NN कसम_N_NN भाई_N_NN आप_PRP सुपरहिट_N_NN हो,_N_NN आज_N_NN से_IN आपकी_PRP फिल्म_N_NN देशद्रोही_N_NN मेरी_PRP फेवरेट_N_NN फिल्म_N_NN है_N_NN </s>
+<s> बता_V_VB दें_V_VB जम्मू-कश्मीर_N_NNP में_IN अनुच्छेद_N_NN ३७०_CD हटने_V_VB के_IN बाद_IN लोगों_N_NN ने_IN केंद्र_N_NN सरकार_N_NN के_IN फैसले_N_NN का_IN स्वागत_N_NN किया_V_VB है_V_VB </s>
+<s> लंबे_JJ_JJS समय_N_NN से_IN अनुच्छेद_N_NN ३७०_CD को_IN हटाने_V_VB की_IN मांग_N_NN की_IN जा_V_VB रही_V_VB थी_V_VB </s>
+<s> अब_IN पीएम_N_NNP नरेंद्र_N_NNP मोदी_N_NNP और_CC गृहमंत्री_N_NN अमित_N_NNP शाह_N_NNP ने_IN इसे_DT पूरा_N_NN कर_V_VB दिया_V_VB है_V_VB </s>
+<s> लोगों_N_NN को_IN आगे_IN बढ़ने_V_VB के_IN लिए_IN अवसर_N_NN मिलेगा_N_NN </s>
+<s> सबको_N_NN समानता_N_NN का_IN दर्जा_N_NN मिलेगा_V_VB </s>
+<s> केंद्र_N_NN सरकार_N_NN ने_IN राष्ट्रपति_N_NN के_IN आदेश_N_NN के_IN बाद_IN जम्मू-कश्मीर_N_NNP राज्य_N_NN में_IN अनुच्छेद_N_NNP ३७०_CD को_IN खत्म_N_NN कर_V_VB दिया_V_VB </s>
+<s> सरकार_N_NN के_IN इस_DT फैसले_N_NN के_IN बाद_IN देशभर_N_NN में_IN खुशी_N_NN का_IN माहौल_N_NN है_N_NN </s>
+<s> लोग_N_NN सरकार_N_NN के_IN इस_DT कदम_N_NN को_IN ऐतिहासिक_JJ_JJS बता_V_VB रहे_V_VB हैं_V_VB </s>
+<s> बॉलीवुड_N_NN के_IN कई_JJ_JJS एक्टर्स_N_NN ने_IN भी_RB_RBS इस_DT फैसले_N_NN का_IN स्वागत_N_NN करते_V_VB हुए_V_VB खुशी_N_NN जताई_N_NN है_N_NN </s>
+<s> लेकिन_CC कुछ_JJ_JJS ऐसे_DT एक्टर्स_N_NN भी_RB_RBS जिन्होंने_N_NN अभी_N_NN तक_IN इस_DT मामले_N_NN पर_IN चुप्पी_JJ_JJS साध_N_NN रखी_V_VB है_V_VB </s>
+<s> सरकार_N_NN के_IN इस_DT फैसले_N_NN के_IN बाद_IN अनुपम_JJ_JJS खेर,_N_NN परेश_N_NN रावल,_N_NN फिल्ममेकर_N_NN अशोक_N_NNP पंडित,_N_NNP कंगना_N_NNP रनौत_N_NNP और_CC कमाल_N_NN आर_N_NN खान_N_NN सहित_N_NN कई_JJ_JJS स्टार्स_N_NN ने_IN ट्वीट_N_NN कर_V_VB बधाई_V_VB दी_N_NN </s>
+<s> लेकिन_CC इस_DT मौके_N_NN पर_IN सलमान_N_NNP खान,_N_NNP अक्षय_N_NNP कुमार,_N_NNP अमिताभ_N_NNP बच्चन,_N_NNP आमिर_N_NNP खान,_N_NNP शाहरुख_N_NNP खान,_N_NNP रणवीर_N_NNP सिंह,_N_NNP दीपिका_N_NNP पादुकोण,_N_NNP स्वरा_N_NNP भास्कर,_N_NNP जावेद_N_NNP अख्तर,_N_NNP शबाना_N_NNP आजमी,_N_NN सनी_V_VB देओल,_V_VB ऋतिक_JJ_JJS रोशन,_N_NN अनुष्का_N_NN शर्मा,_N_NN दीपिका_N_NN पादुकोण_N_NN सहित_N_NN कई_JJ_JJS फिल्मी_N_NN हस्तियों_N_NN ने_IN कोई_WP प्रतिक्रिया_N_NN नहीं_RB_RBR दी_V_VB </s>
+<s> ANI_N_NN को_IN दिए_N_NN इंटरव्यू_N_NN में_IN अनुपम_JJ_JJS खेर_N_NN ने_IN कहा,_N_NN आज_N_NN का_IN दिन_N_NN हमारे_PRP भारत_N_NNP के_IN इतिहास_N_NN में_IN जाना_V_VB जाएगा_V_VB </s>
+<s> अनुच्छेद_N_NN ३७०_CD को_IN जम्मू-कश्मीर_N_NNP से_IN मोदी_N_NNP सरकार_N_NN द्वारा_IN हटा_V_VB दिया_V_VB गया_V_VB है_V_VB </s>
+<s> उन्होंने_PRP आगे_IN कहा,_N_NN एक_N_NN कश्मीरी_N_NN होने_V_VB के_IN नाते_N_NN अपनी_PRPS आंखों_N_NN के_IN सामने_IN ऐसा_DT होते_V_VB देखना_V_VB मेरे_PRP लिए_IN इमोशनल_N_NN और_CC पावरफुल_N_NNP है_N_NN </s>
+<s> ३७०_CD एक_CD कैंसर_N_NN था,_V_VB जिसका_WDT अब_IN जाकर_V_VB इलाज_N_NN किया_V_VB गया_V_VB </s>
+<s> वहीं_DT परेश_N_NNP रावल_N_NNP ने_IN भी_RB_RBS पीएम_N_NNP नरेन्द्र_N_NNP मोदी_N_NNP की_IN एक_CD थ्रोबैक_N_NN फोटो_N_NN शेयर_N_NN करते_V_VB हुए_V_VB इस_DT फैसले_N_NN का_IN स्वागत_N_NN किया_V_VB है_V_VB </s>
+<s> जो_WDT फोटो_N_NN परेश_N_NNP रावल_N_NNP ने_IN शेयर_N_NN की_IN है_V_VB उसमें_PRP नेता_N_NN आर्टिकल_N_NN ३७०_CD को_IN खत्म_N_NN करने_V_VB के_IN लिए_IN प्रोटेस्ट_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> वहीं_DT इस_DT फोटो_N_NN को_IN कैप्शन_N_NN देते_V_VB हुए_V_VB लिखा-_N_NN सौ_N_NN सौ_CD सलाम_N_NN आपको।_N_NN </s>
+कंगना_N_NNP रनौत_N_NNP ने_IN इंस्टाग्राम_N_NN पर_IN लिखा-_V_VB देश_N_NN को_IN आतंकवाद_N_NN से_IN मुक्त_N_NN करने_V_VB के_IN लिए_IN ३७०_CD का_IN हटना_V_VB एक_CD ऐतिहासिक_JJ_JJS कदम_N_NN है_N_NN </s>
+<s> लंबे_JJ_JJS समय_N_NN से_IN मैं_PRP इस_DT पर_IN जोर_RB_RBS देती_V_VB रही_V_VB हूं_V_VB </s>
+<s> मुझे_PRP पता_V_VB था_V_VB कि_CC अगर_CC कोई_WP भी_RB_RBS इस_DT असंभव_JJ_JJS काम_N_NN को_IN संभव_N_NN करता_V_VB है_V_VB तो_CC वह_PRP पीएम_N_NNP मोदी_N_NNP ही_RB_RBS हैं_V_VB </s>
+<s> वह_PRP ना_RB_RBR केवल_JJ_JJS दूरदर्शी_N_NN हैं,_N_NN उनके_PRP पास_IN चीजों_N_NN को_IN वास्तविकता_N_NN में_IN बदलने_V_VB की_IN ताकत_N_NN है_N_NN </s>
+<s> जम्मू_N_NNP कश्मीर_N_NNP सहित_N_NN सभी_JJ_JJS भारत_N_NNP वासियों_N_NN को_IN इस_DT ऐतिहासिक_JJ_JJS दिन_N_NN की_IN बधाई_N_NN देती_V_VB हूं।_V_VB </s>
+राष्ट्रपति_N_NN रामनाथ_N_NNP कोविंद_N_NNP से_IN भी_RB_RBS गृह_N_NN मंत्री_N_NN अमित_N_NNP शाह_N_NNP के_IN जम्मू-कश्मीर_N_NNP से_IN अनुच्छेद_N_NN ३७०_CD हटाने_V_VB की_IN सिफारिश_N_NN पर_IN अनुमति_N_NN मिल_V_VB गई_V_VB है_N_NN </s>
+<s> ऐसे_DT में_IN अमित_N_NNP शाह_N_NNP ने_IN बताया_V_VB कि_CC जम्मू-कश्मीर_N_NNP अलग_JJ_JJS केंद्र_N_NN शासित_N_NN प्रदेश_N_NN बनेगा_V_VB जबकि_CC लद्दाख_N_NNP को_IN अलग_JJ_JJS केंद्र_N_NN शासित_N_NN प्रदेश_N_NN बनाया_V_VB जाएगा_V_VB </s>
+<s> इस_DT मसले_V_VB पर_IN सोशल_JJ_JJS मीडिया_N_NN पर_IN जमकर_N_NN रिएक्शन_N_NN आ_V_VB रहे_V_VB हैं_V_VB </s>
+<s> ऐसे_DT में_IN पाकिस्तानी_N_NNP एक्ट्रेस_N_NNP वीना_N_NNP मलिक_N_NNP ने_IN भी_RB_RBS कई_JJ_JJS ट्वीट_N_NN किए_V_VB है_V_VB </s>
+<s> हालांकि_CC कुछ_JJ_JJS ट्वीट्स_N_NN पर_IN वो_DT जमकर_N_NN ट्रोल_N_NN भी_RB_RBS हो_V_VB गई_V_VB हैं_V_VB </s>
+<s> वीना_N_NNP मलिक_N_NNP ने_IN हाल_N_NN ही_RB_RBS में_IN भारतीय_N_NNP सेना_N_NN पर_IN एक_CD भद्दा_JJ_JJS पोस्ट_N_NN किया_N_NN </s>
+<s> इस_DT पोस्ट_N_NN के_IN साथ_IN ही_RB_RBS वीना_N_NNP ने_IN एक_CD फोटो_N_NN भी_RB_RBS शेयर_N_NN की_IN है_N_NN </s>
+<s>P वीना_N_NNP ने_IN लिखा_V_VB कश्मीर_N_NNP में_IN भारतीय_JJ_JJS क्रूरता_N_NN के_IN लिए_N_NN </s>
+<s> इसके_WDT साथ_IN ही_RB_RBS वीना_N_NNP ने_IN कुछ_JJ_JJS हैशटैग_N_NN भी_RB_RBS इस्तेमाल_N_NN किए_V_VB हैं_V_VB </s>
+<s> बता_V_VB दें_V_VB कि_CC वीना_N_NNP का_IN ये_DT पोस्ट_N_NN उनके_PRP फोटो_N_NN के_IN साथ_IN ही_RB_RBS पूरा_JJ_JJS मतलब_N_NN बता_V_VB रहा_V_VB है_V_VB </s>
+<s> इस_DT ट्वीट_N_NN के_IN बाद_IN वीना_N_NN ट्रोल_N_NN हो_V_VB गई_V_VB हैं_V_VB </s>
+<s> भारतीय_JJ_JJS सोशल_N_NN मीडिया_N_NN यूजर्स_N_NN जमकर_N_NN ट्रोल_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> एक_CD यूजर_N_NNP ने_IN लिखा-_V_VB जिस_WDT थाली_N_NN में_IN खाती_N_NN हो,_N_NN उसी_N_NN में_IN छेद_N_NN करती_V_VB हो_N_NN </s>
+<s> वहीं_DT एक_CD दूसरे_JJ_JJS यूजर_N_NN ने_IN अश्मित_JJ_JJS पटेल_N_NNP की_IN मसाज_N_NN करते_V_VB हुए_V_VB फोटो_N_NN पोस्ट_N_NN करते_V_VB हुए_V_VB लिखा-_JJ_JJS तेल_N_NN मसाज_N_NN का_IN कितना_N_NN लेती_V_VB हो_V_VB ?_WDTUNC </s>
+अनुच्छेद_N_NNP ३७०_CD पर_IN अनुपम_JJ_JJS खेर_N_NN ने_IN भी_RB_RBS ट्वीट_N_NN किया_V_VB था_V_VB </s>
+<s> ऐसे_DT में_IN वीना_N_NNP ने_IN अनुपम_JJ_JJS के_IN ट्वीट_N_NN को_IN रिट्वीट_N_NN भी_RB_RBS किया_V_VB है_V_VB </s>
+<s> दरअसल_N_NN अनुपम_JJ_JJS खेर_N_NN ने_IN ट्वीट_N_NN किया_V_VB था_V_VB कश्मीर_N_NNP की_IN समस्याओं_N_NN का_IN हल_N_NN शुरू_N_NN हो_V_VB गया_V_VB है_V_VB </s>
+<s> इसके_WDT साथ_IN ही_RB_RBS तिरंगे_N_NN का_IN इमोजी_N_NN भी_RB_RBS इस्तेमाल_N_NN किया_V_VB है_V_VB </s>
+<s> वहीं_DT वीना_N_NN रिट्वीट_N_NN करते_V_VB हुए_V_VB लिखा-_N_NN इंशाअल्लाह_N_NN </s>
+<s> इसके_WDT साथ_IN ही_RB_RBS वीना_N_NNP ने_IN पाकिस्तान_N_NNP के_IN झंडे_N_NN का_IN इमोजी_N_NN इस्तेमाल_N_NN किया_V_VB है_V_VB </s>
+<s> गौरतलब_N_NN है_V_VB कि_CC जायरा_N_NNP वसीम_N_NNP ने_IN भी_RB_RBS राज्य_N_NN सभा_N_NN में_IN अमित_JJ_JJS शाह_N_NN की_IN घोषणा_N_NN से_IN पहले_IN ट्वीट_N_NN करते_V_VB हुए_V_VB लिखा_V_VB था-_V_VB यह_N_NN वक्त_N_NN भी_RB_RBS गुजर_N_NN जाएगा_N_NN </s>
+<s> बता_V_VB दें_V_VB कि_CC जायरा_N_NNP का_IN ये_DT ट्वीट_N_NN काफी_JJ_JJS लंबे_JJ_JJS वक्त_N_NN बाद_IN आया_V_VB है_V_VB </s>
+<s> वहीं_DT कुछ_JJ_JJS दिन_N_NN पहले_IN जायरा_N_NNP ने_IN धर्म_N_NN की_IN दुहाई_N_NN देते_V_VB हुए_V_VB बॉलीवुड_N_NN छोड़ने_V_VB का_IN ऐलान_N_NN किया_V_VB था_V_VB </s>
+<s> कई_JJ_JJS अंग्रेजी_JJ_JJS फिल्मों_N_NN में_IN काम_N_NN कर_V_VB चुकीं_V_VB अभिनेत्री_N_NN शबाना_N_NNP आजमी_N_NNP अब_IN एक_CD और_CC अंग्रेजी_JJ_JJS प्रोजेक्ट_N_NN पर_IN जल्द_N_NN ही_RB_RBS काम_N_NN शुरू_N_NN करने_V_VB जा_V_VB रही_V_VB हैं_V_VB </s>
+<s>P शबाना_N_NNP आजमी_N_NNP का_IN यह_DT प्रोजेक्ट_N_NN एंबलिन_N_NNP एंटरटेनमेंट_N_NN कंपनी_N_NN बनाने_V_VB वाली_IN है,_V_VB जिसके_WDT मालिक_N_NN मशहूर_JJ_JJS निर्माता/निर्देशक_N_NN स्टीवन_N_NN स्पीलबर्ग_N_NN हैं_V_VB </s>
+<s> यह_DT सीरीज_N_NN एक_CD हिट_N_NN वीडियो_N_NN गेम_N_NN का_IN रूपांतरण_N_NN है_N_NN </s>
+<s> नाम_N_NN है_V_VB हैलो_V_VB </s>
+<s>P शबाना_N_NNP आजमी_N_NNP का_IN यह_DT प्रोजेक्ट_N_NN एक_CD वेब_N_NN सीरीज_N_NN है_V_VB और_CC इस_DT सीरीज_N_NN की_IN शूटिंग_N_NN इसी_DT साल_N_NN के_IN अंत_N_NN में_IN बूडापेस्ट_N_NN में_IN शुरू_N_NN होगी_N_NN </s>
+<s> इसका_DT निर्देशन_N_NN ओट्टो_N_NN बाथर्स्ट_N_NN करेंगे_N_NN </s>
+<s> खबर_N_NN के_IN मुताबिक_N_NN हेलो_N_NN में_IN आजमी_N_NNP के_IN अलावा_N_NN नताशा_N_NNP मैक्एल्होन,_N_NNP बोकीम_N_NNP वुडबाइन,_N_NNP बेंटले_N_NNP कालू,_N_NNP नताशा_N_NNP कुलजेक_N_NNP और_CC केट_N_NN केनेडी_N_NN भी_RB_RBS नजर_N_NN आएंगे_N_NN </s>
+<s> इस_DT सीरीज_N_NN में_IN शबाना_N_NNP नेवल_N_NN इंटेलीजेंस_N_NN दफ्तर_N_NN की_IN प्रमुख_JJ_JJS एडमिरल_N_NN मार्गरेट_N_NN पारनगोस्की_N_NN के_IN किरदार_N_NN में_IN नजर_N_NN आएंगी_N_NN </s>
+<s> इससे_WDT पहले_IN ६८_CD वर्षीय_N_NN अभिनेत्री_N_NN शबाना_N_NNP आजमी_N_NNP मैडम_N_NNP सौसात्ज्का,_N_NNP ला_N_NNP नुइट_N_NNP बंगाली,_N_NNP सिटी_N_NNP ऑफ_N_NNP जॉय_N_NNP और_CC सन_N_NN ऑप_N_NN पिंक_N_NNP पैंथर_N_NNP जैसी_N_NN अंतरराष्ट्रीय_N_NN इंग्लिश_N_NNP प्रोजेक्ट्स_N_NN पर_IN काम_N_NN कर_V_VB चुकी_V_VB हैं_V_VB </s>
+<s> ५_CD अगस्त_N_NN १९७४_CD को_IN जन्मी_N_NN काजोल_N_NNP ने_IN जब_WDT अपनी_PRPS पहली_JJ_JJS फिल्म_N_NN बेखुदी_N_NN साइन_N_NN की_IN तब_IN वे_PRP १६_CD साल_N_NN की_IN थीं_N_NN और_CC स्कूल_N_NN में_IN पढ़ाई_N_NN कर_V_VB रही_V_VB थीं_V_VB </s>
+<s> उन्होंने_PRP फिल्मों_N_NN में_IN करियर_N_NN बनाने_V_VB के_IN लिए_IN स्कूल_N_NN छोड़_V_VB दिया_V_VB </s>
+<s> काजोल_N_NN फिल्मी_N_NN परिवार_N_NN से_IN हैं_V_VB </s>
+<s> उनके_PRP पिता_N_NN शोमू_N_NN मुखर्जी_N_NN निर्माता-निर्देशक_N_NN रहे_V_VB हैं_V_VB </s>
+<s> शोमू_N_NN के_IN अन्य_JJ_JJS भाई_N_NN भी_RB_RBS फिल्मों_N_NN से_IN जुड़े_JJ_JJS रहे_N_NN </s>
+<s> उनकी_PRP मां_N_NN तनुजा,_N_NN मौसी_N_NN नूतन,_N_NN नानी_N_NN शोभना_N_NN समर्थ_N_NN और_CC परनानी_N_NN रतन_N_NN बाई_N_NN प्रसिद्ध_JJ_JJS अभिनेत्री_N_NN रही_V_VB हैं_V_VB </s>
+<s> बॉलीवुड_N_NN एक्ट्रेस_N_NN और_CC प्रोड्यूसर_N_NN जेनेलिया_N_NNP देशमुख_N_NNP आज_IN अपना_PRPS ३२वां_N_NN जन्मदिन_N_NN मना_V_VB रही_V_VB हैं_V_VB </s>
+<s> जेनेलिया_N_NNP ने_IN १५_CD साल_N_NN की_IN उम्र_N_NN में_IN ही_RB_RBS मॉडलिंग_N_NN शुरू_N_NN कर_V_VB दी_V_VB थी_V_VB </s>
+<s> बॉलीवुड_N_NN में_IN रितेश_N_NN देशमुख_N_NN और_CC जेनेलिया_N_NNP की_IN लवस्टोरी_JJ_JJS प्यार_N_NN की_IN मिसाल_N_NN मानी_V_VB जाती_V_VB है_N_NN </s>
+<s> रितेश_N_NN और_CC जेनेलिया_N_NNP पहली_JJ_JJS बार_N_NN २००२_CD में_IN अपनी_PRPS पहली_JJ_JJS फिल्म_N_NN तुझे_N_NN मेरी_PRP कसम_N_NN की_IN शूटिंग_N_NN के_IN लिए_IN मिले_V_VB थे_V_VB </s>
+<s> इनकी_WDT मुलाकात_N_NN हैदराबाद_N_NNP के_IN एयरपोर्ट_N_NN पर_IN हुई_V_VB थी_V_VB </s>
+<s> रितेश_N_NN को_IN पहले_IN ही_RB_RBS बता_V_VB दिया_V_VB गया_V_VB था_V_VB कि_CC उनकी_PRP हीरोइन_N_NN उनका_PRP इंतजार_N_NN कर_V_VB रही_V_VB होगी_V_VB लेकिन_CC जब_WDT वह_PRP एयरपोर्ट_N_NN पर_IN पहुंचे_V_VB तो_RB_RBS जेनिलिया_N_NNP का_IN रवैया_N_NN देख_V_VB कर_V_VB हैरान_N_NN रह_V_VB गए_V_VB </s>
+<s> बॉलीवुड_N_NN एक्ट्रेस_N_NN सोनाक्षी_N_NNP सिन्हा_N_NNP एक_CD बार_N_NN फिर_RB_RBS विवादों_N_NN फंस_V_VB गई_V_VB हैं_V_VB </s>
+<s> रविवार_N_NN को_IN देश_N_NN के_IN कई_JJ_JJS हिस्सों_N_NN में_IN वाल्मीकि_N_NNP समाज_N_NN के_IN लोगों_N_NN ने_IN सोनाक्षी_N_NNP के_IN पुतले_N_NN फूंके_N_NN </s>
+<s> लोगों_N_NN का_IN आरोप_N_NN है_V_VB कि_CC एक्ट्रेस_N_NNP ने_IN अपने_PRPS एक_CD इंटरव्यू_N_NN में_IN वाल्मीकि_N_NNP समाज_N_NN के_IN खिलाफ_N_NN आपत्तिजनक_N_NN शब्दों_N_NN के_IN प्रयोग_N_NN किया_N_NN </s>
+<s> इस_DT घटना_N_NN के_IN बाद_IN सोनाक्षी_N_NNP ने_IN माफी_N_NN मांगी_V_VB है_V_VB </s>
+<s> ड्रामा_N_NNP क्वीन_N_NN राखी_N_NN सावंत_N_NN किसी_WP न_RB_RBR किसी_WP वजह_N_NN से_IN चर्चा_N_NN में_IN रहती_V_VB हैं_V_VB </s>
+<s> पिछले_IN दिनों_N_NN राखी_N_NN की_IN शादी_N_NN की_IN खबर_N_NN सोशल_N_NN मीडिया_N_NN पर_IN आग_N_NN की_IN तरह_N_NN फैली_V_VB थी_V_VB </s>
+<s> कहा_V_VB जा_V_VB रहा_V_VB था_V_VB कि_CC राखी_N_NNP ने_IN गुपचुप_N_NN तरीके_N_NN से_IN मुंबई_N_NNP के_IN जे_N_NNP डब्लू_N_NNP मैरियट_N_NNP में_IN एक_CD NRI_N_NN से_IN शादी_N_NN कर_V_VB ली_V_VB है_V_VB </s>
+<s> हाल_N_NN ही_RB_RBS में_IN दिए_V_VB एक_CD इंटरव्यू_N_NN में_IN राखी_N_NNP सावंत_N_NNP ने_IN माना_V_VB कि_CC उन्होंने_PRP शादी_N_NN रचा_V_VB ली_V_VB है_V_VB </s>
+<s> पहले_IN राखी_N_NNP ने_IN शादी_N_NN की_IN खबरों_N_NN को_IN फोटोशूट_N_NN बताकर_N_NN टाल_V_VB दिया_V_VB था_V_VB </s>
+<s> अब_IN राखी_N_NNP ने_IN अपनी_PRPS लव_N_NNP स्टोरी_N_NNP का_IN खुलासा_N_NN किया_V_VB है_V_VB </s>
+<s> दुनिया_N_NN भर_RB_RBS में_IN अपने_PRPS टैलेंट_N_NN से_IN नाम_N_NN कमाने_V_VB वाली_IN बॉलीवुड_N_NN एक्ट्रेस_N_NN प्रियंका_N_NN चोपड़ा_N_NN हमेशा_IN सुर्खियों_N_NN में_IN बनी_V_VB रहती_V_VB हैं_V_VB </s>
+<s> कभी_IN वह_PRP अपने_PRPS पति_N_NN के_IN साथ_IN स्पॉट_N_NN की_V_VB जाती_V_VB हैं_V_VB तो_RB_RBS कभी_IN उन्हें_PRP क्वालिटी_N_NN टाइम_N_NN बिताते_V_VB देखा_V_VB जाता_V_VB है_V_VB </s>
+<s> लेकिन_CC बीते_JJ_JJS दिनों_N_NN प्रियंका_N_NN चोपड़ा_N_NN एक_CD खास_JJ_JJS वजह_N_NN से_IN चर्चा_N_NN में_IN आई_V_VB थीं_V_VB </s>
+<s> दरअसल_N_NN प्रियंका_N_NN अपने_PRPS बर्थडे_N_NN सेलीब्रेशन_N_NN के_IN दौरान_N_NN अपने_PRPS पति_N_NN निक_JJ_JJS जोनस_N_NN और_CC मां_N_NN मधु_N_NN चोपड़ा_N_NN के_IN साथ_IN सिगरेट_N_NN पीती_V_VB हुई_V_VB नजर_N_NN आई_V_VB थीं_V_VB </s>
+<s> इसके_DT बाद_IN यूजर्स_N_NNP ने_IN उन्हें_PRP जमकर_N_NN ट्रोल_N_NN किया_V_VB था_V_VB </s>
+<s> हाल_N_NN ही_RB_RBS में_IN प्रियंका_N_NNP ने_IN फिर_RB_RBS कुछ_JJ_JJS ऐसा_DT कर_V_VB दिया_V_VB कि_CC वो_DT यूजर्स_N_NN के_IN निशाने_N_NN पर_IN आ_V_VB गईं_V_VB </s>
+<s> दुनिया_N_NN भर_RB_RBS में_IN अपने_PRPS टैलेंट_N_NN से_IN नाम_N_NN कमाने_V_VB वाली_IN बॉलीवुड_N_NN एक्ट्रेस_N_NN प्रियंका_N_NN चोपड़ा_N_NN हमेशा_IN सुर्खियों_N_NN में_IN बनी_V_VB रहती_V_VB हैं_V_VB </s>
+<s> कभी_IN वह_PRP अपने_PRPS पति_N_NN के_IN साथ_IN स्पॉट_N_NN की_V_VB जाती_V_VB हैं_V_VB तो_RB_RBS कभी_IN उन्हें_PRP क्वालिटी_N_NN टाइम_N_NN बिताते_V_VB देखा_V_VB जाता_V_VB है_V_VB </s>
+<s> लेकिन_CC बीते_JJ_JJS दिनों_N_NN प्रियंका_N_NN चोपड़ा_N_NN एक_CD खास_JJ_JJS वजह_N_NN से_IN चर्चा_N_NN में_IN आई_V_VB थीं_V_VB </s>
+<s> दरअसल_N_NN प्रियंका_N_NN अपने_PRPS बर्थडे_N_NN सेलीब्रेशन_N_NN के_IN दौरान_N_NN अपने_PRPS पति_N_NN निक_JJ_JJS जोनस_N_NN और_CC मां_N_NN मधु_N_NN चोपड़ा_N_NN के_IN साथ_IN सिगरेट_N_NN पीती_V_VB हुई_V_VB नजर_N_NN आई_V_VB थीं_V_VB </s>
+<s> इसके_DT बाद_IN यूजर्स_N_NNP ने_IN उन्हें_PRP जमकर_N_NN ट्रोल_N_NN किया_V_VB था_V_VB </s>
+<s> हाल_N_NN में_IN प्रियंका_N_NNP ने_IN फिर_RB_RBS कुछ_JJ_JJS ऐसा_DT कर_V_VB दिया_V_VB कि_CC वो_DT यूजर्स_N_NN के_IN निशाने_N_NN पर_IN आ_V_VB गईं_V_VB </s>
+<s> बंगाली_N_NNP एक्ट्रेस_N_NNP और_CC टीएमसी_N_NN सांसद_N_NN नुसरत_N_NN जहां_WDT अपने_PRPS पति_N_NN निखिल_N_NNP जैन_N_NNP के_IN साथ_IN मॉरीशिस_N_NN हनीमून_N_NN पर_IN गई_V_VB थीं_V_VB </s>
+<s> अब_IN दोनों_CD अपने_PRPS घर_N_NN लौट_V_VB आए_V_VB हैं_V_VB </s>
+<s> रविवार_N_NN को_IN नुसरत_N_NNP ने_IN अपनी_PRPS पहली_JJ_JJS हरियाली_N_NN तीज_N_NNP मनाई_N_NNP </s>
+<s> इसकी_DT तस्वीरें_N_NN सोशल_N_NN मीडिया_N_NN पर_IN छाई_V_VB हुई_V_VB हैं_V_VB </s>
+<s> लेकिन_CC इस_DT बीच_N_NN नुसरत-निखिल_N_NN के_IN हनीमून_N_NN की_IN तस्वीरें_N_NN भी_RB_RBS वायरल_N_NN हो_V_VB रही_V_VB हैं_V_VB </s>
+<s> इस_DT तस्वीर_N_NN में_IN नुसरत_N_NN किसी_WP बीच_N_NN पर_IN पोज_N_NN देती_V_VB हुईं_V_VB नजर_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s> लगता_V_VB है_V_VB जैसे_CC कि_CC वो_PRP किसी_WP वोट_N_NN में_IN सवार_V_VB हैं_V_VB </s>
+<s> इस_DT दौरान_N_NN उन्होंने_PRP वन_N_NN पीस_N_NN पहन_V_VB रखा_V_VB है_V_VB </s>
+<s> साथ_N_NN ही_RB_RBS अपने_PRPS बालों_N_NN में_IN फूल_N_NN लगाया_V_VB हुआ_V_VB है_N_NN </s>
+<s> दूसरी_JJ_JJS तस्वीर_N_NN में_IN नुसरत_N_NNP बीच_N_NNP किनारे_N_NN किसी_WP रेस्टोरेंट_N_NN के_IN बाहर_IN ड्रिंक_N_NN पीती_V_VB हुई_V_VB नजर_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s> खुले_JJ_JJS बालों_N_NN में_IN उनका_PRP लुक_N_NN ग्लैमरस_N_NN लग_V_VB रहा_V_VB है_V_VB </s>
+<s> उनके_PRP फेस_N_NN पर_IN ये_DT चश्मा_N_NN काफी_JJ_JJS फब_N_NN रहा_V_VB है_V_VB </s>
+<s> इससे_WDT पहले_IN नुसरत_N_NNP ने_IN हरियाली_N_NN तीज_N_NNP के_IN दौरान_N_NN की_IN तस्वीरों_N_NN को_IN शेयर_N_NN किया_V_VB था_V_VB </s>
+<s> एक_CD तस्वीर_N_NN में_IN नुसरत_N_NNP निखिल_N_NNP का_IN हाथ_N_NN पकड़ी_V_VB हुई_V_VB हैं_V_VB तो_RB_RBS वहीं_DT दूसरी_JJ_JJS तस्वीर_N_NN में_IN बीच_N_NN को_IN निहारती_V_VB हुई_V_VB दिखाई_V_VB दीं_V_VB </s>
+<s>P नुसरत_N_NNP ने_IN निखिल_N_NNP जैन_N_NNP के_IN साथ_IN १९_CD जून_N_NN को_IN शादी_N_NN की_IN थी_V_VB </s>
+<s> नुसरत_N_NN और_CC निखिल_N_NNP ने_IN हिंदू_N_NN रीति_N_NN के_IN साथ-साथ_N_NN क्रिश्चियन_N_NN वेडिंग_N_NN भी_RB_RBS की_N_NN </s>
+<s> इन_DT दोनों_CD की_IN शादी_N_NN तुर्की_N_NN की_IN राजधानी_N_NN इस्तांबुल_N_NNP में_IN हुई_N_NN </s>
+<s> शादी_N_NN के_IN बाद_IN नुसरत_N_NN जहां_WDT ने_IN कोलकाता_N_NNP में_IN शानदार_JJ_JJS रिसेप्शन_N_NN दिया_V_VB था_V_VB </s>
+<s> रिसेप्शन_N_NN में_IN फिल्म,_N_NN राजनीति_N_NN समेत_N_NN दूसरे_JJ_JJS क्षेत्रों_N_NN की_IN कई_JJ_JJS बड़ी_JJ_JJS हस्तियां_N_NN शामिल_V_VB हुई_V_VB थीं_N_NN </s>
+<s>_CD साल_N_NN २०१४_CD में_IN सोशल_JJ_JJS मीडिया_N_NN पर_IN एक_CD अश्लील_N_NN MMS_N_NN वायरल_N_NN हुआ_V_VB था_V_VB </s>
+<s> तब_CC कुछ_JJ_JJS लोगों_N_NN ने_IN कहा_V_VB कि_CC इसमें_DT दिखने_V_VB वाला_IN लड़का_N_NN शाहरुख_N_NNP खान_N_NNP का_IN बेटा_N_NN है_V_VB जबकि_CC लड़की_N_NN अमिताभ_N_NNP बच्चन_N_NNP की_IN नातिन_N_NN </s>
+<s> लेकिन_CC इसके_DT बाद_IN ये_DT खबर_N_NN आई_V_VB कि_CC ये_DT MMS_N_NN फर्जी_N_NN था_N_NN </s>
+<s> और_CC इसमें_DT दिखने_V_VB वाले_IN युवा_N_NN आर्यन_N_NN और_CC नव्या_N_NN नहीं_RB_RBR थे_V_VB </s>
+<s> शाहरुख_N_NNP खान_N_NNP के_IN छोटे_JJ_JJS बेटे_N_NN अबराम_N_NN का_IN जन्म_N_NN सरोगेसी_N_NN के_IN जरिए_N_NN हुआ_V_VB था_V_VB </s>
+<s> लेकिन_CC अबराम_N_NN के_IN जन्म_N_NN से_IN ही_RB_RBS एक_CD विवाद_N_NN पैदा_N_NN हो_V_VB गया_V_VB था_N_NN </s>
+<s> तब_N_NN ये_DT अफवाह_N_NN उड़ी_V_VB थी_V_VB कि_CC ये_DT बच्चा_N_NN आर्यन_N_NNP खान_N_NNP और_CC उनकी_PRP रोमानियन_JJ_JJS गर्लफ्रेंड_N_NN का_IN है_N_NN </s>
+<s>_V_VB लेकिन_CC बाद_IN में_IN सब_JJ_JJS क्लियर_N_NNP हो_V_VB गया_V_VB था_N_NN </s>
+<s> बीते_JJ_JJS दिनों_N_NN आर्यन_N_NNP की_IN एक_CD मिस्ट्री_N_NN गर्ल_N_NN के_IN साथ_IN तस्वीरें_N_NN सोशल_N_NN मीडिया_N_NN पर_IN हुई_V_VB थीं_V_VB </s>
+<s> इन_DT तस्वीरों_N_NN में_IN आर्यन_N_NN मिस्ट्री_N_NN गर्ल_N_NN के_IN साथ_N_NN पोज_N_NN दे_V_VB रहे_V_VB थे_N_NN </s>
+<s> मीडिया_N_NN रिपोर्ट्स_N_NN की_IN मानें_V_VB तो_RB_RBS ये_DT लड़की_N_NN लंदन_N_NNP बेस्ड_N_NN ब्लॉगर_N_NN हो_V_VB सकती_V_VB है_V_VB </s>
+<s> मुंबई_N_NNP मिरर_N_NNP की_IN रिपोर्ट_N_NN के_IN मुताबिक,_N_NNP गौरी_N_NNP अपने_PRPS बेटे_N_NN की_IN पसंद_N_NN से_IN काफी_JJ_JJS खुश_N_NN हैं_V_VB </s>
+<s> लेकिन_CC आर्यन_N_NN का_IN इस_DT लड़की_N_NN के_IN साथ_IN क्या_WDT रिश्ता_N_NN है_V_VB वो_DT अभी_IN तक_IN पता_N_NN नहीं_RB_RBR चल_V_VB पाया_V_VB है_V_VB </s>
+<s> कुछ_JJ_JJS लोग_N_NN इसे_DT आर्यन_N_NNP की_IN गर्लफ्रेंड_N_NN ही_RB_RBS बता_V_VB रहे_V_VB हैं_V_VB </s>
+<s> लेकिन_CC ऐसा_DT पहली_JJ_JJS बार_N_NN नहीं_RB_RBR है_V_VB आर्यन_N_NN किसी_WP मिस्ट्री_N_NN गर्ल_N_NN के_IN साथ_IN दिखे_V_VB हों_V_VB इससे_WDT पहले_IN भी_RB_RBS वह_PRP कई_JJ_JJS बार_N_NN अलग-अलग_N_NN लड़कियों_N_NN के_IN साथ_IN नजर_N_NN आ_V_VB चुके_V_VB हैं_V_VB </s>
+<s> जब_WDT लोगों_N_NN को_IN इस_DT बात_N_NN का_IN पता_V_VB चला_V_VB कि_CC द_N_NNP लॉयन_N_NNP किंग_N_NNP के_IN हिंदी_N_NN संस्करण_N_NN में_IN सिंबा_N_NN की_IN आवाज_N_NN शाहरुख_N_NN के_IN बेटे_N_NN आर्यन_N_NN दी_V_VB है_V_VB तो_CC उन्हें_PRP सोशल_JJ_JJS मीडिया_N_NN पर_IN काफी_JJ_JJS आलोचना_N_NN का_IN सामना_N_NN करना_V_VB पड़ा_V_VB </s>
+<s> लोगों_N_NN ने_IN कहा_V_VB कि_CC शाहरुख_N_NNP खान_N_NNP ने_IN नेपोटिज्म_N_NNP का_IN नया_JJ_JJS आविष्कार_N_NN किया_V_VB है_V_VB </s>
+<s> बॉलीवुड_N_NN सितारों_N_NN का_IN मुंबई_N_NNP के_IN एयरपोर्ट_N_NN पर_IN आना_V_VB जाना_V_VB लगा_V_VB ही_RB_RBS रहता_V_VB है_V_VB </s>
+<s> आते-जाते_V_VB ये_DT सितारे_N_NN अक्सर_N_NN मीडिया_N_NN के_IN कैमरे_N_NN में_IN कैद_N_NN होते_V_VB रहते_V_VB हैं_V_VB </s>
+<s> एक_CD बार_N_NN फिर_RB_RBS से_IN आपके_PRP पसंदीदा_JJ_JJS सितारे_N_NN मुंबई_N_NNP एयरपोर्ट_N_NN पर_IN स्पॉट_N_NN हुए_V_VB हैं_V_VB </s>
+<s> हर_JJ_JJS बार_N_NN की_IN तरह_N_NN ये_DT सितारे_N_NN एक_CD दम_N_NN अलग_JJ_JJS लुक_N_NN और_CC अंदाज_N_NN में_IN नजर_N_NN आए_V_VB </s>
+<s> एक_CD नजर_N_NN उन्हीं_PRP सितारों_N_NN पर_N_NN </s>
+<s> बॉलीवुड_N_NN अभिनेत्री_N_NN रवीना_N_NNP टंडन_N_NNP रविवार_N_NNP को_IN मुंबई_N_NNP एयरपोर्ट_N_NN में_IN एकदम_N_NN अलग_JJ_JJS अंदाज_N_NN में_IN नजर_N_NN आईं_N_NN </s>
+<s> इस_DT दौरान_N_NN उन्होंने_PRP ग्रीन_N_NNP और_CC व्हाइट_N_NN कलर_N_NN की_IN ड्रेस_N_NN पहनी_V_VB हुई_V_VB थी_V_VB </s>
+<s> इस_DT ड्रेस_N_NN में_IN रवीना_N_NNP टंडन_N_NNP बेहद_JJ_JJS खूबसूरत_JJ_JJS दिख_V_VB रही_V_VB थीं_N_NN </s>
+<s> फिल्म_N_NN जंगली_N_NN में_IN अपने_PRPS शानदार_JJ_JJS एक्शन_N_NNP से_IN सुर्खियां_N_NN बटोरने_V_VB वाले_IN अभिनेता_N_NN विद्युत_N_NN जामवाल_N_NNP भी_RB_RBS एयरपोर्ट_N_NN पर_IN स्पॉट_N_NN हुए_V_VB हैं_V_VB </s>
+<s> व्हाइट_N_NNP एंड_N_NNP ब्लैक_N_NNP ड्रेस_N_NN के_IN साथ_IN हैट_N_NN पहने_N_NN विद्युत_N_NN जामवाल_N_NN बेहद_JJ_JJS अलग_JJ_JJS दिख_V_VB रहे_V_VB थे_N_NN </s>
+<s> यहां_N_NN उन्होंने_PRP मीडिया_N_NN के_IN कैमरे_N_NN को_IN देखकर_V_VB पोज_N_NN भी_RB_RBS दिए_V_VB </s>
+<s> फिल्म_N_NN हैप्पी_N_NNP भाग_N_NN जाएगी_N_NN और_CC परमाणु_N_NN जैसी_N_NN फिल्मों_N_NN में_IN अपनी_PRPS एक्टिंग_N_NN से_IN लाखों_CD दिलों_N_NN को_IN जीतने_V_VB वाली_IN एक्ट्रेस_N_NN डायना_N_NN पेंटी_N_NN भी_RB_RBS मुंबई_N_NNP एयरपोर्ट_N_NN पर_IN नजर_N_NN आईं_N_NN </s>
+<s> ब्लैक_N_NN ड्रेस_N_NN में_IN डायना_N_NN बेहद_JJ_JJS खूबसूरत_JJ_JJS लग_V_VB रही_V_VB थीं_V_VB </s>
+<s> अभिनेत्री_N_NN दीपिका_N_NN पादुकोण_N_NN रविवार_N_NN को_IN देर_N_NN शाम_N_NN एयरपोर्ट_N_NN पर_IN नजर_N_NN आईं_N_NN </s>
+<s> इस_DT दौरान_N_NN दीपिका_N_NN ब्लैक_N_NN ड्रेस_N_NN के_IN साथ_IN ब्लैक_N_NN चश्मा_N_NN पहना_V_VB हुआ_V_VB था_V_VB जिसमें_WDT वह_PRP बेहद_JJ_JJS अलग_N_NN दिख_V_VB रही_V_VB थीं_N_NN </s>
+<s> यहां_N_NN उन्होंने_PRP फैंस_N_NN के_IN साथ_IN सेल्फी_N_NN भी_RB_RBS ली_V_VB और_CC ओटोग्राफ_N_NNP भी_RB_RBS दिया_N_NN </s>
+<s> बड़े_JJ_JJS परदे_N_NN पर_IN सिनेमा_N_NN के_IN सुल्तान_N_NN सलमान_N_NNP खान_N_NNP के_IN साथ_IN हिट_N_NN फिल्मों_N_NN की_IN हैट्रिक_N_NN लगा_V_VB चुके_V_VB निर्देशक_N_NN अली_N_NNP अब्बास_N_NNP जफर_N_NNP के_IN बतौर_JJ_JJS निर्माता_N_NN पहले_IN प्रोजेक्ट_N_NN की_IN शूटिंग_N_NN अक्टूबर_N_NNP महीने_N_NN से_IN दिल्ली_N_NNP में_IN शुरू_V_VB होने_V_VB जा_V_VB रही_V_VB है_N_NN </s>
+<s> प्राइम_N_NN वीडियो_N_NN के_IN लिए_IN बनने_V_VB जा_V_VB रही_V_VB अली_N_NNP की_IN वेब_N_NN सीरीज_N_NN का_IN नाम_N_NN है_V_VB तांडव_N_NN और_CC इसमें_DT मुख्य_JJ_JJS भूमिकाओं_N_NN के_IN लिए_IN दो_CD मशहूर_JJ_JJS कलाकारों_N_NN को_IN साइन_N_NN कर_V_VB लिया_V_VB गया_V_VB है_V_VB </s>
+<s> सनी_V_VB देओल_N_NNP ने_IN साल_N_NN १९८३_CD में_IN बेताब_N_NN फिल्म_N_NN से_IN अपने_PRPS करियर_N_NN की_IN शुरुआत_N_NN की_IN थी_V_VB </s>
+<s> पहली_JJ_JJS फिल्म_N_NN से_IN सनी_V_VB ने_IN लोगों_N_NN को_IN इंप्रेस_N_NN कर_V_VB दिया_V_VB था_V_VB </s>
+<s> वहीं_DT अब_IN सनी_V_VB देओल_N_NNP के_IN बेटे_N_NN करण_N_NN देओल_N_NNP की_IN पहली_JJ_JJS फिल्म_N_NN पल_N_NN पल_N_NN दिल_N_NN के_IN पास_N_NN का_IN टीजर_N_NN रिलीज_N_NN हो_V_VB गया_V_VB है_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN करण_N_NN के_IN अलावा_N_NN शहर_N_NN बम्बा_N_NN डेब्यू_N_NN कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> इस_DT फिल्म_N_NN के_IN टीजर_N_NN का_IN फैंस_N_NN बेसब्री_N_NN से_IN इंतजार_N_NN कर_V_VB रहे_V_VB थो,_V_VB जो_WDT आखिरकार_N_NN खत्म_N_NN हुआ_N_NN </s>
+<s>P अली_N_NNP अब्बास_N_NNP जफर_N_NNP बतौर_JJ_JJS निर्देशक_N_NN अपनी_PRPS अगली_JJ_JJS फिल्म_N_NN शुरू_N_NN करने_V_VB से_IN पहले_IN कुछ_JJ_JJS अलग_N_NN करना_V_VB चाहते_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN भारत_N_NNP की_IN रिलीज_N_NN के_IN वक्त_N_NN अली_N_NNP ने_IN अमर_JJ_JJS उजाला_N_NN से_IN कहा_V_VB था_V_VB कि_CC वह_PRP आगे_IN भी_RB_RBS कुछ_JJ_JJS ऐसा_DT करना_V_VB चाहते_V_VB हैं_V_VB जिससे_WDT वह_PRP आज_N_NN की_IN नई_JJ_JJS पीढ़ी_N_NN को_IN एक_CD दिशा_N_NN दिखा_V_VB सकें_V_VB </s>
+<s> इस_DT वेब_N_NN सीरीज_N_NN की_IN प्लानिंग_N_NN का_IN जिक्र_N_NN भी_RB_RBS उस_PRP इंटरव्यू_N_NN में_IN अली_N_NNP कर_V_VB चुके_V_VB हैं_V_VB </s>
+<s> अब_IN जानकारी_N_NN मिली_V_VB है_V_VB कि_CC अली_N_NNP की_IN यह_DT वेब_N_NN सीरीज_N_NN तांडव_N_NN आठ_CD एपीसोड्स_N_NN की_IN होगी_N_NN और_CC दिल्ली_N_NNP की_IN इस_DT कहानी_N_NN में_IN एक_CD छात्र_N_NN नेता_N_NN और_CC एक_CD राज_N_NN नेता_N_NN का_IN संघर्ष_N_NN दिखाया_V_VB जाएगा_V_VB </s>
+<s> सीरीज_N_NN में_IN कुल_JJ_JJS १२_CD अहम_JJ_JJS किरदार_N_NN हैं_V_VB </s>
+<s> छात्र_N_NN नेता_N_NN के_IN रोल_N_NN के_IN लिए_IN सैफ_N_NNP अली_N_NNP खान_N_NNP का_IN नाम_N_NN फाइनल_N_NN हो_V_VB चुका_V_VB है_V_VB और_CC राज_N_NN नेता_N_NN के_IN किरदार_N_NN के_IN लिए_IN एक_CD दमदार_JJ_JJS अभिनेता_N_NN से_IN बातचीत_N_NN चल_V_VB रही_V_VB है_N_NN </s>
+<s> सैफ_N_NN इन_DT दिनों_N_NN १५_CD अगस्त_N_NNP को_IN अपनी_PRPS वेब_N_NN सीरीज_N_NN सेक्रेड_N_NN गेम्स_N_NN के_IN सीजन_N_NN २_CD के_IN प्रचार_N_NN में_IN लगे_V_VB हुए_V_VB हैं_V_VB </s>
+<s> इसके_DT बाद_IN उनकी_PRP फिल्म_N_NN लाल_N_NNP कप्तान_N_NNP और_CC तानाजी_N_NNP रिलीज_N_NN होंगी_N_NN </s>
+<s> उनकी_PRP फिल्म_N_NN जवानी_N_NN जानेमन_N_NN की_IN शूटिंग_N_NN जारी_N_NN है_N_NN </s>
+<s> विक्रमवेधा_N_NNP की_IN रीमेक_N_NN के_IN लिए_IN वह_PRP आमिर_N_NN खान_N_NN के_IN साथ_IN काम_N_NN करने_V_VB को_IN हां_V_VB कर_V_VB ही_RB_RBS चुके_V_VB हैं_V_VB </s>
+<s> इसके_DT अलावा_CC वह_PRP फिल्म_N_NN जिगरठंडा_N_NNP की_IN अभिषेक_N_NN चौबे_N_NN के_IN निर्देशन_N_NN में_IN बन_V_VB रही_V_VB रीमेक_N_NN में_IN भी_RB_RBS नजर_N_NN आ_V_VB सकते_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN आर्टिकल_N_NN १५_CD के_IN लेखक_N_NN गौरव_N_NN सोलंकी_N_NNP की_IN लिखी_N_NN वेब_N_NN सीरीज_N_NN के_IN कुछ_JJ_JJS एपीसोड_N_NNP अली_N_NNP अब्बास_N_NNP जफर_N_NNP खुद_PRPS निर्देशित_N_NN करेंगे_N_NN </s>
+<s> नरेंद्र_N_NNP मोदी_N_NNP सरकार_N_NN ने_IN कश्मीर_N_NNP को_IN लेकर_V_VB ऐतिहासिक_JJ_JJS फैसला_N_NN लिया_V_VB है_V_VB </s>
+<s>P सरकार_N_NN ने_IN आज_IN राज्यसभा_N_NN में_IN कश्मीर_N_NNP आरक्षण_N_NN संशोधन_N_NN बिल_N_NN पेश_N_NN कर_V_VB दिया_V_VB है,_V_VB जिसके_WDT तहत_N_NN घाटी_N_NN से_IN अनुच्छेद_N_NN ३७०_CD का_IN खात्मा_N_NN तय_N_NN माना_V_VB जा_V_VB रहा_V_VB है_V_VB </s>
+<s> गौरतलब_N_NN है_V_VB कि_CC दशकों_N_NN बाद_IN पहली_JJ_JJS बार_N_NN घाटी_N_NN के_IN गांव_N_NN गांव_N_NN में_IN तिरंगा_N_NN झंडा_N_NN फहराए_V_VB जाने_V_VB की_IN संभावना_N_NN है_N_NN </s>
+<s> एक_CD और_CC देशभर_N_NN की_IN नजरें_N_NN आज_N_NN संसद_N_NN पर_IN टिकी_V_VB हैं,_V_VB वहीं_DT पाकिस्तान_N_NNP की_IN धड़कनें_N_NN भी_RB_RBS बढ़ी_V_VB हुईं_V_VB हैं_V_VB </s>
+<s>P जम्मू-कश्मीर_N_NNP में_IN बढ़_V_VB रही_V_VB हलचल_N_NN के_IN बीच_IN पाकिस्तानी_N_NNP सेना_N_NN ने_IN अपनी_PRPS वेबसाइट_N_NN पर_IN भारत_N_NNP को_IN प्रतिबंधित_N_NN कर_V_VB दिया_V_VB है_V_VB </s>
+<s> इसका_PRP मतलब_N_NN ये_DT कि_CC अब_IN कोई_WP भी_RB_RBS भारतीय_N_NNP पाकिस्तानी_N_NNP सेना_N_NN की_IN वेबसाइट_N_NN पर_IN कुछ_JJ_JJS नहीं_RB_RBR देख_V_VB पाएगा_V_VB </s>
+<s> पाकिस्तान_N_NN और_CC भारत_N_NNP के_IN बीच_IN अब_IN एक_CD बार_N_NN फिर_N_NN तनाव_N_NN बढ़ता_V_VB हुआ_V_VB दिख_V_VB रहा_V_VB है_V_VB </s>
+<s> चलिए_V_VB आज_N_NN हम_PRP आपको_PRP बॉलीवुड_N_NN फिल्मों_N_NN के_IN वो_N_NN ११_CD डायलॉग_N_NN बताते_V_VB हैं_V_VB जिसे_WDT पढ़ते_V_VB ही_RB_RBS जोश_N_NN दोगुना_RB_RBS बढ़_V_VB जाता_V_VB है_V_VB साथ_IN ही_RB_RBS पाकिस्तान_N_NN की_IN धज्जियां_N_NN उड़ाई_V_VB गई_V_VB हैं_V_VB </s>
+<s> बीते_JJ_JJS रविवार_N_NN को_IN युवाओं_N_NN और_CC बॉलीवुड_N_NNP सितारों_N_NN ने_IN बेहद_JJ_JJS खास_JJ_JJS अंदाज_N_NN में_IN फ्रेंडशिप_N_NN डे_N_NN मनाया_N_NN </s>
+<s> वहीं_DT इस_DT दिन_N_NN कुछ_JJ_JJS सितारे_N_NN भी_RB_RBS स्पॉट_N_NN हुए_N_NN </s>
+<s>P स्टूडिडेंट_N_NNP ऑफ_N_NNP द_N_NNP ईयर_N_NNP २_CD से_IN अपना_PRPS फिल्मी_JJ_JJS सफर_N_NN शुरू_N_NN करने_V_VB वालीं_V_VB अभिनेत्री_N_NN अनन्या_N_NNP पांडे_N_NNP रविवार_N_NNP को_IN मुंबई_N_NNP के_IN बरिस्ता_N_NN के_IN बाहर_IN स्पॉट_N_NN हुईं_N_NN </s>
+<s> अभिनेत्री_N_NN अमृता_N_NNP अरोड़ा_N_NNP भी_RB_RBS स्पॉट_N_NN हुईं_V_VB हैं_V_VB </s>
+<s> उनके_PRP अलावा_N_NN मशहूर_JJ_JJS फिल्म_N_NN निर्माता_N_NN रितेश_N_NN सिधवानी_N_NN भी_RB_RBS पति_N_NN डॉली_N_NNP सिधवानी_N_NNP के_IN साथ_IN नजर_N_NN आए_V_VB </s>
+<s> यहां_N_NN मीडिया_N_NN को_IN देख_V_VB इन_DT सभी_JJ_JJS ने_IN पोज_N_NN भी_RB_RBS दिए_V_VB </s>
+<s> बॉलीवुड_N_NN की_IN खूबसूरत_JJ_JJS जोड़ी_N_NN कही_V_VB जाने_V_VB वाली_IN दिशा_N_NN पाटनी_N_NNP और_CC टाइगर_N_NN श्रॉफ_N_NN ने_IN दोस्ती_N_NN के_IN दिन_N_NN को_IN बड़े_JJ_JJS ही_RB_RBS खास_JJ_JJS अंदाज_N_NN में_IN मनाया_V_VB </s>
+<s> रविवार_N_NN को_IN ये_DT दोनों_CD एक_CD ही_RB_RBS कार_N_NN में_IN बरिस्ता_N_NN पहुंचे_N_NN </s>
+<s> इन_DT दोनों_CD के_IN देख_N_NN फैंस_N_NN ने_IN इन्हें_WDT घेर_V_VB लिया_V_VB और_CC सेल्फी_N_NN भी_RB_RBS लगी_V_VB </s>
+<s> फिल्म_N_NN स्त्री_N_NN में_IN डायन,_N_NN साहो_N_NN में_IN पुलिसवाली_N_NNP और_CC स्ट्रीट_N_NN डांसर_N_NNP में_IN इनायत_N_NN नामक_N_NN डांसर_N_NNP का_IN किरदार_N_NN निभाने_V_VB के_IN बाद_IN बहुमुखी_JJ_JJS किरदारों_N_NN की_IN मल्लिका_N_NN श्रद्धा_N_NN कपूर_N_NN अब_IN एक_CD एयर_N_NN हॉस्टेस_N_NN की_IN भूमिका_N_NN निभाने_V_VB जा_V_VB रही_V_VB हैं_V_VB </s>
+<s> श्रद्धा_N_NN की_IN एक_CD और_CC फिल्म_N_NN छिछोरे_N_NN का_IN ट्रेलर_N_NN भी_RB_RBS रविवार_N_NN को_IN जारी_N_NN हो_V_VB चुका_V_VB है,_V_VB जिसमें_WDT वह_PRP एक_CD कॉलेज_N_NN स्टूडेंट_N_NN के_IN किरदार_N_NN में_IN नजर_N_NN आ_V_VB रही_V_VB हैं_V_VB </s>
+<s>P फिल्म_N_NNP स्ट्रीट_N_NNP डांसर_N_NNP की_IN शूटिंग_N_NN पूरी_N_NN होने_V_VB के_IN बाद_IN फिल्म_N_NN के_IN हीरो_N_NN वरुण_N_NN धवन_N_NN जहां_WDT अपने_PRPS पिता_N_NN डेविड_N_NNP धवन_N_NNP की_IN फिल्म_N_NN कुली_N_NN नंबर_N_NN वन_N_NN पर_IN काम_N_NN शुरू_V_VB कर_V_VB चुके_V_VB हैं_V_VB </s>
+<s> वहीं_DT इसकी_DT हीरोइन_N_NN श्रद्धा_N_NN कपूर_N_NN ने_IN अपनी_PRPS अगली_JJ_JJS फिल्म_N_NN बागी_N_NN ३_CD की_IN तैयारियां_N_NN शुरू_N_NN कर_V_VB दी_V_VB हैं_V_VB </s>
+<s> फिल्म_N_NN बागी_N_NN ३_CD के_IN निर्माता_N_NN अभी_IN श्रद्धा_N_NN के_IN लुक_N_NN और_CC कैरक्टर_N_NN पर_IN काम_N_NN कर_V_VB रहे_V_VB हैं_V_VB ताकि_CC यह_DT सुनिश्चित_N_NN किया_V_VB जा_V_VB सके_V_VB कि_CC यह_DT श्रद्धा_N_NN के_IN निभाए_N_NN पिचले_N_NN किसी_WP भी_RB_RBS रोल्स_N_NN को_IN दोहराए_V_VB नहीं_V_VB </s>
+<s> यही_DT नहीं,_N_NN श्रद्धा_N_NN भी_RB_RBS जल्द_N_NN अपने_PRPS कैरक्टर_N_NN की_IN बारीकियों_N_NN को_IN पकड़ने_V_VB के_IN लिए_IN वर्कशॉप_N_NN अटेंड_N_NN करेंगी_N_NN </s>
+<s> फिल्म_N_NN बागी_N_NN ३_CD के_IN निर्देशक_N_NN अहमद_N_NNP खान_N_NNP और_CC लेखक_N_NN फरहाद_N_NN सामजी_N_NN की_IN पूरी_N_NN कोशिश_V_VB है_V_VB कि_CC श्रद्धा_N_NN के_IN किरदार_N_NN ज्यादा_JJ_JJS से_IN ज्यादा_JJ_JJS दिलचस्प_N_NN बनाया_V_VB जाए_V_VB </s>
+<s> इससे_WDT पहले_IN भी_RB_RBS कई_JJ_JJS अदाकाराएं_N_NN एयर_N_NN हॉस्टेस_N_NN का_IN किरदार_N_NN निभा_V_VB चुकी_V_VB हैं_V_VB </s>
+<s>P बिपाशा_N_NNP बसु,_N_NNP सेलीना_N_NNP जेटली,_N_NNP तनुश्री_N_NNP दत्ता,_N_NNP एशा_N_NNP देओल,_N_NNP माधुरी_N_NNP दीक्षित,_N_NNP मनीषा_N_NNP कोइराला_N_NNP के_IN अलावा_N_NN चर्चित_N_NN फिल्म_N_NN नीरजा_N_NNP में_IN सोनम_N_NNP कपूर_N_NNP ने_IN भी_RB_RBS इस_DT किरदार_N_NN को_IN बखूबी_N_NN निभाया_V_VB था_V_VB </s>
+<s> काफी_JJ_JJS बड़े_JJ_JJS बजट_N_NN की_IN बताई_V_VB जा_V_VB रही_V_VB टाइगर_N_NN श्रॉफ_N_NN की_IN बागी_N_NN फ्रेंचाइजी_N_NN की_IN इस_DT अगली_N_NN कड़ी_JJ_JJS की_IN शूटिंग_N_NN मुंबई_N_NNP में_IN सितंबर_N_NNP तक_IN शुरू_N_NN होने_V_VB के_IN आसार_N_NN हैं_V_VB </s>
+<s> इसके_DT बाद_IN टीम_N_NN आगरा_N_NNP जाएगी_N_NN और_CC फिर_CC वहां_N_NNP से_IN इंटरनेशनल_N_NN शेड्यूल_N_NN शुरू_V_VB होगा_V_VB जिसकी_WDT शुरुआत_N_NN जॉर्जिया_N_NNP से_IN होगी_N_NN </s>
+<s> ६२_CD साल_N_NN के_IN हो_V_VB चुके_V_VB मशहूर_JJ_JJS अभिनेता_N_NN जय_N_NNP किशन_N_NNP काकूभाई_N_NNP श्रॉफ_N_NNP यानी_CC जैकी_N_NNP श्रॉफ_N_NN इन_DT दिनों_N_NN जितनी_JJ_JJS फिल्मों_N_NN में_IN एक_CD साथ_N_NN काम_N_NN कर_V_VB रहे_V_VB हैं,_V_VB उतनी_PRP फिल्मों_N_NN में_IN उन्होंने_PRP बतौर_JJ_JJS हीरो_N_NN अपने_PRPS शीर्ष_N_NN दिनों_N_NN में_IN भी_RB_RBS काम_N_NN नहीं_RB_RBR किया_V_VB होगा_V_VB </s>
+<s> डिजिटल_JJ_JJS मीडिया_N_NN पर_IN अक्सर_N_NN उनके_PRP साथी_N_NN कलाकार_N_NN रहे_N_NN अनिल_N_NN कपूर_N_NN की_IN फिटनेस_N_NN के_IN किस्से_N_NN देखने-सुनने_V_VB को_IN मिलते_V_VB हैं,_V_VB पर_IN जैकी_N_NNP श्रॉफ_N_NNP अक्सर_N_NN लाइम_N_NN लाइट_N_NN से_IN दूर_N_NN ही_RB_RBS रहते_V_VB हैं_V_VB </s>
+<s> पिछले_IN हफ्ते_N_NN वह_PRP दिल्ली_N_NNP में_IN थे_V_VB और_CC दिल्ली_N_NNP हवाई_N_NN अड्डे_N_NN पर_IN सुरक्षा_N_NN जांच_N_NN की_IN लाइन_N_NN में_IN लगकर_V_VB जिस_WDT तरह_N_NN जैकी_N_NNP ने_IN अपने_PRPS जमीन_N_NN से_IN जुड़े_N_NN रहने_V_VB का_IN सबूत_N_NN दिया,_N_NN उसकी_PRP खूब_JJ_JJS तारीफ_N_NN हुई_V_VB </s>
+<s> अपने_PRPS चार_CD दशकों_N_NN के_IN करियर_N_NN में_IN जैकी_N_NNP श्रॉफ_N_NNP अब_IN तक_IN १३_CD भाषाओं_N_NN में_IN करीब_JJ_JJS सवा_CD दो_CD सौ_N_NN के_IN करीब_N_NN फिल्में_N_NN कर_V_VB चुके_V_VB हैं_V_VB </s>
+<s>_CD साल_N_NN २०१९_CD उनके_PRP करियर_N_NN का_IN सबसे_JJ_JJS व्यस्त_JJ_JJS साल_N_NN है_N_NN </s>
+<s> इस_DT साल_N_NN उनकी_PRP टोटल_N_NN धमाल,_N_NN रोमियो_N_NN अकबर_N_NNP वॉल्टर_N_NN और_CC भारत_N_NNP जैसी_N_NN फिल्में_N_NN रिलीज_N_NN हो_V_VB चुकी_V_VB हैं_V_VB </s>
+<s> इसके_DT अलावा_CC जैकी_N_NNP अलग_JJ_JJS अलग_JJ_JJS भाषाओं_N_NN की_IN १३_CD और_CC फिल्मों_N_NN में_IN इस_DT वक्त_N_NN काम_N_NN कर_V_VB रहे_V_VB हैं_V_VB </s>
+<s> इन_DT फिल्मों_N_NN की_IN शूटिंग_N_NN के_IN चक्कर_N_NN में_IN जैकी_N_NNP शहर_N_NN शहर_N_NN घूमते_V_VB भटकते_V_VB रहते_V_VB हैं_V_VB लेकिन_CC कभी_IN वह_PRP अपने_PRPS साथ_N_NN ताम_N_NN झाम_N_NN लेकर_V_VB नहीं_RB_RBR चलते_V_VB </s>
+<s> जैकी_N_NNP श्रॉफ_N_NNP पिछले_IN हफ्ते_N_NN नई_JJ_JJS दिल्ली_N_NNP में_IN थे_V_VB </s>
+<s> वहां_N_NN से_IN वापस_N_NN मुंबई_N_NNP आते_V_VB समय_N_NN उन्हें_PRP एयरपोर्ट_N_NN पर_IN उनके_PRP प्रशंसकों_N_NN ने_IN घेर_N_NN लिया_V_VB </s>
+<s> जब_WDT वह_PRP अपना_PRPS सामान_N_NN जमाकर_V_VB सुरक्षा_N_NN जांच_N_NN के_IN लिए_IN पहुंचे_V_VB तो_RB_RBS वहां_N_NN पहले_IN से_IN कतार_N_NN में_IN लगे_V_VB लोगों_N_NN ने_IN उनके_PRP लिए_IN आगे_IN जाने_V_VB का_IN रास्ता_N_NN भी_RB_RBS खाली_JJ_JJS कर_V_VB दिया,_V_VB पर_IN जैकी_N_NNP मुस्कुराते_V_VB रहे_V_VB और_CC बोले_N_NN जो_WDT पहले_IN से_IN लाइन_N_NN में_IN हैं,_V_VB वह_PRP उनके_PRP बाद_IN ही_RB_RBS जांच_N_NN के_IN लिए_IN आगे_IN बढ़ेंगे_V_VB </s>
+<s> जैकी_N_NNP की_IN इस_DT साधारण_JJ_JJS सी_N_NN लेकिन_CC वीआईपी_N_NNP कल्चर_N_NN से_IN बिल्कुल_JJ_JJS विपरीत_N_NN पहल_N_NN ने_IN वहां_N_NNP खड़े_V_VB सभी_JJ_JJS लोगों_N_NN का_IN दिल_N_NN जीत_N_NN लिया_N_NN </s>
+<s> मुंबई_N_NNP के_IN तीन_CD बत्ती_N_NN इलाके_N_NN में_IN पले_V_VB बढ़े_V_VB जैकी_N_NNP सेट_N_NN पर_IN भी_RB_RBS तकनीशियनों_N_NN और_CC सहायकों_N_NN से_IN हंसी_N_NN मजाक_N_NN के_IN लिए_IN जाने_V_VB जाते_V_VB रहे_V_VB हैं_V_VB </s>
+<s> उनके_PRP बेटे_N_NN टाइगर_N_NN श्रॉफ_N_NN की_IN फिल्म_N_NN वॉर_N_NN २_CD अक्टूबर_N_NN को_IN रिलीज_N_NN हो_V_VB रही_V_VB है_N_NN </s>
+<s> बॉलीवुड_N_NN फिल्म_N_NN टार्जन_N_NN द_N_NN वंडर_N_NNP कार_N_NN से_IN चर्चा_N_NN में_IN रहने_V_VB वाले_IN अभिनेता_N_NN वत्सल_N_NNP सेठ_N_NNP का_IN जन्मदिन_N_NN ५_CD अगस्त_N_NN को_IN होता_V_VB है_V_VB </s>
+<s> उनका_PRP जन्म_N_NN साल_N_NN १९८०_CD में_IN मुंबई_N_NNP में_IN हुआ_V_VB था_N_NN </s>
+<s> वत्सल_N_NNP सेठ_N_NNP की_IN पढाई-लिखाई_N_NN मुंबई_N_NNP से_IN हुई_V_VB है_V_VB </s>
+<s> बतौर_JJ_JJS मुख्य_JJ_JJS अभिनेता_N_NN उन्होंने_PRP अपने_PRPS फिल्मी_N_NN सफर_N_NN की_IN शुरुआत_N_NN साल_N_NN २००४_CD में_IN अजय_JJ_JJS देवगन_N_NN के_IN साथ_IN फिल्म_N_NN टार्जन_N_NNP द_N_NNP वंडर_N_NNP कार_N_NN से_IN की_IN थी_V_VB </s>
+<s> वत्सल_N_NNP सेठ_N_NNP की_IN इस_DT फिल्म_N_NN को_IN बड़े_JJ_JJS पर्दे_N_NN अच्छा_JJ_JJS प्रतिक्रिया_N_NN मिली_V_VB थी_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN उन्होंने_PRP अजय_N_NNP देवगन_N_NNP के_IN बेटा_N_NN का_IN किरदार_N_NN किया_V_VB था_V_VB </s>
+<s> फिल्म_N_NN टार्जन_N_NNP द_N_NNP वंडर_N_NNP कार_N_NN के_IN बाद_IN उन्होंने_PRP कई_JJ_JJS फिल्मों_N_NN में_IN काम_N_NN किया,_N_NN लेकिन_CC बड़े_JJ_JJS पर्दे_N_NN पर_IN वत्सल_N_NNP सेठ_N_NNP दर्शकों_N_NN का_IN दिल_N_NN जीतने_N_NN में_IN नाकामयाब_N_NN रहे_N_NN </s>
+<s> इसके_DT बाद_IN उन्होंने_PRP छोटे_JJ_JJS पर्दे_N_NN की_IN ओर_N_NN रुख_N_NN किया_N_NN </s>
+<s> वत्सल_N_NNP सेठ_N_NNP छोटे_JJ_JJS पर्दे_N_NN के_IN कार्यक्रम_N_NN एक_CD थी_V_VB हसीना_N_NNP में_IN नजर_N_NN आए_V_VB थे_V_VB </s>
+<s> उनका_PRP ये_DT कार्यक्रम_N_NN काफी_JJ_JJS हिट_N_NN रहा_V_VB था_V_VB </s>
+<s> इस_DT कार्यक्रम_N_NN में_IN उनके_PRP साथ_IN अभिनेत्री_N_NN संजीदा_N_NN शेख_N_NN मुख्य_JJ_JJS भूमिका_N_NN में_IN थीं_N_NN </s>
+<s> अब_IN वत्सल_N_NNP सेठ_N_NNP लंबे_JJ_JJS समय_N_NN से_IN मनोरंजन_N_NN दुनिया_N_NN से_IN दूर_N_NN हैं।आखिरी_N_NNP बार_N_NN वह_PRP टीवी_N_NN कार्यक्रम_N_NN कौन_WDT है_V_VB ?_N_NN में_IN दिखाई_V_VB दिए_V_VB थे_V_VB </s>
+<s> वत्सल_N_NNP सेठ_N_NNP की_IN निजी_JJ_JJS जिंदगी_N_NN की_IN बात_N_NN करें_V_VB तो_RB_RBS उन्होंने_PRP साल_N_NN २०१७_CD में_IN अभिनेत्री_N_NN तनुश्री_N_NNP दत्ता_N_NNP की_IN बहन_N_NN इशिता_N_NN दत्ता_N_NNP से_IN गुपचुप_N_NN तरीके_N_NN से_IN शादी_N_NN की_IN थी_V_VB </s>
+<s> लंबे_JJ_JJS समय_N_NN तक_IN एक-दूसरे_N_NN के_IN साथ_IN रिश्ता_N_NN चलाने_V_VB के_IN बाद_IN वत्सल_N_NNP सेठ_N_NNP और_CC ईशा_N_NNP दत्ता_N_NNP ने_IN शादी_N_NN करने_V_VB का_IN फैसला_N_NN किया_V_VB था_V_VB </s>
+<s>P ईशा_N_NNP दत्ता_N_NNP भी_RB_RBS कई_JJ_JJS फिल्मों_N_NN में_IN नजर_N_NN आ_V_VB चुकी_V_VB हैं_V_VB </s>
+<s> पति_N_NN की_IN तरह_N_NN उन्होंने_PRP भी_RB_RBS अपने_PRPS फिल्मी_JJ_JJS सफर_N_NN की_IN शुरुआत_N_NN दिग्गज_N_NN अभिनेता_N_NN अजय_N_NN देवगन_N_NN के_IN साथ_N_NN की_IN थी_V_VB </s>
+<s>P ईशा_N_NNP दत्ता_N_NNP साल_N_NN २०१५_CD में_IN आई_V_VB फिल्म_N_NN दृश्यम_N_NN में_IN नजर_N_NN आई_V_VB थीं_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN उन्होंने_PRP अजय_N_NNP देवगन_N_NNP की_IN बेटी_N_NN का_IN किरदार_N_NN अदा_N_NN किया_V_VB था_V_VB </s>
+<s> किसी_WP भी_RB_RBS व्यक्ति_N_NN के_IN लिए_IN समय_N_NN हमेशा_N_NN एक_CD सा_N_NN नहीं_RB_RBR रहता_V_VB </s>
+<s> चाहे_V_VB वह_PRP कोई_WP आम_JJ_JJS आदमी_N_NN हो_V_VB या_CC फिर_CC कोई_WP सेलेब्रिटी_N_NN </s>
+<s> आज_IN कोई_WP बहुत_JJ_JJS अच्छा_JJ_JJS कर_V_VB रहा_V_VB है_V_VB तो_RB_RBS कल_N_NN उसका_PRP नाम_N_NN गुमनामी_N_NN में_IN खो_N_NN भी_RB_RBS सकता_N_NN है_N_NN </s>
+<s> हालांकि_CC यह_DT जरूरी_N_NN नहीं_RB_RBR कि_CC हर_JJ_JJS किसी_WP के_IN साथ_IN ऐसा_DT ही_RB_RBS हो_V_VB </s>
+<s> कुछ_JJ_JJS लोग_N_NN तो_RB_RBS हमेशा_IN सफलताओं_N_NN के_IN शिखर_N_NN पर_IN ही_RB_RBS रहते_V_VB हैं_V_VB </s>
+<s> आपको_PRP बता_V_VB दें_V_VB कि_CC कुछ_JJ_JJS लोग_N_NN बॉलीवुड_N_NN में_IN ऐसे_DT भी_RB_RBS थे_V_VB जिन्होंने_WDT एक-दो_CD फिल्मों_N_NN में_IN तो_RB_RBS कमाल_N_NN किया_V_VB लेकिन_CC बाद_IN में_IN उनका_PRP जलवा_N_NN ज्यादा_JJ_JJS दिन_N_NN तक_IN चल_V_VB नहीं_RB_RBR पाया_V_VB </s>
+<s> हम_PRP ऐसे_DT ही_RB_RBS एक_CD कलाकार_N_NN की_IN बात_N_NN करेंगे_N_NN </s>
+<s> इस_DT अभिनेता_N_NN ने_IN अपने_PRPS समय_N_NN में_IN अपनी_PRPS कलाकारी_N_NN से_IN बहुत_JJ_JJS नाम_N_NN कमाया_V_VB लेकिन_CC समय_N_NN और_CC परिस्थितियां_N_NN ऐसी_DT बनीं_V_VB कि_CC वह_PRP कब_WDT अचानक_RB_RBS से_IN गुम_N_NN हो_V_VB गया_V_VB किसी_WP को_IN पता_N_NN ही_RB_RBS नहीं_RB_RBR चला_V_VB </s>
+<s> हम_PRP आपको_PRP जिस_WDT स्टार_N_NN के_IN बारे_N_NN में_IN बताने_V_VB जा_V_VB रहे_V_VB हैं_V_VB उनका_PRP नाम_N_NN है_V_VB बिजय_N_NNP आनंद_N_NNP </s>
+<s> बिजय_N_NN आनंद_N_NN को_IN साल_N_NN १९९८_CD की_IN सुपरहिट_N_NN फिल्म_N_NN प्यार_N_NN तो_RB_RBS होना_V_VB ही_RB_RBS था_N_NN में_IN देखा_V_VB गया_V_VB था_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN वह_PRP काजोल_N_NNP के_IN मंगेतर_N_NN के_IN रूप_N_NN में_IN नजर_N_NN आए_V_VB थे_V_VB </s>
+<s> उन्होंने_PRP काजोल_N_NNP के_IN साथ_IN अपने_PRPS रोमांस_N_NN से_IN दर्शकों_N_NN का_IN दिल_N_NN जीत_V_VB लिया_V_VB था_V_VB </s>
+<s> इस_DT फिल्म_N_NN में_IN काजोल_N_NNP और_CC अजय_JJ_JJS देवगन_N_NN के_IN अलावा_N_NN बिजय_N_NNP आनंद_N_NN का_IN भी_RB_RBS एक_CD अहम_JJ_JJS रोल_N_NN था_V_VB </s>
+<s> इस_DT फिल्म_N_NN के_IN बाद_IN बिजय_JJ_JJS आनंद_N_NN अचानक_RB_RBS से_IN फिल्मों_N_NN से_IN कहीं_IN गायब_N_NN ही_RB_RBS हो_V_VB गए_V_VB थे_N_NN </s>
+<s> हालांकि_CC इतने_JJ_JJS सालों_N_NN बाद_IN वह_PRP एक_CD बार_N_NN फिर_RB_RBS सुर्खियों_N_NN में_IN आ_V_VB गए_V_VB हैं_V_VB </s>
+<s> बिजय_N_NNP आनंद_N_NNP ने_IN सोशल_N_NNP मीडिया_N_NN पर_IN अपनी_PRPS कुछ_JJ_JJS तस्वीरें_N_NN शेयर_N_NN की_IN हैं_V_VB </s>
+<s> इन_DT तस्वीरों_N_NN से_IN उन्होंने_PRP लोगों_N_NN को_IN हैरान_N_NN कर_V_VB दिया_V_VB है_V_VB </s>
+<s> इन_DT तस्वीरों_N_NN में_IN उन्हें_PRP पहचानना_N_NN मुश्किल_N_NN है_N_NN </s>
+<s> कोई_WP भी_RB_RBS इन_PRP तस्वीरों_N_NN को_IN देखकर_V_VB यह_DT नहीं_RB_RBR कहेगा_V_VB कि_CC यह_DT वही_DT चॉकलेटी_JJ_JJS ब्वॉय_N_NN है_V_VB जिसने_WDT काजोल_N_NNP के_IN साथ_IN रोमांस_N_NN किया_V_VB था_V_VB और_CC उनसे_PRP शादी_N_NN करना_V_VB चाहते_V_VB थे_V_VB </s>
+<s> इन_DT तस्वीरों_N_NN में_IN बिजय_N_NN बिलकुल_N_NN अलग_N_NN दिख_V_VB रहे_V_VB हैं_V_VB </s>
+<s> क्लीनशेव_N_NN रहने_V_VB वाले_IN विजय_N_NN ने_IN लंबी_JJ_JJS दाढ़ी_N_NN और_CC मूंछ_N_NN रख_V_VB ली_V_VB है_V_VB </s>
+<s> १७_CD साल_N_NN बाद_IN उन्होंने_PRP अभिनय_N_NN की_IN दुनिया_N_NN में_IN वापसी_N_NN की_IN है_N_NN </s>
+<s> इस_DT बार_N_NN उन्होंने_PRP छोटे_JJ_JJS पर्दे_N_NN से_IN वापसी_N_NN की_IN है_N_NN </s>
+<s> विजय_N_NN टीवी_N_NN सीरियल_N_NNP सिया_N_NNP के_IN राम_N_NN में_IN नजर_N_NN आए_V_VB थे_V_VB </s>
+<s> इस_DT सीरियल_N_NN में_IN वह_PRP जनक_N_NN की_IN भूमिका_N_NN में_IN नजर_N_NN आए_V_VB हैं_V_VB </s>
+<s> एक्ट्रेस_N_NN जेनेलिया_N_NNP डिसूजा_N_NNP का_IN नाम_N_NN आते_V_VB ही_RB_RBS एक_CD चुलबुली_JJ_JJS लड़की_N_NN जेहन_N_NN में_IN उभरती_V_VB है_V_VB </s>
+<s> उनका_PRP जन्मदिन_N_NN ५_CD अगस्त_N_NN को_IN होता_V_VB है_V_VB </s>
+<s> जेनेलिया_N_NNP ने_IN महाराष्ट्र_N_NNP के_IN मुख्यमंत्री_N_NN रहे_N_NN विलास_N_NN राव_N_NN देशमुख_N_NN के_IN बेटे_N_NN रितेश_N_NN देशमुख_N_NN से_IN शादी_N_NN की,_N_NN दोनों_CD की_IN प्रेम_N_NN कहानी_N_NN बॉलीवुड_N_NN की_IN क्यूट_N_NNP लव_N_NNP स्टोरी_N_NNP मानी_V_VB जाती_V_VB है_N_NN </s>
+<s> जेनेलिया_N_NNP के_IN जन्मदिन_N_NN पर_IN जानते_V_VB हैं_V_VB उनकी_PRP प्रेम_N_NN कहानी_N_NN के_IN किस्से_N_NN </s>
+<s> जेनेलिया_N_NNP ने_IN २००३_CD में_IN फिल्म_N_NN तुझे_N_NN मेरी_PRP कसम_N_NN से_IN बॉलीवुड_N_NN में_IN डेब्यू_N_NN किया_V_VB था_V_VB </s>
+<s> उन्होंने_PRP फिल्म_N_NN जाने_V_VB तू_N_NN या_CC जाने_V_VB ना,_V_VB चांस_N_NN पे_IN डांस,_N_NN फोर्स,_N_NN तेरे_N_NN नाल_N_NN लव_N_NNP हो_V_VB गया_V_VB और_CC जय_N_NN हो_N_NN जैसी_N_NN कई_JJ_JJS बॉलीवुड_N_NN फिल्मों_N_NN में_IN काम_N_NN किया_V_VB है_V_VB </s>
+<s> जेनेलिया_N_NNP ने_IN साउथ_N_NNP फिल्म_N_NN इंडस्ट्री_N_NN की_IN कई_JJ_JJS फिल्में_N_NN भी_RB_RBS की_IN हैं_V_VB </s>
+<s> जेनेलिया_N_NNP की_IN लव_N_NNP स्टोरी_N_NNP की_IN शुरुआत_N_NN पहली_JJ_JJS ही_RB_RBS फिल्म_N_NN तुझे_N_NN मेरी_PRP कसम_N_NN से_IN हुई_N_NN </s>
+<s> दोनों_CD हैदराबाद_N_NNP के_IN एयरपोर्ट_N_NN पर_IN मिले_V_VB थे_V_VB </s>
+<s> रितेश_N_NN के_IN पिता_N_NN उस_PRP वक्त_N_NN महाराष्ट्र_N_NNP के_IN मुख्यमंत्री_N_NN थे_N_NN </s>
+<s> जेनेलिया_N_NNP जब_WDT पहली_JJ_JJS बार_N_NN रितेश_N_NN से_IN मिलीं_V_VB तो_RB_RBS उन्हें_PRP इग्नोर_N_NN करती_V_VB रहीं_V_VB </s>
+<s> वो_DT अपनी_PRPS मां_N_NN के_IN साथ_IN थीं_N_NN </s>
+<s> तब_IN रितेश_N_NNP ने_IN आगे_IN बढ़कर_V_VB जेनेलिया_N_NNP से_IN हाथ_N_NN मिलाया_V_VB </s>
+<s> फिल्म_N_NN के_IN सेट_N_NN पर_IN रितेश_N_NN और_CC जेनेलिया_N_NNP खूब_JJ_JJS बातें_N_NN करते_V_VB थे_V_VB </s>
+<s> यहीं_DT से_IN दोनों_CD के_IN बीच_IN दोस्ती_N_NN बढ़ने_V_VB लगी_V_VB </s>
+<s> हैदराबाद_N_NNP में_IN शूटिंग_N_NN खत्म_N_NN होने_V_VB के_IN बाद_IN जब_WDT रितेश_N_NN घर_N_NN लौट_V_VB आए_V_VB तो_RB_RBS उन्हें_PRP जेनेलिया_N_NNP की_IN कमी_JJ_JJS महसूस_N_NN होने_V_VB लगी_V_VB </s>
+<s> वो_DT उन्हें_PRP मिस_N_NN करने_V_VB लगे_V_VB लेकिन_CC उन्हें_PRP लगा_V_VB कि_CC एक_CD लड़की_N_NN को_IN इतनी_JJ_JJS जल्दी_JJ_JJS फोन_N_NN करना_V_VB ठीक_N_NN नहीं_RB_RBR होगा_V_VB </s>
+<s> जेनेलिया_N_NNP ने_IN इसके_DT बाद_IN रितेश_N_NN के_IN साथ_IN फिल्म_N_NN मस्ती_N_NN में_IN साथ_IN काम_N_NN किया_N_NN </s>
+<s> दोनों_N_NN का_IN रिश्ता_N_NN तो_RB_RBS वैसे_CC पहली_JJ_JJS फिल्म_N_NN के_IN वक्त_N_NN से_IN ही_RB_RBS शुरू_N_NN हो_V_VB गया_V_VB था_V_VB लेकिन_CC मीडिया_N_NN को_IN उन्होंने_PRP इसकी_DT खबर_N_NN नहीं_RB_RBR लगने_V_VB दी_V_VB </s>
+<s> खबर_N_NN तो_RB_RBS ये_DT भी_RB_RBS थी_V_VB कि_CC पहली_JJ_JJS फिल्म_N_NN के_IN बाद_IN ही_RB_RBS दोनों_CD सगाई_N_NN करना_V_VB चाहते_V_VB थे_V_VB लेकिन_CC रितेश_N_NN के_IN पिता_N_NN विलासराव_N_NN देशमुख_N_NN इसके_DT लिए_IN तैयार_N_NN नहीं_RB_RBR थे_V_VB </s>
+<s> जेनेलिया_N_NNP ने_IN रितेश_N_NN को_IN अच्छा_JJ_JJS दोस्त_N_NN बताते_V_VB हुए_V_VB अफेयर_N_NN की_IN खबरों_N_NN से_IN इनकार_N_NN कर_V_VB दिया_V_VB था_V_VB </s>
+<s>_CD साल_N_NN २०१२_CD में_IN जब_WDT दोनों_CD फिल्म_N_NN तेरे_N_NN नाल_N_NN लव_N_NNP हो_V_VB गया_N_NN कर_V_VB रहे_V_VB थे_V_VB तब_CC एक_CD बार_N_NN फिर_RB_RBS जेनेलिया_N_NNP और_CC रितेश_N_NN की_IN शादी_N_NN की_IN खबरें_N_NN आनी_V_VB शुरू_V_VB हुई_V_VB थीं_N_NN </s>
+<s> इसी_DT साल_N_NN ३_CD फरवरी_N_NN को_IN दोनों_CD ने_IN शादी_N_NN कर_V_VB ली_V_VB थी_V_VB </s>
+<s> दोनों_N_NN ने_IN पहले_IN महाराष्ट्रीयन_N_NNP और_CC फिर_RB_RBS क्रिश्चियन_N_NN रीति_N_NN रिवाज_N_NN से_IN शादी_N_NN की_IN थी_V_VB </s>
+<s> दोनों_CD के_IN दो_CD बेटे_N_NN रियान_N_NN और_CC राहिल_N_NNP हैं </s>
+<s> नच_N_NN बलिये_JJ_JJS सीजन_N_NN ९_N_NN की_IN प्रतिभागी_N_NN बन_V_VB उर्वशी_N_NNP ढोलकिया_N_NNP खूब_JJ_JJS सुर्खियां_N_NN बटोर_V_VB रही_V_VB हैं_V_VB </s>
+<s> शो_N_NN में_IN उर्वशी_N_NNP ने_IN अपने_PRPS एक्स_N_NN ब्वॉयफ्रेंड_N_NN अनुज_N_NN सचदेव_N_NNP के_IN साथ_IN हिस्सा_N_NN लिया_V_VB है_V_VB </s>
+<s> शो_N_NN को_IN टेलीकास्ट_N_NN हुए_V_VB अभी_IN एक_CD हफ्ता_N_NN ही_RB_RBS हुआ_V_VB है_V_VB और_CC उर्वशी_N_NNP ने_IN खुद_PRPS को_IN एक_CD लग्जरी_N_NN कार_N_NN गिफ्ट_N_NN कर_V_VB दी_V_VB है_V_VB </s>
+<s> फैमिली_N_NN के_IN साथ_IN उर्वशी_N_NNP नई_JJ_JJS कार_N_NN की_IN डिलीवरी_N_NN लेने_V_VB शोरूम_N_NN पहुंचीं_N_NN </s>
+<s>P उर्वशी_N_NNP ढोलकिया_N_NNP कहती_V_VB हैं,_V_VB मैं_N_NN बहुत_JJ_JJS खुश_N_NN हूं_V_VB कि_CC अब_IN जीप_N_NN फैमिली_N_NN का_IN हिस्सा_N_NN बन_V_VB चुकी_V_VB हूं_V_VB </s>
+<s> मैं_PRP लंबे_JJ_JJS टाइम_N_NN से_IN इसे_DT खरीदने_V_VB की_IN प्लानिंग_N_NN कर_V_VB रही_V_VB थी_V_VB और_CC ये_DT आप_PRP सभी_JJ_JJS के_IN आशीर्वाद_N_NN से_IN पूरा_JJ_JJS हो_V_VB गया_V_VB </s>
+<s> खासतौर_N_NN पर_IN मेरे_PRP परिवार_N_NN के_IN सपोर्ट_N_NN से।_N_NN उर्वशी_N_NNP के_IN शो_N_NN नच_N_NN बलिये_N_NN की_IN बात_N_NN करें_V_VB तो_RB_RBS वो_PRP तीन_CD शर्तें_N_NN रखकर_V_VB एक्स_N_NN ब्वॉयफ्रेंड_N_NN के_IN साथ_IN शो_N_NN का_IN हिस्सा_N_NN बनने_V_VB के_IN लिए_IN तैयार_N_NN हुईं_V_VB </s>
+<s>P उर्वशी_N_NNP के_IN मुताबिक,_N_NN पहली_JJ_JJS शर्त_N_NN ये_DT है_V_VB कि_CC भले_N_NN ही_RB_RBS दोनों_JJ_JJS साथ_N_NN परफॉर्म_N_NN कर_V_VB रहे_V_VB हैं_V_VB लेकिन_CC इसका_DT मतलब_N_NN ये_DT नहीं_RB_RBR कि_CC दोनों_CD अभी_N_NN भी_RB_RBS रिलेशनशिप_N_NN में_IN हैं_V_VB </s>
+<s>P उर्वशी_N_NNP की_IN दूसरी_JJ_JJS शर्त_N_NN है_V_VB कि_CC दोनों_CD एक-दूसरे_N_NN की_IN प्राइवेसी_N_NN का_IN सम्मान_N_NN करेंगे_V_VB और_CC लाइफ_N_NN में_IN दखल_N_NN नहीं_RB_RBR देंगे_V_VB </s>
+<s> तीसरी_JJ_JJS शर्त_N_NN पर_IN उन्होंने_PRP कहा_V_VB कि_CC दोनों_CD स्क्रीन_N_NN पर_IN वैसे_DT ही_RB_RBS रहेंगे_V_VB जैसे_CC वह_PRP रियल_N_NN लाइफ_N_NN में_IN हैं_V_VB </s>
+<s>P उर्वशी_N_NNP ढोलकिया_N_NNP की_IN शादी_N_NN १६_CD साल_N_NN की_IN उम्र_N_NN में_IN हो_V_VB गई_V_VB थी_V_VB </s>
+<s> वो_DT १७_CD की_IN उम्र_N_NN में_IN जुड़वा_N_NN बच्चों_N_NN की_IN मां_N_NN बन_V_VB गई_V_VB थीं_V_VB </s>
+<s> फिर_CC १८_CD की_IN उम्र_N_NN में_IN वो_PRP पति_N_NN से_IN अलग_JJ_JJS हो_V_VB गईं_V_VB </s>
+<s>P उर्वशी_N_NNP ने_IN अपने_PRPS दोनों_CD बेटों_N_NN क्षितिज_N_NN और_CC सागर_N_NN की_IN परवरिश_N_NN अकेले_N_NN ही_RB_RBS की_IN </s>
+<s>P उर्वशी_N_NNP से_IN शादी_N_NN करने_V_VB के_IN लिए_IN अनुज_N_NN का_IN परिवार_N_NN तैयार_N_NN नहीं_RB_RBR था_V_VB </s>
+<s> साथ_N_NN ही_RB_RBS उर्वशी,_JJ_JJS अनुज_N_NN से_IN ४_CD साल_N_NN बड़ी_JJ_JJS भी_RB_RBS हैं_V_VB </s>
+<s> तनुजा_N_NN की_IN बड़ी_JJ_JJS बेटी_N_NN काजोल_N_NNP (Kajol)_N_NNP ने_IN फिल्म_N_NN इंडस्ट्री_N_NN में_IN अपनी_PRPS अलग_JJ_JJS पहचान_N_NN बनाई_V_VB </s>
+<s>P काजोल_N_NNP ने_IN कुछ_N_NN कुछ_JJ_JJS होता_V_VB है,_V_VB दिल_N_NN वाले_IN दुल्हनियां_N_NN ले_V_VB जाएंगे,_V_VB कभी_JJ_JJS खुशी_N_NN कभी_IN गम_N_NN और_CC माइ_N_NN नेम_N_NN इज_N_NN खान_N_NN जैसी_N_NN कई_JJ_JJS सुपरहिट_N_NN फिल्में_N_NN दी_V_VB हैं_V_VB </s>
+<s> इन_DT सभी_JJ_JJS फिल्मों_N_NN में_IN काजोल_N_NNP ने_IN साबित_N_NN कर_V_VB दिया_V_VB एक्टिंग_N_NN के_IN मामले_N_NN में_IN उनका_PRP कोई_WP तोड़_V_VB नहीं_RB_RBR है_N_NN </s>
+<s> खास_JJ_JJS बात_N_NN है_V_VB कि_CC जहां_WDT काजोल_N_NNP का_IN नाम_N_NN आज_IN हिट_N_NN एक्ट्रेस_N_NN की_IN लिस्ट_N_NN में_IN शुमार_N_NN है_V_VB तो_RB_RBS वहीं_DT उनकी_PRP छोटी_JJ_JJS बहन_N_NN तनीषा_N_NN (Tanisha)_N_NN फ्लॉप_N_NN रहीं_N_NN </s>
+<s> तनीषा_N_NN ने_IN कई_JJ_JJS फिल्में_N_NN की_IN लेकिन_N_NN दर्शकों_N_NN का_IN दिल_N_NN जीतने_N_NN में_IN नाकामयाब_N_NN रहीं_N_NN </s>
+<s> काजोल_N_NN का_IN ५_CD अगस्त_N_NN को_IN जन्मदिन_N_NN है_N_NN </s>
+<s> जानिए_V_VB ४_CD ऐसी_DT एक्ट्रेस_N_NN के_IN बारे_N_NN में_IN जो_WDT खुद_PRPS तो_RB_RBS स्टार_N_NN हैं_V_VB लेकिन_CC उनके_PRP बहनें_N_NN सुपरफ्लॉप_N_NN </s>
+<s>P मलाइका_N_NNP ने_IN ९०_CD के_IN दशक_N_NN से_IN ही_RB_RBS बॉलीवुड_N_NN पर_IN अपना_PRPS सिक्का_N_NN जमा_V_VB रखा_V_VB है_V_VB </s>
+<s> फिल्म_N_NN दिल_N_NN से_N_NN में_IN सॉन्ग_N_NN छैया-छैया_N_NN आज_N_NN भी_RB_RBS लोगों_N_NN की_IN जुबां_N_NN पर_IN रटा_V_VB हुआ_V_VB है_N_NN </s>
+<s> फिल्म_N_NN दबंग_N_NN में_IN मुन्नी_N_NN बदनाम_N_NN हुई_N_NN ब्लॉकबस्टर_N_NN आइटम_N_NN सॉन्ग_N_NN है_N_NN </s>
+<s> वहीं_DT उनकी_PRP छोटी_JJ_JJS बहन_N_NN अमृता_N_NNP अरोड़ा_N_NNP को_IN वह_PRP मुकाम_N_NN हासिल_N_NN नहीं_RB_RBR हो_V_VB पाया_V_VB जो_WDT उनकी_PRP बड़ी_JJ_JJS बहन_N_NN ने_IN पाया_V_VB है_V_VB </s>
+<s> अमृता_N_NN फिल्मों_N_NN में_IN लंबे_JJ_JJS वक्त_N_NN से_IN नजर_N_NN नहीं_RB_RBR आईं_V_VB हालांकि_CC अक्सर_N_NN बहन_N_NN के_IN साथ_IN पार्टी_N_NN करते_V_VB हुए_V_VB स्पॉट_N_NN हो_V_VB जाती_V_VB हैं_V_VB </s>
+<s> स्लिम_N_NN फिट_N_NN फिगर_N_NN के_IN लिए_IN दुनियाभर_N_NN में_IN पहचान_N_NN रखने_V_VB वाली_IN एक्ट्रेस_N_NN शिल्पा_N_NN शेट्टी_N_NN का_IN फिल्मी_N_NN करियर_N_NN हमेशा_IN सातवें_CD आसमान_N_NN पर_IN रहा_V_VB </s>
+<s> उन्होंने_PRP शाहरुख_N_NN से_IN लेकर_V_VB सलमान_N_NNP खान_N_NNP तक_IN के_IN साथ_IN एक_CD से_IN एक_CD हिट_N_NN फिल्म_N_NN दी_V_VB हैं_V_VB </s>
+<s> यहां_N_NN तक_IN कि_CC सबसे_JJ_JJS ज्यादा_JJ_JJS हिट_N_NN फिल्म_N_NN उन्होंने_PRP अक्षय_N_NNP कुमार_N_NNP के_IN साथ_IN दी_V_VB है_V_VB </s>
+<s> वहीं_DT उनकी_PRP छोटी_JJ_JJS बहन_N_NN शमिता_N_NN शेट्टी_N_NN बॉलीवुड_N_NN में_IN बुरी_JJ_JJS तरह_N_NN फ्लॉप_N_NN साबित_N_NN हुईं_N_NN </s>
+<s> ब्लॉकबस्टर_N_NN फिल्म_N_NN बरसात_N_NN से_IN बॉलीवुड_N_NN में_IN डेब्यू_N_NN करने_V_VB वाली_IN एक्ट्रेस_N_NN ट्विंकल_N_NN खन्ना_N_NNP की_IN खूबसूरती_N_NN के_IN लोग_N_NN आज_IN भी_RB_RBS दिवाने_N_NN हैं_V_VB </s>
+<s>P ट्विंकल_N_NNP ने_IN अपने_PRPS फिल्मी_N_NN करियर_N_NN में_IN एक_CD से_IN एक_CD हिट_N_NN फिल्म_N_NN दी_V_VB है_V_VB </s>
+<s> उनकी_PRP छोटी_JJ_JJS बहन_N_NN रिंकी_N_NN खन्ना_N_NNP की_IN तो_RB_RBS लोग_N_NN उन्हें_PRP अभी_IN तक_IN पहचानते_V_VB नहीं_RB_RBR है_N_NN </s>
+<s> रिंकी_N_NN कई_JJ_JJS फिल्मों_N_NN में_IN नजर_N_NN आईं_V_VB लेकिन_CC सभी_JJ_JJS फिल्में_N_NN फ्लॉप_N_NN साबित_N_NN हुई_N_NN </s>
+<s> जिनमें_WDT गोविंदा_N_NNP के_IN साथ_IN फिल्म_N_NN जिस_N_NN देश_N_NN में_IN गंगा_N_NNP रहता_V_VB है_V_VB भी_RB_RBS शामिल_N_NN है_N_NN </s>
+<s> फिलहाल_N_NN रिंकी_N_NN लाइमलाइट_N_NN से_IN दूर_N_NN हैं_V_VB और_CC गुमनामी_N_NN की_IN जिंदगी_N_NN जी_V_VB रही_V_VB हैं_V_VB </s>
+<s> डिंपल_N_NN कपाडिया_N_NN ने_IN पहली_JJ_JJS फिल्म_N_NN बॉबी_N_NN से_IN ही_RB_RBS कमाल_N_NN कर_V_VB दिया_V_VB था_V_VB </s>
+<s> उनका_PRP करियर_N_NN बढ़िया_JJ_JJS रहा_N_NN </s>
+<s> यहां_N_NN तक_IN की_IN अब_IN भी_RB_RBS वह_PRP फिल्में_N_NN कर_V_VB रही_V_VB हैं_V_VB </s>
+<s> उनकी_PRP बहन_N_NN सिंपल_N_NN कपाड़िया_N_NNP ने_IN अनुरोध_N_NN से_IN करियर_N_NN शुरु_V_VB किया_V_VB हालांकि_CC सफलता_N_NN नहीं_RB_RBR मिली_V_VB </s>
+<s> सिंपल_N_NN कपाड़िया_N_NN का_IN देहांत_N_NN १०_CD नवंबर,_N_NN २००९_CD को_IN हो_V_VB गया_V_VB था_N_NN </s>
+<s>P सैफ_N_NNP अली_N_NNP खान_N_NNP की_IN आखिरी_JJ_JJS हिट_N_NN फिल्म_N_NN कौन_WDT सी_RB_RBS थी?_N_NN घबराइए_V_VB नहीं_RB_RBR ये_DT कोई_WP कौन_WDT बनेगा_V_VB करोड़पति_N_NNP के_IN नए_JJ_JJS सीजन_N_NN का_IN फास्टेस्ट_N_NN फिंगर्स_N_NN फर्स्ट_N_NN का_IN गेम_N_NN नहीं_RB_RBR है,_V_VB बस_N_NN आपको_PRP सैफ_N_NNP की_IN पिछले_N_NN छह_CD साल_N_NN में_IN रिलीज_N_NN हुई_V_VB फिल्मों_N_NN के_IN नाम_N_NN गिनने_V_VB हैं_V_VB और_CC इन्हें_WDT फ्लॉप_N_NN से_IN सुपरफ्लॉप_N_NN के_IN क्रम_N_NN में_IN याद_N_NN करना_V_VB है_V_VB </s>
+<s>P बाजार,_N_NNP कालाकांडी,_N_NNP शेफ,_N_NNP रंगून,_N_NNP फैंटम,_N_NNP हैपी_N_NNP एंडिंग,_N_NNP हमशकल्स_N_NNP और_CC बुलेट_N_NN राजा,_N_NN ये_DT वे_DT फिल्में_N_NN है_V_VB जो_WDT पिछले_IN छह_CD साल_N_NN में_IN सैफ_N_NN कर_V_VB चुके_V_VB हैं_V_VB और_CC सबका_JJ_JJS नतीजा_N_NN कमोबेश_N_NN एक_CD ही_RB_RBS रहा_N_NN है_N_NN </s>
+<s> लेकिन,_N_NN आमिर_N_NNP खान_N_NNP को_IN सैक्रेड_N_NN गेम्स_N_NN का_IN सरताज_N_NNP सिंह_N_NNP इन_WDT सबसे_JJ_JJS ज्यादा_JJ_JJS पसंद_N_NN आया,_N_NN तभी_IN तो_RB_RBS जब_WDT सारे_JJ_JJS बड़े_JJ_JJS हीरोज_N_NN ने_IN उनकी_PRP अगली_N_NN फिल्म_N_NN विक्रेमवेद_N_NNP में_IN काम_N_NN करने_V_VB से_IN मना_V_VB कर_V_VB दिया_V_VB तो_RB_RBS सैफ_N_NN उनका_PRP आखिरी_N_NN आसरा_N_NNP बने_N_NNP </s>
+<s> नेटफ्लिक्स_N_NN की_IN वेब_N_NN सीरीज_N_NN सेक्रेड_N_NN गेम्स_N_NN के_IN पहले_IN सीजन_N_NN में_IN नजर_N_NN आने_V_VB के_IN बाद_IN से_IN पटौदी_N_NNP के_IN नवाब_N_NN सैफ_N_NNP अली_N_NNP खान_N_NNP का_IN बड़े_JJ_JJS परदे_N_NN का_IN आकर्षण_N_NN सिमटता_V_VB जा_V_VB रहा_V_VB है_V_VB </s>
+<s> वह_PRP कुछ_JJ_JJS कुछ_JJ_JJS नवाजुद्दीन_N_NN सिद्दीकी_N_NN के_IN करियर_N_NN ग्राफ_N_NN की_IN तरफ_N_NN बढ़_V_VB चले_V_VB हैं_V_VB </s>
+<s> हेडलाइंस_N_NN में_IN हिट_N_NN लेकिन_CC हेडलाइट्स_N_NN में_IN फ्लॉप_N_NN </s>
+<s>P लाल_N_NNP सिंह_N_NNP चड्ढा_N_NNP के_IN बाद_IN आमिर_N_NNP खान_N_NNP साउथ_N_NNP की_IN सुपरहिट_N_NN फिल्म_N_NN विक्रेमवेधा_N_NNP के_IN हिंदी_N_NNP रीमेक_N_NNP विक्रमवेद_N_NNP पर_IN काम_N_NN करने_V_VB जा_V_VB रहे_V_VB हैं_V_VB </s>
+<s> ओरीजनल_N_NN फिल्म_N_NN में_IN जो_WDT रोल_N_NN विजय_N_NN सेतुपति_N_NN ने_IN किया_V_VB वही_DT रोल_N_NN रीमेक_N_NN में_IN आमिर_N_NNP खान_N_NNP करेंगे_N_NNP </s>
+<s> और,_N_NN जो_WDT रोल_N_NN ओऱीजनल_N_NNP में_IN आऱ_N_NN माधवन_N_NN ने_IN किया,_N_NN उसके_PRP लिए_IN हिंदी_N_NNP सिनेमा_N_NN के_IN तकरीबन_N_NN सारे_JJ_JJS बड़े_JJ_JJS सितारों_N_NN को_IN आमिर_N_NN की_IN तरफ_N_NN से_IN ऑफर_N_NN जा_V_VB चुका_V_VB है_V_VB </s>
+<s> ऋतिक_N_NN रोशन_N_NN ने_IN इस_DT रोल_N_NN के_IN लिए_IN ना_RB_RBR की,_V_VB फिर_CC अजय_JJ_JJS देवगन_N_NN से_IN भी_RB_RBS इस_DT रोल_N_NN की_IN चर्चा_N_NN हुई,_N_NN उन्हें_PRP भी_RB_RBS आमिर_N_NN के_IN साथ_IN जोड़ी_N_NN बनाना_V_VB नहीं_RB_RBR जमा_V_VB </s>
+<s> विक्रमवेधा_N_NNP की_IN इस_DT रीमेक_N_NN के_IN लिए_IN आमिर_N_NNP खान_N_NNP को_IN सबसे_JJ_JJS ज्यादा_JJ_JJS आशाएं_N_NN शाहरुख_N_NN खान_N_NN से_IN थीं_N_NN </s>
+<s>P ठग्स_N_NNP ऑफ_N_NNP हिंदोस्तान_N_NNP और_CC जीरो_N_NNP का_IN बॉक्स_N_NN ऑफिस_N_NN पर_IN एक_CD जैसा_JJ_JJS हश्र_N_NN होने_V_VB के_IN बाद_IN आमिर_N_NN को_IN पूरी_JJ_JJS उम्मीद_N_NN थी_V_VB कि_CC शाहरुख_N_NN उनके_PRP साथ_N_NN ये_DT फिल्म_N_NN करने_V_VB के_IN लिए_IN जरूर_N_NN हां_V_VB कर_V_VB देंगे,_V_VB पर_IN ये_DT हो_V_VB न_RB_RBR सका_N_NN </s>
+<s> और_CC अब_IN ये_DT आलम_N_NN है_V_VB कि_CC आमिर_N_NN को_IN किसी_WP भी_RB_RBS तरह_N_NN लाल_N_NNP सिंह_N_NNP चड्ढा_N_NNP की_IN शूटिंग_N_NN शुरू_N_NN करने_V_VB से_IN पहले_IN विक्रमवेधा_N_NNP के_IN रीमेक_N_NN का_IN ऐलान_N_NN करना_V_VB ही_RB_RBS है_N_NN </s>
+<s> एक_CD अंडरवर्ल्ड_N_NN डॉन_N_NN और_CC एक_CD ईमानदार_N_NN पुलिस_N_NN अफसर_N_NN के_IN संघर्ष_N_NN की_IN कहानी_N_NN में_IN दोनों_CD तरफ_N_NN के_IN किरदारों_N_NN के_IN पल_N_NN पल_N_NN बदलते_V_VB रंग_N_NN ही_RB_RBS इसका_PRP असली_JJ_JJS इंद्रधनुष_N_NN हैं_V_VB </s>
+<s> डॉन_N_NN की_IN कहानी_N_NN को_IN साउथ_N_NNP से_IN नॉर्थ_N_NNP तक_IN लाने_V_VB में_IN इसके_DT निर्माता_N_NN नीरज_N_NNP पांडे_N_NNP ने_IN बड़े_JJ_JJS जतन_N_NN किए_V_VB हैं_V_VB </s>
+<s> अपने_PRPS कुछ_JJ_JJS परिचितों_N_NN के_IN अलावा_N_NN उत्तर_N_NNP भारत_N_NNP की_IN मिट्टी_N_NN की_IN खुशबू_N_NN पहचानने_V_VB वालों_IN का_IN भी_RB_RBS साथ_N_NN फिल्म_N_NN की_IN पटकथा_N_NN लिखने_V_VB में_IN उन्होंने_PRP लिया_V_VB है_V_VB </s>
+<s> लेकिन,_N_NN फिल्म_N_NN इंडस्ट्री_N_NN के_IN ज्यादातर_JJ_JJS लोगों_N_NN को_IN आमिर_N_NN का_IN सैफ_N_NN अली_N_NNP खान_N_NNP के_IN साथ_N_NN बना_V_VB जोड़_N_NN समझ_N_NN नहीं_RB_RBR आ_V_VB रहा_V_VB है_V_VB </s>
+<s> हालांकि_CC दोनों_CD इससे_N_NN पहले_IN यश_N_NN चोपड़ा_N_NN की_IN परंपरा_N_NN और_CC फरहान_N_NN अख्तर_N_NN की_IN फिल्म_N_NN दिल_N_NN चाहता_V_VB है_V_VB में_IN भी_RB_RBS साथ_N_NN काम_N_NN कर_V_VB चुके_V_VB हैं_V_VB </s>
+<s> संडे_N_NN फनडे_N_NN (Sunday_N_NN Funday)_N_NN कॉलम_N_NN में_IN हम_PRP हफ्तेभर_N_NN की_IN मनोरंजन_N_NN जगत_N_NN की_IN पांच_CD बड़ी_JJ_JJS खबरों_N_NN की_IN बात_N_NN करेंगे_N_NN </s>
+<s> इस_DT कॉलम_N_NN में_IN हम_PRP बताएंगे_V_VB कि_CC कौन_WDT सी_RB_RBS खबरें_N_NN लाइमलाइट_N_NN में_IN रही_V_VB और_CC किन_WDT खबरों_N_NN ने_IN फैंस_N_NN को_IN ज्यादा_JJ_JJS आकर्षित_JJ_JJS किया_N_NN </s>
+<s> बॉलीवुड_N_NN में_IN ऐसा_DT माना_V_VB जाता_V_VB है_V_VB कि_CC फिल्ममेकर_N_NN करण_N_NN जौहर_N_NNP के_IN बगैर_N_NN कोई_WP भी_RB_RBS पार्टी_N_NN अधूरी_JJ_JJS है_N_NN </s>
+<s> यही_DT नहीं_RB_RBR करण_N_NN खुद_PRPS भी_RB_RBS अक्सर_N_NN हाउस_N_NN पार्टी_N_NN करते_V_VB हुए_V_VB नजर_N_NN आते_V_VB हैं_V_VB </s>
+<s> कुछ_JJ_JJS दिन_N_NN पहले_IN करण_N_NN ने_IN अपने_PRPS घर_N_NN पर_IN एक_CD पार्टी_N_NN का_IN आयोजन_N_NN किया_V_VB जिसमें_WDT दीपिका_N_NN पादुकोण,_N_NN मलाइका-अर्जुन,_N_NN रणबीर_N_NNP कपूर,_N_NNP विक्की_N_NNP कौशल,_N_NNP वरुण_N_NN धवन,_N_NN शाहिद_N_NNP कपूर,_N_NNP जोया_N_NNP अख्तर_N_NNP और_CC अयान_N_NN मुखर्जी_N_NN दिखे_V_VB </s>
+<s> वीडियो_N_NN सामने_IN आने_V_VB के_IN बाद_IN अब_IN करण_N_NN जौहर_N_NNP समेत_N_NN इन_DT सितारों_N_NN को_IN ट्रोल_N_NN किया_V_VB गया_V_VB </s>
+<s> वीडियो_N_NN में_IN सभी_JJ_JJS सितारे_N_NN जिस_WDT हालत_N_NN में_IN नजर_N_NN आ_V_VB रहे_V_VB हैं_V_VB उसके_PRP बाद_IN यूजर्स_N_NN का_IN कहना_V_VB है_V_VB कि_CC सभी_JJ_JJS नशे_N_NN में_IN धुत_V_VB हैं_V_VB </s>
+<s> यही_DT नहीं_RB_RBR कई_JJ_JJS यूजर्स_N_NN का_IN तो_RB_RBS कहना_V_VB है_V_VB कि_CC विक्की_JJ_JJS कौशल_N_NN का_IN रिएक्शन_N_NN ऐसा_DT है_V_VB जैसे_CC वो_DT ड्रग्स_N_NN लेकर_V_VB बैठे_V_VB हों_V_VB </s>
+<s> इस_DT हफ्ते_N_NN राखी_N_NN सावंत_N_NN भी_RB_RBS सुर्खियों_N_NN में_IN छाई_N_NN रहीं_N_NN </s>
+<s>P राखी_N_NNP ने_IN सोशल_N_NNP मीडिया_N_NN पर_IN कुछ_JJ_JJS तस्वीरें_N_NN शेयर_N_NN की_IN जिसमें_WDT वह_PRP मंगलसूत्र_N_NN पहने_V_VB और_CC मांग_N_NN में_IN सिंदूर_N_NN लगाए_V_VB नजर_N_NN आईं_N_NN </s>
+<s> पहले_IN ऐसी_DT खबरें_N_NN आई_V_VB की_IN राखी_N_NN की_IN यह_DT तस्वीरें_N_NN फोटोशूट_N_NN की_IN हैं_V_VB </s>
+<s> वहीं_DT अब_IN राखी_N_NNP ने_IN कुछ_JJ_JJS और_CC तस्वीरें_N_NN शेयर_N_NN की_IN हैं_V_VB </s>
+<s>P राखी_N_NNP ने_IN अब_IN तस्वीरों_N_NN को_IN लेकर_V_VB खुलासा_N_NN किया_V_VB है_V_VB </s>
+<s> राखी_N_NN से_IN जब_WDT इस_DT तस्वीर_N_NN को_IN लेकर_V_VB सवाल_N_NN पूछे_V_VB गए_V_VB तो_RB_RBS उन्होंने_PRP कहा_V_VB कि_IN हैं_V_VB मैंने_PRP सच_N_NN में_IN शादी_N_NN कर_V_VB ली_V_VB है_V_VB और_CC उस_PRP वक्त_N_NN उन्होंने_PRP इसलिए_RB_RBS झूठ_V_VB बोला_N_NNP क्योंकि_CC वह_PRP डर_N_NN गईं_V_VB थीं_V_VB </s>
+<s>P राखी_N_NNP ने_IN ये_DT बात_N_NN स्पॉटब्वॉय_N_NN को_IN दिए_N_NN इंटरव्यू_N_NN में_IN कही_N_NN </s>
+<s>P राखी_N_NNP ने_IN कहा-_N_NN वह_PRP काफी_JJ_JJS डर_N_NN गई_V_VB थी_V_VB इसलिए_CC उन्होंने_PRP झूठ_N_NN बोल_N_NN दिया_V_VB </s>
+<s> शादी_N_NN के_IN बारे_N_NN में_IN बात_N_NN करते_V_VB हुए_V_VB राखी_N_NNP बताती_V_VB हैं_V_VB कि_CC शादी_N_NN काफी_JJ_JJS गुपचुप_N_NN तरीके_N_NN से_IN की_V_VB गई_V_VB इसमें_WDT परिवार_N_NN के_IN सिर्फ_JJ_JJS ४-५_CD लोग_N_NN ही_RB_RBS शामिल_N_NN हुए_V_VB थे_V_VB </s>
+<s> इतना_JJ_JJS ही_RB_RBS नहीं_RB_RBR शेयर_N_NN की_V_VB गई_V_VB तस्वीरों_N_NN में_IN राखी_N_NN के_IN हाथ_N_NN में_IN जो_WDT चूड़ा_N_NN दिख_V_VB रहा_V_VB है_V_VB उसपर_N_NN किसी_WP का_IN नाम_N_NN लिखा_V_VB हुआ_V_VB है_N_NN </s>
+<s> एक्ट्रेस_N_NN दीया_N_NN मिर्जा_N_NNP ने_IN शादी_N_NN के_IN ५_CD साल_N_NN बाद_IN पति_N_NN साहिल_N_NNP सांगा_N_NNP से_IN अलग_JJ_JJS होने_V_VB का_IN एलान_N_NN किया_N_NN </s>
+<s> दोनों_CD ने_IN आपसी_JJ_JJS सहमति_N_NN से_IN ये_DT फैसला_N_NN लिया_V_VB </s>
+<s> दीया_N_NN ने_IN सोशल_N_NNP मीडिया_N_NN पर_IN लंबा-चौड़ा_JJ_JJS पोस्ट_N_NN लिखकर_V_VB इसकी_DT जानकारी_N_NN दी_N_NN </s>
+<s> दीया_N_NN ने_IN पोस्ट_N_NN में_IN लिखा_V_VB कि_CC ११_CD साल_N_NN साथ_N_NN में_IN बिताने_V_VB के_IN बाद_IN हमने_PRP अलग_JJ_JJS होने_V_VB का_IN फैसला_N_NN किया_V_VB है_V_VB </s>
+<s> हम_PRP अच्छे_JJ_JJS दोस्त_N_NN रहेंगे_V_VB और_CC एक_CD दूसरे_CD के_IN प्रति_N_NN प्यार_N_NN और_CC आदर_N_NN की_IN भावना_N_NN रहेगी_N_NN </s>
+<s> हमारी_PRP यात्रा_N_NN हमें_PRP अलग-अलग_JJ_JJS रास्तों_N_NN तक_IN ले_V_VB जा_V_VB सकती_V_VB है_N_NN </s>
+<s> हमने_PRP जो_WDT भी_RB_RBS समय_N_NN बिताया_V_VB हम_PRP उसके_PRP आभारी_N_NN हैं_V_VB </s>
+<s> हम_PRP अपने_PRPS परिवार_N_NN और_CC अपने_PRPS दोस्तों_N_NN को_IN उनके_PRP प्यार_N_NN और_CC हमें_PRP समझने_V_VB के_IN लिए_IN धन्यवाद_N_NN देते_V_VB हैं_V_VB </s>
+<s> मीडिया_N_NN से_IN अनुरोध_N_NN है_V_VB कि_CC हमारी_PRP प्राइवेसी_N_NN का_IN सम्मान_N_NN करें।_N_NN </s>
+गोविंदा_N_NNP पिछले_N_NN कुछ_JJ_JJS समय_N_NN से_IN लाइम_N_NN लाइट_N_NN से_IN दूर_N_NN हैं_V_VB लेकिन_CC उनका_PRP फिल्मी_N_NN करियर_N_NN शानदार_JJ_JJS रहा_N_NN है_N_NN </s>
+<s> हाल_N_NN ही_RB_RBS में_IN गोविंदा_N_NNP ने_IN अपनी_PRPS पर्सनल_N_NN और_CC प्रोफेशनल_N_NN लाइफ_N_NN के_IN बारे_N_NN में_IN खुलकर_N_NN बात_N_NN की_IN </s>
+<s> इसी_DT बीच_N_NN उन्होंने_PRP एक_CD ऐसा_DT राज_N_NN भी_RB_RBS खोला,_N_NN जिसे_WDT सुन_N_NN फैंस_N_NN हैरान_N_NN रह_V_VB गए_V_VB </s>
+<s> गोविंदा_N_NNP ने_IN बताया_V_VB कि_CC हॉलीवुड_N_NNP फिल्म_N_NN अवतार_N_NN (Avatar)_N_NN में_IN उन्हें_PRP एक_CD रोल_N_NN ऑफर_N_NN किया_V_VB गया_V_VB था_V_VB लेकिन_CC उन्होंने_PRP काम_N_NN करने_V_VB से_IN मना_V_VB कर_V_VB दिया_V_VB </s>
+<s> गोविंदा_N_NNP टीवी_N_NN शो_N_NN आप_N_NN की_IN अदालत_N_NN में_IN पहुंचे_V_VB थे_V_VB </s>
+<s> इस_DT शो_N_NN में_IN गोविंदा_N_NNP ने_IN बताया_V_VB कि_CC फिल्म_N_NN का_IN नाम_N_NN अवतार_N_NN भी_RB_RBS उन्होंने_PRP डायरेक्टर_N_NNP जेम्स_N_NNP कैमरन_N_NNP को_IN सजेस्ट_N_NN किया_V_VB था_V_VB </s>
+<s> गोविंदा_N_NNP कहते_V_VB हैं,_V_VB मैंने_V_VB ही_RB_RBS इस_DT फिल्म_N_NN का_IN टाइटल_N_NN दिया_V_VB था_V_VB </s>
+<s> ये_DT फिल्म_N_NN सुपरहिट_N_NN हो_V_VB गई_V_VB </s>
+<s> मैंने_PRP उनसे_PRP कहा_V_VB था_V_VB कि_CC फिल्म_N_NN जबरदस्त_JJ_JJS हिट_N_NN होगी_V_VB ।_V_VB </s>
+राहुल_N_NNP बोस_N_NNP ने_IN पांच_CD सितारा_N_NN होटल_N_NN में_IN २_CD केले_N_NN का_IN बिल_N_NN बताया_V_VB तो_RB_RBS यह_DT लगातार_N_NN ट्विटर_N_NN पर_IN ट्रेंड_N_NN करने_V_VB लगा_V_VB </s>
+<s> वीडियो_N_NN में_IN राहुल_N_NNP ने_IN बताया_V_VB था_V_VB कि_CC उन्हें_PRP २_CD केले_N_NN के_IN लिए_IN भारी-भरकम_N_NN कीमत_N_NN चुकानी_V_VB पड़ी_V_VB और_CC ४४२_CD रुपये_N_NN दिए_N_NN </s>
+<s> मामला_N_NN इतना_JJ_JJS बढ़ा_V_VB कि_IN बिल_N_NN देने_V_VB वाले_IN होटल_N_NN जेडब्ल्यू_N_NNP मैरियट_N_NNP (JW_N_NN Marriott)_N_NN पर_IN सरकारी_JJ_JJS विभाग_N_NN की_IN ओर_N_NN से_IN २५_CD हजार_N_NN का_IN जुर्माना_N_NN लगाया_V_VB गया_V_VB </s>
+<s> राहुल_N_NNP बोस_N_NNP के_IN वीडियो_N_NN के_IN बाद_IN यूजर्स_N_NNP ने_IN होटल_N_NN को_IN भी_RB_RBS ट्रोल_N_NN किया_N_NN </s>
+<s> यही_DT नहीं_RB_RBR अब_IN अलग-अलग_N_NN कंपनियों_N_NN ने_IN अपने_PRPS प्रचार_N_NN के_IN लिए_IN केले_N_NN का_IN उदाहरण_N_NN देना_V_VB शुरू_N_NN कर_V_VB दिया_V_VB है_V_VB </s>
+<s> गायन_N_NN के_IN साथ_IN अभिनय_N_NN से_IN भी_RB_RBS लोगों_N_NN का_IN दिल_N_NN जीत_V_VB लेने_V_VB वाले_IN किशोर_N_NN कुमार_N_NN ने_IN इंडस्ट्री_N_NN में_IN बतौर_JJ_JJS अभिनेता_N_NN प्रवेश_N_NN किया_V_VB था_V_VB </s>
+<s> किशोर_N_NN कुमार_N_NN की_IN पहली_JJ_JJS फिल्म_N_NN शिकारी_N_NN १९४६_CD में_IN रिलीज_N_NN हुई_V_VB थी_V_VB </s>
+<s> फिल्म_N_NN में_IN किशोर_JJ_JJS कुमार_N_NN के_IN बड़े_JJ_JJS भाई_N_NN अशोक_N_NNP कुमार_N_NNP मुख्य_JJ_JJS किरदार_N_NN में_IN थे_V_VB </s>
+<s> किशोर_N_NN कुमार_N_NN को_IN पहली_JJ_JJS बार_N_NN देव_N_NN आनंद_N_NN की_IN फिल्म_N_NN जिद्दी_N_NN (१९४८)_N_NN में_IN गाने_V_VB का_IN मौका_N_NN मिला_V_VB </s>
+<s> ४_CD अगस्त_N_NN को_IN खंडवा_N_NNP शहर_N_NN में_IN जन्मे_N_NN किशोर_N_NN कुमार_N_NN ने_IN एक_CD से_IN बढ़कर_N_NN एक_CD हिट_N_NN गाने_V_VB दिए_V_VB लेकिन_CC एक_CD वक्त_N_NN ऐसा_DT भी_RB_RBS था_V_VB जब_WDT उनके_PRP गानों_N_NN पर_IN पाबंदी_RB_RBS लगा_V_VB दी_V_VB गई_V_VB थी_V_VB </s>
+<s> १९७५_CD में_IN जब_WDT इंदिरा_N_NNP गांधी_N_NNP सरकार_N_NN ने_IN आपातकाल_N_NN लगा_V_VB दिया_V_VB था_V_VB तो_RB_RBS इसके_WDT शिकार_N_NN किशोर_N_NN कुमार_N_NN भी_RB_RBS हुए_V_VB थे_V_VB </s>
+<s> कहा_V_VB जाता_V_VB है_V_VB कि_CC किशोर_N_NN कुमार_N_NN अपने_PRPS नियमों_N_NN के_IN काफी_JJ_JJS पक्के_N_NN थे_V_VB और_CC अपने_PRPS उसूलों_N_NN से_IN कभी_IN समझौता_N_NN नहीं_RB_RBR करते_V_VB थे,_V_VB शायद_N_NN इसी_DT का_IN नतीजा_N_NN रहा_V_VB कि_CC उनके_PRP गानों_N_NN पर_IN पाबंदी_RB_RBS लगा_V_VB दी_V_VB गई_V_VB थी_V_VB </s>
+<s> इंदिरा_N_NNP गांधी_N_NNP सरकार_N_NN में_IN उस_PRP दौरान_N_NN सूचना_N_NN प्रसारण_N_NN मंत्री_N_NN वीसी_N_NN शुक्ला_N_NNP थे_N_NNP </s>
+<s> उन्होंने_PRP किशोर_N_NN कुमार_N_NN के_IN पास_IN संदेशा_N_NN भिजवाया_V_VB कि_CC वो_DT इंदिरा_N_NNP गांधी_N_NNP के_IN लिए_IN गीत_N_NN गाएं_N_NN जिससे_WDT ज्यादा_JJ_JJS से_IN ज्यादा_JJ_JJS लोगों_N_NN तक_IN सरकारी_N_NN की_IN आवाज_N_NN पहुंचे_V_VB लेकिन_CC किशोर_N_NN कुमार_N_NN ने_IN गाना_N_NN गाने_V_VB से_IN मना_V_VB कर_V_VB दिया_V_VB </s>
+<s> किशोर_N_NN कुमार_N_NN ने_IN संदेश_N_NN देने_V_VB वाले_IN से_IN पूछा_V_VB कि_CC उन्हें_PRP ये_DT गाना_N_NN क्यों_WDT गाना_N_NN चाहिए_V_VB तो_RB_RBS उसने_PRP कहा,_V_VB क्योंकि_CC वीसी_N_NNP शुक्ला_N_NNP ने_IN ये_DT आदेश_N_NN दिया_V_VB है_V_VB </s>
+<s> आदेश_N_NN देने_V_VB की_IN बात_N_NN सुनकर_V_VB किशोर_JJ_JJS कुमार_N_NN भड़क_V_VB गए_V_VB और_CC उन्होंने_PRP उसे_PRP डांटते_V_VB हुए_V_VB मना_V_VB कर_V_VB दिया_V_VB </s>
+<s> यह_DT बात_N_NN कांग्रेस_N_NNP को_IN इस_DT कदर_N_NN नागवार_N_NN गुजरी_V_VB कि_CC उन्होंने_PRP किशोर_N_NN कुमार_N_NN के_IN गाने_V_VB ऑल_N_NNP इंडिया_N_NNP रेडियो_N_NNP और_CC दूरदर्शन_N_NNP पर_IN बैन_RB_RBS कर_V_VB दिए_V_VB </s>
+<s> यह_DT बैन_RB_RBS ३_CD मई_N_NN १९७६_CD से_IN लेकर_V_VB आपातकाल_N_NN खत्म_N_NN होने_V_VB तक_IN जारी_N_NN रहा_N_NN </s>
+<s> किशोर_N_NN कुमार_N_NN के_IN गाने_V_VB ऑल_N_NNP इंडिया_N_NNP रेडियो_N_NNP और_CC दूरदर्शन_N_NNP पर_IN नहीं_RB_RBR चलाए_V_VB जाते_V_VB थे_N_NN </s>
+<s> अपनी_PRPS धुन_N_NN के_IN पक्के_N_NN किशोर_N_NN कुमार_N_NN ने_IN एक_CD बार_N_NN कहा_V_VB था,_V_VB कौन_V_VB जाने_V_VB वो_DT क्यों_WDT आए_V_VB लेकिन_CC कोई_WP भी_RB_RBS मुझसे_PRP वो_DT नहीं_RB_RBR करा_V_VB सकता_V_VB जो_WDT मैं_PRP नहीं_RB_RBR करना_V_VB चाहता_V_VB </s>
+<s> मैं_PRP किसी_WP दूसरे_N_NN की_IN इच्छा_N_NN या_CC हुकूम_N_NN से_IN नहीं_RB_RBR गाता।_N_NN जी_N_NN हां,_N_NN जो_WDT सरकार_N_NN से_IN भी_RB_RBS पंगा_N_NNP ले_V_VB ले_V_VB वैसा_N_NN कोई_WP अपनी_PRPS वसूलों_N_NN का_IN पक्का_JJ_JJS ही_RB_RBS कर_V_VB सकता_V_VB है_V_VB </s>
